@@ -1,0 +1,15 @@
+[submodule "vendor/Symfony/Component/Locale"]
+	path = vendor/Symfony/Component/Locale
+	url = https://github.com/symfony/Locale.git
+[submodule "vendor/Symfony/Component/Yaml"]
+	path = vendor/Symfony/Component/Yaml
+	url = https://github.com/symfony/Yaml.git
+[submodule "vendor/Symfony/Component/ClassLoader"]
+	path = vendor/Symfony/Component/ClassLoader
+	url = https://github.com/symfony/ClassLoader.git
+[submodule "vendor/Symfony/Component/Filesystem"]
+	path = vendor/Symfony/Component/Filesystem
+	url = https://github.com/symfony/Filesystem.git
+[submodule "vendor/Symfony/Component/Finder"]
+	path = vendor/Symfony/Component/Finder
+	url = https://github.com/symfony/Finder.git
