@@ -38,11 +38,9 @@ class MySql extends Dumper {
         ;
 
         foreach ($data as $id => $name) {
-            $sql .= sprintf("('%s', '%s')%s", $id, $name, PHP_EOL);
+            $sql .= sprintf("('%s', '%s'),%s", $id, $name, PHP_EOL);
         }
 
-        $sql .= ';';
-
-        return $sql;
+        return substr($sql, 0, -2) . ';';
     }
 }

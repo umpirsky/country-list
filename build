@@ -10,6 +10,11 @@
  * file that was distributed with this source code.
  */
 
+
+/**
+ * Dumps country list to all formats in all languages.
+ */
+
 require_once __DIR__ . '/autoload.php';
 
 use Symfony\Component\Locale\Locale;
