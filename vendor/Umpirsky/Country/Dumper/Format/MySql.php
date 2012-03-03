@@ -12,7 +12,6 @@
 namespace Umpirsky\Country\Dumper\Format;
 
 use Umpirsky\Country\Dumper\Dumper;
-use Symfony\Component\Yaml\Yaml as SymfonyYaml;
 
 /**
  * MySQL dumper.

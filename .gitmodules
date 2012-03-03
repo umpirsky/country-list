@@ -13,3 +13,6 @@
 [submodule "vendor/Symfony/Component/Finder"]
 	path = vendor/Symfony/Component/Finder
 	url = https://github.com/symfony/Finder.git
+[submodule "vendor/doctrine/dbal"]
+	path = vendor/doctrine/dbal
+	url = https://github.com/doctrine/dbal.git
