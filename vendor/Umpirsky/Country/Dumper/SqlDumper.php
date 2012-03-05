@@ -35,9 +35,12 @@ abstract class SqlDumper extends Dumper {
         $table->setPrimaryKey(array('id'));
         $table->addColumn('name', 'string', array('length' => 64));
 
+        $insertSql = '';
         $insert = new Insert('country');
         foreach ($data as $id => $name) {
-            $insert->values(array('id' => $id, 'name' => $name), Insert::VALUES_MERGE);
+            $insertSql .= $insert
+                ->values(array('id' => $id, 'name' => $name))
+                ->getSqlString($this->getPlatform()) . ';' . PHP_EOL;
         }
 
         return sprintf(
@@ -47,7 +50,7 @@ abstract class SqlDumper extends Dumper {
                 ->getCreateTableSQL($table, AbstractPlatform::CREATE_INDEXES)),
             PHP_EOL,
             PHP_EOL,
-            $insert->getSqlString($this->getPlatform())
+            $insertSql
         );
     }
 
