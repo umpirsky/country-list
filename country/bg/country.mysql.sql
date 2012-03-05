@@ -255,4 +255,3 @@ INSERT INTO `country` (`id`, `name`) VALUES ('ZA', 'Южна Африка');
 INSERT INTO `country` (`id`, `name`) VALUES ('GS', 'Южна Джорджия и Южни Сандвичеви Острови');
 INSERT INTO `country` (`id`, `name`) VALUES ('JM', 'Ямайка');
 INSERT INTO `country` (`id`, `name`) VALUES ('JP', 'Япония');
-;

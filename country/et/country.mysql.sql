@@ -255,4 +255,3 @@ INSERT INTO `country` (`id`, `name`) VALUES ('RU', 'Venemaa');
 INSERT INTO `country` (`id`, `name`) VALUES ('VE', 'Venezuela');
 INSERT INTO `country` (`id`, `name`) VALUES ('VN', 'Vietnam');
 INSERT INTO `country` (`id`, `name`) VALUES ('UM', 'Ühendriikide hajasaared');
-;

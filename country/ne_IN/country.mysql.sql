@@ -255,4 +255,3 @@ INSERT INTO `country` (`id`, `name`) VALUES ('HU', 'हङ्गेरी');
 INSERT INTO `country` (`id`, `name`) VALUES ('HN', 'हन्डुरास');
 INSERT INTO `country` (`id`, `name`) VALUES ('HM', 'हर्ड टापु र म्याकडोनाल्ड टापु');
 INSERT INTO `country` (`id`, `name`) VALUES ('HT', 'हैटी');
-;

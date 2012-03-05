@@ -255,4 +255,3 @@ INSERT INTO "country" ("id", "name") VALUES ('WF', 'ⵡⴰⵍⵉⵙ ⴷ ⴼⵓ�
 INSERT INTO "country" ("id", "name") VALUES ('YE', 'ⵢⴰⵎⴰⵏ');
 INSERT INTO "country" ("id", "name") VALUES ('ZM', 'ⵣⴰⵎⴱⵢⴰ');
 INSERT INTO "country" ("id", "name") VALUES ('ZW', 'ⵣⵉⵎⴱⴰⴱⵡⵉ');
-;

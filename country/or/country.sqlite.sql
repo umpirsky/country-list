@@ -255,4 +255,3 @@ INSERT INTO "country" ("id", "name") VALUES ('UM', 'ୟୁନାଇଟେଡ୍ 
 INSERT INTO "country" ("id", "name") VALUES ('EU', 'ୟୁରୋପିଆନ୍ ୟୁନିଅନ୍');
 INSERT INTO "country" ("id", "name") VALUES ('YE', 'ୟେମେନ୍');
 INSERT INTO "country" ("id", "name") VALUES ('WF', 'ୱାଲିସ୍ ଏବଂ ଫୁତୁନା');
-;

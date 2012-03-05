@@ -255,4 +255,3 @@ INSERT INTO "country" ("id", "name") VALUES ('PF', '仏領ポリネシア');
 INSERT INTO "country" ("id", "name") VALUES ('AS', '米領サモア');
 INSERT INTO "country" ("id", "name") VALUES ('UM', '米領太平洋諸島');
 INSERT INTO "country" ("id", "name") VALUES ('MP', '北マリアナ諸島');
-;

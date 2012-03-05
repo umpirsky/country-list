@@ -255,4 +255,3 @@ INSERT INTO `country` (`id`, `name`) VALUES ('PN', '핏케언섬');
 INSERT INTO `country` (`id`, `name`) VALUES ('HM', '허드섬-맥도널드제도');
 INSERT INTO `country` (`id`, `name`) VALUES ('HU', '헝가리');
 INSERT INTO `country` (`id`, `name`) VALUES ('HK', '홍콩, 중국 특별행정구');
-;

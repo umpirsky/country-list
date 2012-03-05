@@ -255,4 +255,3 @@ INSERT INTO "country" ("id", "name") VALUES ('UM', 'U.S. Minor Outlying Islands'
 INSERT INTO "country" ("id", "name") VALUES ('IO', 'Ulubali lwa Hubahari ya Hindi lwa Huingereza');
 INSERT INTO "country" ("id", "name") VALUES ('PS', 'Ulubali lwa Magharibi nu Gaza wa Hupalestina');
 INSERT INTO "country" ("id", "name") VALUES ('EH', 'Western Sahara');
-;

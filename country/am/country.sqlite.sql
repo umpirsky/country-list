@@ -255,4 +255,3 @@ INSERT INTO "country" ("id", "name") VALUES ('PE', 'ፔሩ');
 INSERT INTO "country" ("id", "name") VALUES ('PL', 'ፖላንድ');
 INSERT INTO "country" ("id", "name") VALUES ('PT', 'ፖርቱጋል');
 INSERT INTO "country" ("id", "name") VALUES ('PR', 'ፖርታ ሪኮ');
-;

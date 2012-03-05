@@ -255,4 +255,3 @@ INSERT INTO "country" ("id", "name") VALUES ('JP', 'ꏝꀪ');
 INSERT INTO "country" ("id", "name") VALUES ('GB', 'ꑱꇩ');
 INSERT INTO "country" ("id", "name") VALUES ('IT', 'ꑴꄊꆺ');
 INSERT INTO "country" ("id", "name") VALUES ('IN', 'ꑴꄗ');
-;

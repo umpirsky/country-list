@@ -255,4 +255,3 @@ INSERT INTO "country" ("id", "name") VALUES ('HK', 'ஹாங்காங் ச
 INSERT INTO "country" ("id", "name") VALUES ('HN', 'ஹாண்டுராஸ்');
 INSERT INTO "country" ("id", "name") VALUES ('HT', 'ஹெய்தி');
 INSERT INTO "country" ("id", "name") VALUES ('HM', 'ஹேர்ட் மற்றும் மெக்டொனால்டு');
-;

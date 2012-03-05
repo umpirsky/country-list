@@ -44,7 +44,7 @@ abstract class SqlDumper extends Dumper {
         }
 
         return sprintf(
-            '%s;%s%s%s;',
+            '%s;%s%s%s',
             array_pop(DriverManager::getConnection(array('driver' => $this->getDriver()))
                 ->getDatabasePlatform()
                 ->getCreateTableSQL($table, AbstractPlatform::CREATE_INDEXES)),

@@ -255,4 +255,3 @@ INSERT INTO `country` (`id`, `name`) VALUES ('AC', 'Острво Асенсио�
 INSERT INTO `country` (`id`, `name`) VALUES ('CP', 'Острво Клипертон');
 INSERT INTO `country` (`id`, `name`) VALUES ('EA', 'Сеута и Мелиља');
 INSERT INTO `country` (`id`, `name`) VALUES ('TA', 'Тристан да Куња');
-;

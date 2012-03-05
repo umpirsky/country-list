@@ -255,4 +255,3 @@ INSERT INTO "country" ("id", "name") VALUES ('US', 'যুক্তৰাষ্�
 INSERT INTO "country" ("id", "name") VALUES ('RU', 'ৰুচ');
 INSERT INTO "country" ("id", "name") VALUES ('GB', 'সংযুক্ত ৰাজ্য');
 INSERT INTO "country" ("id", "name") VALUES ('HM', 'হাৰ্ড দ্বীপ আৰু মেক্‌ডোনাল্ড দ্বীপ');
-;

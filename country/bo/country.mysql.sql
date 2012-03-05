@@ -255,4 +255,3 @@ INSERT INTO `country` (`id`, `name`) VALUES ('JP', 'རི་པིན་');
 INSERT INTO `country` (`id`, `name`) VALUES ('US', 'ཨ་མེ་རི་ཀ་');
 INSERT INTO `country` (`id`, `name`) VALUES ('IT', 'ཨི་ཀྲར་ལི་');
 INSERT INTO `country` (`id`, `name`) VALUES ('RU', 'ཨུ་རུ་སུ་');
-;

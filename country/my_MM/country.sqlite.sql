@@ -255,4 +255,3 @@ INSERT INTO "country" ("id", "name") VALUES ('UY', 'ဥရုဂွေး');
 INSERT INTO "country" ("id", "name") VALUES ('EU', 'ဥရောပသမဂ္ဂ');
 INSERT INTO "country" ("id", "name") VALUES ('AT', 'ဩစတြီးယား');
 INSERT INTO "country" ("id", "name") VALUES ('AU', 'ဩစတြေးလျှား');
-;

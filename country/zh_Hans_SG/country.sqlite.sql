@@ -255,4 +255,3 @@ INSERT INTO "country" ("id", "name") VALUES ('CF', '中非共和国');
 INSERT INTO "country" ("id", "name") VALUES ('CN', '中国');
 INSERT INTO "country" ("id", "name") VALUES ('MO', '中国澳门特别行政区');
 INSERT INTO "country" ("id", "name") VALUES ('HK', '中国香港特别行政区');
-;
