@@ -24,10 +24,12 @@ use Umpirsky\Country\Dumper\Iterator;
 $locale = new Locale();
 $filesystem = new Filesystem();
 $dumperIterator = new Iterator();
+$filesystem->mkdir($rootDir = sprintf('%s/country', __DIR__));
 foreach ($locale->getLocales() as $language) {
+    $filesystem->mkdir($dir = sprintf('%s/%s', $rootDir, $language));
     $countries = $locale->getDisplayCountries($language);
     foreach($dumperIterator as $dumper) {
-        $file = sprintf('%s/country/country.%s.%s', __DIR__, $language, $dumper->getFormat());
+        $file = sprintf('%s/country.%s', $dir, $dumper->getFormat());
         $filesystem->touch($file);
         file_put_contents($file, $dumper->dump($countries));
     }
