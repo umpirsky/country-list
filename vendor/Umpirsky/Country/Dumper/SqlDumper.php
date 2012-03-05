@@ -52,6 +52,14 @@ abstract class SqlDumper extends Dumper {
     }
 
     /**
+     * {@inheritdoc}
+     */
+    public function getFormat() {
+
+        return sprintf('%s.sql', parent::getFormat());
+    }
+
+    /**
      * Gets SQL driver.
      *
      * @return string
@@ -69,6 +77,11 @@ abstract class SqlDumper extends Dumper {
             case 'pdo_mysql':
 
                 return new Platform\Mysql();
+                break;
+
+            case 'pdo_sqlite':
+
+                return new Platform\Sqlite();
                 break;
 
             default:

@@ -14,17 +14,17 @@ namespace Umpirsky\Country\Dumper\Format;
 use Umpirsky\Country\Dumper\SqlDumper;
 
 /**
- * MySQL dumper.
+ * SQLite dumper.
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-class MySql extends SqlDumper {
+class Sqlite extends SqlDumper {
 
     /**
      * {@inheritdoc}
      */
     public function getDriver() {
 
-        return 'pdo_mysql';
+        return 'pdo_sqlite';
     }
 }
