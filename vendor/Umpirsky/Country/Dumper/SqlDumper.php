@@ -87,6 +87,11 @@ abstract class SqlDumper extends Dumper {
                 return new Platform\Sqlite();
                 break;
 
+            case 'pdo_sqlsrv':
+
+                return new Platform\SqlServer();
+                break;
+
             default:
 
                 throw new \Exception(sprintf('Unknown platform %s.', $this->getPlatform()));
