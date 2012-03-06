@@ -33,6 +33,7 @@ class Csv extends Dumper {
         rewind($outstream);
         $csv = stream_get_contents($outstream);
         fclose($outstream);
+        
         return $csv;
     }
 }
