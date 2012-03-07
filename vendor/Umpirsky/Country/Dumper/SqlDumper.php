@@ -25,33 +25,14 @@ use Zend\Db\Sql\Insert;
  */
 abstract class SqlDumper extends Dumper {
 
+    const TABLE_NAME = 'country';
+
     /**
      * {@inheritdoc}
      */
     public function dump(array $data) {
 
-        $table = new Table('country', array(), array(), array(), false, array());
-        $table->addColumn('id', 'string', array('length' => 2, 'notnull' => true));
-        $table->setPrimaryKey(array('id'));
-        $table->addColumn('name', 'string', array('length' => 64));
-
-        $insertSql = '';
-        $insert = new Insert('country');
-        foreach ($data as $id => $name) {
-            $insertSql .= $insert
-                ->values(array('id' => $id, 'name' => $name))
-                ->getSqlString($this->getPlatform()) . ';' . PHP_EOL;
-        }
-
-        return sprintf(
-            '%s;%s%s%s',
-            array_pop(DriverManager::getConnection(array('driver' => $this->getDriver()))
-                ->getDatabasePlatform()
-                ->getCreateTableSQL($table, AbstractPlatform::CREATE_INDEXES)),
-            PHP_EOL,
-            PHP_EOL,
-            $insertSql
-        );
+        return $this->dumpCreateTable() . PHP_EOL . $this->dumpInsert($data);
     }
 
     /**
@@ -97,5 +78,42 @@ abstract class SqlDumper extends Dumper {
                 throw new \Exception(sprintf('Unknown platform %s.', $this->getPlatform()));
                 break;
         }
+    }
+
+    /**
+     * Dumps create table SQL.
+     *
+     * @return string
+     */
+    protected function dumpCreateTable() {
+
+        $table = new Table(self::TABLE_NAME, array(), array(), array(), false, array());
+        $table->addColumn('id', 'string', array('length' => 2, 'notnull' => true));
+        $table->setPrimaryKey(array('id'));
+        $table->addColumn('name', 'string', array('length' => 64));
+
+        return array_pop(DriverManager::getConnection(array('driver' => $this->getDriver()))
+            ->getDatabasePlatform()
+            ->getCreateTableSQL($table, AbstractPlatform::CREATE_INDEXES)
+        ) . ';' . PHP_EOL;
+    }
+
+    /**
+     * Dumps insert SQL.
+     *
+     * @param array $data
+     * @return string
+     */
+    protected function dumpInsert(array $data) {
+
+        $insertSql = '';
+        $insert = new Insert(self::TABLE_NAME);
+        foreach ($data as $id => $name) {
+            $insertSql .= $insert
+                ->values(array('id' => $id, 'name' => $name))
+                ->getSqlString($this->getPlatform()) . ';' . PHP_EOL;
+        }
+
+        return $insertSql;
     }
 }
