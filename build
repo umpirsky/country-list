@@ -17,7 +17,8 @@
 
 require_once __DIR__ . '/autoload.php';
 
-use Symfony\Component\Locale\Locale;
+use Zend\Locale\Locale;
+use Zend\Locale\Data\Cldr;
 use Symfony\Component\Filesystem\Filesystem;
 use Umpirsky\Country\Dumper\Iterator;
 
@@ -25,9 +26,9 @@ $locale = new Locale();
 $filesystem = new Filesystem();
 $dumperIterator = new Iterator();
 $filesystem->mkdir($rootDir = sprintf('%s/country', __DIR__));
-foreach ($locale->getLocales() as $language) {
+foreach ($locale->getLocaleList() as $language => $bool) {
     $filesystem->mkdir($dir = sprintf('%s/%s', $rootDir, $language));
-    $countries = $locale->getDisplayCountries($language);
+    $countries = Cldr::getDisplayTerritory($language);
     foreach($dumperIterator as $dumper) {
         $file = sprintf('%s/country.%s', $dir, $dumper->getFormat());
         $filesystem->touch($file);
