@@ -18,7 +18,7 @@ Formats Available
 Multilingual
 ------------
 
-All formats are also available in multiple languages, please find full language list [here](https://github.com/umpirsky/country-list/tree/master/country).
+All formats are also available in multiple languages, please find full language list [here](https://github.com/umpirsky/country-list/tree/master/country/cldr).
 
 Where Does the Data Come From?
 ------------------------------
