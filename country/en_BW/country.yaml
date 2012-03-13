@@ -1,255 +1,306 @@
-AF: Afghanistan
-AX: 'Åland Islands'
-AL: Albania
-DZ: Algeria
-AS: 'American Samoa'
-AD: Andorra
-AO: Angola
-AI: Anguilla
-AQ: Antarctica
-AG: 'Antigua and Barbuda'
-AR: Argentina
-AM: Armenia
-AW: Aruba
+'001': World
+'002': Africa
+'003': 'North America'
+'005': 'South America'
+'009': Oceania
+'011': 'Western Africa'
+'013': 'Central America'
+'014': 'Eastern Africa'
+'015': 'Northern Africa'
+'017': 'Middle Africa'
+'018': 'Southern Africa'
+'019': Americas
+'021': 'Northern America'
+'029': Caribbean
+'030': 'Eastern Asia'
+'034': 'Southern Asia'
+'035': 'South-Eastern Asia'
+'039': 'Southern Europe'
+'053': 'Australia and New Zealand'
+'054': Melanesia
+'057': 'Micronesian Region'
+'061': Polynesia
+'062': 'South-Central Asia'
 AC: 'Ascension Island'
-AU: Australia
+AD: Andorra
+AE: 'United Arab Emirates'
+AF: Afghanistan
+AG: 'Antigua and Barbuda'
+AI: Anguilla
+AL: Albania
+AM: Armenia
+AN: 'Netherlands Antilles'
+AO: Angola
+AQ: Antarctica
+AR: Argentina
+AS: 'American Samoa'
 AT: Austria
+AU: Australia
+AW: Aruba
+AX: 'Åland Islands'
 AZ: Azerbaijan
-BS: Bahamas
-BH: Bahrain
-BD: Bangladesh
-BB: Barbados
-BY: Belarus
-BE: Belgium
-BZ: Belize
-BJ: Benin
-BM: Bermuda
-BT: Bhutan
-BO: Bolivia
 BA: 'Bosnia and Herzegovina'
-BW: Botswana
-BV: 'Bouvet Island'
-BR: Brazil
-IO: 'British Indian Ocean Territory'
-VG: 'British Virgin Islands'
-BN: Brunei
-BG: Bulgaria
+BB: Barbados
+BD: Bangladesh
+BE: Belgium
 BF: 'Burkina Faso'
+BG: Bulgaria
+BH: Bahrain
 BI: Burundi
-KH: Cambodia
-CM: Cameroon
+BJ: Benin
+BL: 'Saint Barthélemy'
+BM: Bermuda
+BN: Brunei
+BO: Bolivia
+BQ: 'British Antarctic Territory'
+BR: Brazil
+BS: Bahamas
+BT: Bhutan
+BV: 'Bouvet Island'
+BW: Botswana
+BY: Belarus
+BZ: Belize
 CA: Canada
-IC: 'Canary Islands'
-CV: 'Cape Verde'
-KY: 'Cayman Islands'
-CF: 'Central African Republic'
-EA: 'Ceuta and Melilla'
-TD: Chad
-CL: Chile
-CN: China
-CX: 'Christmas Island'
-CP: 'Clipperton Island'
 CC: 'Cocos [Keeling] Islands'
-CO: Colombia
-KM: Comoros
-CG: 'Congo - Brazzaville'
 CD: 'Congo - Kinshasa'
-CK: 'Cook Islands'
-CR: 'Costa Rica'
+CF: 'Central African Republic'
+CG: 'Congo - Brazzaville'
+CH: Switzerland
 CI: 'Côte d’Ivoire'
-HR: Croatia
+CK: 'Cook Islands'
+CL: Chile
+CM: Cameroon
+CN: China
+CO: Colombia
+CP: 'Clipperton Island'
+CR: 'Costa Rica'
+CS: 'Serbia and Montenegro'
+CT: 'Canton and Enderbury Islands'
 CU: Cuba
+CV: 'Cape Verde'
+CX: 'Christmas Island'
 CY: Cyprus
 CZ: 'Czech Republic'
-DK: Denmark
+DD: 'East Germany'
+DE: Germany
 DG: 'Diego Garcia'
 DJ: Djibouti
+DK: Denmark
 DM: Dominica
 DO: 'Dominican Republic'
+DZ: Algeria
+EA: 'Ceuta and Melilla'
 EC: Ecuador
-EG: Egypt
-SV: 'El Salvador'
-GQ: 'Equatorial Guinea'
-ER: Eritrea
 EE: Estonia
+EG: Egypt
+EH: 'Western Sahara'
+ER: Eritrea
+ES: Spain
 ET: Ethiopia
 EU: 'European Union'
-FK: 'Falkland Islands'
-FO: 'Faroe Islands'
-FJ: Fiji
 FI: Finland
+FJ: Fiji
+FK: 'Falkland Islands'
+FM: Micronesia
+FO: 'Faroe Islands'
+FQ: 'French Southern and Antarctic Territories'
 FR: France
-GF: 'French Guiana'
-PF: 'French Polynesia'
-TF: 'French Southern Territories'
+FX: 'Metropolitan France'
 GA: Gabon
-GM: Gambia
+GB: 'United Kingdom'
+GD: Grenada
 GE: Georgia
-DE: Germany
+GF: 'French Guiana'
+GG: Guernsey
 GH: Ghana
 GI: Gibraltar
-GR: Greece
 GL: Greenland
-GD: Grenada
-GP: Guadeloupe
-GU: Guam
-GT: Guatemala
-GG: Guernsey
+GM: Gambia
 GN: Guinea
+GP: Guadeloupe
+GQ: 'Equatorial Guinea'
+GR: Greece
+GS: 'South Georgia and the South Sandwich Islands'
+GT: Guatemala
+GU: Guam
 GW: Guinea-Bissau
 GY: Guyana
-HT: Haiti
+HK: 'Hong Kong SAR China'
 HM: 'Heard Island and McDonald Islands'
 HN: Honduras
-HK: 'Hong Kong SAR China'
+HR: Croatia
+HT: Haiti
 HU: Hungary
-IS: Iceland
-IN: India
+IC: 'Canary Islands'
 ID: Indonesia
-IR: Iran
-IQ: Iraq
 IE: Ireland
-IM: 'Isle of Man'
 IL: Israel
+IM: 'Isle of Man'
+IN: India
+IO: 'British Indian Ocean Territory'
+IQ: Iraq
+IR: Iran
+IS: Iceland
 IT: Italy
-JM: Jamaica
-JP: Japan
 JE: Jersey
+JM: Jamaica
 JO: Jordan
-KZ: Kazakhstan
+JP: Japan
+JT: 'Johnston Island'
 KE: Kenya
-KI: Kiribati
-KW: Kuwait
 KG: Kyrgyzstan
+KH: Cambodia
+KI: Kiribati
+KM: Comoros
+KN: 'Saint Kitts and Nevis'
+KP: 'North Korea'
+KR: 'South Korea'
+KW: Kuwait
+KY: 'Cayman Islands'
+KZ: Kazakhstan
 LA: Laos
-LV: Latvia
 LB: Lebanon
-LS: Lesotho
-LR: Liberia
-LY: Libya
+LC: 'Saint Lucia'
 LI: Liechtenstein
+LK: 'Sri Lanka'
+LR: Liberia
+LS: Lesotho
 LT: Lithuania
 LU: Luxembourg
-MO: 'Macau SAR China'
-MK: Macedonia
+LV: Latvia
+LY: Libya
+MA: Morocco
+MC: Monaco
+MD: Moldova
+ME: Montenegro
+MF: 'Saint Martin'
 MG: Madagascar
-MW: Malawi
-MY: Malaysia
-MV: Maldives
-ML: Mali
-MT: Malta
 MH: 'Marshall Islands'
+MI: 'Midway Islands'
+MK: Macedonia
+ML: Mali
+MM: 'Myanmar [Burma]'
+MN: Mongolia
+MO: 'Macau SAR China'
+MP: 'Northern Mariana Islands'
 MQ: Martinique
 MR: Mauritania
-MU: Mauritius
-YT: Mayotte
-MX: Mexico
-FM: Micronesia
-MD: Moldova
-MC: Monaco
-MN: Mongolia
-ME: Montenegro
 MS: Montserrat
-MA: Morocco
+MT: Malta
+MU: Mauritius
+MV: Maldives
+MW: Malawi
+MX: Mexico
+MY: Malaysia
 MZ: Mozambique
-MM: 'Myanmar [Burma]'
 NA: Namibia
-NR: Nauru
-NP: Nepal
-NL: Netherlands
-AN: 'Netherlands Antilles'
 NC: 'New Caledonia'
-NZ: 'New Zealand'
-NI: Nicaragua
 NE: Niger
-NG: Nigeria
-NU: Niue
 NF: 'Norfolk Island'
-KP: 'North Korea'
-MP: 'Northern Mariana Islands'
+NG: Nigeria
+NI: Nicaragua
+NL: Netherlands
 NO: Norway
+NP: Nepal
+NQ: 'Dronning Maud Land'
+NR: Nauru
+NT: 'Neutral Zone'
+NU: Niue
+NZ: 'New Zealand'
 OM: Oman
-QO: 'Outlying Oceania'
-PK: Pakistan
-PW: Palau
-PS: 'Palestinian Territories'
 PA: Panama
-PG: 'Papua New Guinea'
-PY: Paraguay
+PC: 'Pacific Islands Trust Territory'
 PE: Peru
+PF: 'French Polynesia'
+PG: 'Papua New Guinea'
 PH: Philippines
-PN: 'Pitcairn Islands'
+PK: Pakistan
 PL: Poland
-PT: Portugal
+PM: 'Saint Pierre and Miquelon'
+PN: 'Pitcairn Islands'
 PR: 'Puerto Rico'
+PS: 'Palestinian Territories'
+PT: Portugal
+PU: 'U.S. Miscellaneous Pacific Islands'
+PW: Palau
+PY: Paraguay
+PZ: 'Panama Canal Zone'
 QA: Qatar
+QO: 'Outlying Oceania'
 RE: Réunion
 RO: Romania
+RS: Serbia
 RU: Russia
 RW: Rwanda
-BL: 'Saint Barthélemy'
-SH: 'Saint Helena'
-KN: 'Saint Kitts and Nevis'
-LC: 'Saint Lucia'
-MF: 'Saint Martin'
-PM: 'Saint Pierre and Miquelon'
-VC: 'Saint Vincent and the Grenadines'
-WS: Samoa
-SM: 'San Marino'
-ST: 'São Tomé and Príncipe'
 SA: 'Saudi Arabia'
-SN: Senegal
-RS: Serbia
-CS: 'Serbia and Montenegro'
-SC: Seychelles
-SL: 'Sierra Leone'
-SG: Singapore
-SK: Slovakia
-SI: Slovenia
 SB: 'Solomon Islands'
-SO: Somalia
-ZA: 'South Africa'
-GS: 'South Georgia and the South Sandwich Islands'
-KR: 'South Korea'
-ES: Spain
-LK: 'Sri Lanka'
+SC: Seychelles
 SD: Sudan
-SR: Suriname
-SJ: 'Svalbard and Jan Mayen'
-SZ: Swaziland
 SE: Sweden
-CH: Switzerland
+SG: Singapore
+SH: 'Saint Helena'
+SI: Slovenia
+SJ: 'Svalbard and Jan Mayen'
+SK: Slovakia
+SL: 'Sierra Leone'
+SM: 'San Marino'
+SN: Senegal
+SO: Somalia
+SR: Suriname
+ST: 'São Tomé and Príncipe'
+SU: 'Union of Soviet Socialist Republics'
+SV: 'El Salvador'
 SY: Syria
-TW: Taiwan
-TJ: Tajikistan
-TZ: Tanzania
-TH: Thailand
-TL: Timor-Leste
-TG: Togo
-TK: Tokelau
-TO: Tonga
-TT: 'Trinidad and Tobago'
+SZ: Swaziland
 TA: 'Tristan da Cunha'
-TN: Tunisia
-TR: Turkey
-TM: Turkmenistan
 TC: 'Turks and Caicos Islands'
+TD: Chad
+TF: 'French Southern Territories'
+TG: Togo
+TH: Thailand
+TJ: Tajikistan
+TK: Tokelau
+TL: Timor-Leste
+TM: Turkmenistan
+TN: Tunisia
+TO: Tonga
+TR: Turkey
+TT: 'Trinidad and Tobago'
 TV: Tuvalu
-UM: 'U.S. Minor Outlying Islands'
-VI: 'U.S. Virgin Islands'
-UG: Uganda
+TW: Taiwan
+TZ: Tanzania
 UA: Ukraine
-AE: 'United Arab Emirates'
-GB: 'United Kingdom'
+UG: Uganda
+UM: 'U.S. Minor Outlying Islands'
 US: 'United States'
 UY: Uruguay
 UZ: Uzbekistan
-VU: Vanuatu
 VA: 'Vatican City'
+VC: 'Saint Vincent and the Grenadines'
+VD: 'North Vietnam'
 VE: Venezuela
+VG: 'British Virgin Islands'
+VI: 'U.S. Virgin Islands'
 VN: Vietnam
+VU: Vanuatu
 WF: 'Wallis and Futuna'
-EH: 'Western Sahara'
+WK: 'Wake Island'
+WS: Samoa
+YD: 'People''s Democratic Republic of Yemen'
 YE: Yemen
+YT: Mayotte
+ZA: 'South Africa'
 ZM: Zambia
 ZW: Zimbabwe
+ZZ: 'Unknown Region'
+142: Asia
+143: 'Central Asia'
+145: 'Western Asia'
+150: Europe
+151: 'Eastern Europe'
+154: 'Northern Europe'
+155: 'Western Europe'
+172: 'Commonwealth of Independent States'
+200: Czechoslovakia
+419: 'Latin America'
+830: 'Channel Islands'

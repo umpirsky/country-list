@@ -1,256 +1,291 @@
 id,name
-AF,Afghanistan
-EG,Ägypten
-AX,Alandinseln
-AL,Albanien
-DZ,Algerien
-UM,Amerikanisch-Ozeanien
-AS,Amerikanisch-Samoa
-VI,"Amerikanische Jungferninseln"
-AD,Andorra
-AO,Angola
-AI,Anguilla
-AQ,Antarktis
-AG,"Antigua und Barbuda"
-GQ,Äquatorialguinea
-AR,Argentinien
-AM,Armenien
-AW,Aruba
+001,Welt
+002,Afrika
+003,Nordamerika
+005,Südamerika
+009,Ozeanien
+011,Westafrika
+013,Mittelamerika
+014,Ostafrika
+015,Nordafrika
+017,Zentralafrika
+018,"Südliches Afrika"
+019,Amerika
+021,"Nördliches Amerika"
+029,Karibik
+030,Ostasien
+034,Südasien
+035,Südostasien
+039,Südeuropa
+053,"Australien und Neuseeland"
+054,Melanesien
+057,"Mikronesisches Inselgebiet"
+061,Polynesien
+062,Süd-Zentralasien
 AC,Ascension
-AZ,Aserbaidschan
-ET,Äthiopien
-QO,"Äusseres Ozeanien"
+AD,Andorra
+AE,"Vereinigte Arabische Emirate"
+AF,Afghanistan
+AG,"Antigua und Barbuda"
+AI,Anguilla
+AL,Albanien
+AM,Armenien
+AN,"Niederländische Antillen"
+AO,Angola
+AQ,Antarktis
+AR,Argentinien
+AS,Amerikanisch-Samoa
+AT,Österreich
 AU,Australien
-BS,Bahamas
-BH,Bahrain
-BD,Bangladesh
-BB,Barbados
-BE,Belgien
-BZ,Belize
-BJ,Benin
-BM,Bermuda
-BT,Bhutan
-BO,Bolivien
+AW,Aruba
+AX,Alandinseln
+AZ,Aserbaidschan
 BA,"Bosnien und Herzegowina"
-BW,Botswana
-BV,Bouvetinsel
-BR,Brasilien
-VG,"Britische Jungferninseln"
-IO,"Britisches Territorium im Indischen Ozean"
-BN,Brunei
-BG,Bulgarien
+BB,Barbados
+BD,Bangladesh
+BE,Belgien
 BF,"Burkina Faso"
+BG,Bulgarien
+BH,Bahrain
 BI,Burundi
-EA,"Ceuta und Melilla"
-CL,Chile
-CN,China
-CP,Clipperton-Insel
-CK,Cookinseln
-CR,"Costa Rica"
+BJ,Benin
+BL,"St. Barthélemy"
+BM,Bermuda
+BN,Brunei
+BO,Bolivien
+BR,Brasilien
+BS,Bahamas
+BT,Bhutan
+BV,Bouvetinsel
+BW,Botswana
+BY,Weissrussland
+BZ,Belize
+CA,Kanada
+CC,Kokosinseln
+CD,Kongo-Kinshasa
+CF,"Zentralafrikanische Republik"
+CG,Kongo-Brazzaville
+CH,Schweiz
 CI,"Côte d’Ivoire"
-DK,Dänemark
-KP,"Demokratische Volksrepublik Korea"
+CK,Cookinseln
+CL,Chile
+CM,Kamerun
+CN,China
+CO,Kolumbien
+CP,Clipperton-Insel
+CR,"Costa Rica"
+CS,"Serbien und Montenegro"
+CU,Kuba
+CV,Kapverden
+CX,Weihnachtsinsel
+CY,Zypern
+CZ,"Tschechische Republik"
 DE,Deutschland
 DG,"Diego Garcia"
 DJ,Djibouti
+DK,Dänemark
 DM,Dominica
 DO,"Dominikanische Republik"
+DZ,Algerien
+EA,"Ceuta und Melilla"
 EC,Ecuador
-SV,"El Salvador"
-ER,Eritrea
 EE,Estland
+EG,Ägypten
+EH,Westsahara
+ER,Eritrea
+ES,Spanien
+ET,Äthiopien
 EU,"Europäische Union"
-FK,Falklandinseln
-FO,Färöer
-FJ,Fidschi
 FI,Finnland
+FJ,Fidschi
+FK,Falklandinseln
+FM,Mikronesien
+FO,Färöer
 FR,Frankreich
-GF,Französisch-Guayana
-PF,Französisch-Polynesien
-TF,"Französische Süd- und Antarktisgebiete"
+FX,Metropolitan-Frankreich
 GA,Gabun
-GM,Gambia
+GB,Grossbritannien
+GD,Grenada
 GE,Georgien
+GF,Französisch-Guayana
+GG,Guernsey
 GH,Ghana
 GI,Gibraltar
-GD,Grenada
-GR,Griechenland
 GL,Grönland
-GB,Grossbritannien
-GP,Guadeloupe
-GU,Guam
-GT,Guatemala
-GG,Guernsey
+GM,Gambia
 GN,Guinea
+GP,Guadeloupe
+GQ,Äquatorialguinea
+GR,Griechenland
+GS,"Südgeorgien und die Südlichen Sandwichinseln"
+GT,Guatemala
+GU,Guam
 GW,Guinea-Bissau
 GY,Guyana
-HT,Haiti
+HK,"Sonderverwaltungszone Hongkong"
 HM,"Heard- und McDonald-Inseln"
 HN,Honduras
-IN,Indien
+HR,Kroatien
+HT,Haiti
+HU,Ungarn
+IC,"Kanarische Inseln"
 ID,Indonesien
+IE,Irland
+IL,Israel
+IM,"Isle of Man"
+IN,Indien
+IO,"Britisches Territorium im Indischen Ozean"
 IQ,Irak
 IR,Iran
-IE,Irland
 IS,Island
-IM,"Isle of Man"
-IL,Israel
 IT,Italien
-JM,Jamaika
-JP,Japan
-YE,Jemen
 JE,Jersey
+JM,Jamaika
 JO,Jordanien
-KY,Kaimaninseln
-KH,Kambodscha
-CM,Kamerun
-CA,Kanada
-IC,"Kanarische Inseln"
-CV,Kapverden
-KZ,Kasachstan
-QA,Katar
+JP,Japan
 KE,Kenia
 KG,Kirgisistan
+KH,Kambodscha
 KI,Kiribati
-CC,Kokosinseln
-CO,Kolumbien
 KM,Komoren
-CG,Kongo-Brazzaville
-CD,Kongo-Kinshasa
-HR,Kroatien
-CU,Kuba
+KN,"St. Kitts und Nevis"
+KP,"Demokratische Volksrepublik Korea"
+KR,"Republik Korea"
 KW,Kuwait
+KY,Kaimaninseln
+KZ,Kasachstan
 LA,Laos
-LS,Lesotho
-LV,Lettland
 LB,Libanon
-LR,Liberia
-LY,Libyen
+LC,"St. Lucia"
 LI,Liechtenstein
+LK,"Sri Lanka"
+LR,Liberia
+LS,Lesotho
 LT,Litauen
 LU,Luxemburg
-MG,Madagaskar
-MW,Malawi
-MY,Malaysia
-MV,Malediven
-ML,Mali
-MT,Malta
+LV,Lettland
+LY,Libyen
 MA,Marokko
+MC,Monaco
+MD,"Republik Moldau"
+ME,Montenegro
+MF,"St. Martin"
+MG,Madagaskar
 MH,Marshall-Inseln
+MK,Mazedonien
+ML,Mali
+MM,Myanmar
+MN,Mongolei
+MO,"Sonderverwaltungszone Macao"
+MP,"Nördliche Marianen"
 MQ,Martinique
 MR,Mauretanien
-MU,Mauritius
-YT,Mayotte
-MK,Mazedonien
-MX,Mexiko
-FM,Mikronesien
-MC,Monaco
-MN,Mongolei
-ME,Montenegro
 MS,Montserrat
+MT,Malta
+MU,Mauritius
+MV,Malediven
+MW,Malawi
+MX,Mexiko
+MY,Malaysia
 MZ,Mosambik
-MM,Myanmar
 NA,Namibia
-NR,Nauru
-NP,Nepal
 NC,Neukaledonien
-NZ,Neuseeland
+NE,Niger
+NF,Norfolkinsel
+NG,Nigeria
 NI,Nicaragua
 NL,Niederlande
-AN,"Niederländische Antillen"
-NE,Niger
-NG,Nigeria
-NU,Niue
-MP,"Nördliche Marianen"
-NF,Norfolkinsel
 NO,Norwegen
+NP,Nepal
+NR,Nauru
+NU,Niue
+NZ,Neuseeland
 OM,Oman
-AT,Österreich
-TL,Osttimor
-PK,Pakistan
-PS,"Palästinensische Autonomiegebiete"
-PW,Palau
 PA,Panama
-PG,Papua-Neuguinea
-PY,Paraguay
 PE,Peru
+PF,Französisch-Polynesien
+PG,Papua-Neuguinea
 PH,Philippinen
-PN,Pitcairn
+PK,Pakistan
 PL,Polen
-PT,Portugal
+PM,"St. Pierre und Miquelon"
+PN,Pitcairn
 PR,"Puerto Rico"
-KR,"Republik Korea"
-MD,"Republik Moldau"
+PS,"Palästinensische Autonomiegebiete"
+PT,Portugal
+PW,Palau
+PY,Paraguay
+QA,Katar
+QO,"Äusseres Ozeanien"
 RE,Réunion
 RO,Rumänien
+RS,Serbien
 RU,"Russische Föderation"
 RW,Rwanda
-SB,Salomon-Inseln
-ZM,Sambia
-WS,Samoa
-SM,"San Marino"
-ST,"Sao Tomé und Principe"
 SA,Saudi-Arabien
-SE,Schweden
-CH,Schweiz
-SN,Senegal
-RS,Serbien
-CS,"Serbien und Montenegro"
+SB,Salomon-Inseln
 SC,Seychellen
-SL,"Sierra Leone"
-SG,Singapur
-SK,Slowakei
-SI,Slowenien
-SO,Somalia
-HK,"Sonderverwaltungszone Hongkong"
-MO,"Sonderverwaltungszone Macao"
-ES,Spanien
-LK,"Sri Lanka"
-BL,"St. Barthélemy"
-SH,"St. Helena"
-KN,"St. Kitts und Nevis"
-LC,"St. Lucia"
-MF,"St. Martin"
-PM,"St. Pierre und Miquelon"
-VC,"St. Vincent und die Grenadinen"
-ZA,Südafrika
 SD,Sudan
-GS,"Südgeorgien und die Südlichen Sandwichinseln"
-SR,Suriname
+SE,Schweden
+SG,Singapur
+SH,"St. Helena"
+SI,Slowenien
 SJ,"Svalbard und Jan Mayen"
-SZ,Swasiland
+SK,Slowakei
+SL,"Sierra Leone"
+SM,"San Marino"
+SN,Senegal
+SO,Somalia
+SR,Suriname
+ST,"Sao Tomé und Principe"
+SV,"El Salvador"
 SY,Syrien
+SZ,Swasiland
+TA,"Tristan da Cunha"
+TC,"Turks- und Caicosinseln"
+TD,Tschad
+TF,"Französische Süd- und Antarktisgebiete"
+TG,Togo
+TH,Thailand
 TJ,Tadschikistan
+TK,Tokelau
+TL,Osttimor
+TM,Turkmenistan
+TN,Tunesien
+TO,Tonga
+TR,Türkei
+TT,"Trinidad und Tobago"
+TV,Tuvalu
 TW,Taiwan
 TZ,Tansania
-TH,Thailand
-TG,Togo
-TK,Tokelau
-TO,Tonga
-TT,"Trinidad und Tobago"
-TA,"Tristan da Cunha"
-TD,Tschad
-CZ,"Tschechische Republik"
-TN,Tunesien
-TR,Türkei
-TM,Turkmenistan
-TC,"Turks- und Caicosinseln"
-TV,Tuvalu
-UG,Uganda
 UA,Ukraine
-HU,Ungarn
+UG,Uganda
+UM,Amerikanisch-Ozeanien
+US,"Vereinigte Staaten"
 UY,Uruguay
 UZ,Usbekistan
-VU,Vanuatu
 VA,Vatikanstadt
+VC,"St. Vincent und die Grenadinen"
 VE,Venezuela
-AE,"Vereinigte Arabische Emirate"
-US,"Vereinigte Staaten"
+VG,"Britische Jungferninseln"
+VI,"Amerikanische Jungferninseln"
 VN,Vietnam
+VU,Vanuatu
 WF,"Wallis und Futuna"
-CX,Weihnachtsinsel
-BY,Weissrussland
-EH,Westsahara
-CF,"Zentralafrikanische Republik"
+WS,Samoa
+YE,Jemen
+YT,Mayotte
+ZA,Südafrika
+ZM,Sambia
 ZW,Zimbabwe
-CY,Zypern
+ZZ,"Unbekannte oder ungültige Region"
+142,Asien
+143,Zentralasien
+145,Westasien
+150,Europa
+151,Osteuropa
+154,Nordeuropa
+155,Westeuropa
+172,"Gemeinschaft Unabhängiger Staaten"
+419,"Lateinamerika und Karibik"
+830,Kanalinseln

@@ -1,255 +1,267 @@
-AF: Afghanistan
-AX: 'Åland Islands'
-AL: Albania
-DZ: Algeria
-AS: 'American Samoa'
-AD: Andorra
-AO: Angola
-AI: Anguilla
-AQ: Antarctica
-AG: 'Antigua and Barbuda'
-AR: Argentina
-AM: Armenia
-AW: Aruba
-AC: 'Ascension Island'
-AU: Australia
-AT: Austria
-AZ: Azerbaijan
-BS: Bahamas
-BH: Bahrain
-BD: Bangladesh
-BB: Barbados
-BY: Belarus
-BE: Belgium
-BZ: Belize
-BJ: Benin
-BM: Bermuda
-BT: Bhutan
-BO: Bolivia
-BA: 'Bosnia and Herzegovina'
-BW: Botswana
-BV: 'Bouvet Island'
-BR: Brazil
-IO: 'British Indian Ocean Territory'
-VG: 'British Virgin Islands'
-BN: Brunei
-BG: Bulgaria
-BF: 'Burkina Faso'
-BI: Burundi
-KH: Cambodia
-CM: Cameroon
-CA: Canada
-IC: 'Canary Islands'
-CV: 'Cape Verde'
-KY: 'Cayman Islands'
-CF: 'Central African Republic'
-EA: 'Ceuta and Melilla'
-TD: Chad
-CL: Chile
-CN: China
-CX: 'Christmas Island'
-CP: 'Clipperton Island'
-CC: 'Cocos [Keeling] Islands'
-CO: Colombia
-KM: Comoros
-CG: 'Congo - Brazzaville'
-CD: 'Congo - Kinshasa'
-CK: 'Cook Islands'
-CR: 'Costa Rica'
-CI: 'Côte d’Ivoire'
-HR: Croatia
-CU: Cuba
-CY: Cyprus
-CZ: 'Czech Republic'
-DK: Denmark
-DG: 'Diego Garcia'
-DJ: Djibouti
-DM: Dominica
-DO: 'Dominican Republic'
-EC: Ecuador
-EG: Egypt
-SV: 'El Salvador'
-GQ: 'Equatorial Guinea'
-ER: Eritrea
-EE: Estonia
-ET: Ethiopia
-EU: 'European Union'
-FK: 'Falkland Islands'
-FO: 'Faroe Islands'
-FJ: Fiji
-FI: Finland
-FR: France
-GF: 'French Guiana'
-PF: 'French Polynesia'
-TF: 'French Southern Territories'
-GA: Gabon
-GM: Gambia
-GE: Georgia
-DE: Germany
-GH: Ghana
-GI: Gibraltar
-GR: Greece
-GL: Greenland
-GD: Grenada
-GP: Guadeloupe
-GU: Guam
-GT: Guatemala
-GG: Guernsey
-GN: Guinea
-GW: Guinea-Bissau
-GY: Guyana
-HT: Haiti
-HM: 'Heard Island and McDonald Islands'
-HN: Honduras
-HK: 'Hong Kong SAR China'
-HU: Hungary
-IS: Iceland
-IN: India
-ID: Indonesia
-IR: Iran
-IQ: Iraq
-IE: Ireland
-IM: 'Isle of Man'
-IL: Israel
-IT: Italy
-JM: Jamaica
-JP: Japan
-JE: Jersey
-JO: Jordan
-KZ: Kazakhstan
-KE: Kenya
-KI: Kiribati
-KW: Kuwait
-KG: Kyrgyzstan
-LA: Laos
-LV: Latvia
-LB: Lebanon
-LS: Lesotho
-LR: Liberia
-LY: Libya
-LI: Liechtenstein
-LT: Lithuania
-LU: Luxembourg
-MO: 'Macau SAR China'
-MK: Macedonia
-MG: Madagascar
-MW: Malawi
-MY: Malaysia
-MV: Maldives
-ML: Mali
-MT: Malta
-MH: 'Marshall Islands'
-MQ: Martinique
-MR: Mauritania
-MU: Mauritius
-YT: Mayotte
-MX: Mexico
-FM: Micronesia
-MD: Moldova
-MC: Monaco
-MN: Mongolia
-ME: Montenegro
-MS: Montserrat
-MA: Morocco
-MZ: Mozambique
-MM: 'Myanmar [Burma]'
-NA: Namibia
-NR: Nauru
-NP: Nepal
-NL: Netherlands
-AN: 'Netherlands Antilles'
-NC: 'New Caledonia'
-NZ: 'New Zealand'
-NI: Nicaragua
-NE: Niger
-NG: Nigeria
-NU: Niue
-NF: 'Norfolk Island'
-KP: 'North Korea'
-MP: 'Northern Mariana Islands'
-NO: Norway
-OM: Oman
-QO: 'Outlying Oceania'
-PK: Pakistan
-PW: Palau
-PS: 'Palestinian Territories'
-PA: Panama
-PG: 'Papua New Guinea'
-PY: Paraguay
-PE: Peru
-PH: Philippines
-PN: 'Pitcairn Islands'
-PL: Poland
-PT: Portugal
-PR: 'Puerto Rico'
-QA: Qatar
-RE: Réunion
-RO: Romania
-RU: Russia
-RW: Rwanda
-BL: 'Saint Barthélemy'
-SH: 'Saint Helena'
-KN: 'Saint Kitts and Nevis'
-LC: 'Saint Lucia'
-MF: 'Saint Martin'
-PM: 'Saint Pierre and Miquelon'
-VC: 'Saint Vincent and the Grenadines'
-WS: Samoa
-SM: 'San Marino'
-ST: 'São Tomé and Príncipe'
-SA: 'Saudi Arabia'
-SN: Senegal
-RS: Serbia
-CS: 'Serbia and Montenegro'
-SC: Seychelles
-SL: 'Sierra Leone'
-SG: Singapore
-SK: Slovakia
-SI: Slovenia
-SB: 'Solomon Islands'
-SO: Somalia
-ZA: 'South Africa'
-GS: 'South Georgia and the South Sandwich Islands'
-KR: 'South Korea'
-ES: Spain
-LK: 'Sri Lanka'
-SD: Sudan
-SR: Suriname
-SJ: 'Svalbard and Jan Mayen'
-SZ: Swaziland
-SE: Sweden
-CH: Switzerland
-SY: Syria
-TW: Taiwan
-TJ: Tajikistan
-TZ: Tanzania
-TH: Thailand
-TL: Timor-Leste
-TG: Togo
-TK: Tokelau
-TO: Tonga
-TT: 'Trinidad and Tobago'
-TA: 'Tristan da Cunha'
-TN: Tunisia
-TR: Turkey
-TM: Turkmenistan
-TC: 'Turks and Caicos Islands'
-TV: Tuvalu
-UM: 'U.S. Minor Outlying Islands'
-VI: 'U.S. Virgin Islands'
-UG: Uganda
-UA: Ukraine
-AE: 'United Arab Emirates'
-GB: 'United Kingdom'
-US: 'United States'
-UY: Uruguay
-UZ: Uzbekistan
-VU: Vanuatu
-VA: 'Vatican City'
-VE: Venezuela
-VN: Vietnam
-WF: 'Wallis and Futuna'
-EH: 'Western Sahara'
-YE: Yemen
-ZM: Zambia
-ZW: Zimbabwe
+'001': ዓለም
+'002': አፍሪካ
+'005': 'ደቡባዊ አሜሪካ'
+'009': ኦሽኒያ
+'011': 'ምዕራባዊ አፍሪካ'
+'013': 'መካከለኛ አሜሪካ [013]'
+'014': 'ምስራቃዊ አፍሪካ'
+'015': 'ሰሜናዊ አፍሪካ'
+'017': 'መካከለኛ አፍሪካ'
+'018': 'ደቡባዊ አፍሪካ'
+'019': አሜሪካዎች
+'021': 'ሰሜናዊ አሜሪካ'
+'029': ካሪቢያን
+'030': 'ደቡብ-ምሥራቃዊ እስያ [030]'
+'034': 'ምሥራቃዊ እስያ'
+'035': 'ደቡብ-ምሥራቃዊ እስያ [035]'
+'039': 'ደቡባዊ አውሮፓ'
+'053': 'አውስትራሊያ እና ኒው ዚላንድ'
+'054': ሜላኔሲያ
+'057': 'ሚክሮኔዢያ [057]'
+'061': ፖሊኔዢያ
+AD: አንዶራ
+AE: 'የተባበሩት አረብ ኤምሬትስ'
+AF: አፍጋኒስታን
+AG: 'አንቲጓ እና ባሩዳ'
+AI: አንጉኢላ
+AL: አልባኒያ
+AM: አርሜኒያ
+AN: 'ኔዘርላንድስ አንቲልስ'
+AO: አንጐላ
+AQ: አንታርክቲካ
+AR: አርጀንቲና
+AS: 'የአሜሪካ ሳሞአ'
+AT: ኦስትሪያ
+AU: አውስትሬሊያ
+AW: አሩባ
+AX: 'የአላንድ ደሴቶች'
+AZ: አዘርባጃን
+BA: 'ቦስኒያ እና ሄርዞጎቪኒያ'
+BB: ባርቤዶስ
+BD: ባንግላዲሽ
+BE: ቤልጄም
+BF: 'ቡርኪና ፋሶ'
+BG: ቡልጌሪያ
+BH: ባህሬን
+BI: ብሩንዲ
+BJ: ቤኒን
+BM: ቤርሙዳ
+BN: ብሩኒ
+BO: ቦሊቪያ
+BR: ብራዚል
+BS: ባሃማስ
+BT: ቡህታን
+BV: 'የቦውቬት ደሴት'
+BW: ቦትስዋና
+BY: ቤላሩስ
+BZ: ቤሊዘ
+CA: ካናዳ
+CC: 'ኮኮስ ኬሊንግ ደሴቶች'
+CD: ኮንጎ
+CF: 'የመካከለኛው አፍሪካ ሪፐብሊክ'
+CG: ኮንጐ
+CH: ስዊዘርላንድ
+CI: 'ኮት ዲቯር'
+CK: 'ኩክ ደሴቶች'
+CL: ቺሊ
+CM: ካሜሩን
+CN: ቻይና
+CO: ኮሎምቢያ
+CR: 'ኮስታ ሪካ'
+CS: ሰርቢያ
+CU: ኩባ
+CV: 'ኬፕ ቬርዴ'
+CX: 'የገና ደሴቶች'
+CY: ሳይፕረስ
+CZ: 'ቼክ ሪፑብሊክ'
+DE: ጀርመን
+DJ: ጂቡቲ
+DK: ዴንማርክ
+DM: ዶሚኒካ
+DO: 'ዶሚኒክ ሪፑብሊክ'
+DZ: አልጄሪያ
+EC: ኢኳዶር
+EE: ኤስቶኒያ
+EG: ግብጽ
+EH: 'ምዕራባዊ ሳህራ'
+ER: ኤርትራ
+ES: ስፔን
+ET: ኢትዮጵያ
+FI: ፊንላንድ
+FJ: ፊጂ
+FK: 'የፎልክላንድ ደሴቶች'
+FM: ሚክሮኔዢያ
+FO: 'የፋሮይ ደሴቶች'
+FR: ፈረንሳይ
+GA: ጋቦን
+GB: እንግሊዝ
+GD: ግሬናዳ
+GE: ጆርጂያ
+GF: 'የፈረንሳይ ጉዊአና'
+GH: ጋና
+GI: ጊብራልታር
+GL: ግሪንላንድ
+GM: ጋምቢያ
+GN: ጊኒ
+GP: ጉዋደሉፕ
+GQ: 'ኢኳቶሪያል ጊኒ'
+GR: ግሪክ
+GS: 'ደቡብ ጆርጂያ እና የደቡድ ሳንድዊች ደሴቶች'
+GT: ጉዋቲማላ
+GU: ጉዋም
+GW: ቢሳዎ
+GY: ጉያና
+HK: 'ሆንግ ኮንግ'
+HM: 'የኧርድ እና የማክዶናልድ ደሴቶች'
+HN: ሆንዱራስ
+HR: ክሮኤሽያ
+HT: ሀይቲ
+HU: ሀንጋሪ
+ID: ኢንዶኔዢያ
+IE: አየርላንድ
+IL: እስራኤል
+IN: ህንድ
+IO: 'የብሪታኒያ ህንድ ውቂያኖስ ግዛት'
+IQ: ኢራቅ
+IR: ኢራን
+IS: አይስላንድ
+IT: ጣሊያን
+JM: ጃማይካ
+JO: ጆርዳን
+JP: ጃፓን
+KE: ኬንያ
+KH: ካምቦዲያ
+KI: ኪሪባቲ
+KM: ኮሞሮስ
+KN: 'ቅዱስ ኪትስ እና ኔቪስ'
+KP: 'ሰሜን ኮሪያ'
+KR: 'ደቡብ ኮሪያ'
+KW: ክዌት
+KY: 'ካይማን ደሴቶች'
+LA: ላኦስ
+LB: ሊባኖስ
+LC: 'ሴንት ሉቺያ'
+LI: ሊችተንስታይን
+LK: ሲሪላንካ
+LR: ላይቤሪያ
+LS: ሌሶቶ
+LT: ሊቱዌኒያ
+LU: ሉክሰምበርግ
+LV: ላትቪያ
+LY: ሊቢያ
+MA: ሞሮኮ
+MC: ሞናኮ
+MD: ሞልዶቫ
+MG: ማዳጋስካር
+MH: 'ማርሻል አይላንድ'
+MK: ማከዶኒያ
+ML: ማሊ
+MM: ማያንማር
+MN: ሞንጎሊያ
+MO: ማካዎ
+MP: 'የሰሜናዊ ማሪያና ደሴቶች'
+MQ: ማርቲኒክ
+MR: ሞሪቴኒያ
+MS: ሞንትሴራት
+MT: ማልታ
+MU: ማሩሸስ
+MV: ማልዲቭስ
+MW: ማላዊ
+MX: ሜክሲኮ
+MY: ማሌዢያ
+MZ: ሞዛምቢክ
+NA: ናሚቢያ
+NC: 'ኒው ካሌዶኒያ'
+NE: ኒጀር
+NF: 'ኖርፎልክ ደሴት'
+NG: ናይጄሪያ
+NI: ኒካራጓ
+NL: ኔዘርላንድ
+NO: ኖርዌ
+NP: ኔፓል
+NR: ናኡሩ
+NU: ኒኡይ
+NZ: 'ኒው ዚላንድ'
+OM: ኦማን
+PA: ፓናማ
+PE: ፔሩ
+PF: 'የፈረንሳይ ፖሊኔዢያ'
+PG: 'ፓፑዋ ኒው ጊኒ'
+PH: ፊሊፒንስ
+PK: ፓኪስታን
+PL: ፖላንድ
+PM: 'ቅዱስ ፒዬር እና ሚኩኤሎን'
+PN: ፒትካኢርን
+PR: 'ፖርታ ሪኮ'
+PS: 'የፍልስጤም ግዛት'
+PT: ፖርቱጋል
+PW: ፓላው
+PY: ፓራጓይ
+QA: ኳታር
+QO: 'ወጣ ያለ ኦሽኒያ'
+RE: ሪዩኒየን
+RO: ሮሜኒያ
+RU: ራሺያ
+RW: ሩዋንዳ
+SA: ሳውድአረቢያ
+SB: 'ሰሎሞን ደሴት'
+SC: ሲሼልስ
+SD: ሱዳን
+SE: ስዊድን
+SG: ሲንጋፖር
+SH: 'ሴንት ሄለና'
+SI: ስሎቬኒያ
+SJ: 'የስቫልባርድ እና ዣን ማየን ደሴቶች'
+SK: ስሎቫኪያ
+SL: ሴራሊዮን
+SM: 'ሳን ማሪኖ'
+SN: ሴኔጋል
+SO: ሱማሌ
+SR: ሱሪናም
+ST: 'ሳኦ ቶሜ እና ፕሪንሲፔ'
+SV: 'ኤል ሳልቫዶር'
+SY: ሲሪያ
+SZ: ሱዋዚላንድ
+TC: 'የቱርኮችና የካኢኮስ ደሴቶች'
+TD: ቻድ
+TF: 'የፈረንሳይ ደቡባዊ ግዛቶች'
+TG: ቶጐ
+TH: ታይላንድ
+TJ: ታጃኪስታን
+TK: ቶክላው
+TL: 'ምስራቅ ቲሞር'
+TM: ቱርክሜኒስታን
+TN: ቱኒዚያ
+TO: ቶንጋ
+TR: ቱርክ
+TT: 'ትሪኒዳድ እና ቶባጎ'
+TV: ቱቫሉ
+TW: ታይዋን
+TZ: ታንዛኒያ
+UA: ዩክሬን
+UG: ዩጋንዳ
+UM: 'የአሜሪካ ራቅ ያሉ አናሳ ደሴቶች'
+US: አሜሪካ
+UY: ኡራጓይ
+UZ: ዩዝበኪስታን
+VA: ቫቲካን
+VC: 'ቅዱስ ቪንሴንት እና ግሬናዲንስ'
+VE: ቬንዙዌላ
+VG: 'የእንግሊዝ ድንግል ደሴቶች'
+VI: 'የአሜሪካ ቨርጂን ደሴቶች'
+VN: ቬትናም
+VU: ቫኑአቱ
+WF: 'ዋሊስ እና ፉቱና ደሴቶች'
+WS: ሳሞአ
+YE: የመን
+YT: ሜይኦቴ
+ZA: 'ደቡብ አፍሪካ'
+ZM: ዛምቢያ
+ZW: ዚምቧቤ
+142: እስያ
+143: 'መካከለኛ አሜሪካ [143]'
+145: 'ምዕራባዊ እስያ'
+150: አውሮፓ
+151: 'ምስራቃዊ አውሮፓ'
+154: 'ሰሜናዊ አውሮፓ'
+155: 'ምዕራባዊ አውሮፓ'

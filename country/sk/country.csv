@@ -1,256 +1,292 @@
 id,name
-AF,Afganistan
-AX,"Alandské ostrovy"
-AL,Albánsko
-DZ,Alžírsko
-AS,"Americká Samoa"
+001,Svet
+002,Afrika
+003,"Severná Amerika (003)"
+005,"Južná Amerika"
+009,Oceánia
+011,"Západná Afrika"
+013,"Stredná Amerika"
+014,"Východná Afrika"
+015,"Severná Afrika"
+017,"Stredná Afrika"
+018,"Južná Afrika [018]"
+019,"Americký kontinent"
+021,"Severná Amerika"
+029,Karibik
+030,"Východná Ázia"
+034,"Južná Ázia"
+035,"Juhovýchodná Ázia"
+039,"Južná Európa"
+053,"Austrália a Nový Zéland"
+054,Melanézia
+057,Mikronésia
+061,Polynézia
+062,"Stredná a južná Ázia"
+AC,Ascension
 AD,Andorra
-AO,Angola
-AI,Anguilla
-AQ,Antarctica
+AE,"Spojené arabské emiráty"
+AF,Afganistan
 AG,"Antigua a Barbados"
-AR,Argentína
+AI,Anguilla
+AL,Albánsko
 AM,Arménsko
-AW,Aruba
-AC,"Ascension Island"
+AN,"Holandské Antily"
+AO,Angola
+AQ,Antarctica
+AR,Argentína
+AS,"Americká Samoa"
+AT,Rakúsko
 AU,Austrália
+AW,Aruba
+AX,"Alandské ostrovy"
 AZ,Azerbajdžan
-BS,Bahamy
-BH,Bahrajn
-BD,Bangladéš
-BB,Barbados
-BE,Belgicko
-BZ,Belize
-BJ,Benin
-BM,Bermudy
-BY,Bielorusko
-BO,Bolívia
 BA,"Bosna a Hercegovina"
-BW,Botswana
-BV,"Bouvetov ostrov"
-BR,Brazília
-VG,"Britské panenské ostrovy"
-IO,"Britské územie v Indickom oceáne"
-BN,Brunej
-BG,Bulharsko
+BB,Barbados
+BD,Bangladéš
+BE,Belgicko
 BF,"Burkina Faso"
+BG,Bulharsko
+BH,Bahrajn
 BI,Burundi
+BJ,Benin
+BL,"Svätý Bartolomej"
+BM,Bermudy
+BN,Brunej
+BO,Bolívia
+BR,Brazília
+BS,Bahamy
 BT,Bután
-IC,"Canary Islands"
-EA,"Ceuta and Melilla"
-CP,"Clipperton Island"
+BV,"Bouvetov ostrov"
+BW,Botswana
+BY,Bielorusko
+BZ,Belize
+CA,Kanada
+CC,"Kokosové ostrovy"
+CD,"Konžská demokratická republika"
+CF,"Stredoafrická republika"
+CG,Kongo
+CH,Švajčiarsko
+CI,"Pobrežie Slonoviny"
 CK,"Cookove ostrovy"
-CY,Cyprus
-TD,Čad
-CZ,"Česká republika"
-ME,"Čierna Hora"
 CL,Čile
+CM,Kamerun
 CN,Čína
-DK,Dánsko
+CO,Kolumbia
+CP,Clipperton
+CR,Kostarika
+CS,"Srbsko a Čierna Hora"
+CU,Kuba
+CV,Kapverdy
+CX,"Vianočný ostrov"
+CY,Cyprus
+CZ,"Česká republika"
+DE,Nemecko
 DG,"Diego Garcia"
+DJ,Džibuti
+DK,Dánsko
 DM,Dominika
 DO,"Dominikánska republika"
-DJ,Džibuti
-EG,Egypt
+DZ,Alžírsko
+EA,"Ceuta a Melilla"
 EC,Ekvádor
-ER,Eritrea
 EE,Estónsko
+EG,Egypt
+EH,"Západná Sahara"
+ER,Eritrea
+ES,Španielsko
 ET,Etiópia
 EU,"Európska únia"
-FO,"Faerské ostrovy"
-FK,"Falklandské ostrovy"
-FJ,Fidži
-PH,Filipíny
 FI,Fínsko
-GF,"Francúzska Guayana"
-PF,"Francúzska Polynézia"
-TF,"Francúzske južné územia"
+FJ,Fidži
+FK,"Falklandské ostrovy"
+FM,Mikronézia
+FO,"Faerské ostrovy"
 FR,Francúzsko
+FX,"Metropolitné Francúzsko"
 GA,Gabon
-GM,Gambia
+GB,"Spojené kráľovstvo"
+GD,Grenada
+GE,Gruzínsko
+GF,"Francúzska Guayana"
+GG,Guernsey
 GH,Ghana
 GI,Gibraltár
-GR,Grécko
-GD,Grenada
 GL,Grónsko
-GE,Gruzínsko
-GP,Guadeloupe
-GU,Guam
-GT,Guatemala
-GY,Guayana
-GG,Guernsey
+GM,Gambia
 GN,Guinea
+GP,Guadeloupe
+GQ,"Rovníková Guinea"
+GR,Grécko
+GS,"Južná Georgia a Južné Sandwichove ostrovy"
+GT,Guatemala
+GU,Guam
 GW,Guinea-Bissau
-HT,Haiti
-HM,"Heardove ostrovy a McDonaldove ostrovy"
-AN,"Holandské Antily"
-NL,Holandsko
-HN,Honduras
+GY,Guayana
 HK,"Hong Kong S.A.R. Číny"
+HM,"Heardove ostrovy a McDonaldove ostrovy"
+HN,Honduras
 HR,Chorvátsko
-IN,India
+HT,Haiti
+HU,Maďarsko
+IC,"Kanárske ostrovy"
 ID,Indonézia
+IE,Írsko
+IL,Izrael
+IM,"Ostrov Man"
+IN,India
+IO,"Britské územie v Indickom oceáne"
 IQ,Irak
 IR,Irán
-IE,Írsko
 IS,Island
-IL,Izrael
-JM,Jamajka
-JP,Japonsko
-YE,Jemen
+IT,Taliansko
 JE,Jersey
+JM,Jamajka
 JO,Jordánsko
-ZA,"Južná Afrika"
-GS,"Južná Georgia a Južné Sandwichove ostrovy"
-KY,"Kajmanské ostrovy"
-KH,Kambodža
-CM,Kamerun
-CA,Kanada
-CV,Kapverdy
-QA,Katar
-KZ,Kazachstan
+JP,Japonsko
 KE,Keňa
 KG,Kirgizsko
+KH,Kambodža
 KI,Kiribati
-CC,"Kokosové ostrovy"
-CO,Kolumbia
 KM,Komory
-CG,Kongo
-CD,"Konžská demokratická republika"
+KN,"Saint Kitts a Nevis"
 KP,"Kórejská ľudovodemokratická republika"
 KR,"Kórejská republika"
-CR,Kostarika
-CU,Kuba
 KW,Kuvajt
+KY,"Kajmanské ostrovy"
+KZ,Kazachstan
 LA,"Laoská ľudovodemokratická republika"
-LS,Lesotho
 LB,Libanon
-LR,Libéria
+LC,"Svätá Lucia"
 LI,Lichtenštajnsko
+LK,"Srí Lanka"
+LR,Libéria
+LS,Lesotho
 LT,Litva
-LV,Lotyšsko
 LU,Luxembursko
+LV,Lotyšsko
 LY,"Lýbijská arabská džamahírija"
-MK,Macedónsko
-MG,Madagaskar
-HU,Maďarsko
-MO,"Makao S.A.R. Číny"
-MY,Malajzia
-MW,Malawi
-MV,Maldivy
-ML,Mali
-MT,Malta
 MA,Maroko
-MH,"Marshallove ostrovy"
-MQ,Martinik
-MU,Maurícius
-MR,Mauritánia
-YT,Mayotte
-UM,"Menšie odľahlé ostrovy USA"
-MX,Mexiko
-FM,Mikronézia
-MM,Mjanmarsko
-MD,Moldavsko
 MC,Monako
+MD,Moldavsko
+ME,"Čierna Hora"
+MF,"Svätý Martin"
+MG,Madagaskar
+MH,"Marshallove ostrovy"
+MK,Macedónsko
+ML,Mali
+MM,Mjanmarsko
 MN,Mongolsko
+MO,"Makao S.A.R. Číny"
+MP,"Severné Mariány"
+MQ,Martinik
+MR,Mauritánia
 MS,Montserrat
+MT,Malta
+MU,Maurícius
+MV,Maldivy
+MW,Malawi
+MX,Mexiko
+MY,Malajzia
 MZ,Mozambik
 NA,Namíbia
-NR,Nauru
-DE,Nemecko
-NP,Nepál
+NC,"Nová Kaledónia"
 NE,Niger
+NF,"Norfolkov ostrov"
 NG,Nigéria
 NI,Nikaragua
-NU,Niue
-NF,"Norfolkov ostrov"
+NL,Holandsko
 NO,Nórsko
-NC,"Nová Kaledónia"
+NP,Nepál
+NR,Nauru
+NU,Niue
 NZ,"Nový Zéland"
 OM,Omán
-IM,"Ostrov Man"
-PK,Pakistan
-PW,Palau
-PS,"Palestínske územie"
 PA,Panama
-VI,"Panenské ostrovy - USA"
-PG,"Papua Nová Guinea"
-PY,Paraguaj
 PE,Peru
-PN,"Pitcairnove ostrovy"
-CI,"Pobrežie Slonoviny"
+PF,"Francúzska Polynézia"
+PG,"Papua Nová Guinea"
+PH,Filipíny
+PK,Pakistan
 PL,Poľsko
+PM,"Saint Pierre a Miquelon"
+PN,"Pitcairnove ostrovy"
 PR,Portoriko
+PS,"Palestínske územie"
 PT,Portugalsko
-AT,Rakúsko
+PW,Palau
+PY,Paraguaj
+QA,Katar
+QO,"Tichomorie - ostatné"
 RE,Reunion
-GQ,"Rovníková Guinea"
 RO,Rumunsko
+RS,Srbsko
 RU,"Ruská federácia"
 RW,Rwanda
-KN,"Saint Kitts a Nevis"
-PM,"Saint Pierre a Miquelon"
-SV,Salvador
-WS,Samoa
-SM,"San Maríno"
 SA,"Saudská Arábia"
-SN,Senegal
-MP,"Severné Mariány"
-SC,"Seychelské ostrovy"
-SL,"Sierra Leone"
-SG,Singapur
-SK,"Slovenská republika"
-SI,Slovinsko
-SO,Somálsko
-AE,"Spojené arabské emiráty"
-GB,"Spojené kráľovstvo"
-US,"Spojené štáty"
-RS,Srbsko
-CS,"Srbsko a Čierna Hora"
-LK,"Srí Lanka"
-CF,"Stredoafrická republika"
-SD,Sudán
-SR,Surinam
-SZ,Svazijsko
-SH,"Svätá Helena"
-LC,"Svätá Lucia"
-BL,"Svätý Bartolomej"
-MF,"Svätý Martin"
-ST,"Svätý Tomáš a Princove ostrovy"
-VC,"Svätý Vincent a Grenadíny"
-SY,"Sýrska arabská republika"
 SB,"Šalamúnove ostrovy"
-ES,Španielsko
-SJ,"Špicbergy a Jan Mayen"
-CH,Švajčiarsko
+SC,"Seychelské ostrovy"
+SD,Sudán
 SE,Švédsko
-TJ,Tadžikistan
-TW,Tajwan
-IT,Taliansko
-TZ,Tanzánia
-TH,Thajsko
-QO,"Tichomorie - ostatné"
-TG,Togo
-TK,Tokelau
-TO,Tonga
-TT,"Trinidad a Tobago"
+SG,Singapur
+SH,"Svätá Helena"
+SI,Slovinsko
+SJ,"Špicbergy a Jan Mayen"
+SK,"Slovenská republika"
+SL,"Sierra Leone"
+SM,"San Maríno"
+SN,Senegal
+SO,Somálsko
+SR,Surinam
+ST,"Svätý Tomáš a Princove ostrovy"
+SV,Salvador
+SY,"Sýrska arabská republika"
+SZ,Svazijsko
 TA,"Tristan da Cunha"
-TN,Tunisko
-TR,Turecko
-TM,Turkménsko
 TC,"Turks a Caicos"
+TD,Čad
+TF,"Francúzske južné územia"
+TG,Togo
+TH,Thajsko
+TJ,Tadžikistan
+TK,Tokelau
+TL,"Východný Timor"
+TM,Turkménsko
+TN,Tunisko
+TO,Tonga
+TR,Turecko
+TT,"Trinidad a Tobago"
 TV,Tuvalu
-UG,Uganda
+TW,Tajwan
+TZ,Tanzánia
 UA,Ukrajina
+UG,Uganda
+UM,"Menšie odľahlé ostrovy USA"
+US,"Spojené štáty"
 UY,Uruguaj
 UZ,Uzbekistan
-VU,Vanuatu
 VA,Vatikán
+VC,"Svätý Vincent a Grenadíny"
 VE,Venezuela
-CX,"Vianočný ostrov"
+VG,"Britské panenské ostrovy"
+VI,"Panenské ostrovy - USA"
 VN,Vietnam
-TL,"Východný Timor"
+VU,Vanuatu
 WF,"Wallis a Futuna"
+WS,Samoa
+YE,Jemen
+YT,Mayotte
+ZA,"Južná Afrika"
 ZM,Zambia
-EH,"Západná Sahara"
 ZW,Zimbabwe
+ZZ,"Neznámy alebo neplatný región"
+142,Ázia
+143,"Stredná Ázia"
+145,"Západná Ázia"
+150,Európa
+151,"Východná Európa"
+154,"Severná Európa"
+155,"Západná Európa"
+172,"Spoločenstvo nezávislých štátov"
+200,Československo
+419,"Latinská Amerika a Karibik"
+830,"Kanál La Manche"

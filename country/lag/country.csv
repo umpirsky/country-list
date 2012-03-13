@@ -1,256 +1,227 @@
 id,name
-ZA,"Afɨrɨka ya Saame"
-AF,Afuganisitáani
-IS,Aisiláandi
-AR,Ajentíina
-AX,"Åland Islands"
-DZ,Alijéria
-AL,Alubánia
-US,Amerɨka
 AD,Andóra
-AO,Angóola
-AI,Anguíila
-AQ,Antarctica
+AE,"Ʉtemi wa Kɨaráabu"
+AF,Afuganisitáani
 AG,"Antigúua na Baribúuda"
-AN,"Antili ya Ʉholáanzi"
+AI,Anguíila
+AL,Alubánia
 AM,Ariménia
-AW,Arúuba
-AC,"Ascension Island"
-AU,Ausiteréelia
+AN,"Antili ya Ʉholáanzi"
+AO,Angóola
+AR,Ajentíina
+AS,"Samóoa ya Amerɨ́ka"
 AT,Áusitiria
-IE,Ayaláandi
+AU,Ausiteréelia
+AW,Arúuba
 AZ,Azabajáani
-BB,Babadóosi
-BS,Baháama
-BH,Baharéeni
-BD,Bangaladéeshi
-BY,Belarúusi
-BZ,Belíise
-BJ,Beníini
-BM,Berimúuda
-BO,Bolívia
 BA,Bósinia
-BW,Botiswáana
-BV,"Bouvet Island"
-BR,Brasíili
-MG,Bukíini
+BB,Babadóosi
+BD,Bangaladéeshi
+BE,Ʉbeligíiji
 BF,Bukinafáaso
 BG,Buligaría
-BN,Burunéei
+BH,Baharéeni
 BI,Burúundi
+BJ,Beníini
+BM,Berimúuda
+BN,Burunéei
+BO,Bolívia
+BR,Brasíili
+BS,Baháama
 BT,Butáani
-IC,"Canary Islands"
-EA,"Ceuta and Melilla"
-TD,Cháadi
+BW,Botiswáana
+BY,Belarúusi
+BZ,Belíise
+CA,Kánada
+CD,"Jamuhúuri ya Kɨdemokurasía ya Kóongo"
+CF,"Juhúuri ya Afɨrɨka ya katɨ katɨ"
+CG,Kóongo
+CH,Uswíisi
+CI,"Ivori Kositi"
+CK,"Visíiwa vya Kúuku"
 CL,Chíile
+CM,Kamerúuni
 CN,Chíina
-CX,"Christmas Island"
-CP,"Clipperton Island"
-CC,"Cocos [Keeling] Islands"
+CO,Kolómbia
+CR,"Kósita Rɨ́ɨka"
+CS,"Sebíia na Montégiro"
+CU,Kyúuba
+CV,Kepuvéede
+CY,Kupuróosi
+CZ,"Jamuhúuri ya Chéeki"
+DE,Ʉjerumáani
+DJ,Jibúuti
 DK,Denimaki
-DG,"Diego Garcia"
 DM,Domínɨka
-SV,Elisalivado
-ER,Eriterea
+DO,"Jamuhúuri ya Dominɨka"
+DZ,Alijéria
+EC,Íkwado
 EE,Estonía
-EU,"European Union"
-FO,"Faroe Islands"
+EG,Mísiri
+ER,Eriterea
+ES,Hisipánia
+ET,Ʉhabéeshi
+FI,Ufíini
 FJ,Fíiji
-TF,"French Southern Territories"
-GH,Gáana
+FK,"Visíiwa vya Fakulandi"
+FM,Mikironésia
+FR,Ʉfaráansa
 GA,Gabóoni
+GB,Ʉɨngeréesa
+GD,Girenáada
+GE,Jójia
+GF,"Gwiyáana yʉ Ʉfaráansa"
+GH,Gáana
+GI,Jiburálita
+GL,Giriniláandi
 GM,Gámbia
 GN,Gíine
-GW,"Gíine Bisáau"
-GQ,"Gíine Ikwéeta"
-GD,Girenáada
-GL,Giriniláandi
-GG,Guernsey
-GY,Guyáana
 GP,Gwadelúupe
-GU,Gwani
+GQ,"Gíine Ikwéeta"
+GR,Ugiríki
 GT,Gwatemáala
-GF,"Gwiyáana yʉ Ʉfaráansa"
-HT,Haíiti
-HM,"Heard Island and McDonald Islands"
-ES,Hisipánia
+GU,Gwani
+GW,"Gíine Bisáau"
+GY,Guyáana
 HN,Honduráasi
-HK,"Hong Kong SAR China"
-HU,Hungária
-EC,Íkwado
-IN,Índia
-ID,Indonésia
-IQ,Iráaki
-IL,Isiraéeli
-IM,"Isle of Man"
-IT,Itália
-CI,"Ivori Kositi"
-IO,"Ɨsɨ yʉ Ʉɨngeréesa irivii ra Híindi"
-JM,Jamáika
-CZ,"Jamuhúuri ya Chéeki"
-DO,"Jamuhúuri ya Dominɨka"
-CD,"Jamuhúuri ya Kɨdemokurasía ya Kóongo"
-JP,Japáani
-JE,Jersey
-GI,Jiburálita
-DJ,Jibúuti
-JO,Jódani
-GE,Jójia
-CF,"Juhúuri ya Afɨrɨka ya katɨ katɨ"
-NC,"Kaledónia Ifya"
-KH,Kambódia
-CM,Kamerúuni
-CA,Kánada
-QA,Katáari
-KZ,Kazakasitáani
-KE,Kéenya
-CV,Kepuvéede
-KI,Kiribáati
-KG,Kirigisitáani
-NF,"Kisíiwa cha Nofifóoki"
-CO,Kolómbia
-KM,Komóoro
-CG,Kóongo
-KR,"Koréa ya Saame"
-KP,"Koréa yʉ ʉtʉrʉko"
 HR,Koréshia
-CR,"Kósita Rɨ́ɨka"
-CY,Kupuróosi
+HT,Haíiti
+HU,Hungária
+ID,Indonésia
+IE,Ayaláandi
+IL,Isiraéeli
+IN,Índia
+IO,"Ɨsɨ yʉ Ʉɨngeréesa irivii ra Híindi"
+IQ,Iráaki
+IR,Ʉajéemi
+IS,Aisiláandi
+IT,Itália
+JM,Jamáika
+JO,Jódani
+JP,Japáani
+KE,Kéenya
+KG,Kirigisitáani
+KH,Kambódia
+KI,Kiribáati
+KM,Komóoro
+KN,"Mʉtakatíifu kitisi na Nevíisi"
+KP,"Koréa yʉ ʉtʉrʉko"
+KR,"Koréa ya Saame"
 KW,Kʉwáiti
-CU,Kyúuba
+KY,"Visíiwa vya Kayimani"
+KZ,Kazakasitáani
 LA,Laóosi
+LB,Lebanóoni
+LC,"Mʉtakatíifu Lusíia"
+LI,Lishentéeni
+LK,Siriláanka
+LR,Liibéria
+LS,Lesóoto
+LT,Lisuánia
 LU,Lasembáagi
 LV,Lativia
-LB,Lebanóoni
-LS,Lesóoto
 LY,Líbia
-LR,Liibéria
-LI,Lishentéeni
-LT,Lisuánia
-ML,Máali
-MO,"Macau SAR China"
-MW,Maláawi
-MY,Maleísia
-MT,Málita
-MQ,Maritiníiki
-MK,Masedónia
-YT,Mayóote
-MX,Mekisiko
-MM,Miáama
-FM,Mikironésia
-EG,Mísiri
-MV,Modíivu
-MD,Molidóova
-MC,Monáako
-MN,Mongólia
-ME,Montenegro
-MS,Monteráati
-MU,Moríisi
-MR,Moritánia
 MA,Moróoko
+MC,Monáako
+MD,Molidóova
+MG,Bukíini
+MH,"Visíiwa vya Marisháali"
+MK,Masedónia
+ML,Máali
+MM,Miáama
+MN,Mongólia
+MP,"Visiwa vya Mariana vya Kaskazini"
+MQ,Maritiníiki
+MR,Moritánia
+MS,Monteráati
+MT,Málita
+MU,Moríisi
+MV,Modíivu
+MW,Maláawi
+MX,Mekisiko
+MY,Maleísia
 MZ,Musumbíiji
-SH,"Mʉtakatíifu Heléena"
-KN,"Mʉtakatíifu kitisi na Nevíisi"
-LC,"Mʉtakatíifu Lusíia"
-PM,"Mʉtakatíifu Peéteri na Mɨkaéeli"
-VC,"Mʉtakatíifu Viséenti na Gernadíini"
-PS,"Mweemberera wa kʉmweeri wa Gáaza"
 NA,Namíbia
-NR,Naúuru
-NP,Nepáali
+NC,"Kaledónia Ifya"
 NE,Níija
+NF,"Kisíiwa cha Nofifóoki"
 NG,Niijéria
 NI,Nikarágʉa
-NU,Niúue
+NL,Ʉholáanzi
 NO,Norwe
+NP,Nepáali
+NR,Naúuru
+NU,Niúue
 NZ,Nyuzílandi
 OM,Ómani
-QO,"Outlying Oceania"
-PK,Pakisitáani
-PW,Paláau
 PA,Panáama
-PG,Papúua
-PY,Paraguáai
-PN,Patikaírini
 PE,Péeru
-PL,Pólandi
 PF,"Polinésia yʉ Ʉfaráansa"
+PG,Papúua
+PH,Ufilipíino
+PK,Pakisitáani
+PL,Pólandi
+PM,"Mʉtakatíifu Peéteri na Mɨkaéeli"
+PN,Patikaírini
 PR,Pwetorɨ́ɨko
+PS,"Mweemberera wa kʉmweeri wa Gáaza"
+PT,Ʉréeno
+PW,Paláau
+PY,Paraguáai
+QA,Katáari
 RE,Reyunióoni
 RO,Romaníia
-RW,Rwáanda
-BL,"Saint Barthélemy"
-MF,"Saint Martin"
-SM,Samaríino
-ZM,Sámbia
-WS,Samóoa
-AS,"Samóoa ya Amerɨ́ka"
-ST,"Sao Tóome na Pirinsipe"
-SA,"Saudíia Arabíia"
-CS,"Sebíia na Montégiro"
-SN,Senegáali
-SL,Seraleóoni
-RS,Serbia
-SC,Shelishéeli
-ZW,Simbáabwe
-SG,Singapoo
-SY,Síria
-LK,Siriláanka
-SO,Somália
-GS,"South Georgia and the South Sandwich Islands"
-SD,Sudáani
-SK,Sulováakia
-SI,Sulovénia
-SR,Surináamu
-SJ,"Svalbard and Jan Mayen"
-TZ,Taansanía
-TH,Táilandi
-TW,Taiwáani
-TJ,Tajikisitáani
-TL,"Timóori yi Itʉʉmba"
-TT,"Tiriníida ya Tobáago"
-TK,Tokeláau
-TG,Tóogo
-TO,Tóonga
-TA,"Tristan da Cunha"
-TN,Tunísia
-TV,Tuváalu
-UM,"U.S. Minor Outlying Islands"
-FI,Ufíini
-PH,Ufilipíino
-GR,Ugiríki
-UY,Uruguáai
 RU,Urúusi
-UZ,Usibekisitáani
-SE,Uswíidi
-CH,Uswíisi
-TM,Uturukimenisitáani
-TR,Uturúuki
-IR,Ʉajéemi
-BE,Ʉbeligíiji
-FR,Ʉfaráansa
-UG,Ʉgáanda
-ET,Ʉhabéeshi
-NL,Ʉholáanzi
-GB,Ʉɨngeréesa
-DE,Ʉjerumáani
-UA,Ʉkɨréeni
-PT,Ʉréeno
-SZ,Ʉswáazi
-AE,"Ʉtemi wa Kɨaráabu"
-VU,Vanuáatu
-VA,Vatikáani
-VE,Venezuéela
-VN,Vietináamu
-FK,"Visíiwa vya Fakulandi"
-KY,"Visíiwa vya Kayimani"
-CK,"Visíiwa vya Kúuku"
-MH,"Visíiwa vya Marisháali"
+RW,Rwáanda
+SA,"Saudíia Arabíia"
 SB,"Visíiwa vya Solomóoni"
+SC,Shelishéeli
+SD,Sudáani
+SE,Uswíidi
+SG,Singapoo
+SH,"Mʉtakatíifu Heléena"
+SI,Sulovénia
+SK,Sulováakia
+SL,Seraleóoni
+SM,Samaríino
+SN,Senegáali
+SO,Somália
+SR,Surináamu
+ST,"Sao Tóome na Pirinsipe"
+SV,Elisalivado
+SY,Síria
+SZ,Ʉswáazi
 TC,"Visíiwa vya Turíiki na Kaíiko"
-VI,"Visíiwa vya Vigíini vya Amerɨ́ka"
+TD,Cháadi
+TG,Tóogo
+TH,Táilandi
+TJ,Tajikisitáani
+TK,Tokeláau
+TL,"Timóori yi Itʉʉmba"
+TM,Uturukimenisitáani
+TN,Tunísia
+TO,Tóonga
+TR,Uturúuki
+TT,"Tiriníida ya Tobáago"
+TV,Tuváalu
+TW,Taiwáani
+TZ,Taansanía
+UA,Ʉkɨréeni
+UG,Ʉgáanda
+US,Amerɨka
+UY,Uruguáai
+UZ,Usibekisitáani
+VA,Vatikáani
+VC,"Mʉtakatíifu Viséenti na Gernadíini"
+VE,Venezuéela
 VG,"Visíiwa vya Vigíini vya Ʉɨngeréesa"
-MP,"Visiwa vya Mariana vya Kaskazini"
+VI,"Visíiwa vya Vigíini vya Amerɨ́ka"
+VN,Vietináamu
+VU,Vanuáatu
 WF,"Walíisi na Futúuna"
-EH,"Western Sahara"
+WS,Samóoa
 YE,Yémeni
+YT,Mayóote
+ZA,"Afɨrɨka ya Saame"
+ZM,Sámbia
+ZW,Simbáabwe

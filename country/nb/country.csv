@@ -1,256 +1,289 @@
 id,name
-AF,Afghanistan
-AL,Albania
-DZ,Algerie
-AS,"Amerikansk Samoa"
-AD,Andorra
-AO,Angola
-AI,Anguilla
-AQ,Antarktis
-AG,"Antigua og Barbuda"
-AR,Argentina
-AM,Armenia
-AW,Aruba
+001,verden
+002,Afrika
+003,Nord-Amerika
+005,Sør-Amerika
+009,Oseania
+011,Vest-Afrika
+013,Sentral-Amerika
+014,Øst-Afrika
+015,Nord-Afrika
+017,Sentral-Afrika
+018,"Sørlige Afrika"
+019,Amerika
+021,"Nordlige Amerika"
+029,Karibia
+030,Øst-Asia
+034,Sør-Asia
+035,Sørøst-Asia
+039,Sør-Europa
+053,"Australia og New Zealand"
+054,Melanesia
+057,Mikronesia
+061,Polynesia
+062,Sørsentral-Asia
 AC,Ascension
-AZ,Aserbajdsjan
-AU,Australia
-QO,"avsidesliggende Oceania"
-BS,Bahamas
-BH,Bahrain
-BD,Bangladesh
-BB,Barbados
-BE,Belgia
-BZ,Belize
-BJ,Benin
-BM,Bermuda
-BT,Bhutan
-BO,Bolivia
-BA,Bosnia-Hercegovina
-BW,Botswana
-BV,Bouvetøya
-BR,Brasil
-IO,"Britiske territorier i Indiahavet"
-BN,"Brunei Darussalam"
-BG,Bulgaria
-BF,"Burkina Faso"
-BI,Burundi
-CA,Canada
-KY,Caymanøyene
-EA,"Ceuta og Melilla"
-CL,Chile
-CX,Christmasøya
-CP,Clippertonøya
-CO,Colombia
-CK,Cookøyene
-CR,"Costa Rica"
-CU,Cuba
-DK,Danmark
-VI,"De amerikanske jomfruøyene"
-VG,"De britiske jomfruøyene"
+AD,Andorra
 AE,"De forente arabiske emirater"
-TF,"De franske sørterritorier"
+AF,Afghanistan
+AG,"Antigua og Barbuda"
+AI,Anguilla
+AL,Albania
+AM,Armenia
 AN,"De nederlandske antiller"
-DO,"Den dominikanske republikk"
-EU,"Den europeiske union"
+AO,Angola
+AQ,Antarktis
+AR,Argentina
+AS,"Amerikansk Samoa"
+AT,Østerrike
+AU,Australia
+AW,Aruba
+AX,Åland
+AZ,Aserbajdsjan
+BA,Bosnia-Hercegovina
+BB,Barbados
+BD,Bangladesh
+BE,Belgia
+BF,"Burkina Faso"
+BG,Bulgaria
+BH,Bahrain
+BI,Burundi
+BJ,Benin
+BL,"Saint Barthélemy"
+BM,Bermuda
+BN,"Brunei Darussalam"
+BO,Bolivia
+BR,Brasil
+BS,Bahamas
+BT,Bhutan
+BV,Bouvetøya
+BW,Botswana
+BY,Hviterussland
+BZ,Belize
+CA,Canada
+CC,Kokosøyene
+CD,Kongo-Kinshasa
 CF,"Den sentralafrikanske republikk"
+CG,Kongo-Brazzaville
+CH,Sveits
+CI,Elfenbenskysten
+CK,Cookøyene
+CL,Chile
+CM,Kamerun
+CN,Kina
+CO,Colombia
+CP,Clippertonøya
+CR,"Costa Rica"
+CS,"Serbia og Montenegro"
+CU,Cuba
+CV,"Kapp Verde"
+CX,Christmasøya
+CY,Kypros
+CZ,Tsjekkia
+DE,Tyskland
 DG,"Diego Garcia"
 DJ,Djibouti
+DK,Danmark
 DM,Dominica
+DO,"Den dominikanske republikk"
+DZ,Algerie
+EA,"Ceuta og Melilla"
 EC,Ecuador
-EG,Egypt
-GQ,Ekvatorial-Guinea
-SV,"El Salvador"
-CI,Elfenbenskysten
-ER,Eritrea
 EE,Estland
+EG,Egypt
+EH,Vest-Sahara
+ER,Eritrea
+ES,Spania
 ET,Etiopia
-FK,Falklandsøyene
-FJ,Fiji
-PH,Filippinene
+EU,"Den europeiske union"
 FI,Finland
-FR,Frankrike
-GF,"Fransk Guyana"
-PF,"Fransk Polynesia"
+FJ,Fiji
+FK,Falklandsøyene
+FM,Mikronesiaføderasjonen
 FO,Færøyene
+FR,Frankrike
 GA,Gabon
-GM,Gambia
+GB,Storbritannia
+GD,Grenada
 GE,Georgia
+GF,"Fransk Guyana"
+GG,Guernsey
 GH,Ghana
 GI,Gibraltar
-GD,Grenada
 GL,Grønland
-GP,Guadeloupe
-GU,Guam
-GT,Guatemala
-GG,Guernsey
+GM,Gambia
 GN,Guinea
+GP,Guadeloupe
+GQ,Ekvatorial-Guinea
+GR,Hellas
+GS,"Sør-Georgia og de sørlige Sandwich-øyene"
+GT,Guatemala
+GU,Guam
 GW,Guinea-Bissau
 GY,Guyana
-HT,Haiti
-HM,"Heardøya og McDonaldøyene"
-GR,Hellas
-HN,Honduras
 HK,"Hongkong S.A.R. Kina"
-BY,Hviterussland
-IN,India
+HM,"Heardøya og McDonaldøyene"
+HN,Honduras
+HR,Kroatia
+HT,Haiti
+HU,Ungarn
+IC,Kanariøyene
 ID,Indonesia
+IE,Irland
+IL,Israel
+IM,Man
+IN,India
+IO,"Britiske territorier i Indiahavet"
 IQ,Irak
 IR,Iran
-IE,Irland
 IS,Island
-IL,Israel
 IT,Italia
-JM,Jamaica
-JP,Japan
-YE,Jemen
 JE,Jersey
+JM,Jamaica
 JO,Jordan
-KH,Kambodsja
-CM,Kamerun
-IC,Kanariøyene
-CV,"Kapp Verde"
-KZ,Kasakhstan
+JP,Japan
 KE,Kenya
-CN,Kina
 KG,Kirgisistan
+KH,Kambodsja
 KI,Kiribati
-CC,Kokosøyene
 KM,Komorene
-CG,Kongo-Brazzaville
-CD,Kongo-Kinshasa
-HR,Kroatia
+KN,"St. Kitts og Nevis"
+KP,Nord-Korea
+KR,Sør-Korea
 KW,Kuwait
-CY,Kypros
+KY,Caymanøyene
+KZ,Kasakhstan
 LA,Laos
-LV,Latvia
-LS,Lesotho
 LB,Libanon
-LR,Liberia
-LY,Libya
+LC,"St. Lucia"
 LI,Liechtenstein
+LK,"Sri Lanka"
+LR,Liberia
+LS,Lesotho
 LT,Litauen
 LU,Luxembourg
-MO,"Macao S.A.R. Kina"
-MG,Madagaskar
-MK,Makedonia
-MW,Malawi
-MY,Malaysia
-MV,Maldivene
-ML,Mali
-MT,Malta
-IM,Man
+LV,Latvia
+LY,Libya
 MA,Marokko
+MC,Monaco
+MD,Moldova
+ME,Montenegro
+MF,"Saint Martin"
+MG,Madagaskar
 MH,Marshalløyene
+MK,Makedonia
+ML,Mali
+MM,Myanmar
+MN,Mongolia
+MO,"Macao S.A.R. Kina"
+MP,Nord-Marianene
 MQ,Martinique
 MR,Mauritania
-MU,Mauritius
-YT,Mayotte
-MX,Mexico
-FM,Mikronesiaføderasjonen
-MD,Moldova
-MC,Monaco
-MN,Mongolia
-ME,Montenegro
 MS,Montserrat
+MT,Malta
+MU,Mauritius
+MV,Maldivene
+MW,Malawi
+MX,Mexico
+MY,Malaysia
 MZ,Mosambik
-MM,Myanmar
 NA,Namibia
-NR,Nauru
-NL,Nederland
-NP,Nepal
-NZ,"New Zealand"
-NI,Nicaragua
-NE,Niger
-NG,Nigeria
-NU,Niue
-KP,Nord-Korea
-MP,Nord-Marianene
-NF,Norfolkøya
-NO,Norge
 NC,Ny-Caledonia
+NE,Niger
+NF,Norfolkøya
+NG,Nigeria
+NI,Nicaragua
+NL,Nederland
+NO,Norge
+NP,Nepal
+NR,Nauru
+NU,Niue
+NZ,"New Zealand"
 OM,Oman
-PK,Pakistan
-PW,Palau
-PS,"Palestinsk territorium"
 PA,Panama
-PG,"Papua Ny-Guinea"
-PY,Paraguay
 PE,Peru
-PN,Pitcairn
+PF,"Fransk Polynesia"
+PG,"Papua Ny-Guinea"
+PH,Filippinene
+PK,Pakistan
 PL,Polen
-PT,Portugal
+PM,"St. Pierre og Miquelon"
+PN,Pitcairn
 PR,"Puerto Rico"
+PS,"Palestinsk territorium"
+PT,Portugal
+PW,Palau
+PY,Paraguay
 QA,Qatar
+QO,"avsidesliggende Oceania"
 RE,Reunion
 RO,Romania
+RS,Serbia
 RU,Russland
 RW,Rwanda
-BL,"Saint Barthélemy"
-MF,"Saint Martin"
-SB,Salomonøyene
-WS,Samoa
-SM,"San Marino"
-ST,"São Tomé og Príncipe"
 SA,Saudi-Arabia
-SN,Senegal
-RS,Serbia
-CS,"Serbia og Montenegro"
+SB,Salomonøyene
 SC,Seychellene
-SL,"Sierra Leone"
-SG,Singapore
-SK,Slovakia
-SI,Slovenia
-SO,Somalia
-ES,Spania
-LK,"Sri Lanka"
-SH,"St. Helena"
-KN,"St. Kitts og Nevis"
-LC,"St. Lucia"
-PM,"St. Pierre og Miquelon"
-VC,"St. Vincent og Grenadinene"
-GB,Storbritannia
 SD,Sudan
-SR,Surinam
-SJ,"Svalbard og Jan Mayen"
-CH,Sveits
 SE,Sverige
-SZ,Swaziland
+SG,Singapore
+SH,"St. Helena"
+SI,Slovenia
+SJ,"Svalbard og Jan Mayen"
+SK,Slovakia
+SL,"Sierra Leone"
+SM,"San Marino"
+SN,Senegal
+SO,Somalia
+SR,Surinam
+ST,"São Tomé og Príncipe"
+SV,"El Salvador"
 SY,Syria
-ZA,Sør-Afrika
-GS,"Sør-Georgia og de sørlige Sandwich-øyene"
-KR,Sør-Korea
+SZ,Swaziland
+TA,"Tristan da Cunha"
+TC,"Turks- og Caicosøyene"
+TD,Tsjad
+TF,"De franske sørterritorier"
+TG,Togo
+TH,Thailand
 TJ,Tadsjikistan
+TK,Tokelau
+TL,Øst-Timor
+TM,Turkmenistan
+TN,Tunisia
+TO,Tonga
+TR,Tyrkia
+TT,"Trinidad og Tobago"
+TV,Tuvalu
 TW,Taiwan
 TZ,Tanzania
-TH,Thailand
-TG,Togo
-TK,Tokelau
-TO,Tonga
-TT,"Trinidad og Tobago"
-TA,"Tristan da Cunha"
-TD,Tsjad
-CZ,Tsjekkia
-TN,Tunisia
-TM,Turkmenistan
-TC,"Turks- og Caicosøyene"
-TV,Tuvalu
-TR,Tyrkia
-DE,Tyskland
-UG,Uganda
 UA,Ukraina
-HU,Ungarn
-UY,Uruguay
-US,USA
+UG,Uganda
 UM,"USAs ytre småøyer"
+US,USA
+UY,Uruguay
 UZ,Usbekistan
-VU,Vanuatu
 VA,Vatikanstaten
+VC,"St. Vincent og Grenadinene"
 VE,Venezuela
-EH,Vest-Sahara
+VG,"De britiske jomfruøyene"
+VI,"De amerikanske jomfruøyene"
 VN,Vietnam
+VU,Vanuatu
 WF,"Wallis og Futuna"
+WS,Samoa
+YE,Jemen
+YT,Mayotte
+ZA,Sør-Afrika
 ZM,Zambia
 ZW,Zimbabwe
-TL,Øst-Timor
-AT,Østerrike
-AX,Åland
+ZZ,"ukjent eller ugyldig område"
+142,Asia
+143,Sentral-Asia
+145,Vest-Asia
+150,Europa
+151,Øst-Europa
+154,Nord-Europa
+155,Vest-Europa
+172,"Samveldet av uavhengige stater"
+419,"Latin-Amerika og Karibia"

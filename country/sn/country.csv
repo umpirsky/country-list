@@ -1,256 +1,227 @@
 id,name
-PS,
-AF,Afuganistani
-AR,Ajentina
-AX,"Åland Islands"
-AL,Albania
-DZ,Aljeria
-US,Amerika
 AD,Andora
-AO,Angola
-AI,Anguila
-AQ,Antarctica
+AE,"United Arab Emirates"
+AF,Afuganistani
 AG,"Antigua ne Barbuda"
+AI,Anguila
+AL,Albania
 AM,Armenia
-AW,Arubha
-AC,"Ascension Island"
-AU,Australia
+AN,"Netherlands Antilles"
+AO,Angola
+AR,Ajentina
+AS,"Samoa ye Amerika"
 AT,Austria
+AU,Australia
+AW,Arubha
 AZ,Azabajani
-BS,Bahama
-BH,Bahareni
-BD,Bangladeshi
-BB,Barbados
-BY,Belarusi
-BZ,Belize
-BE,Beljium
-BJ,Benini
-BM,Bermuda
-BT,Bhutani
-BO,Bolivia
-BW,Botswana
-BV,"Bouvet Island"
 BA,"Boznia ne Herzegovina"
-BR,Brazil
-IO,"British Indian Ocean Territory"
+BB,Barbados
+BD,Bangladeshi
+BE,Beljium
 BF,Bukinafaso
 BG,Bulgaria
+BH,Bahareni
 BI,Burundi
+BJ,Benini
+BM,Bermuda
 BN,Burunei
-IC,"Canary Islands"
+BO,Bolivia
+BR,Brazil
+BS,Bahama
+BT,Bhutani
+BW,Botswana
+BY,Belarusi
+BZ,Belize
+CA,Kanada
+CD,"Democratic Republic of the Congo"
 CF,"Central African Republic"
-EA,"Ceuta and Melilla"
-TD,Chadi
+CG,Kongo
+CH,Switzerland
+CI,"Ivory Coast"
+CK,"Zvitsuwa zveCook"
 CL,Chile
+CM,Kameruni
 CN,China
-NF,"Chitsuwa cheNorfolk"
-CX,"Christmas Island"
-CP,"Clipperton Island"
-CC,"Cocos [Keeling] Islands"
+CO,Kolombia
+CR,Kostarika
+CS,"Serbia and Montenegro"
 CU,Cuba
+CV,"Zvitsuwa zveCape Verde"
 CY,Cyprus
 CZ,"Czech Republic"
-CD,"Democratic Republic of the Congo"
-DK,Denmark
-DG,"Diego Garcia"
+DE,Germany
 DJ,Djibouti
+DK,Denmark
 DM,Dominica
 DO,"Dominican Republic"
-TL,"East Timor"
+DZ,Aljeria
 EC,Ecuador
-EG,Egypt
-SV,"El Salvador"
-GQ,"Equatorial Guinea"
-ER,Eritrea
 EE,Estonia
+EG,Egypt
+ER,Eritrea
+ES,Spain
 ET,Etiopia
-EU,"European Union"
-FO,"Faroe Islands"
-FJ,Fiji
 FI,Finland
+FJ,Fiji
+FK,"Zvitsuwa zveFalklands"
+FM,Micronesia
 FR,France
-GF,"French Guiana"
-PF,"French Polynesia"
-TF,"French Southern Territories"
 GA,Gabon
-GM,Gambia
+GB,"United Kingdom"
+GD,Grenada
 GE,Georgia
-DE,Germany
+GF,"French Guiana"
 GH,Ghana
 GI,Gibraltar
-GR,Greece
 GL,Greenland
-GD,Grenada
-GP,Guadeloupe
-GU,Guam
-GT,Guatemala
-GG,Guernsey
+GM,Gambia
 GN,Guinea
+GP,Guadeloupe
+GQ,"Equatorial Guinea"
+GR,Greece
+GT,Guatemala
+GU,Guam
 GW,Guinea-Bissau
 GY,Guyana
-HT,Haiti
-HM,"Heard Island and McDonald Islands"
 HN,Honduras
-HK,"Hong Kong SAR China"
-HU,Hungary
-IS,Iceland
-IN,India
-ID,Indonesia
-IR,Iran
-IQ,Iraq
-IE,Ireland
-IM,"Isle of Man"
-IT,Italy
-CI,"Ivory Coast"
-IL,Izuraeri
-JM,Jamaica
-JP,Japan
-JE,Jersey
-JO,Jordan
-KH,Kambodia
-CM,Kameruni
-CA,Kanada
-KZ,Kazakhstan
-KE,Kenya
-KI,Kiribati
-CO,Kolombia
-KM,Komoro
-CG,Kongo
 HR,Korasia
+HT,Haiti
+HU,Hungary
+ID,Indonesia
+IE,Ireland
+IL,Izuraeri
+IN,India
+IO,"British Indian Ocean Territory"
+IQ,Iraq
+IR,Iran
+IS,Iceland
+IT,Italy
+JM,Jamaica
+JO,Jordan
+JP,Japan
+KE,Kenya
+KG,Kyrgyzstan
+KH,Kambodia
+KI,Kiribati
+KM,Komoro
+KN,"Saint Kitts and Nevis"
 KP,"Korea, North"
 KR,"Korea, South"
-CR,Kostarika
 KW,Kuwait
-KG,Kyrgyzstan
+KY,"Zvitsuwa zveCayman"
+KZ,Kazakhstan
 LA,Laos
-LV,Latvia
 LB,Lebanon
-LS,Lesotho
-LR,Liberia
-LY,Libya
+LC,"Saint Lucia"
 LI,Liechtenstein
+LK,"Sri Lanka"
+LR,Liberia
+LS,Lesotho
 LT,Lithuania
 LU,Luxembourg
-MO,"Macau SAR China"
-MK,Macedonia
+LV,Latvia
+LY,Libya
+MA,Morocco
+MC,Monaco
+MD,Moldova
 MG,Madagascar
-MW,Malawi
-MY,Malaysia
-MV,Maldives
+MH,"Zvitsuwa zveMarshall"
+MK,Macedonia
 ML,Mali
-MT,Malta
+MM,Myanmar
+MN,Mongolia
+MP,"Zvitsuwa zvekumaodzanyemba eMariana"
 MQ,Martinique
 MR,Mauritania
-MU,Mauritius
-YT,Mayotte
-MX,Mexico
-FM,Micronesia
-MD,Moldova
-MC,Monaco
-MN,Mongolia
-ME,Montenegro
 MS,Montserrat
-MA,Morocco
+MT,Malta
+MU,Mauritius
+MV,Maldives
+MW,Malawi
+MX,Mexico
+MY,Malaysia
 MZ,Mozambique
-MM,Myanmar
 NA,Namibia
-NR,Nauru
-NP,Nepal
-NL,Netherlands
-AN,"Netherlands Antilles"
 NC,"New Caledonia"
-NZ,"New Zealand"
-NI,Nicaragua
 NE,Niger
+NF,"Chitsuwa cheNorfolk"
 NG,Nigeria
-NU,Niue
+NI,Nicaragua
+NL,Netherlands
 NO,Norway
+NP,Nepal
+NR,Nauru
+NU,Niue
+NZ,"New Zealand"
 OM,Oman
-QO,"Outlying Oceania"
-PK,Pakistan
-PW,Palau
 PA,Panama
-PG,"Papua New Guinea"
-PY,Paraguay
 PE,Peru
+PF,"French Polynesia"
+PG,"Papua New Guinea"
 PH,Philippines
-PN,Pitcairn
+PK,Pakistan
 PL,Poland
-PT,Portugal
+PM,"Saint Pierre and Miquelon"
+PN,Pitcairn
 PR,"Puerto Rico"
+PS,
+PT,Portugal
+PW,Palau
+PY,Paraguay
 QA,Qatar
 RE,Réunion
 RO,Romania
 RU,Russia
 RW,Rwanda
-BL,"Saint Barthélemy"
-SH,"Saint Helena"
-KN,"Saint Kitts and Nevis"
-LC,"Saint Lucia"
-MF,"Saint Martin"
-PM,"Saint Pierre and Miquelon"
-VC,"Saint Vincent and the Grenadines"
-WS,Samoa
-AS,"Samoa ye Amerika"
-SM,"San Marino"
-ST,"São Tomé and Príncipe"
 SA,"Saudi Arabia"
-SN,Senegal
-RS,Serbia
-CS,"Serbia and Montenegro"
+SB,"Zvitsuwa zvaSolomon"
 SC,Seychelles
-SL,"Sierra Leone"
-SG,Singapore
-SK,Slovakia
-SI,Slovenia
-SO,Somalia
-ZA,"South Africa"
-GS,"South Georgia and the South Sandwich Islands"
-ES,Spain
-LK,"Sri Lanka"
 SD,Sudan
-SR,Suriname
-SJ,"Svalbard and Jan Mayen"
-SZ,Swaziland
 SE,Sweden
-CH,Switzerland
+SG,Singapore
+SH,"Saint Helena"
+SI,Slovenia
+SK,Slovakia
+SL,"Sierra Leone"
+SM,"San Marino"
+SN,Senegal
+SO,Somalia
+SR,Suriname
+ST,"São Tomé and Príncipe"
+SV,"El Salvador"
 SY,Syria
-TW,Taiwan
-TJ,Tajikistan
-TZ,Tanzania
-TH,Thailand
+SZ,Swaziland
+TC,"Zvitsuwa zveTurk neCaico"
+TD,Chadi
 TG,Togo
+TH,Thailand
+TJ,Tajikistan
 TK,Tokelau
-TO,Tonga
-TT,"Trinidad and Tobago"
-TA,"Tristan da Cunha"
-TN,Tunisia
-TR,Turkey
+TL,"East Timor"
 TM,Turkmenistan
+TN,Tunisia
+TO,Tonga
+TR,Turkey
+TT,"Trinidad and Tobago"
 TV,Tuvalu
-UM,"U.S. Minor Outlying Islands"
-UG,Uganda
+TW,Taiwan
+TZ,Tanzania
 UA,Ukraine
-AE,"United Arab Emirates"
-GB,"United Kingdom"
+UG,Uganda
+US,Amerika
 UY,Uruguay
 UZ,Uzbekistan
-VU,Vanuatu
 VA,"Vatican State"
+VC,"Saint Vincent and the Grenadines"
 VE,Venezuela
+VG,"Zvitsuwa zveHingirandi"
+VI,"Zvitsuwa zveAmerika"
 VN,Vietnam
+VU,Vanuatu
 WF,"Wallis and Futuna"
-EH,"Western Sahara"
+WS,Samoa
 YE,Yemen
+YT,Mayotte
+ZA,"South Africa"
 ZM,Zambia
 ZW,Zimbabwe
-SB,"Zvitsuwa zvaSolomon"
-VI,"Zvitsuwa zveAmerika"
-CV,"Zvitsuwa zveCape Verde"
-KY,"Zvitsuwa zveCayman"
-CK,"Zvitsuwa zveCook"
-FK,"Zvitsuwa zveFalklands"
-VG,"Zvitsuwa zveHingirandi"
-MP,"Zvitsuwa zvekumaodzanyemba eMariana"
-MH,"Zvitsuwa zveMarshall"
-TC,"Zvitsuwa zveTurk neCaico"

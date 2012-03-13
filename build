@@ -26,6 +26,7 @@ $locale = new Locale();
 $filesystem = new Filesystem();
 $dumperIterator = new Iterator();
 $filesystem->mkdir($rootDir = sprintf('%s/country', __DIR__));
+Cldr::disableCache(true);
 foreach ($locale->getLocaleList() as $language => $bool) {
     $filesystem->mkdir($dir = sprintf('%s/%s', $rootDir, $language));
     $countries = Cldr::getDisplayTerritory($language);

@@ -1,255 +1,290 @@
-AF: Afghanistan
-AL: Albanien
-DZ: Algeriet
-VI: 'Amerikanska Jungfruöarna'
-AS: 'Amerikanska Samoa'
-AD: Andorra
-AO: Angola
-AI: Anguilla
-AQ: Antarktis
-AG: 'Antigua och Barbuda'
-AR: Argentina
-AM: Armenien
-AW: Aruba
+'001': världen
+'002': Afrika
+'003': Nordamerika
+'005': Sydamerika
+'009': Oceanien
+'011': Västafrika
+'013': Centralamerika
+'014': Östafrika
+'015': Nordafrika
+'017': Centralafrika
+'018': 'södra Afrika'
+'019': 'Nord- och Sydamerika'
+'021': 'norra Amerika'
+'029': Karibien
+'030': Östasien
+'034': 'södra Asien'
+'035': Sydostasien
+'039': Sydeuropa
+'053': 'Australien och Nya Zeeland'
+'054': Melanesien
+'057': 'Mikronesiska öarna'
+'061': Polynesien
+'062': 'södra Centralasien'
 AC: Ascension
+AD: Andorra
+AE: 'Förenade Arabemiraten'
+AF: Afghanistan
+AG: 'Antigua och Barbuda'
+AI: Anguilla
+AL: Albanien
+AM: Armenien
+AN: 'Nederländska Antillerna'
+AO: Angola
+AQ: Antarktis
+AR: Argentina
+AS: 'Amerikanska Samoa'
+AT: Österrike
 AU: Australien
+AW: Aruba
+AX: Åland
 AZ: Azerbajdzjan
-BS: Bahamas
-BH: Bahrain
-BD: Bangladesh
-BB: Barbados
-BE: Belgien
-BZ: Belize
-BJ: Benin
-BM: Bermuda
-BT: Bhutan
-BO: Bolivia
 BA: 'Bosnien och Hercegovina'
-BW: Botswana
-BV: Bouvetön
-BR: Brasilien
-IO: 'Brittiska Indiska oceanöarna'
-VG: 'Brittiska Jungfruöarna'
-BN: Brunei
-BG: Bulgarien
+BB: Barbados
+BD: Bangladesh
+BE: Belgien
 BF: 'Burkina Faso'
+BG: Bulgarien
+BH: Bahrain
 BI: Burundi
-KY: Caymanöarna
+BJ: Benin
+BL: 'S:t Barthélemy'
+BM: Bermuda
+BN: Brunei
+BO: Bolivia
+BR: Brasilien
+BS: Bahamas
+BT: Bhutan
+BV: Bouvetön
+BW: Botswana
+BY: Vitryssland
+BZ: Belize
+CA: Kanada
+CC: Kokosöarna
+CD: Kongo-Kinshasa
 CF: 'Centralafrikanska republiken'
-EA: 'Ceuta och Melilla'
-CL: Chile
-CP: Clippertonön
-CO: Colombia
+CG: Kongo-Brazzaville
+CH: Schweiz
+CI: Elfenbenskusten
 CK: Cooköarna
+CL: Chile
+CM: Kamerun
+CN: Kina
+CO: Colombia
+CP: Clippertonön
 CR: 'Costa Rica'
+CS: 'Serbien och Montenegro'
+CU: Kuba
+CV: 'Kap Verde'
+CX: Julön
 CY: Cypern
-DK: Danmark
+CZ: Tjeckien
+DE: Tyskland
 DG: 'Diego Garcia'
 DJ: Djibouti
+DK: Danmark
 DM: Dominica
 DO: 'Dominikanska republiken'
+DZ: Algeriet
+EA: 'Ceuta och Melilla'
 EC: Ecuador
-EG: Egypten
-GQ: Ekvatorialguinea
-SV: 'El Salvador'
-CI: Elfenbenskusten
-ER: Eritrea
 EE: Estland
+EG: Egypten
+EH: Västsahara
+ER: Eritrea
+ES: Spanien
 ET: Etiopien
 EU: 'Europeiska unionen'
-FK: Falklandsöarna
-FJ: Fiji
-PH: Filippinerna
 FI: Finland
-FR: Frankrike
-GF: 'Franska Guyana'
-PF: 'Franska Polynesien'
-TF: 'Franska Sydterritorierna'
+FJ: Fiji
+FK: Falklandsöarna
+FM: Mikronesien
 FO: Färöarna
-AE: 'Förenade Arabemiraten'
+FR: Frankrike
+FX: 'Europeiska Frankrike'
 GA: Gabon
-GM: Gambia
+GB: Storbritannien
+GD: Grenada
 GE: Georgien
+GF: 'Franska Guyana'
+GG: Guernsey
 GH: Ghana
 GI: Gibraltar
-GR: Grekland
-GD: Grenada
 GL: Grönland
-GP: Guadeloupe
-GU: Guam
-GT: Guatemala
-GG: Guernsey
+GM: Gambia
 GN: Guinea
+GP: Guadeloupe
+GQ: Ekvatorialguinea
+GR: Grekland
+GS: 'Sydgeorgien och Södra Sandwichöarna'
+GT: Guatemala
+GU: Guam
 GW: Guinea-Bissau
 GY: Guyana
-HT: Haiti
+HK: 'Hongkong (S.A.R. Kina)'
 HM: 'Heard- och McDonaldöarna'
 HN: Honduras
-HK: 'Hongkong (S.A.R. Kina)'
-IN: Indien
+HR: Kroatien
+HT: Haiti
+HU: Ungern
+IC: Kanarieöarna
 ID: Indonesien
+IE: Irland
+IL: Israel
+IM: 'Isle of Man'
+IN: Indien
+IO: 'Brittiska Indiska oceanöarna'
 IQ: Irak
 IR: Iran
-IE: Irland
 IS: Island
-IM: 'Isle of Man'
-IL: Israel
 IT: Italien
-JM: Jamaica
-JP: Japan
-YE: Jemen
 JE: Jersey
+JM: Jamaica
 JO: Jordanien
-CX: Julön
-KH: Kambodja
-CM: Kamerun
-CA: Kanada
-IC: Kanarieöarna
-CV: 'Kap Verde'
-KZ: Kazakstan
+JP: Japan
 KE: Kenya
-CN: Kina
 KG: Kirgizistan
+KH: Kambodja
 KI: Kiribati
-CC: Kokosöarna
 KM: Komorerna
-CG: Kongo-Brazzaville
-CD: Kongo-Kinshasa
-HR: Kroatien
-CU: Kuba
+KN: 'S:t Kitts och Nevis'
+KP: Nordkorea
+KR: Sydkorea
 KW: Kuwait
+KY: Caymanöarna
+KZ: Kazakstan
 LA: Laos
-LS: Lesotho
-LV: Lettland
 LB: Libanon
-LR: Liberia
-LY: Libyen
+LC: 'S:t Lucia'
 LI: Liechtenstein
+LK: 'Sri Lanka'
+LR: Liberia
+LS: Lesotho
 LT: Litauen
 LU: Luxemburg
-MO: 'Macao (S.A.R. Kina)'
-MG: Madagaskar
-MK: Makedonien
-MW: Malawi
-MY: Malaysia
-MV: Maldiverna
-ML: Mali
-MT: Malta
+LV: Lettland
+LY: Libyen
 MA: Marocko
+MC: Monaco
+MD: Moldavien
+ME: Montenegro
+MF: 'S:t Martin'
+MG: Madagaskar
 MH: Marshallöarna
+MK: Makedonien
+ML: Mali
+MM: Myanmar
+MN: Mongoliet
+MO: 'Macao (S.A.R. Kina)'
+MP: Nordmarianerna
 MQ: Martinique
 MR: Mauretanien
-MU: Mauritius
-YT: Mayotte
-MX: Mexiko
-FM: Mikronesien
-MZ: Moçambique
-MD: Moldavien
-MC: Monaco
-MN: Mongoliet
-ME: Montenegro
 MS: Montserrat
-MM: Myanmar
+MT: Malta
+MU: Mauritius
+MV: Maldiverna
+MW: Malawi
+MX: Mexiko
+MY: Malaysia
+MZ: Moçambique
 NA: Namibia
-NR: Nauru
-NL: Nederländerna
-AN: 'Nederländska Antillerna'
-NP: Nepal
-NI: Nicaragua
-NE: Niger
-NG: Nigeria
-NU: Niue
-KP: Nordkorea
-MP: Nordmarianerna
-NF: Norfolkön
-NO: Norge
 NC: 'Nya Kaledonien'
+NE: Niger
+NF: Norfolkön
+NG: Nigeria
+NI: Nicaragua
+NL: Nederländerna
+NO: Norge
+NP: Nepal
+NR: Nauru
+NU: Niue
 NZ: 'Nya Zeeland'
 OM: Oman
-PK: Pakistan
-PW: Palau
-PS: 'Palestinska territoriet'
 PA: Panama
-PG: 'Papua Nya Guinea'
-PY: Paraguay
 PE: Peru
-PN: Pitcairn
+PF: 'Franska Polynesien'
+PG: 'Papua Nya Guinea'
+PH: Filippinerna
+PK: Pakistan
 PL: Polen
-PT: Portugal
+PM: 'S:t Pierre och Miquelon'
+PN: Pitcairn
 PR: 'Puerto Rico'
+PS: 'Palestinska territoriet'
+PT: Portugal
+PW: Palau
+PY: Paraguay
 QA: Qatar
+QO: 'Yttre öar i Oceanien'
 RE: Réunion
 RO: Rumänien
-RW: Rwanda
-RU: Ryssland
-BL: 'S:t Barthélemy'
-SH: 'S:t Helena'
-KN: 'S:t Kitts och Nevis'
-LC: 'S:t Lucia'
-MF: 'S:t Martin'
-PM: 'S:t Pierre och Miquelon'
-VC: 'S:t Vincent och Grenadinerna'
-SB: Salomonöarna
-WS: Samoa
-SM: 'San Marino'
-ST: 'São Tomé och Príncipe'
-SA: Saudiarabien
-CH: Schweiz
-SN: Senegal
 RS: Serbien
-CS: 'Serbien och Montenegro'
+RU: Ryssland
+RW: Rwanda
+SA: Saudiarabien
+SB: Salomonöarna
 SC: Seychellerna
-SL: 'Sierra Leone'
-SG: Singapore
-SK: Slovakien
-SI: Slovenien
-SO: Somalia
-ES: Spanien
-LK: 'Sri Lanka'
-GB: Storbritannien
 SD: Sudan
-SR: Surinam
-SJ: 'Svalbard och Jan Mayen'
 SE: Sverige
-SZ: Swaziland
-ZA: Sydafrika
-GS: 'Sydgeorgien och Södra Sandwichöarna'
-KR: Sydkorea
+SG: Singapore
+SH: 'S:t Helena'
+SI: Slovenien
+SJ: 'Svalbard och Jan Mayen'
+SK: Slovakien
+SL: 'Sierra Leone'
+SM: 'San Marino'
+SN: Senegal
+SO: Somalia
+SR: Surinam
+ST: 'São Tomé och Príncipe'
+SV: 'El Salvador'
 SY: Syrien
+SZ: Swaziland
+TA: 'Tristan da Cunha'
+TC: 'Turks- och Caicosöarna'
+TD: Tchad
+TF: 'Franska Sydterritorierna'
+TG: Togo
+TH: Thailand
 TJ: Tadzjikistan
+TK: Tokelau
+TL: Östtimor
+TM: Turkmenistan
+TN: Tunisien
+TO: Tonga
+TR: Turkiet
+TT: 'Trinidad och Tobago'
+TV: Tuvalu
 TW: Taiwan
 TZ: Tanzania
-TD: Tchad
-TH: Thailand
-CZ: Tjeckien
-TG: Togo
-TK: Tokelau
-TO: Tonga
-TT: 'Trinidad och Tobago'
-TA: 'Tristan da Cunha'
-TN: Tunisien
-TR: Turkiet
-TM: Turkmenistan
-TC: 'Turks- och Caicosöarna'
-TV: Tuvalu
-DE: Tyskland
-UG: Uganda
 UA: Ukraina
-HU: Ungern
-UY: Uruguay
-US: USA
+UG: Uganda
 UM: 'USA:s yttre öar'
+US: USA
+UY: Uruguay
 UZ: Uzbekistan
-VU: Vanuatu
 VA: Vatikanstaten
+VC: 'S:t Vincent och Grenadinerna'
 VE: Venezuela
+VG: 'Brittiska Jungfruöarna'
+VI: 'Amerikanska Jungfruöarna'
 VN: Vietnam
-BY: Vitryssland
-EH: Västsahara
+VU: Vanuatu
 WF: 'Wallis- och Futunaöarna'
-QO: 'Yttre öar i Oceanien'
+WS: Samoa
+YE: Jemen
+YT: Mayotte
+ZA: Sydafrika
 ZM: Zambia
 ZW: Zimbabwe
-AX: Åland
-AT: Österrike
-TL: Östtimor
+ZZ: 'okänd eller ogiltig regionkod'
+142: Asien
+143: Centralasien
+145: Västasien
+150: Europa
+151: Östeuropa
+154: Nordeuropa
+155: Västeuropa
+172: 'Oberoende staters samvälde'
+419: 'Latinamerika och Karibien'
+830: Kanalöarna

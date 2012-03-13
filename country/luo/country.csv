@@ -1,256 +1,227 @@
 id,name
-AF,Afghanistan
-AX,"Åland Islands"
-AL,Albania
-DZ,Algeria
-AS,"American Samoa"
 AD,Andorra
-AO,Angola
-AI,Anguilla
-AQ,Antarctica
+AE,"United Arab Emirates"
+AF,Afghanistan
 AG,"Antigua gi Barbuda"
-AR,Argentina
+AI,Anguilla
+AL,Albania
 AM,Armenia
-AW,Aruba
-AC,"Ascension Island"
-AU,Australia
+AN,"Netherlands Antilles"
+AO,Angola
+AR,Argentina
+AS,"American Samoa"
 AT,Austria
+AU,Australia
+AW,Aruba
 AZ,Azerbaijan
-BS,Bahamas
-BH,Bahrain
-BD,Bangladesh
+BA,"Bosnia gi Herzegovina"
 BB,Barbados
-BY,Belarus
+BD,Bangladesh
 BE,Belgium
-BZ,Belize
+BF,"Burkina Faso"
+BG,Bulgaria
+BH,Bahrain
+BI,Burundi
 BJ,Benin
 BM,Bermuda
-BT,Bhutan
-BO,Bolivia
-BA,"Bosnia gi Herzegovina"
-BW,Botswana
-BV,"Bouvet Island"
-BR,Brazil
-IO,"British Indian Ocean Territory"
-VG,"British Virgin Islands"
 BN,Brunei
-BG,Bulgaria
-BF,"Burkina Faso"
-BI,Burundi
-KH,Cambodia
-CM,Cameroon
+BO,Bolivia
+BR,Brazil
+BS,Bahamas
+BT,Bhutan
+BW,Botswana
+BY,Belarus
+BZ,Belize
 CA,Canada
-IC,"Canary Islands"
-CV,"Cape Verde Islands"
-KY,"Cayman Islands"
+CD,"Democratic Republic of the Congo"
 CF,"Central African Republic"
-EA,"Ceuta and Melilla"
-TD,Chad
-CL,Chile
-CN,China
-CX,"Christmas Island"
-FK,"Chuia mar Falkland"
-MH,"Chuia mar Marshall"
-NF,"Chuia mar Norfolk"
-CP,"Clipperton Island"
-CC,"Cocos [Keeling] Islands"
-CO,Colombia
-KM,Comoros
 CG,Congo
-CK,"Cook Islands"
-CR,"Costa Rica"
+CH,Switzerland
 CI,"Côte d"
-HR,Croatia
+CK,"Cook Islands"
+CL,Chile
+CM,Cameroon
+CN,China
+CO,Colombia
+CR,"Costa Rica"
+CS,"Serbia gi Montenegro"
 CU,Cuba
+CV,"Cape Verde Islands"
 CY,Cyprus
 CZ,"Czech Republic"
-CD,"Democratic Republic of the Congo"
-DK,Denmark
-DG,"Diego Garcia"
+DE,Germany
 DJ,Djibouti
+DK,Denmark
 DM,Dominica
 DO,"Dominican Republic"
-TL,"East Timor"
+DZ,Algeria
 EC,Ecuador
-EG,Egypt
-SV,"El Salvador"
-GQ,"Equatorial Guinea"
-ER,Eritrea
 EE,Estonia
+EG,Egypt
+ER,Eritrea
+ES,Spain
 ET,Ethiopia
-EU,"European Union"
-FO,"Faroe Islands"
-FJ,Fiji
 FI,Finland
+FJ,Fiji
+FK,"Chuia mar Falkland"
+FM,Micronesia
 FR,France
-GF,"French Guiana"
-PF,"French Polynesia"
-TF,"French Southern Territories"
 GA,Gabon
-GM,Gambia
+GB,"United Kingdom"
+GD,Grenada
 GE,Georgia
-DE,Germany
+GF,"French Guiana"
 GH,Ghana
 GI,Gibraltar
-GR,Greece
 GL,Greenland
-GD,Grenada
-GP,Guadeloupe
-GU,Guam
-GT,Guatemala
-GG,Guernsey
+GM,Gambia
 GN,Guinea
+GP,Guadeloupe
+GQ,"Equatorial Guinea"
+GR,Greece
+GT,Guatemala
+GU,Guam
 GW,Guinea-Bissau
 GY,Guyana
-HT,Haiti
-HM,"Heard Island and McDonald Islands"
 HN,Honduras
-HK,"Hong Kong SAR China"
+HR,Croatia
+HT,Haiti
 HU,Hungary
-IS,Iceland
-IN,India
 ID,Indonesia
-IR,Iran
-IQ,Iraq
 IE,Ireland
-IM,"Isle of Man"
 IL,Israel
+IN,India
+IO,"British Indian Ocean Territory"
+IQ,Iraq
+IR,Iran
+IS,Iceland
 IT,Italy
 JM,Jamaica
-JP,Japan
-JE,Jersey
 JO,Jordan
-KZ,Kazakhstan
+JP,Japan
 KE,Kenya
+KG,Kyrgyzstan
+KH,Cambodia
 KI,Kiribati
+KM,Comoros
+KN,"Saint Kitts gi Nevis"
 KP,"Korea Masawa"
 KR,"Korea Milambo"
 KW,Kuwait
-KG,Kyrgyzstan
+KY,"Cayman Islands"
+KZ,Kazakhstan
 LA,Laos
-LV,Latvia
 LB,Lebanon
-LS,Lesotho
-LR,Liberia
-LY,Libya
+LC,"Saint Lucia"
 LI,Liechtenstein
+LK,"Sri Lanka"
+LR,Liberia
+LS,Lesotho
 LT,Lithuania
 LU,Luxembourg
-MO,"Macau SAR China"
-MK,Macedonia
+LV,Latvia
+LY,Libya
+MA,Morocco
+MC,Monaco
+MD,Moldova
 MG,Madagascar
-MW,Malawi
-MY,Malaysia
-MV,Maldives
+MH,"Chuia mar Marshall"
+MK,Macedonia
 ML,Mali
-MT,Malta
+MM,Myanmar
+MN,Mongolia
+MP,"Northern Mariana Islands"
 MQ,Martinique
 MR,Mauritania
-MU,Mauritius
-YT,Mayotte
-MX,Mexico
-FM,Micronesia
-MD,Moldova
-MC,Monaco
-MN,Mongolia
-ME,Montenegro
 MS,Montserrat
-MA,Morocco
+MT,Malta
+MU,Mauritius
+MV,Maldives
+MW,Malawi
+MX,Mexico
+MY,Malaysia
 MZ,Mozambique
-MM,Myanmar
 NA,Namibia
-NR,Nauru
-NP,Nepal
-NL,Netherlands
-AN,"Netherlands Antilles"
 NC,"New Caledonia"
-NZ,"New Zealand"
-NI,Nicaragua
 NE,Niger
+NF,"Chuia mar Norfolk"
 NG,Nigeria
-NU,Niue
-MP,"Northern Mariana Islands"
+NI,Nicaragua
+NL,Netherlands
 NO,Norway
+NP,Nepal
+NR,Nauru
+NU,Niue
+NZ,"New Zealand"
 OM,Oman
-QO,"Outlying Oceania"
-PK,Pakistan
-PW,Palau
-PS,"Palestinian West Bank gi Gaza"
 PA,Panama
-PG,"Papua New Guinea"
-PY,Paraguay
 PE,Peru
+PF,"French Polynesia"
+PG,"Papua New Guinea"
 PH,Philippines
-PN,Pitcairn
+PK,Pakistan
 PL,Poland
-PT,Portugal
+PM,"Saint Pierre gi Miquelon"
+PN,Pitcairn
 PR,"Puerto Rico"
+PS,"Palestinian West Bank gi Gaza"
+PT,Portugal
+PW,Palau
+PY,Paraguay
 QA,Qatar
 RE,Réunion
 RO,Romania
 RU,Russia
 RW,Rwanda
-BL,"Saint Barthélemy"
-SH,"Saint Helena"
-KN,"Saint Kitts gi Nevis"
-LC,"Saint Lucia"
-MF,"Saint Martin"
-PM,"Saint Pierre gi Miquelon"
-VC,"Saint Vincent gi Grenadines"
-WS,Samoa
-SM,"San Marino"
-ST,"São Tomé gi Príncipe"
 SA,"Saudi Arabia"
-SN,Senegal
-RS,Serbia
-CS,"Serbia gi Montenegro"
-SC,Seychelles
-SL,"Sierra Leone"
-SG,Singapore
-SK,Slovakia
-SI,Slovenia
 SB,"Solomon Islands"
-SO,Somalia
-ZA,"South Africa"
-GS,"South Georgia and the South Sandwich Islands"
-ES,Spain
-LK,"Sri Lanka"
+SC,Seychelles
 SD,Sudan
-SR,Suriname
-SJ,"Svalbard and Jan Mayen"
-SZ,Swaziland
 SE,Sweden
-CH,Switzerland
+SG,Singapore
+SH,"Saint Helena"
+SI,Slovenia
+SK,Slovakia
+SL,"Sierra Leone"
+SM,"San Marino"
+SN,Senegal
+SO,Somalia
+SR,Suriname
+ST,"São Tomé gi Príncipe"
+SV,"El Salvador"
 SY,Syria
-TW,Taiwan
-TJ,Tajikistan
-TZ,Tanzania
-TH,Thailand
-TG,Togo
-TK,Tokelau
-TO,Tonga
-TT,"Trinidad gi Tobago"
-TA,"Tristan da Cunha"
-TN,Tunisia
-TR,Turkey
-TM,Turkmenistan
+SZ,Swaziland
 TC,"Turks gi Caicos Islands"
+TD,Chad
+TG,Togo
+TH,Thailand
+TJ,Tajikistan
+TK,Tokelau
+TL,"East Timor"
+TM,Turkmenistan
+TN,Tunisia
+TO,Tonga
+TR,Turkey
+TT,"Trinidad gi Tobago"
 TV,Tuvalu
-UM,"U.S. Minor Outlying Islands"
-VI,"U.S. Virgin Islands"
-UG,Uganda
+TW,Taiwan
+TZ,Tanzania
 UA,Ukraine
-AE,"United Arab Emirates"
-GB,"United Kingdom"
-UY,Uruguay
+UG,Uganda
 US,USA
+UY,Uruguay
 UZ,Uzbekistan
-VU,Vanuatu
 VA,"Vatican State"
+VC,"Saint Vincent gi Grenadines"
 VE,Venezuela
+VG,"British Virgin Islands"
+VI,"U.S. Virgin Islands"
 VN,Vietnam
+VU,Vanuatu
 WF,"Wallis gi Futuna"
-EH,"Western Sahara"
+WS,Samoa
 YE,Yemen
+YT,Mayotte
+ZA,"South Africa"
 ZM,Zambia
 ZW,Zimbabwe

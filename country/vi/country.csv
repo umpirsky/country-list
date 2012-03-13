@@ -1,256 +1,276 @@
 id,name
-SA,"A-rập Xê-út"
-AR,Ác-hen-ti-na
-AM,Ác-mê-ni-a
-EG,"Ai Cập"
-AZ,Ai-déc-bai-gian
-IE,Ai-len
-IS,Ai-xơ-len
-AL,An-ba-ni
-DZ,An-giê-ri
-AG,"An-ti-gu-a và Ba-bu-đa"
+001,"Thế giới"
+002,"Châu Phi"
+003,"Bắc Mỹ"
+005,"Nam Mỹ"
+009,"Châu Đại Dương"
+011,"Tây Phi"
+013,"Trung Mỹ"
+014,"Đông Phí"
+015,"Bắc Phi"
+017,"Trung Phi"
+018,"Miền Nam Châu Phi"
+019,"Châu Mỹ"
+021,"Miền Bắc Châu Mỹ"
+029,Ca-ri-bê
+030,"Đông Á"
+034,"Nam Á"
+035,"Đông Nam Á"
+039,"Nam Âu"
+053,"Úc và New Zealand"
+054,Melanesia
+057,"Vùng Micronesian"
+061,Polynesia
+062,"Trung Nam Á"
+AC,"Đảo Ascension"
 AD,Andorra
-AI,Anguilla
-AT,Áo
+AE,"Các Tiểu Vương quốc A-rập Thống nhất"
 AF,Áp-ga-ni-xtan
-AW,Aruba
-AC,"Ascension Island"
+AG,"An-ti-gu-a và Ba-bu-đa"
+AL,An-ba-ni
+AM,Ác-mê-ni-a
+AN,"Tây Ấn Hà Lan"
 AO,Ăng-gô-la
-IN,"Ấn Độ"
-PL,"Ba Lan"
-BS,Ba-ha-ma
-BH,Ba-ren
+AQ,"Nam Cực"
+AR,Ác-hen-ti-na
+AS,"Đảo Somoa thuộc Mỹ"
+AT,Áo
+AU,Úc
+AX,"Quần đảo Aland"
+AZ,Ai-déc-bai-gian
+BA,"Bô-xni-a Héc-xê-gô-vi-na"
 BB,Bác-ba-đốt
-KP,"Bắc Triều Tiên"
-GL,"Băng Đảo"
 BD,Băng-la-đét
-BM,Bermuda
+BE,Bỉ
+BF,"Buốc-ki-na Pha-xô"
+BG,Bun-ga-ri
+BH,Ba-ren
+BI,Bu-run-đi
+BJ,Bê-nanh
+BL,BL
+BN,Bru-nây
+BO,Bô-li-vi-a
+BR,Bra-xin
+BS,Ba-ha-ma
+BT,"Bu-tan (Bhutan)"
+BV,"Đảo Bouvet (Na Uy)"
+BW,Bốt-xoa-na
 BY,Bê-la-rút
 BZ,Bê-li-xê
-BJ,Bê-nanh
-BE,Bỉ
-BL,BL
-PT,"Bồ Đào Nha"
-BO,Bô-li-vi-a
-BA,"Bô-xni-a Héc-xê-gô-vi-na"
-BW,Bốt-xoa-na
-CI,"Bờ Biển Ngà"
-BR,Bra-xin
-BN,Bru-nây
-BI,Bu-run-đi
-BT,"Bu-tan (Bhutan)"
-BG,Bun-ga-ri
-BF,"Buốc-ki-na Pha-xô"
-CM,Ca-mơ-run
 CA,Ca-na-đa
-QA,Ca-ta
-UM,"Các đảo nhỏ xa trung tâm thuộc Mỹ"
-AE,"Các Tiểu Vương quốc A-rập Thống nhất"
-KH,Campuchia
-IC,"Canary Islands"
-CV,Cáp-ve
-EA,"Ceuta and Melilla"
-CL,Chi-lê
-CP,"Clipperton Island"
-CO,Cô-lôm-bi-a
-KM,Cô-mô
-KW,Cô-oét
+CC,"Quần đảo Cocos"
 CD,"Cộng hoà dân chủ Côngô"
-DO,"Cộng hoà Đô-mi-ni-ca"
-CZ,"Cộng hòa Séc"
 CF,"Cộng hòa Trung Phi"
 CG,Công-gô
+CH,"Thụy Sĩ"
+CI,"Bờ Biển Ngà"
+CK,"Quần Đảo Cook"
+CL,Chi-lê
+CM,Ca-mơ-run
+CN,"Trung Quốc"
+CO,Cô-lôm-bi-a
+CP,"Đảo Clipperton"
 CR,"Cốt-xta Ri-ca"
-HR,Crô-a-ti-a
+CS,Séc-bia
 CU,"Cu Ba"
-KG,Cư-rơ-gư-xtan
-ZM,Dăm-bi-a
-DG,"Diego Garcia"
-ZW,Dim-ba-bu-ê
-DM,Dominica
-TW,"Đài Loan"
-DK,"Đan Mạch"
-BV,"Đảo Bouvet (Na Uy)"
+CV,Cáp-ve
 CX,"Đảo Giáng Sinh"
-GU,"Đảo Gu-am"
-HM,"Đảo Heard và Quần đảo McDonald"
-IM,"Đảo Man"
-NF,"Đảo Norfolk"
-AS,"Đảo Somoa thuộc Mỹ"
-VG,"Đảo Virgin, thuộc Anh"
-HK,"Đặc khu hành chính Hồng Kông thuộc CHND Trung Hoa"
-MO,"Đặc khu hành chính Macao thuộc CHND Trung Hoa"
-TL,"Đông Ti-mo"
+CY,Síp
+CZ,"Cộng hòa Séc"
 DE,Đức
-EE,E-xtô-ni-a
-SV,En-san-va-đo
-EC,Ê-cu-a-đo
-ER,Ê-ri-tơ-rê-a
-ET,Ê-ti-ô-pi-a
-GA,Ga-bông
-GM,Găm-bi-a
-GH,Gha-na
-GN,Ghi-nê
-GW,"Ghi-nê Bít-xao"
-GQ,"Ghi-nê Xích-đạo"
+DG,"Diego Garcia"
 DJ,Gi-bu-ti
-GI,Gibraltar
-JO,Gióc-đa-ni
-GT,Goa-tê-ma-la
-GD,Grê-na-đa
-GE,Gru-di-a
-GP,Guadeloupe
-GG,Guernsey
-GY,Guy-a-na
-NL,"Hà Lan"
-HT,Ha-i-ti
-JM,Ha-mai-ca
-KR,"Hàn Quốc"
-US,"Hoa Kỳ"
-HN,Hôn-đu-rát
-HU,Hung-ga-ri
-GR,"Hy Lạp"
-IR,I-ran
-IQ,I-rắc
-IL,I-xra-en
-JE,Jersey
-KZ,Ka-dắc-xtan
-KE,Kê-ni-a
-KI,Ki-ri-ba-ti
-PS,"Lãnh thổ Palestine"
-LA,Lào
-LV,Lát-vi-a
-LS,Lê-xô-thô
-LB,Li-băng
-LR,Li-bê-ri-a
-LY,Li-bi
-LT,Li-tu-a-ni-a
-LI,Lich-ten-xtên
+DK,"Đan Mạch"
+DO,"Cộng hoà Đô-mi-ni-ca"
+DZ,An-giê-ri
+EA,"Ceuta và Melilla"
+EC,Ê-cu-a-đo
+EE,E-xtô-ni-a
+EG,"Ai Cập"
+EH,"Tây Sahara"
+ER,Ê-ri-tơ-rê-a
+ES,"Tây Ban Nha"
+ET,Ê-ti-ô-pi-a
 EU,"Liên Minh Châu Âu"
-LU,Lúc-xăm-bua
-MG,Ma-đa-gát-xca
-MW,Ma-la-uy
-MY,Ma-lay-xi-a
-ML,Ma-li
-MA,Ma-rốc
-MK,Ma-xê-đô-ni-a
-MV,Man-đi-vơ
-MT,Man-ta
-MX,Mê-hi-cô
-MF,MF
-MM,Mi-an-ma
-FM,Mi-crô-nê-xi-a
-ME,Montenegro
-MS,Montserrat
-MZ,Mô-dăm-bích
-MC,Mô-na-cô
-MR,Mô-ri-ta-ni
-MU,Mô-ri-xơ
-MD,Môn-đô-va
-MN,"Mông Cổ"
-MQ,MQ
-NO,"Na Uy"
-AQ,"Nam Cực"
-ID,"Nam Dương"
-ZA,"Nam Phi"
-NA,Nam-mi-bi-a
-NR,Nauru
-NC,"New Caledonia"
-NP,Nê-pan
-RU,Nga
-JP,"Nhật Bản"
-NI,Ni-ca-ra-goa
-NE,Ni-giê
-NG,Ni-giê-ri-a
-NZ,"Niu Di-lân"
-NU,Niue
-OM,Ô-man
-PK,Pa-ki-xtan
-PA,Pa-na-ma
-PG,"Pa-pu-a Niu Ghi-nê"
-PY,Pa-ra-goay
-PW,Palau
-PE,Pê-ru
-FR,Pháp
 FI,"Phần Lan"
 FJ,Phi-gi
-PH,Phi-lip-pin
-PN,"Pitcairn Islands"
-PF,"Polynesia thuộc Pháp"
-PR,"Puerto Rico"
-AX,"Quần đảo Aland"
-MP,"Quần Đảo Bắc Mariana"
-KY,"Quần Đảo Cayman"
-CC,"Quần đảo Cocos"
-CK,"Quần Đảo Cook"
 FK,"Quần Đảo Falkland"
+FM,Mi-crô-nê-xi-a
 FO,"Quần Đảo Faroe"
-MH,"Quần đảo Mác-san"
-GS,"Quần đảo Nam Georgia và Nam Sandwich"
-TC,"Quần Đảo Turk và Caicos"
-VI,"Quần đảo Virgin, Mỹ"
-SB,"Quần đảo Xô-lô-mông"
+FR,Pháp
+GA,Ga-bông
+GB,"Vương quốc Anh"
+GD,Grê-na-đa
+GE,Gru-di-a
 GF,"Quiana thuộc Pháp"
-RE,RE
-RW,Ru-an-đa
-RO,Ru-ma-ni
-SH,"Saint Helena"
-PM,"Saint Pierre và Miquelon"
-TD,Sát
-CS,Séc-bia
-CY,Síp
-SJ,"Svalbard và Jan Mayen"
-TZ,Tan-da-ni-a
-TJ,Tát-gi-ki-xtan
-AN,"Tây Ấn Hà Lan"
-ES,"Tây Ban Nha"
-EH,"Tây Sahara"
-TH,"Thái Lan"
-TR,"Thổ Nhĩ Kỳ"
+GG,Guernsey
+GH,Gha-na
+GL,"Băng Đảo"
+GM,Găm-bi-a
+GN,Ghi-nê
+GQ,"Ghi-nê Xích-đạo"
+GR,"Hy Lạp"
+GS,"Quần đảo Nam Georgia và Nam Sandwich"
+GT,Goa-tê-ma-la
+GU,"Đảo Gu-am"
+GW,"Ghi-nê Bít-xao"
+GY,Guy-a-na
+HK,"Đặc khu hành chính Hồng Kông thuộc CHND Trung Hoa"
+HM,"Đảo Heard và Quần đảo McDonald"
+HN,Hôn-đu-rát
+HR,Crô-a-ti-a
+HT,Ha-i-ti
+HU,Hung-ga-ri
+IC,"Quần đảo Canary"
+ID,"Nam Dương"
+IE,Ai-len
+IL,I-xra-en
+IM,"Đảo Man"
+IN,"Ấn Độ"
 IO,"Thuộc địa Anh tại Ấn Độ Dương"
-TF,"Thuộc Địa Nam của Pháp"
+IQ,I-rắc
+IR,I-ran
+IS,Ai-xơ-len
+IT,Ý
+JE,Jersey
+JM,Ha-mai-ca
+JO,Gióc-đa-ni
+JP,"Nhật Bản"
+KE,Kê-ni-a
+KG,Cư-rơ-gư-xtan
+KH,Campuchia
+KI,Ki-ri-ba-ti
+KM,Cô-mô
+KN,"Xan-kít và Nê-vi"
+KP,"Bắc Triều Tiên"
+KR,"Hàn Quốc"
+KW,Cô-oét
+KY,"Quần Đảo Cayman"
+KZ,Ka-dắc-xtan
+LA,Lào
+LB,Li-băng
+LC,"Xan Lu-xi"
+LI,Lich-ten-xtên
+LK,"Xri Lan-ca"
+LR,Li-bê-ri-a
+LS,Lê-xô-thô
+LT,Li-tu-a-ni-a
+LU,Lúc-xăm-bua
+LV,Lát-vi-a
+LY,Li-bi
+MA,Ma-rốc
+MC,Mô-na-cô
+MD,Môn-đô-va
+ME,Montenegro
+MF,MF
+MG,Ma-đa-gát-xca
+MH,"Quần đảo Mác-san"
+MK,Ma-xê-đô-ni-a
+ML,Ma-li
+MM,Mi-an-ma
+MN,"Mông Cổ"
+MO,"Đặc khu hành chính Macao thuộc CHND Trung Hoa"
+MP,"Quần Đảo Bắc Mariana"
+MQ,MQ
+MR,Mô-ri-ta-ni
+MT,Man-ta
+MU,Mô-ri-xơ
+MV,Man-đi-vơ
+MW,Ma-la-uy
+MX,Mê-hi-cô
+MY,Ma-lay-xi-a
+MZ,Mô-dăm-bích
+NA,Nam-mi-bi-a
+NC,"New Caledonia"
+NE,Ni-giê
+NF,"Đảo Norfolk"
+NG,Ni-giê-ri-a
+NI,Ni-ca-ra-goa
+NL,"Hà Lan"
+NO,"Na Uy"
+NP,Nê-pan
+NZ,"Niu Di-lân"
+OM,Ô-man
+PA,Pa-na-ma
+PE,Pê-ru
+PF,"Polynesia thuộc Pháp"
+PG,"Pa-pu-a Niu Ghi-nê"
+PH,Phi-lip-pin
+PK,Pa-ki-xtan
+PL,"Ba Lan"
+PM,"Saint Pierre và Miquelon"
+PS,"Lãnh thổ Palestine"
+PT,"Bồ Đào Nha"
+PY,Pa-ra-goay
+QA,Ca-ta
+QO,"Vùng xa xôi thuộc Châu Đại Dương"
+RE,RE
+RO,Ru-ma-ni
+RS,Xéc-bi
+RU,Nga
+RW,Ru-an-đa
+SA,"A-rập Xê-út"
+SB,"Quần đảo Xô-lô-mông"
+SC,Xây-sen
+SD,Xu-đăng
 SE,"Thụy Điển"
-CH,"Thụy Sĩ"
-TK,Tokelau
-TG,Tô-gô
-TO,Tông-ga
-TT,"Tri-ni-đát và Tô-ba-gô"
+SG,Xin-ga-po
+SH,"Saint Helena"
+SI,Xlô-ven-ni-a
+SJ,"Svalbard và Jan Mayen"
+SK,Xlô-va-ki-a
+SL,"Xi-ê-ra Lê-ôn"
+SM,"Xan Ma-ri-nô"
+SN,Xê-nê-gan
+SO,Xô-ma-li
+SR,Xu-ri-nam
+ST,"Xao Tô-mê và Prin-xi-pê"
+SV,En-san-va-đo
+SY,Xi-ri
+SZ,Xoa-di-len
 TA,"Tristan da Cunha"
-CN,"Trung Quốc"
-TV,Tu-va-lu
+TC,"Quần Đảo Turk và Caicos"
+TD,Sát
+TF,"Thuộc Địa Nam của Pháp"
+TG,Tô-gô
+TH,"Thái Lan"
+TJ,Tát-gi-ki-xtan
+TK,Tokelau
+TL,"Đông Ti-mo"
 TM,Tuốc-mê-ni-xtan
 TN,Tuy-ni-di
+TO,Tông-ga
+TR,"Thổ Nhĩ Kỳ"
+TT,"Tri-ni-đát và Tô-ba-gô"
+TV,Tu-va-lu
+TW,"Đài Loan"
+TZ,Tan-da-ni-a
 UA,U-crai-na
-UZ,U-dơ-bê-ki-xtan
 UG,U-gan-đa
+UM,"Các đảo nhỏ xa trung tâm thuộc Mỹ"
+US,"Hoa Kỳ"
 UY,U-ru-goay
-AU,Úc
-VU,Va-nu-a-tu
+UZ,U-dơ-bê-ki-xtan
 VA,Va-ti-căng
+VC,"Xan Vin-xen và Grê-na-din"
 VE,Vê-nê-zu-ê-la
+VG,"Đảo Virgin, thuộc Anh"
+VI,"Quần đảo Virgin, Mỹ"
 VN,"Việt Nam"
-QO,"Vùng xa xôi thuộc Châu Đại Dương"
-GB,"Vương quốc Anh"
+VU,Va-nu-a-tu
 WF,"Wallis và Futuna"
 WS,Xa-moa
-LC,"Xan Lu-xi"
-SM,"Xan Ma-ri-nô"
-VC,"Xan Vin-xen và Grê-na-din"
-KN,"Xan-kít và Nê-vi"
-ST,"Xao Tô-mê và Prin-xi-pê"
-SC,Xây-sen
-RS,Xéc-bi
-SN,Xê-nê-gan
-SL,"Xi-ê-ra Lê-ôn"
-SY,Xi-ri
-SG,Xin-ga-po
-SK,Xlô-va-ki-a
-SI,Xlô-ven-ni-a
-SZ,Xoa-di-len
-SO,Xô-ma-li
-LK,"Xri Lan-ca"
-SD,Xu-đăng
-SR,Xu-ri-nam
-IT,Ý
 YE,Y-ê-men
 YT,YT
+ZA,"Nam Phi"
+ZM,Dăm-bi-a
+ZW,Dim-ba-bu-ê
+ZZ,"Vùng Chưa biết hoặc không Hợp lệ"
+142,"Châu Á"
+143,"Trung Á"
+145,"Tây Á"
+150,"Âu Châu"
+151,"Đông Âu"
+154,"Miền Bắc Châu Âu"
+155,"Tây Âu"
+419,"Châu Mỹ La-tinh và Ca-ri-be"

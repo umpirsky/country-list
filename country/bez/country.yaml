@@ -1,255 +1,226 @@
-AX: 'Åland Islands'
-AQ: Antarctica
-AC: 'Ascension Island'
-BV: 'Bouvet Island'
-IC: 'Canary Islands'
-EA: 'Ceuta and Melilla'
-CX: 'Christmas Island'
-CP: 'Clipperton Island'
-CC: 'Cocos [Keeling] Islands'
-DG: 'Diego Garcia'
-EU: 'European Union'
-FO: 'Faroe Islands'
-TF: 'French Southern Territories'
-GG: Guernsey
-HM: 'Heard Island and McDonald Islands'
-HK: 'Hong Kong SAR China'
-ZA: 'Huafrika iya Hukusini'
-AF: Huafuganistani
-IS: Huaislandi
-AR: Huajendina
-AL: Hualbania
-DZ: Hualjelia
-AW: Hualuba
-AM: Huamenia
 AD: Huandola
-AO: Huangola
-AI: Huanguila
+AE: 'Hufalme dza Hihalabu'
+AF: Huafuganistani
 AG: 'Huantigua na Hubarubuda'
+AI: Huanguila
+AL: Hualbania
+AM: Huamenia
 AN: 'Huantili dza Huuholanzi'
+AO: Huangola
+AR: Huajendina
+AS: 'Husamoa ya Humalekani'
 AT: Huastlia
 AU: Huaustlalia
-IE: Huayalandi
+AW: Hualuba
 AZ: Huazabajani
+BA: 'Hubosinia na Huhezegovina'
 BB: Hubabadosi
-BH: Hubahaleni
-BS: Hubahama
 BD: Hubangaladeshi
+BE: Huubelgiji
+BF: Hubukinafaso
+BG: Hubulgaria
+BH: Hubahaleni
+BI: Huburundi
+BJ: Hubenini
+BM: Hubelmuda
+BN: Hubrunei
+BO: Hubolivia
+BR: Hublazili
+BS: Hubahama
+BT: Hubutani
+BW: Hubotiswana
 BY: Hubelalusi
 BZ: Hubelize
-BM: Hubelmuda
-BJ: Hubenini
-BR: Hublazili
-BO: Hubolivia
-BA: 'Hubosinia na Huhezegovina'
-BW: Hubotiswana
-BN: Hubrunei
-BF: Hubukinafaso
-MG: Hubukini
-BG: Hubulgaria
-BI: Huburundi
-BT: Hubutani
-TD: Huchadi
+CA: Hukanada
+CD: 'Ijamhuri ya Hidemokrasi ya Hukongo'
+CF: 'Ijamhuri ya Afrika ya Pagati'
+CG: Hukongo
+CH: Huuswisi
+CI: Hukodivaa
+CK: 'Ifisima fya Kook'
 CL: Huchile
+CM: Hukameruni
 CN: Huchina
+CO: Hukolombia
+CR: Hukostarika
+CS: 'Huselbia na Humonteneglo'
+CU: Hukuba
+CV: Hukepuvede
+CY: Hukuprosi
+CZ: 'Ijamhuri ya Cheki'
+DE: Huujerumani
+DJ: Hujibuti
 DK: Hudenmaki
 DM: Hudominika
+DO: 'Ijamhuri ya Hudominika'
+DZ: Hualjelia
 EC: Huekwado
-SV: Huelsavado
-ER: Hueritrea
 EE: Huestonia
-AE: 'Hufalme dza Hihalabu'
-FJ: Hufiji
-PH: Hufilipino
-GA: Hugaboni
-GM: Hugambia
-GH: Hughana
-GW: Huginebisau
-GQ: Huginekweta
-GD: Hugrenada
-GY: Huguyana
-GP: Hugwadelupe
-GU: Hugwam
-GT: Hugwatemala
-GF: 'Hugwiyana ya Huufaransa'
-HT: Huhaiti
+EG: Humisri
+ER: Hueritrea
 ES: Huhispania
+ET: Huuhabeshi
+FI: Huufini
+FJ: Hufiji
+FK: 'Ifisima fya Falkland'
+FM: Humikronesia
+FR: Huufaransa
+GA: Hugaboni
+GB: Huuingereza
+GD: Hugrenada
+GE: Hujojia
+GF: 'Hugwiyana ya Huufaransa'
+GH: Hughana
+GI: Hujiblalta
+GL: Hujinlandi
+GM: Hugambia
+GN: Hujine
+GP: Hugwadelupe
+GQ: Huginekweta
+GR: Huugiliki
+GT: Hugwatemala
+GU: Hugwam
+GW: Huginebisau
+GY: Huguyana
 HN: Huhondulasi
+HR: Hukorasia
+HT: Huhaiti
 HU: Huhungalia
-IQ: Huilaki
-IN: Huindia
 ID: Huindonesia
+IE: Huayalandi
 IL: Huislaheli
+IN: Huindia
+IO: 'Ulubali lwa Hubahari ya Hindi lwa Huingereza'
+IQ: Huilaki
+IR: Huuajemi
+IS: Huaislandi
 IT: Huitalia
 JM: Hujamaika
+JO: Huyolodani
 JP: Hujapani
-GI: Hujiblalta
-DJ: Hujibuti
-GN: Hujine
-GL: Hujinlandi
-GE: Hujojia
-KH: Hukambodia
-CM: Hukameruni
-CA: Hukanada
-QA: Hukatali
-KZ: Hukazakistani
 KE: Hukenya
-CV: Hukepuvede
-KI: Hukilibati
 KG: Hukiligizistani
-CI: Hukodivaa
+KH: Hukambodia
+KI: Hukilibati
+KM: Hukomoro
+KN: 'Husantakitzi na Hunevis'
 KP: 'Hukolea Kaskazini'
 KR: 'Hukolea Kusini'
-CO: Hukolombia
-KM: Hukomoro
-CG: Hukongo
-HR: Hukorasia
-CR: Hukostarika
-CU: Hukuba
-CY: Hukuprosi
 KW: Hukuwaiti
+KY: 'Ifisima fya Kayman'
+KZ: Hukazakistani
 LA: Hulaosi
+LB: Hulebanoni
+LC: Husantalusia
+LI: Hulishenteni
+LK: Husirilanka
+LR: Hulibelia
+LS: Hulesoto
+LT: Hulitwania
 LU: Hulasembagi
 LV: Hulativia
-LB: Hulebanoni
-LS: Hulesoto
-LR: Hulibelia
 LY: Hulibiya
-LI: Hulishenteni
-LT: Hulitwania
-RE: Huliyunioni
-RO: Hulomania
-RW: Hulwanda
-MW: Humalawi
-US: Humalekani
-MY: Humalesia
-ML: Humali
-MT: Humalta
-MQ: Humartiniki
-MK: Humasedonia
-YT: Humayotte
-MX: Humeksiko
-FM: Humikronesia
-EG: Humisri
-MV: Humodivu
-MD: Humoldova
-MU: Humolisi
-MR: Humolitania
 MA: Humoloko
 MC: Humonako
-MN: Humongolia
-MS: Humontserrati
-MZ: Humusumbiji
+MD: Humoldova
+MG: Hubukini
+MH: 'Ifisima fya Marshal'
+MK: Humasedonia
+ML: Humali
 MM: Humyama
+MN: Humongolia
+MP: 'Ifisima fya Mariana fya Hukaskazini'
+MQ: Humartiniki
+MR: Humolitania
+MS: Humontserrati
+MT: Humalta
+MU: Humolisi
+MV: Humodivu
+MW: Humalawi
+MX: Humeksiko
+MY: Humalesia
+MZ: Humusumbiji
 NA: Hunamibia
-NR: Hunauru
-NP: Hunepali
+NC: Hunyukaledonia
 NE: Hunijeli
+NF: 'Ihisima sha Norfok'
 NG: Hunijelia
 NI: Hunikaragwa
-NU: Huniue
+NL: Huuholanzi
 NO: Hunolwe
-NC: Hunyukaledonia
+NP: Hunepali
+NR: Hunauru
+NU: Huniue
 NZ: Hunyuzilandi
 OM: Huomani
-PK: Hupakistani
-PY: Hupalagwai
-PW: Hupalau
 PA: Hupanama
-PG: Hupapua
 PE: Hupelu
-PN: Hupitkaini
-PL: Hupolandi
 PF: 'Hupolinesia ya Huufaransa'
-PR: Hupwetoriko
-SM: Husamalino
-WS: Husamoa
-AS: 'Husamoa ya Humalekani'
-SH: Husantahelena
-KN: 'Husantakitzi na Hunevis'
-LC: Husantalusia
+PG: Hupapua
+PH: Hufilipino
+PK: Hupakistani
+PL: Hupolandi
 PM: 'Husantapieri na Humikeloni'
-VC: 'Husantavisenti na Hugrenadini'
-ST: 'Husaotome na Huprinsipe'
-SA: Husaudi
-CS: 'Huselbia na Humonteneglo'
-SN: Husenegali
-SC: Hushelisheli
-SL: 'Husiela Lioni'
-SY: Husilia
-SG: Husingapoo
-LK: Husirilanka
-SK: Huslovakia
-SI: Huslovenia
-SO: Husomalia
-SD: Husudani
-SR: Husurinamu
-TH: Hutailandi
-TW: Hutaiwani
-TJ: Hutajikistani
-TZ: Hutanzania
-TL: 'Hutimori ya Mashariki'
-TG: Hutogo
-TK: Hutokelau
-TO: Hutonga
-TT: 'Hutrinad na Hutobago'
-TN: Hutunisia
-TV: Hutuvalu
-IR: Huuajemi
-BE: Huubelgiji
-FR: Huufaransa
-FI: Huufini
-UG: Huuganda
-GR: Huugiliki
-ET: Huuhabeshi
-NL: Huuholanzi
-GB: Huuingereza
-DE: Huujerumani
-UA: Huukraini
+PN: Hupitkaini
+PR: Hupwetoriko
+PS: 'Ulubali lwa Magharibi nu Gaza wa Hupalestina'
 PT: Huuleno
-UY: Huulugwai
+PW: Hupalau
+PY: Hupalagwai
+QA: Hukatali
+RE: Huliyunioni
+RO: Hulomania
 RU: Huulusi
-SZ: Huuswazi
-SE: Huuswidi
-CH: Huuswisi
-TR: Huuturuki
-TM: Huuturukimenistani
-UZ: Huuzibekistani
-VU: Huvanuatu
-VA: Huvatikani
-VE: Huvenezuela
-VN: Huvietinamu
-WF: 'Huwalis na Hufutuna'
-YE: Huyemeni
-JO: Huyolodani
-ZM: Huzambia
-ZW: Huzimbabwe
-FK: 'Ifisima fya Falkland'
-KY: 'Ifisima fya Kayman'
-CK: 'Ifisima fya Kook'
-MP: 'Ifisima fya Mariana fya Hukaskazini'
-MH: 'Ifisima fya Marshal'
+RW: Hulwanda
+SA: Husaudi
 SB: 'Ifisima fya Solomon'
+SC: Hushelisheli
+SD: Husudani
+SE: Huuswidi
+SG: Husingapoo
+SH: Husantahelena
+SI: Huslovenia
+SK: Huslovakia
+SL: 'Husiela Lioni'
+SM: Husamalino
+SN: Husenegali
+SO: Husomalia
+SR: Husurinamu
+ST: 'Husaotome na Huprinsipe'
+SV: Huelsavado
+SY: Husilia
+SZ: Huuswazi
 TC: 'Ifisima fya Turki na Kaiko'
+TD: Huchadi
+TG: Hutogo
+TH: Hutailandi
+TJ: Hutajikistani
+TK: Hutokelau
+TL: 'Hutimori ya Mashariki'
+TM: Huuturukimenistani
+TN: Hutunisia
+TO: Hutonga
+TR: Huuturuki
+TT: 'Hutrinad na Hutobago'
+TV: Hutuvalu
+TW: Hutaiwani
+TZ: Hutanzania
+UA: Huukraini
+UG: Huuganda
+US: Humalekani
+UY: Huulugwai
+UZ: Huuzibekistani
+VA: Huvatikani
+VC: 'Husantavisenti na Hugrenadini'
+VE: Huvenezuela
 VG: 'Ifisima fya Virgin fya Huingereza'
 VI: 'Ifisima fya Virgin fya Humelekani'
-NF: 'Ihisima sha Norfok'
-CF: 'Ijamhuri ya Afrika ya Pagati'
-CZ: 'Ijamhuri ya Cheki'
-CD: 'Ijamhuri ya Hidemokrasi ya Hukongo'
-DO: 'Ijamhuri ya Hudominika'
-IM: 'Isle of Man'
-JE: Jersey
-MO: 'Macau SAR China'
-ME: Montenegro
-QO: 'Outlying Oceania'
-BL: 'Saint Barthélemy'
-MF: 'Saint Martin'
-RS: Serbia
-GS: 'South Georgia and the South Sandwich Islands'
-SJ: 'Svalbard and Jan Mayen'
-TA: 'Tristan da Cunha'
-UM: 'U.S. Minor Outlying Islands'
-IO: 'Ulubali lwa Hubahari ya Hindi lwa Huingereza'
-PS: 'Ulubali lwa Magharibi nu Gaza wa Hupalestina'
-EH: 'Western Sahara'
+VN: Huvietinamu
+VU: Huvanuatu
+WF: 'Huwalis na Hufutuna'
+WS: Husamoa
+YE: Huyemeni
+YT: Humayotte
+ZA: 'Huafrika iya Hukusini'
+ZM: Huzambia
+ZW: Huzimbabwe

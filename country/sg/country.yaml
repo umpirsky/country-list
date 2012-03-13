@@ -1,255 +1,226 @@
-AX: 'Åland Islands'
-AL: Albanïi
-US: 'ÂLeaa-Ôko tî Amerika'
-DZ: Alzerïi
 AD: Andôro
-AO: Angoläa
-AI: Angûîla
-AQ: Antarctica
-AG: 'Antîgua na Barbûda'
-AN: 'Antîyi tî Holânde'
 AE: 'Arâbo Emirâti Ôko'
+AF: 'Faganïta, Afganïstäan'
+AG: 'Antîgua na Barbûda'
+AI: Angûîla
+AL: Albanïi
 AM: Armenïi
-AW: Arûba
+AN: 'Antîyi tî Holânde'
+AO: Angoläa
 AR: Arzantîna
-AC: 'Ascension Island'
-VG: 'Âzôâ Viîrîggo tî Anglëe'
-CK: 'âzûâ Kûku'
-MP: 'Âzûâ Märïâni tî Banga'
-MH: 'Âzûâ Märshâl'
-KY: 'Âzûâ Ngundë,  Kaimäni'
-CV: 'Azûâ tî Kâpo-Vêre'
-FK: 'Âzûâ tî Mälüîni'
-TC: 'Âzûâ Turku na Kaîki'
-VI: 'Âzûâ Virîgo tî Amerîka'
-BS: Bahâmasa
-BH: Bahrâina
-BB: Barabâda
-BY: Belarüsi
-BE: 'Bêleze, Belezîki'
-BZ: Belîzi
-BJ: Benëen
-BD: Bengladêshi
-BM: Beremûda
-BO: Bolivïi
+AS: 'Samöa tî Amerîka'
+AT: Otrîsi
+AU: 'Ostralïi, Sotralïi'
+AW: Arûba
+AZ: 'Zerebaidyäan, Azerbaidyäan,'
 BA: 'Bosnïi na Herzegovînni'
-BW: Botswana
-BV: 'Bouvet Island'
-BR: Brezîli
-BN: Brunêi
-BG: Bulugarïi
+BB: Barabâda
+BD: Bengladêshi
+BE: 'Bêleze, Belezîki'
 BF: 'Burkina Faso'
+BG: Bulugarïi
+BH: Bahrâina
 BI: Burundïi
+BJ: Benëen
+BM: Beremûda
+BN: Brunêi
+BO: Bolivïi
+BR: Brezîli
+BS: Bahâmasa
 BT: Butäan
-IC: 'Canary Islands'
-EA: 'Ceuta and Melilla'
-CX: 'Christmas Island'
-CP: 'Clipperton Island'
-CC: 'Cocos [Keeling] Islands'
-DK: Danemêrke
+BW: Botswana
+BY: Belarüsi
+BZ: Belîzi
+CA: Kanadäa
+CD: 'Ködörösêse tî Ngunuhalëzo tî kongö'
+CF: 'Ködörösêse tî Bêafrîka'
+CG: Kongö
+CH: Sûîsi
+CI: Kôdivüära
+CK: 'âzûâ Kûku'
+CL: Shilïi
+CM: Kamerûne
+CN: Shîna
+CO: Kolombïi
+CR: 'Kôsta Rîka'
+CS: 'Serbïi na Möntënegröo'
+CU: Kubäa
+CV: 'Azûâ tî Kâpo-Vêre'
+CY: Sîpri
+CZ: 'Ködörösêse tî Tyêki'
+DE: Zâmani
 DJ: Dibutùii
-DG: 'Diego Garcia'
+DK: Danemêrke
 DM: Dömïnîka
+DO: 'Ködörösêse tî Dominîka'
+DZ: Alzerïi
 EC: Ekuatëre
-IN: Ênnde
-ID: Ênndonezïi
+EE: Estonïi
+EG: Kâmitâ
 ER: Eritrëe
 ES: Espânye
-EE: Estonïi
 ET: Etiopïi
-EU: 'European Union'
-AF: 'Faganïta, Afganïstäan'
-FR: Farânzi
-FO: 'Faroe Islands'
 FI: Fëlânde
 FJ: Fidyïi
-PH: Filipîni
-NC: 'Finî Kaledonïi'
-NZ: 'Finî Zelânde'
-TF: 'French Southern Territories'
+FK: 'Âzûâ tî Mälüîni'
+FM: Mikronezïi
+FR: Farânzi
 GA: Gaböon
-GM: Gambïi
-GH: Ganäa
-GY: Gayâna
-GR: Gerêsi
-GN: Ginëe
-GQ: 'Ginëe tî Ekuatëre'
-GW: Gninëe-Bisau
-GL: Gorolânde
-GD: Grenâda
-GP: Guadelûpu
-GU: Guâm
-GT: Guatêmälä
-GG: Guernsey
-GF: 'Güyâni tî farânzi'
-HT: Haitïi
-HM: 'Heard Island and McDonald Islands'
-NL: Holände
-HN: Honduräsi
-HK: 'Hong Kong SAR China'
-HU: Hongirùii
-IR: Iräan
-IQ: Irâki
-IE: Irlânde
-IS: Islânde
-IM: 'Isle of Man'
-IL: Israëli
-IT: Italùii
-JE: Jersey
-KH: Kämbôzi
-CM: Kamerûne
-EG: Kâmitâ
-CA: Kanadäa
-QA: Katära
-KZ: Kazakisitäan
-KE: Kenyäa
-KI: Kiribati
-KG: Kirigizitùaan
-CI: Kôdivüära
 GB: Ködörögbïä--Ôko
-CF: 'Ködörösêse tî Bêafrîka'
-DO: 'Ködörösêse tî Dominîka'
-CD: 'Ködörösêse tî Ngunuhalëzo tî kongö'
-CZ: 'Ködörösêse tî Tyêki'
-CO: Kolombïi
+GD: Grenâda
+GE: Zorzïi
+GF: 'Güyâni tî farânzi'
+GH: Ganäa
+GI: 'Zibraltära, Zibaratära'
+GL: Gorolânde
+GM: Gambïi
+GN: Ginëe
+GP: Guadelûpu
+GQ: 'Ginëe tî Ekuatëre'
+GR: Gerêsi
+GT: Guatêmälä
+GU: Guâm
+GW: Gninëe-Bisau
+GY: Gayâna
+HN: Honduräsi
+HR: Kroasïi
+HT: Haitïi
+HU: Hongirùii
+ID: Ênndonezïi
+IE: Irlânde
+IL: Israëli
+IN: Ênnde
+IO: 'Sêse tî Anglëe na Ngûyämä tî Ênnde'
+IQ: Irâki
+IR: Iräan
+IS: Islânde
+IT: Italùii
+JM: Zamaîka
+JO: Zordanïi
+JP: Zapöon
+KE: Kenyäa
+KG: Kirigizitùaan
+KH: Kämbôzi
+KI: Kiribati
 KM: Kömôro
-CG: Kongö
+KN: Sên-Krïstôfo-na-Nevîsi
 KP: 'Korëe tî Banga'
 KR: 'Korëe tî Mbongo'
-CR: 'Kôsta Rîka'
 KW: Köwêti
-HR: Kroasïi
-CU: Kubäa
-LS: Lesôtho
-VA: 'Letëe tî Vatikäan'
-LV: Letonùii
-LR: Liberïa
-LY: Libïi
-LB: Libùaan
-LI: 'Liechtenstein,'
-LT: Lituanïi
+KY: 'Âzûâ Ngundë,  Kaimäni'
+KZ: Kazakisitäan
 LA: Lùaôsi
+LB: Libùaan
+LC: Sênt-Lisïi
+LI: 'Liechtenstein,'
+LK: Sirî-Lanka
+LR: Liberïa
+LS: Lesôtho
+LT: Lituanïi
 LU: Lugzambûru
-MO: 'Macau SAR China'
-MG: Madagaskära
-MW: Malawïi
-MV: Maldîva
-MY: Malezïi
-ML: Malïi
-MT: Mâlta
+LV: Letonùii
+LY: Libïi
 MA: Marôko
-MQ: Märtïnîki
-MK: Maseduäni
-YT: Mäyôte
-ZA: Mbongo-Afrîka
-MX: Mekisîki
-FM: Mikronezïi
-MD: Moldavùii
 MC: Monaköo
-MN: Mongolïi
-MS: Monserâte
-ME: Montenegro
-MU: Mörîsi
-MR: Moritanïi
-MZ: Mözämbîka
+MD: Moldavùii
+MG: Madagaskära
+MH: 'Âzûâ Märshâl'
+MK: Maseduäni
+ML: Malïi
 MM: Myämâra
+MN: Mongolïi
+MP: 'Âzûâ Märïâni tî Banga'
+MQ: Märtïnîki
+MR: Moritanïi
+MS: Monserâte
+MT: Mâlta
+MU: Mörîsi
+MV: Maldîva
+MW: Malawïi
+MX: Mekisîki
+MY: Malezïi
+MZ: Mözämbîka
 NA: Namibùii
-NR: Nauru
-NP: Nëpâli
-NI: Nikaragua
-NU: Niue
+NC: 'Finî Kaledonïi'
 NE: Nizëre
+NF: 'Zûâ Nôrfôlko'
 NG: Nizerïa
+NI: Nikaragua
+NL: Holände
 NO: Nörvêzi
+NP: Nëpâli
+NR: Nauru
+NU: Niue
+NZ: 'Finî Zelânde'
 OM: Omâni
-AU: 'Ostralïi, Sotralïi'
-AT: Otrîsi
-QO: 'Outlying Oceania'
-PK: Pakistäan
-PW: Palau
 PA: Panama
-PG: 'Papû Finî Ginëe, Papuazïi'
-PY: Paraguëe
 PE: Perüu
-PN: Pitikêrni
 PF: 'Polinezïi tî farânzi'
+PG: 'Papû Finî Ginëe, Papuazïi'
+PH: Filipîni
+PK: Pakistäan
 PL: Pölôni
+PM: 'Sên-Pyêre na Mikelöon'
+PN: Pitikêrni
 PR: 'Porto Rîko'
+PS: 'Sêse tî Palestîni'
 PT: 'Pörtugäle, Ködörö Pûra'
+PW: Palau
+PY: Paraguëe
+QA: Katära
 RE: Reinïon
-RW: Ruandäa
 RO: Rumanïi
 RU: Rusïi
-BL: 'Saint Barthélemy'
-MF: 'Saint Martin'
-SV: Salvadöro
-AS: 'Samöa tî Amerîka'
-WS: Samoäa
-ST: 'Sâô Tömê na Prinsîpe'
+RW: Ruandäa
 SA: 'Saûdi Arabïi'
-KN: Sên-Krïstôfo-na-Nevîsi
-SM: Sên-Marëen
-PM: 'Sên-Pyêre na Mikelöon'
-VC: 'Sên-Vensäan na âGrenadîni'
-SN: Senegäle
-SH: Sênt-Helêna
-LC: Sênt-Lisïi
-RS: Serbia
-CS: 'Serbïi na Möntënegröo'
-IO: 'Sêse tî Anglëe na Ngûyämä tî Ênnde'
-PS: 'Sêse tî Palestîni'
+SB: 'Zûâ Salomöon'
 SC: Sëyshêle
-CL: Shilïi
-CN: Shîna
-SL: Sierä-Leône
-SG: Sïngäpûru
-CY: Sîpri
-LK: Sirî-Lanka
-SY: Sirïi
-SK: Solovakïi
-SI: Solovenïi
-SO: Somalïi
-GS: 'South Georgia and the South Sandwich Islands'
 SD: Sudäan
 SE: Suêde
-CH: Sûîsi
+SG: Sïngäpûru
+SH: Sênt-Helêna
+SI: Solovenïi
+SK: Solovakïi
+SL: Sierä-Leône
+SM: Sên-Marëen
+SN: Senegäle
+SO: Somalïi
 SR: Surinäm
-SJ: 'Svalbard and Jan Mayen'
+ST: 'Sâô Tömê na Prinsîpe'
+SV: Salvadöro
+SY: Sirïi
 SZ: Swäzïlânde
-TJ: Taazikiistäan
+TC: 'Âzûâ Turku na Kaîki'
+TD: Tyâde
+TG: Togö
 TH: Tailânde
+TJ: Taazikiistäan
+TK: Tokelau
+TL: 'Timôro tî Tö'
+TM: Turkumenistäan
+TN: Tunizïi
+TO: Tonga
+TR: Turukïi
+TT: 'Trinitùee na Tobagö'
+TV: Tüvalü
 TW: Tâiwâni
 TZ: Tanzanïi
-TL: 'Timôro tî Tö'
-TG: Togö
-TK: Tokelau
-TO: Tonga
-TT: 'Trinitùee na Tobagö'
-TA: 'Tristan da Cunha'
-TN: Tunizïi
-TM: Turkumenistäan
-TR: Turukïi
-TV: Tüvalü
-TD: Tyâde
-UM: 'U.S. Minor Outlying Islands'
-UG: Ugandäa
 UA: Ukrêni
+UG: Ugandäa
+US: 'ÂLeaa-Ôko tî Amerika'
 UY: Uruguëe
 UZ: Uzbekistäan
-VU: Vanuatü
+VA: 'Letëe tî Vatikäan'
+VC: 'Sên-Vensäan na âGrenadîni'
 VE: Venezueläa
+VG: 'Âzôâ Viîrîggo tî Anglëe'
+VI: 'Âzûâ Virîgo tî Amerîka'
 VN: Vietnäm
+VU: Vanuatü
 WF: 'Walîsi na Futuna'
-EH: 'Western Sahara'
+WS: Samoäa
 YE: Yëmêni
-JM: Zamaîka
-DE: Zâmani
+YT: Mäyôte
+ZA: Mbongo-Afrîka
 ZM: Zambïi
-JP: Zapöon
-AZ: 'Zerebaidyäan, Azerbaidyäan,'
-GI: 'Zibraltära, Zibaratära'
 ZW: Zimbäbwe
-JO: Zordanïi
-GE: Zorzïi
-NF: 'Zûâ Nôrfôlko'
-SB: 'Zûâ Salomöon'

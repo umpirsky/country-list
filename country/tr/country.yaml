@@ -1,255 +1,290 @@
-VI: 'ABD Virgin Adaları'
-AF: Afganistan
-AX: 'Aland Adaları'
-DE: Almanya
-US: 'Amerika Birleşik Devletleri'
-UM: 'Amerika Birleşik Devletleri Küçük Dış Adaları'
-AS: 'Amerikan Samoası'
-AD: Andorra
-AO: Angola
-AI: Anguilla
-AQ: Antarktika
-AG: 'Antigua ve Barbuda'
-AR: Arjantin
-AL: Arnavutluk
-AW: Aruba
+'001': Dünya
+'002': Afrika
+'003': 'Kuzey Amerika'
+'005': 'Güney Amerika'
+'009': Okyanusya
+'011': 'Batı Afrika'
+'013': 'Orta Amerika'
+'014': 'Doğu Afrika'
+'015': 'Kuzey Afrika'
+'017': 'Orta Afrika'
+'018': 'Afrika''nın Güneyi'
+'019': Amerika
+'021': 'Amerika''nın Kuzeyi'
+'029': Karayipler
+'030': 'Doğu Asya'
+'034': 'Güney Asya'
+'035': 'Güney Doğu Asya'
+'039': 'Güney Avrupa'
+'053': 'Avustralya ve Yeni Zelanda'
+'054': Melanezya
+'057': Mikronezya
+'061': Polinezya
+'062': 'Güney Orta Asya'
 AC: 'Ascension Adası'
-EU: 'Avrupa Birliği'
-AU: Avustralya
-AT: Avusturya
-AZ: Azerbaycan
-BS: Bahamalar
-BH: Bahreyn
-BD: Bangladeş
-BB: Barbados
-EH: 'Batı Sahara'
-BE: Belçika
-BZ: Belize
-BJ: Benin
-BM: Bermuda
-BY: 'Beyaz Rusya'
+AD: Andorra
 AE: 'Birleşik Arap Emirlikleri'
-GB: 'Birleşik Krallık'
-BO: Bolivya
-BA: 'Bosna Hersek'
-BW: Botsvana
-BV: 'Bouvet Adası'
-BR: Brezilya
-BN: Brunei
-BG: Bulgaristan
-BF: 'Burkina Faso'
-BI: Burundi
-BT: Butan
-CV: 'Cape Verde'
-KY: 'Cayman Adaları'
-GI: Cebelitarık
-EA: 'Ceuta ve Melilla'
-DZ: Cezayir
-CX: 'Christmas Adası'
-DJ: Cibuti
-CP: 'Clipperton Adası'
-CC: 'Cocos Adaları'
-CK: 'Cook Adaları'
-TD: Çad
-CZ: 'Çek Cumhuriyeti'
-CN: Çin
-DK: Danimarka
-DG: 'Diego Garcia'
-DO: 'Dominik Cumhuriyeti'
-DM: Dominika
-EC: Ekvador
-GQ: 'Ekvator Ginesi'
-SV: 'El Salvador'
-ID: Endonezya
-ER: Eritre
+AF: Afganistan
+AG: 'Antigua ve Barbuda'
+AI: Anguilla
+AL: Arnavutluk
 AM: Ermenistan
-EE: Estonya
-ET: Etiyopya
-FK: 'Falkland Adaları'
-FO: 'Faroe Adaları'
-MA: Fas
-FJ: Fiji
-CI: 'Fildişi Sahili'
-PH: Filipinler
-PS: 'Filistin Bölgesi'
-FI: Finlandiya
-FR: Fransa
-GF: 'Fransız Guyanası'
-TF: 'Fransız Güney Bölgeleri'
-PF: 'Fransız Polinezyası'
-GA: Gabon
-GM: Gambiya
-GH: Gana
-GN: Gine
-GW: Gine-Bissau
-GD: Grenada
-GL: Grönland
-GP: Guadalupe
-GU: Guam
-GT: Guatemala
-GG: Guernsey
-GY: Guyana
-ZA: 'Güney Afrika'
-GS: 'Güney Georgia ve Güney Sandwich Adaları'
-CY: 'Güney Kıbrıs Rum Kesimi'
-KR: 'Güney Kore'
-GE: Gürcistan
-HT: Haiti
-HM: 'Heard Adası ve McDonald Adaları'
-HR: Hırvatistan
-IN: Hindistan
-NL: Hollanda
 AN: 'Hollanda Antilleri'
-HN: Honduras
-HK: 'Hong Kong SAR - Çin'
-IQ: Irak
-IO: 'İngiliz Hint Okyanusu Bölgesi'
-VG: 'İngiliz Virgin Adaları'
-IR: İran
-IE: İrlanda
-ES: İspanya
-IL: İsrail
-SE: İsveç
-CH: İsviçre
-IT: İtalya
-IS: İzlanda
-JM: Jamaika
-JP: Japonya
-JE: Jersey
-KH: Kamboçya
-CM: Kamerun
+AO: Angola
+AQ: Antarktika
+AR: Arjantin
+AS: 'Amerikan Samoası'
+AT: Avusturya
+AU: Avustralya
+AW: Aruba
+AX: 'Aland Adaları'
+AZ: Azerbaycan
+BA: 'Bosna Hersek'
+BB: Barbados
+BD: Bangladeş
+BE: Belçika
+BF: 'Burkina Faso'
+BG: Bulgaristan
+BH: Bahreyn
+BI: Burundi
+BJ: Benin
+BL: 'Saint Barthelemy'
+BM: Bermuda
+BN: Brunei
+BO: Bolivya
+BR: Brezilya
+BS: Bahamalar
+BT: Butan
+BV: 'Bouvet Adası'
+BW: Botsvana
+BY: 'Beyaz Rusya'
+BZ: Belize
 CA: Kanada
+CC: 'Cocos Adaları'
+CD: 'Kongo - Kinşasa'
+CF: 'Orta Afrika Cumhuriyeti'
+CG: 'Kongo - Brazavil'
+CH: İsviçre
+CI: 'Fildişi Sahili'
+CK: 'Cook Adaları'
+CL: Şili
+CM: Kamerun
+CN: Çin
+CO: Kolombiya
+CP: 'Clipperton Adası'
+CR: 'Kosta Rika'
+CS: Sırbistan-Karadağ
+CU: Küba
+CV: 'Cape Verde'
+CX: 'Christmas Adası'
+CY: 'Güney Kıbrıs Rum Kesimi'
+CZ: 'Çek Cumhuriyeti'
+DE: Almanya
+DG: 'Diego Garcia'
+DJ: Cibuti
+DK: Danimarka
+DM: Dominika
+DO: 'Dominik Cumhuriyeti'
+DZ: Cezayir
+EA: 'Ceuta ve Melilla'
+EC: Ekvador
+EE: Estonya
+EG: Mısır
+EH: 'Batı Sahara'
+ER: Eritre
+ES: İspanya
+ET: Etiyopya
+EU: 'Avrupa Birliği'
+FI: Finlandiya
+FJ: Fiji
+FK: 'Falkland Adaları'
+FM: 'Mikronezya Federal Eyaletleri'
+FO: 'Faroe Adaları'
+FR: Fransa
+FX: 'Fransa, Metropolitan'
+GA: Gabon
+GB: 'Birleşik Krallık'
+GD: Grenada
+GE: Gürcistan
+GF: 'Fransız Guyanası'
+GG: Guernsey
+GH: Gana
+GI: Cebelitarık
+GL: Grönland
+GM: Gambiya
+GN: Gine
+GP: Guadalupe
+GQ: 'Ekvator Ginesi'
+GR: Yunanistan
+GS: 'Güney Georgia ve Güney Sandwich Adaları'
+GT: Guatemala
+GU: Guam
+GW: Gine-Bissau
+GY: Guyana
+HK: 'Hong Kong SAR - Çin'
+HM: 'Heard Adası ve McDonald Adaları'
+HN: Honduras
+HR: Hırvatistan
+HT: Haiti
+HU: Macaristan
 IC: 'Kanarya Adaları'
-ME: Karadağ
-QA: Katar
-KZ: Kazakistan
+ID: Endonezya
+IE: İrlanda
+IL: İsrail
+IM: 'Man Adası'
+IN: Hindistan
+IO: 'İngiliz Hint Okyanusu Bölgesi'
+IQ: Irak
+IR: İran
+IS: İzlanda
+IT: İtalya
+JE: Jersey
+JM: Jamaika
+JO: Ürdün
+JP: Japonya
 KE: Kenya
 KG: Kırgızistan
+KH: Kamboçya
 KI: Kiribati
-CO: Kolombiya
 KM: Komorlar
-CG: 'Kongo - Brazavil'
-CD: 'Kongo - Kinşasa'
-CR: 'Kosta Rika'
-KW: Kuveyt
+KN: 'Saint Kitts ve Nevis'
 KP: 'Kuzey Kore'
-MP: 'Kuzey Mariana Adaları'
-CU: Küba
+KR: 'Güney Kore'
+KW: Kuveyt
+KY: 'Cayman Adaları'
+KZ: Kazakistan
 LA: Laos
-LS: Lesoto
-LV: Letonya
-LR: Liberya
-LY: Libya
-LI: Liechtenstein
-LT: Litvanya
 LB: Lübnan
+LC: 'Saint Lucia'
+LI: Liechtenstein
+LK: 'Sri Lanka'
+LR: Liberya
+LS: Lesoto
+LT: Litvanya
 LU: Lüksemburg
-HU: Macaristan
-MG: Madagaskar
-MO: 'Makao SAR - Çin'
-MK: Makedonya
-MW: Malavi
-MV: Maldivler
-MY: Malezya
-ML: Mali
-MT: Malta
-IM: 'Man Adası'
-MH: 'Marshall Adaları'
-MQ: Martinik
-MU: Mauritius
-YT: Mayotte
-MX: Meksika
-EG: Mısır
-FM: 'Mikronezya Federal Eyaletleri'
-MN: Moğolistan
-MD: Moldova
+LV: Letonya
+LY: Libya
+MA: Fas
 MC: Monako
-MS: Montserrat
-MR: Moritanya
-MZ: Mozambik
+MD: Moldova
+ME: Karadağ
+MF: 'Saint Martin'
+MG: Madagaskar
+MH: 'Marshall Adaları'
+MK: Makedonya
+ML: Mali
 MM: Myanmar
+MN: Moğolistan
+MO: 'Makao SAR - Çin'
+MP: 'Kuzey Mariana Adaları'
+MQ: Martinik
+MR: Moritanya
+MS: Montserrat
+MT: Malta
+MU: Mauritius
+MV: Maldivler
+MW: Malavi
+MX: Meksika
+MY: Malezya
+MZ: Mozambik
 NA: Namibya
-NR: Nauru
-NP: Nepal
+NC: 'Yeni Kaledonya'
 NE: Nijer
+NF: 'Norfolk Adası'
 NG: Nijerya
 NI: Nikaragua
-NU: Niue
-NF: 'Norfolk Adası'
+NL: Hollanda
 NO: Norveç
-CF: 'Orta Afrika Cumhuriyeti'
-UZ: Özbekistan
-PK: Pakistan
-PW: Palau
+NP: Nepal
+NR: Nauru
+NU: Niue
+NZ: 'Yeni Zelanda'
+OM: Umman
 PA: Panama
-PG: 'Papua Yeni Gine'
-PY: Paraguay
 PE: Peru
-PN: Pitcairn
+PF: 'Fransız Polinezyası'
+PG: 'Papua Yeni Gine'
+PH: Filipinler
+PK: Pakistan
 PL: Polonya
-PT: Portekiz
+PM: 'Saint Pierre ve Miquelon'
+PN: Pitcairn
 PR: 'Porto Riko'
+PS: 'Filistin Bölgesi'
+PT: Portekiz
+PW: Palau
+PY: Paraguay
+QA: Katar
+QO: 'Uzak Okyanusya'
 RE: Reunion
 RO: Romanya
-RW: Ruanda
-RU: 'Rusya Federasyonu'
-BL: 'Saint Barthelemy'
-SH: 'Saint Helena'
-KN: 'Saint Kitts ve Nevis'
-LC: 'Saint Lucia'
-MF: 'Saint Martin'
-PM: 'Saint Pierre ve Miquelon'
-VC: 'Saint Vincent ve Grenadinler'
-WS: Samoa
-SM: 'San Marino'
-ST: 'Sao Tome ve Principe'
-SN: Senegal
-SC: Seyşeller
 RS: Sırbistan
-CS: Sırbistan-Karadağ
-SL: 'Sierra Leone'
-SG: Singapur
-SK: Slovakya
-SI: Slovenya
-SB: 'Solomon Adaları'
-SO: Somali
-LK: 'Sri Lanka'
-SD: Sudan
-SR: Surinam
-SY: Suriye
+RU: 'Rusya Federasyonu'
+RW: Ruanda
 SA: 'Suudi Arabistan'
+SB: 'Solomon Adaları'
+SC: Seyşeller
+SD: Sudan
+SE: İsveç
+SG: Singapur
+SH: 'Saint Helena'
+SI: Slovenya
 SJ: 'Svalbard ve Jan Mayen Adaları'
+SK: Slovakya
+SL: 'Sierra Leone'
+SM: 'San Marino'
+SN: Senegal
+SO: Somali
+SR: Surinam
+ST: 'Sao Tome ve Principe'
+SV: 'El Salvador'
+SY: Suriye
 SZ: Svaziland
-CL: Şili
-TJ: Tacikistan
-TZ: Tanzanya
-TH: Tayland
-TW: Tayvan
-TL: Timor-Leste
-TG: Togo
-TK: Tokelau
-TO: Tonga
-TT: 'Trinidad ve Tobago'
 TA: 'Tristan da Cunha'
-TN: Tunus
 TC: 'Turks ve Caicos Adaları'
-TV: Tuvalu
-TR: Türkiye
+TD: Çad
+TF: 'Fransız Güney Bölgeleri'
+TG: Togo
+TH: Tayland
+TJ: Tacikistan
+TK: Tokelau
+TL: Timor-Leste
 TM: Türkmenistan
-UG: Uganda
+TN: Tunus
+TO: Tonga
+TR: Türkiye
+TT: 'Trinidad ve Tobago'
+TV: Tuvalu
+TW: Tayvan
+TZ: Tanzanya
 UA: Ukrayna
-OM: Umman
+UG: Uganda
+UM: 'Amerika Birleşik Devletleri Küçük Dış Adaları'
+US: 'Amerika Birleşik Devletleri'
 UY: Uruguay
-QO: 'Uzak Okyanusya'
-JO: Ürdün
-VU: Vanuatu
+UZ: Özbekistan
 VA: Vatikan
+VC: 'Saint Vincent ve Grenadinler'
 VE: Venezuela
+VG: 'İngiliz Virgin Adaları'
+VI: 'ABD Virgin Adaları'
 VN: Vietnam
+VU: Vanuatu
 WF: 'Wallis ve Futuna Adaları'
+WS: Samoa
 YE: Yemen
-NC: 'Yeni Kaledonya'
-NZ: 'Yeni Zelanda'
-GR: Yunanistan
+YT: Mayotte
+ZA: 'Güney Afrika'
 ZM: Zambiya
 ZW: Zimbabve
+ZZ: 'Bilinmeyen veya Geçersiz Bölge'
+142: Asya
+143: 'Orta Asya'
+145: 'Batı Asya'
+150: Avrupa
+151: 'Doğu Avrupa'
+154: 'Kuzey Avrupa'
+155: 'Batı Avrupa'
+172: 'Bağımsız Devletler Topluluğu'
+419: 'Latin Amerika ve Karayipler'
+830: 'Kanal Adaları'

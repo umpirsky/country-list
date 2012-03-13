@@ -1,256 +1,227 @@
 id,name
-AF,Afganistaan
-ZA,"Afrik bŋ Worgo"
-AZ,Ajerbayjaan
-AX,"Åland Islands"
-DZ,Alaseri
-AL,Albanii
-DE,Almaañ
 AD,Anndoora
-AI,Anngiyaa
-AO,Anngolaa
-AQ,Antarctica
+AE,"Emiraat Araab Denntuɗe"
+AF,Afganistaan
 AG,"Antiguwaa e Barbudaa"
-AN,"Antiiye Nederlanndeeje"
-SA,"Arabii Sawdit"
-AR,Arjantiin
+AI,Anngiyaa
+AL,Albanii
 AM,Armenii
+AN,"Antiiye Nederlanndeeje"
+AO,Anngolaa
+AR,Arjantiin
+AS,"Samowa Amerik"
+AT,Otiriis
+AU,Ostaraalii
 AW,Aruuba
-AC,"Ascension Island"
-BS,Bahamaas
-BH,Bahreyn
-BD,Banglaadees
+AZ,Ajerbayjaan
+BA,"Bosnii  Hersegowiin"
 BB,Barbadoos
+BD,Banglaadees
+BE,Beljik
+BF,"Burkibaa Faaso"
+BG,Bulgarii
+BH,Bahreyn
+BI,Burunndi
+BJ,Benee
+BM,Bermudaa
+BN,Burnaay
+BO,Boliwii
+BR,Beresiil
+BS,Bahamaas
+BT,Butaan
+BW,Botswaana
 BY,Belaruus
 BZ,Beliise
-BE,Beljik
-BJ,Benee
-BR,Beresiil
-BM,Bermudaa
-BO,Boliwii
-BA,"Bosnii  Hersegowiin"
-BW,Botswaana
-BV,"Bouvet Island"
-BG,Bulgarii
-BF,"Burkibaa Faaso"
-BN,Burnaay
-BI,Burunndi
-BT,Butaan
-TD,Caad
-IC,"Canary Islands"
-EA,"Ceuta and Melilla"
-CX,"Christmas Island"
-CL,Cilii
-CP,"Clipperton Island"
-CC,"Cocos [Keeling] Islands"
-DK,Danmark
-DG,"Diego Garcia"
-DM,Dominika
-VA,"Dowla Waticaan"
-US,"Dowlaaji Dentuɗi Amerik"
-FK,"Duuɗe Falkland"
-CV,"Duuɗe Kap Weer"
-KY,"Duuɗe Kaymaa"
-VI,"Duuɗe Kecce Amerik"
-VG,"duuɗe kecce britanii"
-CK,"Duuɗe Kuuk"
-MP,"Duuɗe Mariyaana Rewo"
-MH,"Duuɗe Marsaal"
-NF,"Duuɗe Norfolk"
-SB,"Duuɗe Solomon"
-TC,"Duuɗe Turke e Keikoos"
-ET,Ecoppi
-EG,Ejipt
-EC,Ekuwatoor
-SV,"El Salwador"
-AE,"Emiraat Araab Denntuɗe"
-IN,Enndo
-ID,Enndonesii
-ER,Eriteree
-ES,Espaañ
-EE,Estoni
-EU,"European Union"
-FR,Farayse
-FO,"Faroe Islands"
-FI,Fenland
-FJ,Fijji
-PH,Filipiin
-TF,"French Southern Territories"
-GA,Gaboo
-GM,Gammbi
-GH,Ganaa
-GD,Garnaad
-GR,Gerees
-GN,Gine
-GW,Gine-Bisaawo
-GQ,"Ginee Ekuwaatoriyaal"
-GY,Giyaan
-GF,"Giyaan Farayse"
-GL,Gorwendland
-GG,Guernsey
-GU,Guwam
-GP,Gwaadalup
-GT,Gwaatemalaa
-HT,Haytii
-HM,"Heard Island and McDonald Islands"
-HK,"Hong Kong SAR China"
-IQ,Iraak
-IR,Iraan
-IE,Irlannda
-IS,Islannda
-IM,"Isle of Man"
-IL,Israa'iila
-IT,Itali
-JM,Jamayka
-GE,Jeorgii
-JE,Jersey
-GI,Jibraltaar
-DJ,Jibutii
-JO,Jordani
-KH,Kambodso
-CM,Kameruun
 CA,Kanadaa
-KZ,Kasakstaan
-QA,Kataar
-IO,"Keeriindi britaani to maayo enndo"
-KE,Keñaa
-KG,Kirgistaan
-KI,Kiribari
-CI,Kodduwaar
-CO,Kolombiya
-KM,Komoor
-CG,Konngo
-KP,"Koree Rewo"
-KR,"Koree Worgo"
-HR,Korwasii
-CR,"Kosta Rikaa"
-CU,Kubaa
-KW,Kuweyti
-GB,"Laamateeri Rentundi"
-LA,Lawoos
-LS,Lesoto
-LV,Letonii
-LB,Libaa
-LR,Liberiyaa
-LY,Libi
-LU,Liksembuur
-LI,Lincenstayn
-LT,Lituaanii
-ML,Maali
-MO,"Macau SAR China"
-MG,Madagaskaar
-MW,Malaawi
-MV,Maldiiwe
-MY,Malesii
-MT,Malte
-MQ,Martinik
-MA,Maruk
-YT,Mayoot
-MK,Meceduwaan
-MX,Meksik
-FM,Mikoronesii
-MM,Miyamaar
-MD,Moldawii
-MC,Monaakoo
-MN,Monngolii
-MS,Monseraat
-ME,Montenegro
-MU,Moriis
-MZ,Mosammbik
-MR,Muritani
-NA,Namibii
-NR,Nawuru
-CZ,"Ndenndaandi Cek"
 CD,"Ndenndaandi Demokaraasiire Konngo"
 CF,"Ndenndaandi Santarafrik"
+CG,Konngo
+CH,Suwiis
+CI,Kodduwaar
+CK,"Duuɗe Kuuk"
+CL,Cilii
+CM,Kameruun
+CN,Siin
+CO,Kolombiya
+CR,"Kosta Rikaa"
+CS,"Serbii e Montenegoroo"
+CU,Kubaa
+CV,"Duuɗe Kap Weer"
+CY,Siipar
+CZ,"Ndenndaandi Cek"
+DE,Almaañ
+DJ,Jibutii
+DK,Danmark
+DM,Dominika
 DO,"Ndenndanndi Dominika"
-NL,Nederlannda
-NP,Nepaal
+DZ,Alaseri
+EC,Ekuwatoor
+EE,Estoni
+EG,Ejipt
+ER,Eriteree
+ES,Espaañ
+ET,Ecoppi
+FI,Fenland
+FJ,Fijji
+FK,"Duuɗe Falkland"
+FM,Mikoronesii
+FR,Farayse
+GA,Gaboo
+GB,"Laamateeri Rentundi"
+GD,Garnaad
+GE,Jeorgii
+GF,"Giyaan Farayse"
+GH,Ganaa
+GI,Jibraltaar
+GL,Gorwendland
+GM,Gammbi
+GN,Gine
+GP,Gwaadalup
+GQ,"Ginee Ekuwaatoriyaal"
+GR,Gerees
+GT,Gwaatemalaa
+GU,Guwam
+GW,Gine-Bisaawo
+GY,Giyaan
+HN,Onnduraas
+HR,Korwasii
+HT,Haytii
+HU,Onngiri
+ID,Enndonesii
+IE,Irlannda
+IL,Israa'iila
+IN,Enndo
+IO,"Keeriindi britaani to maayo enndo"
+IQ,Iraak
+IR,Iraan
+IS,Islannda
+IT,Itali
+JM,Jamayka
+JO,Jordani
+JP,Sapoo
+KE,Keñaa
+KG,Kirgistaan
+KH,Kambodso
+KI,Kiribari
+KM,Komoor
+KN,"Sent Kits e Newis"
+KP,"Koree Rewo"
+KR,"Koree Worgo"
+KW,Kuweyti
+KY,"Duuɗe Kaymaa"
+KZ,Kasakstaan
+LA,Lawoos
+LB,Libaa
+LC,"Sent Lusiyaa"
+LI,Lincenstayn
+LK,"Siri Lanka"
+LR,Liberiyaa
+LS,Lesoto
+LT,Lituaanii
+LU,Liksembuur
+LV,Letonii
+LY,Libi
+MA,Maruk
+MC,Monaakoo
+MD,Moldawii
+MG,Madagaskaar
+MH,"Duuɗe Marsaal"
+MK,Meceduwaan
+ML,Maali
+MM,Miyamaar
+MN,Monngolii
+MP,"Duuɗe Mariyaana Rewo"
+MQ,Martinik
+MR,Muritani
+MS,Monseraat
+MT,Malte
+MU,Moriis
+MV,Maldiiwe
+MW,Malaawi
+MX,Meksik
+MY,Malesii
+MZ,Mosammbik
+NA,Namibii
+NC,"Nuwel Kaledonii"
 NE,Nijeer
+NF,"Duuɗe Norfolk"
 NG,Nijeriyaa
 NI,Nikaraguwaa
-NU,Niuwe
+NL,Nederlannda
 NO,Norwees
-NC,"Nuwel Kaledonii"
+NP,Nepaal
+NR,Nawuru
+NU,Niuwe
 NZ,"Nuwel Selannda"
 OM,Omaan
-HN,Onnduraas
-HU,Onngiri
-AU,Ostaraalii
-AT,Otiriis
-QO,"Outlying Oceania"
-PK,Pakistaan
-PW,Palawu
-PS,"Palestiin Sisjordani e Gaasaa"
 PA,Panamaa
-PG,"Papuwaa Nuwel Gine"
-PY,Paraguwaay
 PE,Peru
-PN,Pitkern
 PF,"Polinesii Farayse"
+PG,"Papuwaa Nuwel Gine"
+PH,Filipiin
+PK,Pakistaan
 PL,Poloñ
-PR,"Porto Rikoo"
-PT,Purtugaal
-RE,Rewiñoo
-RU,Riisii
-RO,Rumanii
-RW,Ruwanndaa
-BL,"Saint Barthélemy"
-MF,"Saint Martin"
-ZM,Sammbi
-AS,"Samowa Amerik"
-WS,Samowaa
-JP,Sapoo
-ST,"Sawo Tome e Perensipe"
-SM,"See Maree"
 PM,"See Piyeer e Mikeloo"
-VC,"See Weesaa e Garnadiin"
-SN,Senegaal
-SH,"Sent Helen"
-KN,"Sent Kits e Newis"
-LC,"Sent Lusiyaa"
-SL,"Seraa liyon"
-RS,Serbia
-CS,"Serbii e Montenegoroo"
+PN,Pitkern
+PR,"Porto Rikoo"
+PS,"Palestiin Sisjordani e Gaasaa"
+PT,Purtugaal
+PW,Palawu
+PY,Paraguwaay
+QA,Kataar
+RE,Rewiñoo
+RO,Rumanii
+RU,Riisii
+RW,Ruwanndaa
+SA,"Arabii Sawdit"
+SB,"Duuɗe Solomon"
 SC,Seysel
-CN,Siin
-CY,Siipar
-ZW,Simbaabuwe
-SG,Sinngapuur
-LK,"Siri Lanka"
-SY,Sirii
-SK,Slowakii
-SI,Slowenii
-SO,Somalii
-GS,"South Georgia and the South Sandwich Islands"
 SD,Sudaan
-SR,Surinaam
 SE,Suweed
-CH,Suwiis
-SJ,"Svalbard and Jan Mayen"
+SG,Sinngapuur
+SH,"Sent Helen"
+SI,Slowenii
+SK,Slowakii
+SL,"Seraa liyon"
+SM,"See Maree"
+SN,Senegaal
+SO,Somalii
+SR,Surinaam
+ST,"Sawo Tome e Perensipe"
+SV,"El Salwador"
+SY,Sirii
 SZ,Swaasilannda
-TJ,Tajikistaan
-TZ,Tansanii
-TH,Taylannda
-TW,Taywaan
-TL,"Timoor Fuɗnaange"
-TT,"Tirnidaad e Tobaago"
+TC,"Duuɗe Turke e Keikoos"
+TD,Caad
 TG,Togoo
+TH,Taylannda
+TJ,Tajikistaan
 TK,Tokelaaw
-TO,Tonngaa
-TA,"Tristan da Cunha"
-TN,Tunisii
-TR,Turkii
+TL,"Timoor Fuɗnaange"
 TM,Turkmenistaan
+TN,Tunisii
+TO,Tonngaa
+TR,Turkii
+TT,"Tirnidaad e Tobaago"
 TV,Tuwaluu
-UM,"U.S. Minor Outlying Islands"
+TW,Taywaan
+TZ,Tansanii
 UA,Ukereen
 UG,Unganndaa
+US,"Dowlaaji Dentuɗi Amerik"
 UY,Uruguwaay
 UZ,Usbekistaan
-WF,"Walis e Futuna"
-VU,Wanuwaatuu
+VA,"Dowla Waticaan"
+VC,"See Weesaa e Garnadiin"
 VE,Wenesuwelaa
-EH,"Western Sahara"
+VG,"duuɗe kecce britanii"
+VI,"Duuɗe Kecce Amerik"
 VN,Wiyetnaam
+VU,Wanuwaatuu
+WF,"Walis e Futuna"
+WS,Samowaa
 YE,Yemen
+YT,Mayoot
+ZA,"Afrik bŋ Worgo"
+ZM,Sammbi
+ZW,Simbaabuwe

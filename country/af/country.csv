@@ -1,256 +1,272 @@
 id,name
-AF,Afganistan
-AX,"Åland Islands"
-AL,Albanië
-DZ,Algerië
-AS,"Amerikaans Samoa"
+001,Wêreld
+002,Afrika
+003,Noord-Amerika
+005,Suid-Amerika
+009,Oseanië
+011,Wes-Afrika
+013,Sentraal-Amerika
+014,Oos-Afrika
+015,Noord-Afrika
+017,Midde-Afrika
+018,Suider-Afrika
+019,Amerikas
+021,"Noordelike Amerika"
+029,Karibies
+030,Oos-Asië
+034,Suid-Asië
+035,Suidoos-Asië
+039,Suid-Europa
+053,"Australië en Nieu-Seeland"
+054,Melanesië
+061,Polinesië
+AC,Ascension
 AD,Andorra
-AO,Angola
-AI,Anguilla
-AQ,Antarktika
+AE,"Verenigde Arabiese Emirate"
+AF,Afganistan
 AG,"Antigua en Barbuda"
-AR,Argentinië
+AI,Anguilla
+AL,Albanië
 AM,Armenië
-AW,Aruba
-AC,"Ascension Island"
-AZ,Aserbeidjan
+AN,Nederlands-Antille
+AO,Angola
+AQ,Antarktika
+AR,Argentinië
+AS,"Amerikaans Samoa"
+AT,Oostenryk
 AU,Australië
-BS,Bahamas
-BH,Bahrein
-BD,Bangladesj
-BB,Barbados
-BE,België
-BZ,Belize
-BJ,Benin
-BM,Bermuda
-BT,Bhoetan
-BF,"Boerkina Fasso"
-BO,Bolivië
+AW,Aruba
+AX,Åland
+AZ,Aserbeidjan
 BA,"Bosnië en Herzegowina"
-BW,Botswana
-BV,"Bouvet Island"
-BR,Brasilië
-IO,"Britse Indiese Oseaan Gebied"
-VG,"Britse Maagde-eilande"
-BN,Broenei
+BB,Barbados
+BD,Bangladesj
+BE,België
+BF,"Boerkina Fasso"
 BG,Bulgarye
+BH,Bahrein
 BI,Burundi
-IC,"Canary Islands"
-EA,"Ceuta and Melilla"
-CL,Chili
-CX,"Christmas Island"
-CY,Ciprus
-CP,"Clipperton Island"
-CC,"Cocos [Keeling] Islands"
-KM,Comore
-CK,Cookeilande
-CR,"Costa Rica"
+BJ,Benin
+BL,"Sint Barthélemy"
+BM,Bermuda
+BN,Broenei
+BO,Bolivië
+BR,Brasilië
+BS,Bahamas
+BT,Bhoetan
+BW,Botswana
+BY,Wit-Rusland
+BZ,Belize
+CA,Kanada
 CD,"Demokratiese Republiek van die Kongo"
-DK,Denemarke
+CF,"Sentraal-Afrikaanse Republiek"
+CG,Kongo
+CH,Switserland
+CI,Ivoorkus
+CK,Cookeilande
+CL,Chili
+CM,Kameroen
+CN,Sjina
+CO,Kolombië
+CP,Clipperton
+CR,"Costa Rica"
+CS,"Serwië en Montenegro"
+CU,Kuba
+CV,"Kaap Verde"
+CY,Ciprus
+CZ,"Tjeggiese Republiek"
+DE,Duitsland
 DG,"Diego Garcia"
 DJ,Djiboeti
+DK,Denemarke
 DM,Dominika
 DO,"Dominikaanse Republiek"
-DE,Duitsland
+DZ,Algerië
+EA,"Ceuta en Melilla"
 EC,Ecuador
-EG,Egipte
-GQ,Ekwatoriaal-Guinee
-ER,Eritrea
 EE,Estland
+EG,Egipte
+EH,Wes-Sahara
+ER,Eritrea
+ES,Spanje
 ET,Ethiopië
-EU,"European Union"
-FK,Falklandeilande
-FO,Faroëreilande
-FJ,Fidji
-PH,Filippyne
+EU,"Europese Unie"
 FI,Finland
+FJ,Fidji
+FK,Falklandeilande
+FM,Mikronesië
+FO,Faroëreilande
 FR,Frankryk
-GF,Frans-Guyana
-PF,Frans-Polinesië
-TF,"French Southern Territories"
 GA,Gaboen
-GM,Gambië
+GB,Groot-Brittanje
+GD,Grenada
 GE,Georgië
+GF,Frans-Guyana
 GH,Ghana
 GI,Gibraltar
-GD,Grenada
-GR,Griekeland
 GL,Groenland
-GB,Groot-Brittanje
-GP,Guadeloupe
-GU,Guam
-GT,Guatemala
-GG,Guernsey
+GM,Gambië
 GN,Guinee
+GP,Guadeloupe
+GQ,Ekwatoriaal-Guinee
+GR,Griekeland
+GT,Guatemala
+GU,Guam
 GW,Guinee-Bissau
 GY,Guyana
-HT,Haïti
-HM,"Heard Island and McDonald Islands"
-HN,Honduras
-HU,Hongarye
 HK,Hongkong
-IE,Ierland
-IN,Indië
+HN,Honduras
+HR,Kroasië
+HT,Haïti
+HU,Hongarye
+IC,"Kanariese Eilande"
 ID,Indonesië
+IE,Ierland
+IL,Israel
+IN,Indië
+IO,"Britse Indiese Oseaan Gebied"
 IQ,Irak
 IR,Iran
-IM,"Isle of Man"
-IL,Israel
+IS,Ysland
 IT,Italië
-CI,Ivoorkus
-JM,Jamaika
-JP,Japan
-YE,Jemen
 JE,Jersey
+JM,Jamaika
 JO,Jordanië
-KY,Kaaimanseilande
-CV,"Kaap Verde"
-KH,Kambodja
-CM,Kameroen
-CA,Kanada
-KZ,Kasakstan
-QA,Katar
+JP,Japan
 KE,Kenia
 KG,Kirgisië
+KH,Kambodja
 KI,Kiribati
+KM,Comore
+KN,"Saint Kitts en Nevis"
+KP,Noord-Korea
+KR,Suid-Korea
 KW,Koeweit
-CO,Kolombië
-CG,Kongo
-HR,Kroasië
-CU,Kuba
+KY,Kaaimanseilande
+KZ,Kasakstan
 LA,Laos
-LS,Lesotho
-LV,Letland
 LB,Libanon
-LR,Liberië
-LY,Libië
+LC,"Sint Lucia"
 LI,Liechtenstein
+LK,"Sri Lanka"
+LR,Liberië
+LS,Lesotho
 LT,Litaue
 LU,Luxemburg
-MO,"Macau SAR China"
-MK,Macedonië
-MG,Madagaskar
-MW,Malawi
-MV,Maledive
-MY,Maleisië
-ML,Mali
-MT,Malta
+LV,Letland
+LY,Libië
 MA,Marokko
-MH,Marshall-eilande
-MQ,Martinique
-MU,Mauritius
-YT,Mayotte
-MX,Meksiko
-MM,Mianmar
-FM,Mikronesië
-MD,Moldova
 MC,Monaco
+MD,Moldova
+MG,Madagaskar
+MH,Marshall-eilande
+MK,Macedonië
+ML,Mali
+MM,Mianmar
 MN,Mongolië
-ME,Montenegro
-MS,Montserrat
-MZ,Mosambiek
-MR,Mouritanië
-NA,Namibië
-NR,Naoeroe
-NL,Nederland
-AN,Nederlands-Antille
-NP,Nepal
-NI,Nicaragua
-NC,Nieu-Kaledonië
-NZ,Nieu-Seeland
-NE,Niger
-NG,Nigerië
-NU,Niue
-KP,Noord-Korea
+MO,Macao
 MP,"Noordelike Marianaeilande"
-NO,Noorweë
+MQ,Martinique
+MR,Mouritanië
+MS,Montserrat
+MT,Malta
+MU,Mauritius
+MV,Maledive
+MW,Malawi
+MX,Meksiko
+MY,Maleisië
+MZ,Mosambiek
+NA,Namibië
+NC,Nieu-Kaledonië
+NE,Niger
 NF,Norfolk-eiland
-UA,Oekraine
-UZ,Oesbekistan
+NG,Nigerië
+NI,Nicaragua
+NL,Nederland
+NO,Noorweë
+NP,Nepal
+NR,Naoeroe
+NU,Niue
+NZ,Nieu-Seeland
 OM,Oman
-TL,Oos-Timor
-AT,Oostenryk
-QO,"Outlying Oceania"
-PK,Pakistan
-PW,Palau
-PS,Palestina
 PA,Panama
-PG,"Papoea Nieu-Guinee"
-PY,Paraguay
 PE,Peru
-PN,Pitcairn
+PF,Frans-Polinesië
+PG,"Papoea Nieu-Guinee"
+PH,Filippyne
+PK,Pakistan
 PL,Pole
-PT,Portugal
+PM,"Sint-Pierre en Miquelon"
+PN,Pitcairn
 PR,"Puerto Rico"
+PS,Palestina
+PT,Portugal
+PW,Palau
+PY,Paraguay
+QA,Katar
 RE,Réunion
 RO,Roemenië
 RU,Rusland
 RW,Rwanda
-BL,"Saint Barthélemy"
-KN,"Saint Kitts en Nevis"
-MF,"Saint Martin"
-VC,"Saint Vincent en die Grenadine"
-SV,Salvador
-WS,Samoa
-SM,"San Marino"
-ST,"Sao Tome en Principe"
 SA,Saoedi-Arabië
-SN,Senegal
-CF,"Sentraal-Afrikaanse Republiek"
-RS,Serbia
-CS,"Serwië en Montenegro"
+SB,"Solomon Eilande"
 SC,Seychelle
-SL,"Sierra Leone"
+SD,Soedan
+SE,Swede
 SG,Singapoer
 SH,"Sint Helena"
-LC,"Sint Lucia"
-PM,"Sint-Pierre en Miquelon"
-SY,Sirië
-CN,Sjina
-SK,Slowakye
 SI,Slowenië
-SD,Soedan
-SB,"Solomon Eilande"
+SK,Slowakye
+SL,"Sierra Leone"
+SM,"San Marino"
+SN,Senegal
 SO,Somalië
-GS,"South Georgia and the South Sandwich Islands"
-ES,Spanje
-LK,"Sri Lanka"
-ZA,Suid-Afrika
-KR,Suid-Korea
 SR,Suriname
-SJ,"Svalbard and Jan Mayen"
+ST,"Sao Tome en Principe"
+SV,Salvador
+SY,Sirië
 SZ,Swaziland
-SE,Swede
-CH,Switserland
+TA,"Tristan da Cunha"
+TC,"Turks en Caicos Eilande"
+TD,Tsjaad
+TG,Togo
+TH,Thailand
 TJ,Tadjikistan
+TK,Tokelau
+TL,Oos-Timor
+TM,Turkmenië
+TN,Tunisië
+TO,Tonga
+TR,Turkye
+TT,"Trinidad en Tobago"
+TV,Tuvalu
 TW,Taiwan
 TZ,Tanzanië
-TH,Thailand
-CZ,"Tjeggiese Republiek"
-TG,Togo
-TK,Tokelau
-TO,Tonga
-TT,"Trinidad en Tobago"
-TA,"Tristan da Cunha"
-TD,Tsjaad
-TN,Tunisië
-TM,Turkmenië
-TC,"Turks en Caicos Eilande"
-TR,Turkye
-TV,Tuvalu
-UM,"U.S. Minor Outlying Islands"
+UA,Oekraine
 UG,Uganda
-UY,Uruguay
-VI,"V.S. Maagde-eilande"
-VU,Vanuatu
-VA,Vatikaan
-VE,Venezuela
-AE,"Verenigde Arabiese Emirate"
 US,"Verenigde State van Amerika"
+UY,Uruguay
+UZ,Oesbekistan
+VA,Vatikaan
+VC,"Saint Vincent en die Grenadine"
+VE,Venezuela
+VG,"Britse Maagde-eilande"
+VI,"V.S. Maagde-eilande"
 VN,Viëtnam
+VU,Vanuatu
 WF,"Wallis en Futuna"
-EH,Wes-Sahara
-BY,Wit-Rusland
-IS,Ysland
+WS,Samoa
+YE,Jemen
+YT,Mayotte
+ZA,Suid-Afrika
 ZM,Zambië
 ZW,Zimbabwe
+ZZ,"onbekend gebied"
+142,Asië
+143,Sentraal-Asië
+145,Wes-Asië
+150,Europa
+151,Oos-Europa
+154,Noord-Europa
+155,Wes-Europa
+172,"Gemenebes van Onafhanklike State"

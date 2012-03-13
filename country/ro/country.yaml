@@ -1,255 +1,290 @@
-AF: Afganistan
-ZA: 'Africa de Sud'
-AL: Albania
-DZ: Algeria
+'001': Lume
+'002': Africa
+'003': 'America de Nord'
+'005': 'America de Sud'
+'009': Oceania
+'011': 'Africa Occidentală'
+'013': 'America Centrală'
+'014': 'Africa Orientală'
+'015': 'Africa Septentrională'
+'017': 'Africa Centrală'
+'018': 'Africa Meridională'
+'019': Americi
+'021': 'America Septentrională'
+'029': Caraibe
+'030': 'Asia Orientală'
+'034': 'Asia Meridională'
+'035': 'Asia de Sud-Est'
+'039': 'Europa Meridională'
+'053': 'Australia și Noua Zeelandă'
+'054': Melanezia
+'057': 'Regiunea Micronezia'
+'061': Polinezia
+'062': 'Asia Centrală de Sud'
+AC: 'Insula Ascension'
 AD: Andorra
-AO: Angola
-AI: Anguilla
-AQ: Antarctica
+AE: 'Emiratele Arabe Unite'
+AF: Afganistan
 AG: 'Antigua și Barbuda'
-AN: 'Antilele Olandeze'
-SA: 'Arabia Saudită'
-AR: Argentina
+AI: Anguilla
+AL: Albania
 AM: Armenia
-AW: Aruba
-AU: Australia
+AN: 'Antilele Olandeze'
+AO: Angola
+AQ: Antarctica
+AR: Argentina
+AS: 'Samoa Americană'
 AT: Austria
+AU: Australia
+AW: Aruba
+AX: 'Insulele Aland'
 AZ: Azerbaidjan
-BS: Bahamas
-BH: Bahrain
-BD: Bangladesh
-BB: Barbados
-BE: Belgia
-BZ: Belize
-BJ: Benin
-BM: Bermuda
-BT: Bhutan
-BY: Bielorusia
-BO: Bolivia
 BA: 'Bosnia și Herțegovina'
-BW: Botswana
-BR: Brazilia
-BN: Brunei
-BG: Bulgaria
+BB: Barbados
+BD: Bangladesh
+BE: Belgia
 BF: 'Burkina Faso'
+BG: Bulgaria
+BH: Bahrain
 BI: Burundi
-KH: Cambodgia
-CM: Camerun
+BJ: Benin
+BL: 'Sfântul Bartolomeu'
+BM: Bermuda
+BN: Brunei
+BO: Bolivia
+BR: Brazilia
+BS: Bahamas
+BT: Bhutan
+BV: 'Insula Bouvet'
+BW: Botswana
+BY: Bielorusia
+BZ: Belize
 CA: Canada
-CV: 'Capul Verde'
-EA: 'Ceuta şi Melilla'
-CL: Chile
-CN: China
-TD: Ciad
-CY: Cipru
-CI: 'Coasta de Fildeș'
-CO: Columbia
-KM: Comore
+CC: 'Insulele Cocos'
+CD: 'Republica Democrată Congo'
+CF: 'Republica Centrafricană'
 CG: Congo
-KP: 'Coreea de Nord'
-KR: 'Coreea de Sud'
+CH: Eleveția
+CI: 'Coasta de Fildeș'
+CK: 'Insulele Cook'
+CL: Chile
+CM: Camerun
+CN: China
+CO: Columbia
+CP: 'Insula Clipperton'
 CR: 'Costa Rica'
-HR: Croația
+CS: 'Serbia și Muntenegru'
 CU: Cuba
-DK: Danemarca
+CV: 'Capul Verde'
+CX: 'Insula Christmas'
+CY: Cipru
+CZ: 'Republica Cehă'
+DE: Germania
 DG: 'Diego Garcia'
 DJ: Djibouti
+DK: Danemarca
 DM: Dominica
+DO: 'Republica Dominicană'
+DZ: Algeria
+EA: 'Ceuta şi Melilla'
 EC: Ecuador
-EG: Egipt
-SV: 'El Salvador'
-CH: Eleveția
-AE: 'Emiratele Arabe Unite'
-ER: Eritreea
 EE: Estonia
+EG: Egipt
+EH: 'Sahara Occidentală'
+ER: Eritreea
+ES: Spania
 ET: Etiopia
-FJ: Fiji
-PH: Filipine
+EU: 'Uniunea Europeană'
 FI: Finlanda
+FJ: Fiji
+FK: 'Insulele Falkland'
+FM: Micronezia
+FO: 'Insulele Feroe'
 FR: Franța
+FX: 'Franța metropolitană'
 GA: Gabon
-GM: Gambia
+GB: 'Marea Britanie'
+GD: Grenada
 GE: Georgia
-GS: 'Georgia de Sud şi Insulele Sandwich de Sud'
-DE: Germania
+GF: 'Guyana Franceză'
+GG: Guernsey
 GH: Ghana
 GI: Gibraltar
-GR: Grecia
-GD: Grenada
 GL: Groenlanda
-GP: Guadelupa
-GU: Guam
-GT: Guatemala
-GG: Guernsey
+GM: Gambia
 GN: Guineea
+GP: Guadelupa
 GQ: 'Guineea Ecuatorială'
+GR: Grecia
+GS: 'Georgia de Sud şi Insulele Sandwich de Sud'
+GT: Guatemala
+GU: Guam
 GW: Guineea-Bissau
 GY: Guyana
-GF: 'Guyana Franceză'
-HT: Haiti
-HN: Honduras
-IN: India
-ID: Indonezia
-AC: 'Insula Ascension'
-BV: 'Insula Bouvet'
-CX: 'Insula Christmas'
-CP: 'Insula Clipperton'
+HK: 'R.A.S. Hong Kong a Chinei'
 HM: 'Insula Heard și Insulele McDonald'
-IM: 'Insula Man'
-AX: 'Insulele Aland'
+HN: Honduras
+HR: Croația
+HT: Haiti
+HU: Ungaria
 IC: 'Insulele Canare'
-KY: 'Insulele Cayman'
-CC: 'Insulele Cocos'
-CK: 'Insulele Cook'
-FK: 'Insulele Falkland'
-FO: 'Insulele Feroe'
-MP: 'Insulele Mariane de Nord'
-MH: 'Insulele Marshall'
-UM: 'Insulele Minore Îndepărtate ale Statelor Unite ale Americii'
-NF: 'Insulele Norfolk'
-SB: 'Insulele Solomon'
-TC: 'Insulele Turks și Caicos'
-VG: 'Insulele Virgine Britanice'
-VI: 'Insulele Virgine S.U.A.'
-JO: Iordania
+ID: Indonezia
+IE: Irlanda
+IL: Israel
+IM: 'Insula Man'
+IN: India
+IO: 'Teritoriul Britanic din Oceanul Indian'
 IQ: Irak
 IR: Iran
-IE: Irlanda
 IS: Islanda
-IL: Israel
 IT: Italia
-JM: Jamaica
-JP: Japonia
 JE: Jersey
-KZ: Kazahstan
-KG: Kârgâzstan
+JM: Jamaica
+JO: Iordania
+JP: Japonia
 KE: Kenya
+KG: Kârgâzstan
+KH: Cambodgia
 KI: Kiribati
+KM: Comore
+KN: 'Sfântul Kitts și Nevis'
+KP: 'Coreea de Nord'
+KR: 'Coreea de Sud'
 KW: Kuweit
+KY: 'Insulele Cayman'
+KZ: Kazahstan
 LA: Laos
-LS: Lesotho
-LV: Letonia
 LB: Liban
-LR: Liberia
-LY: Libia
+LC: 'Sfânta Lucia'
 LI: Liechtenstein
+LK: 'Sri Lanka'
+LR: Liberia
+LS: Lesotho
 LT: Lituania
 LU: Luxemburg
-MK: Macedonia
-MG: Madagascar
-MY: Malaezia
-MW: Malawi
-MV: Maldive
-ML: Mali
-MT: Malta
-GB: 'Marea Britanie'
+LV: Letonia
+LY: Libia
 MA: Maroc
+MC: Monaco
+MD: 'Republica Moldova'
+ME: Muntenegru
+MF: 'Sfântul Martin'
+MG: Madagascar
+MH: 'Insulele Marshall'
+MK: Macedonia
+ML: Mali
+MM: Myanmar
+MN: Mongolia
+MO: 'R.A.S. Macao a Chinei'
+MP: 'Insulele Mariane de Nord'
 MQ: Martinica
 MR: Mauritania
-MU: Mauritius
-YT: Mayotte
-MX: Mexic
-FM: Micronezia
-MC: Monaco
-MN: Mongolia
 MS: Montserrat
+MT: Malta
+MU: Mauritius
+MV: Maldive
+MW: Malawi
+MX: Mexic
+MY: Malaezia
 MZ: Mozambic
-ME: Muntenegru
-MM: Myanmar
 NA: Namibia
-NR: Nauru
-NP: Nepal
-NI: Nicaragua
-NE: Niger
-NG: Nigeria
-NU: Niue
-NO: Norvegia
 NC: 'Noua Caledonie'
-NZ: 'Noua Zeelandă'
-QO: 'Oceania Periferică'
+NE: Niger
+NF: 'Insulele Norfolk'
+NG: Nigeria
+NI: Nicaragua
 NL: Olanda
+NO: Norvegia
+NP: Nepal
+NR: Nauru
+NU: Niue
+NZ: 'Noua Zeelandă'
 OM: Oman
-PK: Pakistan
-PW: Palau
 PA: Panama
-PG: 'Papua Noua Guinee'
-PY: Paraguay
 PE: Peru
-PN: Pitcairn
 PF: 'Polinezia Franceză'
+PG: 'Papua Noua Guinee'
+PH: Filipine
+PK: Pakistan
 PL: Polonia
+PM: 'Sfântul Pierre și Miquelon'
+PN: Pitcairn
 PR: 'Porto Rico'
+PS: 'Teritoriul Palestinian'
 PT: Portugalia
+PW: Palau
+PY: Paraguay
 QA: Qatar
-HK: 'R.A.S. Hong Kong a Chinei'
-MO: 'R.A.S. Macao a Chinei'
-CZ: 'Republica Cehă'
-CF: 'Republica Centrafricană'
-CD: 'Republica Democrată Congo'
-DO: 'Republica Dominicană'
-MD: 'Republica Moldova'
+QO: 'Oceania Periferică'
 RE: Reunion
 RO: România
+RS: Serbia
 RU: Rusia
 RW: Rwanda
-EH: 'Sahara Occidentală'
-WS: Samoa
-AS: 'Samoa Americană'
-SM: 'San Marino'
-ST: 'Sao Tome și Principe'
-SN: Senegal
-RS: Serbia
-CS: 'Serbia și Muntenegru'
+SA: 'Arabia Saudită'
+SB: 'Insulele Solomon'
 SC: Seychelles
-SH: 'Sfânta Elena'
-LC: 'Sfânta Lucia'
-BL: 'Sfântul Bartolomeu'
-KN: 'Sfântul Kitts și Nevis'
-MF: 'Sfântul Martin'
-PM: 'Sfântul Pierre și Miquelon'
-VC: 'Sfântul Vincent și Grenadine'
-SL: 'Sierra Leone'
-SG: Singapore
-SY: Siria
-SK: Slovacia
-SI: Slovenia
-SO: Somalia
-ES: Spania
-LK: 'Sri Lanka'
-US: 'Statele Unite ale Americii'
 SD: Sudan
 SE: Suedia
-SR: Surinam
+SG: Singapore
+SH: 'Sfânta Elena'
+SI: Slovenia
 SJ: 'Svalbard și Jan Mayen'
+SK: Slovacia
+SL: 'Sierra Leone'
+SM: 'San Marino'
+SN: Senegal
+SO: Somalia
+SR: Surinam
+ST: 'Sao Tome și Principe'
+SV: 'El Salvador'
+SY: Siria
 SZ: Swaziland
+TA: 'Tristan da Cunha'
+TC: 'Insulele Turks și Caicos'
+TD: Ciad
+TF: 'Teritoriile Australe și Antarctice Franceze'
+TG: Togo
+TH: Thailanda
 TJ: Tadjikistan
+TK: Tokelau
+TL: 'Timorul de Est'
+TM: Turkmenistan
+TN: Tunisia
+TO: Tonga
+TR: Turcia
+TT: Trinidad-Tobago
+TV: Tuvalu
 TW: Taiwan
 TZ: Tanzania
-TF: 'Teritoriile Australe și Antarctice Franceze'
-IO: 'Teritoriul Britanic din Oceanul Indian'
-PS: 'Teritoriul Palestinian'
-TH: Thailanda
-TL: 'Timorul de Est'
-TG: Togo
-TK: Tokelau
-TO: Tonga
-TT: Trinidad-Tobago
-TA: 'Tristan da Cunha'
-TN: Tunisia
-TR: Turcia
-TM: Turkmenistan
-TV: Tuvalu
 UA: Ucraina
 UG: Uganda
-HU: Ungaria
-EU: 'Uniunea Europeană'
+UM: 'Insulele Minore Îndepărtate ale Statelor Unite ale Americii'
+US: 'Statele Unite ale Americii'
 UY: Uruguay
 UZ: Uzbekistan
-VU: Vanuatu
 VA: Vatican
+VC: 'Sfântul Vincent și Grenadine'
 VE: Venezuela
+VG: 'Insulele Virgine Britanice'
+VI: 'Insulele Virgine S.U.A.'
 VN: Vietnam
+VU: Vanuatu
 WF: 'Wallis și Futuna'
+WS: Samoa
 YE: Yemen
+YT: Mayotte
+ZA: 'Africa de Sud'
 ZM: Zambia
 ZW: Zimbabwe
+ZZ: 'Regiune necunoscută sau nevalidă'
+142: Asia
+143: 'Asia Centrală'
+145: 'Asia Occidentală'
+150: Europa
+151: 'Europa Orientală'
+154: 'Europa Septentrională'
+155: 'Europa Occidentală'
+172: 'Comunitatea Statelor Independente'
+419: 'America Latină și Caraibe'
+830: 'Insulele Anglo-Normande'

@@ -1,256 +1,290 @@
 id,name
-AX,"Alandska ostrva"
-AL,Albanija
-DZ,Alžir
-AS,"Američka Samoa"
+001,Svet
+002,Afrika
+003,"Severnoamerički kontinent"
+005,"Južna Amerika"
+009,Okeanija
+011,"Zapadna Afrika"
+013,"Centralna Amerika"
+014,"Istočna Afrika"
+015,"Severna Afrika"
+017,"Centralna Afrika"
+018,"Južna Afrika"
+019,Amerike
+021,"Severna Amerika"
+029,Karibi
+030,"Istočna Azija"
+034,"Južna Azija"
+035,"Jugoistočna Azija"
+039,"Južna Evropa"
+053,"Australija i Novi Zeland"
+054,Melanezija
+057,Micronezija
+061,Polinezija
+062,"Južno-centralna Azija"
+AC,"Ostrvo Asension"
 AD,Andora
-AO,Angola
-AI,Angvila
-AQ,Antarktika
-AG,"Antigva i Barbuda"
-AR,Argentina
-AM,Armenija
-AW,Aruba
-AU,Australija
-AT,Austrija
+AE,"Ujedinjeni Arapski Emirati"
 AF,Avganistan
+AG,"Antigva i Barbuda"
+AI,Angvila
+AL,Albanija
+AM,Armenija
+AN,"Holandski Antili"
+AO,Angola
+AQ,Antarktika
+AR,Argentina
+AS,"Američka Samoa"
+AT,Austrija
+AU,Australija
+AW,Aruba
+AX,"Alandska ostrva"
 AZ,Azerbejdžan
-BS,Bahami
-BH,Bahrein
-BD,Bangladeš
-BB,Barbados
-BE,Belgija
-BZ,Belise
-BY,Belorusija
-BJ,Benin
-BM,Bermuda
-BW,Bocvana
-BO,Bolivija
 BA,"Bosna i Hercegovina"
-CX,"Božićna Ostrva"
-BR,Brazil
-VG,"Britanska Devičanska Ostrva"
-IO,"Britansko Indijska Okeanska Teritorija"
-BN,Brunej
-BG,Bugarska
+BB,Barbados
+BD,Bangladeš
+BE,Belgija
 BF,"Burkina Faso"
+BG,Bugarska
+BH,Bahrein
 BI,Burundi
+BJ,Benin
+BL,"Sv. Bartolomej"
+BM,Bermuda
+BN,Brunej
+BO,Bolivija
+BR,Brazil
+BS,Bahami
 BT,Butan
 BV,"Buve Ostrva"
-CF,"Centralno Afrička Republika"
-ME,"Crna Gora"
-TD,Čad
-CZ,Češka
-CL,Čile
-DK,Danska
+BW,Bocvana
+BY,Belorusija
+BZ,Belise
+CA,Kanada
+CC,"Kokos (Keling) Ostrva"
 CD,"Demokratska Republika Kongo"
+CF,"Centralno Afrička Republika"
+CG,Kongo
+CH,Švajcarska
+CI,"Obala Slonovače"
+CK,"Kukova Ostrva"
+CL,Čile
+CM,Kamerun
+CN,Kina
+CO,Kolumbija
+CP,"Ostrvo Kliperton"
+CR,Kostarika
+CS,"Srbija i Crna Gora"
+CU,Kuba
+CV,"Kape Verde"
+CX,"Božićna Ostrva"
+CY,Kipar
+CZ,Češka
+DE,Nemačka
+DG,"Dijego Garsija"
+DJ,Džibuti
+DK,Danska
 DM,Dominika
 DO,"Dominikanska Republika"
-JE,Džersi
-DJ,Džibuti
-EG,Egipat
+DZ,Alžir
+EA,"Seuta i Melilja"
 EC,Ekvador
-GQ,"Ekvatorijalna Gvineja"
-ER,Eritreja
 EE,Estonija
+EG,Egipat
+EH,"Zapadna Sahara"
+ER,Eritreja
+ES,Španija
 ET,Etiopija
 EU,"Evropska unija"
-FO,"Farska Ostrva"
-FJ,Fidži
-PH,Filipini
 FI,Finska
+FJ,Fidži
 FK,"Folklandska Ostrva"
+FM,Mikronezija
+FO,"Farska Ostrva"
 FR,Francuska
-GF,"Francuska Gvajana"
-PF,"Francuska Polinezija"
-TF,"Francuske Južne Teritorije"
 GA,Gabon
-GM,Gambija
+GB,"Velika Britanija"
+GD,Grenada
+GE,Gruzija
+GF,"Francuska Gvajana"
+GG,Gurnsi
 GH,Gana
 GI,Gibraltar
-GR,Grčka
-GD,Grenada
 GL,Grenland
-GE,Gruzija
-GU,Guam
-GG,Gurnsi
-GP,Gvadelupe
-GY,Gvajana
-GT,Gvatemala
+GM,Gambija
 GN,Gvineja
+GP,Gvadelupe
+GQ,"Ekvatorijalna Gvineja"
+GR,Grčka
+GS,"Južna Džordžija i Južna Sendvič Ostrva"
+GT,Gvatemala
+GU,Guam
 GW,Gvineja-Bisao
-HT,Haiti
-HM,"Herd i Mekdonald Ostrva"
-NL,Holandija
-AN,"Holandski Antili"
-HN,Honduras
+GY,Gvajana
 HK,"Hong Kong (S. A. R. Kina)"
+HM,"Herd i Mekdonald Ostrva"
+HN,Honduras
 HR,Hrvatska
-IN,Indija
+HT,Haiti
+HU,Mađarska
+IC,"Kanarska ostrva"
 ID,Indonezija
+IE,Irska
+IL,Izrael
+IM,"Ostrvo Man"
+IN,Indija
+IO,"Britansko Indijska Okeanska Teritorija"
 IQ,Irak
 IR,Iran
-IE,Irska
 IS,Island
-TL,"Istočni Timor"
 IT,Italija
-IL,Izrael
+JE,Džersi
 JM,Jamajka
-JP,Japan
-YE,Jemen
 JO,Jordan
-GS,"Južna Džordžija i Južna Sendvič Ostrva"
-KR,"Južna Koreja"
-ZA,"Južnoafrička Republika"
-KY,"Kajmanska Ostrva"
-KH,Kambodža
-CM,Kamerun
-CA,Kanada
-CV,"Kape Verde"
-QA,Katar
-KZ,Kazahstan
+JP,Japan
 KE,Kenija
-CN,Kina
-CY,Kipar
 KG,Kirgizstan
+KH,Kambodža
 KI,Kiribati
-CC,"Kokos (Keling) Ostrva"
-CO,Kolumbija
 KM,"Komorska Ostrva"
-CG,Kongo
-CR,Kostarika
-CU,Kuba
-CK,"Kukova Ostrva"
+KN,"Sent Kits i Nevis"
+KP,"Severna Koreja"
+KR,"Južna Koreja"
 KW,Kuvajt
+KY,"Kajmanska Ostrva"
+KZ,Kazahstan
 LA,Laos
-LS,Lesoto
-LV,Letonija
 LB,Liban
-LR,Liberija
-LY,Libija
+LC,"Sent Lucija"
 LI,Lihtenštajn
+LK,"Šri Lanka"
+LR,Liberija
+LS,Lesoto
 LT,Litvanija
 LU,Luksemburg
-MG,Madagaskar
-HU,Mađarska
-YT,Majote
-MO,"Makao (S. A. R. Kina)"
-MK,Makedonija
-MW,Malavi
-MV,Maldivi
-MY,Malezija
-ML,Mali
-MT,Malta
-UM,"Manja Udaljena Ostrva SAD"
+LV,Letonija
+LY,Libija
 MA,Maroko
-MH,"Maršalska Ostrva"
-MQ,Martinik
-MU,Mauricius
-MR,Mauritanija
-MX,Meksiko
-MM,Mijanmar
-FM,Mikronezija
-MD,Moldavija
 MC,Monako
+MD,Moldavija
+ME,"Crna Gora"
+MF,"Sv. Martin"
+MG,Madagaskar
+MH,"Maršalska Ostrva"
+MK,Makedonija
+ML,Mali
+MM,Mijanmar
 MN,Mongolija
+MO,"Makao (S. A. R. Kina)"
+MP,"Severna Marijanska Ostrva"
+MQ,Martinik
+MR,Mauritanija
 MS,Monserat
+MT,Malta
+MU,Mauricius
+MV,Maldivi
+MW,Malavi
+MX,Meksiko
+MY,Malezija
 MZ,Mozambik
 NA,Namibija
-NR,Nauru
-DE,Nemačka
-NP,Nepal
+NC,"Nova Kaledonija"
 NE,Niger
+NF,"Norfolk Ostrvo"
 NG,Nigerija
 NI,Nikaragva
-NU,Niue
-NF,"Norfolk Ostrvo"
+NL,Holandija
 NO,Norveška
-NC,"Nova Kaledonija"
+NP,Nepal
+NR,Nauru
+NU,Niue
 NZ,"Novi Zeland"
-CI,"Obala Slonovače"
 OM,Oman
-QO,"Ostala okeanija"
-IM,"Ostrvo Man"
-PK,Pakistan
-PW,Palau
-PS,"Palestinska Teritorija"
 PA,Panama
-PG,"Papua Nova Gvineja"
-PY,Paragvaj
 PE,Peru
-PN,Pitcairn
+PF,"Francuska Polinezija"
+PG,"Papua Nova Gvineja"
+PH,Filipini
+PK,Pakistan
 PL,Poljska
-PR,"Porto Riko"
-PT,Portugal
-RE,Rejunion
-RW,Ruanda
-RO,Rumunija
-RU,Rusija
-VI,"S.A.D. Devičanska Ostrva"
-SV,Salvador
-WS,Samoa
-SM,"San Marino"
-ST,"Sao Tome i Principe"
-SA,"Saudijska Arabija"
-SC,Sejšeli
 PM,"Sen Pjer i Mikelon"
-SN,Senegal
-KN,"Sent Kits i Nevis"
-LC,"Sent Lucija"
-VC,"Sent Vinsent i Grenadini"
-KP,"Severna Koreja"
-MP,"Severna Marijanska Ostrva"
-SL,"Sijera Leone"
-SG,Singapur
-SY,Sirija
-US,"Sjedinjene Američke Države"
-SK,Slovačka
-SI,Slovenija
-SB,"Solomonska Ostrva"
-SO,Somalija
+PN,Pitcairn
+PR,"Porto Riko"
+PS,"Palestinska Teritorija"
+PT,Portugal
+PW,Palau
+PY,Paragvaj
+QA,Katar
+QO,"Ostala okeanija"
+RE,Rejunion
+RO,Rumunija
 RS,Srbija
-CS,"Srbija i Crna Gora"
+RU,Rusija
+RW,Ruanda
+SA,"Saudijska Arabija"
+SB,"Solomonska Ostrva"
+SC,Sejšeli
 SD,Sudan
-SR,Surinam
-BL,"Sv. Bartolomej"
-MF,"Sv. Martin"
-SJ,"Svalbard i Janmajen Ostrva"
-SZ,Svazilend
-SH,"Sveta Jelena"
-ES,Španija
-LK,"Šri Lanka"
-CH,Švajcarska
 SE,Švedska
-TJ,Tadžikistan
+SG,Singapur
+SH,"Sveta Jelena"
+SI,Slovenija
+SJ,"Svalbard i Janmajen Ostrva"
+SK,Slovačka
+SL,"Sijera Leone"
+SM,"San Marino"
+SN,Senegal
+SO,Somalija
+SR,Surinam
+ST,"Sao Tome i Principe"
+SV,Salvador
+SY,Sirija
+SZ,Svazilend
+TA,"Tristan da Kunja"
+TC,"Turks i Kajkos Ostrva"
+TD,Čad
+TF,"Francuske Južne Teritorije"
+TG,Togo
 TH,Tajland
+TJ,Tadžikistan
+TK,Tokelau
+TL,"Istočni Timor"
+TM,Turkmenistan
+TN,Tunis
+TO,Tonga
+TR,Turska
+TT,"Trinidad i Tobago"
+TV,Tuvalu
 TW,Tajvan
 TZ,Tanzanija
-TG,Togo
-TK,Tokelau
-TO,Tonga
-TT,"Trinidad i Tobago"
-TN,Tunis
-TM,Turkmenistan
-TC,"Turks i Kajkos Ostrva"
-TR,Turska
-TV,Tuvalu
-UG,Uganda
-AE,"Ujedinjeni Arapski Emirati"
 UA,Ukrajina
+UG,Uganda
+UM,"Manja Udaljena Ostrva SAD"
+US,"Sjedinjene Američke Države"
 UY,Urugvaj
 UZ,Uzbekistan
-WF,"Valis i Futuna Ostrva"
-VU,Vanuatu
 VA,Vatikan
-GB,"Velika Britanija"
+VC,"Sent Vinsent i Grenadini"
 VE,Venecuela
+VG,"Britanska Devičanska Ostrva"
+VI,"S.A.D. Devičanska Ostrva"
 VN,Vijetnam
+VU,Vanuatu
+WF,"Valis i Futuna Ostrva"
+WS,Samoa
+YE,Jemen
+YT,Majote
+ZA,"Južnoafrička Republika"
 ZM,Zambija
-EH,"Zapadna Sahara"
 ZW,Zimbabve
-DG,"Дијего Гарсија"
-IC,"Канарска острва"
-AC,"Острво Асенсион"
-CP,"Острво Клипертон"
-EA,"Сеута и Мелиља"
-TA,"Тристан да Куња"
+ZZ,"Nepoznat ili nevažeći region"
+142,Azija
+143,"Centralna Azija"
+145,"Zapadna Azija"
+150,Evropa
+151,"Istočna Evropa"
+154,"Severna Evropa"
+155,"Zapadna Evropa"
+172,"Komonvelt nezavisnih država"
+419,"Latinska Amerika i Karibi"
+830,"Kanalska ostrva"

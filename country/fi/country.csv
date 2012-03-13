@@ -1,256 +1,291 @@
 id,name
-AF,Afganistan
-AX,Ahvenanmaa
-NL,Alankomaat
-AN,"Alankomaiden Antillit"
-AL,Albania
-DZ,Algeria
-AS,"Amerikan Samoa"
-AD,Andorra
-AO,Angola
-AI,Anguilla
-AQ,Antarktis
-AG,"Antigua ja Barbuda"
-AE,Arabiemiirikunnat
-AR,Argentiina
-AM,Armenia
-AW,Aruba
+001,maailma
+002,Afrikka
+003,Pohjois-Amerikka
+005,Etelä-Amerikka
+009,Oseania
+011,Länsi-Afrikka
+013,Väli-Amerikka
+014,Itä-Afrikka
+015,Pohjois-Afrikka
+017,Keski-Afrikka
+018,"eteläinen Afrikka"
+019,Amerikka
+021,"pohjoinen Amerikka"
+029,Karibia
+030,Itä-Aasia
+034,Etelä-Aasia
+035,Kaakkois-Aasia
+039,Etelä-Eurooppa
+053,"Australia ja Uusi-Seelanti"
+054,Melanesia
+057,Mikronesia
+061,Polynesia
+062,"Etelä- ja Keski-Aasia"
 AC,Ascension-saari
+AD,Andorra
+AE,Arabiemiirikunnat
+AF,Afganistan
+AG,"Antigua ja Barbuda"
+AI,Anguilla
+AL,Albania
+AM,Armenia
+AN,"Alankomaiden Antillit"
+AO,Angola
+AQ,Antarktis
+AR,Argentiina
+AS,"Amerikan Samoa"
+AT,Itävalta
 AU,Australia
+AW,Aruba
+AX,Ahvenanmaa
 AZ,Azerbaidžan
-BS,Bahama
-BH,Bahrain
-BD,Bangladesh
-BB,Barbados
-BE,Belgia
-BZ,Belize
-BJ,Benin
-BM,Bermuda
-BT,Bhutan
-BO,Bolivia
 BA,"Bosnia ja Hertsegovina"
-BW,Botswana
-BV,Bouvet’nsaari
-BR,Brasilia
-GB,Britannia
-IO,"Brittiläinen Intian valtameren alue"
-VG,"Brittiläiset Neitsytsaaret"
-BN,Brunei
-BG,Bulgaria
+BB,Barbados
+BD,Bangladesh
+BE,Belgia
 BF,"Burkina Faso"
+BG,Bulgaria
+BH,Bahrain
 BI,Burundi
-KY,Caymansaaret
-EA,"Ceuta ja Melilla"
-CL,Chile
-CP,Clippertoninsaari
+BJ,Benin
+BL,Saint-Barthélemy
+BM,Bermuda
+BN,Brunei
+BO,Bolivia
+BR,Brasilia
+BS,Bahama
+BT,Bhutan
+BV,Bouvet’nsaari
+BW,Botswana
+BY,Valko-Venäjä
+BZ,Belize
+CA,Kanada
+CC,Kookossaaret
+CD,"Kongon demokraattinen tasavalta"
+CF,"Keski-Afrikan tasavalta"
+CG,"Kongon tasavalta"
+CH,Sveitsi
+CI,Norsunluurannikko
 CK,Cookinsaaret
+CL,Chile
+CM,Kamerun
+CN,Kiina
+CO,Kolumbia
+CP,Clippertoninsaari
 CR,"Costa Rica"
+CS,"Serbia ja Montenegro"
+CU,Kuuba
+CV,"Kap Verde"
+CX,Joulusaari
+CY,Kypros
+CZ,Tšekki
+DE,Saksa
 DG,"Diego Garcia"
 DJ,Djibouti
+DK,Tanska
 DM,Dominica
 DO,"Dominikaaninen tasavalta"
+DZ,Algeria
+EA,"Ceuta ja Melilla"
 EC,Ecuador
+EE,Viro
 EG,Egypti
-SV,"El Salvador"
+EH,Länsi-Sahara
 ER,Eritrea
 ES,Espanja
-ZA,Etelä-Afrikka
-GS,"Etelä-Georgia ja Eteläiset Sandwichsaaret"
-KR,Etelä-Korea
 ET,Etiopia
 EU,EU
-FK,Falklandinsaaret
+FI,Suomi
 FJ,Fidži
-PH,Filippiinit
+FK,Falklandinsaaret
+FM,"Mikronesian liittovaltio"
 FO,Färsaaret
+FR,Ranska
+FX,"Ranskan Eurooppaan kuuluvat osat"
 GA,Gabon
-GM,Gambia
+GB,Britannia
+GD,Grenada
 GE,Georgia
+GF,"Ranskan Guayana"
+GG,Guernsey
 GH,Ghana
 GI,Gibraltar
-GD,Grenada
 GL,Grönlanti
-GP,Guadeloupe
-GU,Guam
-GT,Guatemala
-GG,Guernsey
+GM,Gambia
 GN,Guinea
+GP,Guadeloupe
+GQ,"Päiväntasaajan Guinea"
+GR,Kreikka
+GS,"Etelä-Georgia ja Eteläiset Sandwichsaaret"
+GT,Guatemala
+GU,Guam
 GW,Guinea-Bissau
 GY,Guyana
-HT,Haiti
+HK,"Hongkong – Kiinan e.h.a."
 HM,"Heard- ja McDonaldinsaaret"
 HN,Honduras
-HK,"Hongkong – Kiinan e.h.a."
-SJ,"Huippuvuoret ja Jan Mayen"
+HR,Kroatia
+HT,Haiti
+HU,Unkari
+IC,Kanariansaaret
 ID,Indonesia
+IE,Irlanti
+IL,Israel
+IM,Mansaari
 IN,Intia
+IO,"Brittiläinen Intian valtameren alue"
 IQ,Irak
 IR,Iran
-IE,Irlanti
 IS,Islanti
-IL,Israel
 IT,Italia
-TL,Itä-Timor
-AT,Itävalta
-JM,Jamaika
-JP,Japani
-YE,Jemen
 JE,Jersey
+JM,Jamaika
 JO,Jordania
-CX,Joulusaari
-KH,Kambodža
-CM,Kamerun
-CA,Kanada
-IC,Kanariansaaret
-CV,"Kap Verde"
-KZ,Kazakstan
+JP,Japani
 KE,Kenia
-CF,"Keski-Afrikan tasavalta"
-CN,Kiina
 KG,Kirgisia
+KH,Kambodža
 KI,Kiribati
-CO,Kolumbia
 KM,Komorit
-CD,"Kongon demokraattinen tasavalta"
-CG,"Kongon tasavalta"
-CC,Kookossaaret
-GR,Kreikka
-HR,Kroatia
-CU,Kuuba
+KN,"Saint Kitts ja Nevis"
+KP,Pohjois-Korea
+KR,Etelä-Korea
 KW,Kuwait
-CY,Kypros
+KY,Caymansaaret
+KZ,Kazakstan
 LA,Laos
-LV,Latvia
-LS,Lesotho
 LB,Libanon
-LR,Liberia
-LY,Libya
+LC,"Saint Lucia"
 LI,Liechtenstein
+LK,"Sri Lanka"
+LR,Liberia
+LS,Lesotho
 LT,Liettua
 LU,Luxemburg
-EH,Länsi-Sahara
-MO,"Macao – Kiinan e.h.a."
-MG,Madagaskar
-MK,Makedonia
-MW,Malawi
-MV,Malediivit
-MY,Malesia
-ML,Mali
-MT,Malta
-IM,Mansaari
+LV,Latvia
+LY,Libya
 MA,Marokko
+MC,Monaco
+MD,Moldova
+ME,Montenegro
+MF,Saint-Martin
+MG,Madagaskar
 MH,Marshallinsaaret
+MK,Makedonia
+ML,Mali
+MM,Myanmar
+MN,Mongolia
+MO,"Macao – Kiinan e.h.a."
+MP,Pohjois-Mariaanit
 MQ,Martinique
 MR,Mauritania
-MU,Mauritius
-YT,Mayotte
-MX,Meksiko
-FM,"Mikronesian liittovaltio"
-MD,Moldova
-MC,Monaco
-MN,Mongolia
-ME,Montenegro
 MS,Montserrat
+MT,Malta
+MU,Mauritius
+MV,Malediivit
+MW,Malawi
+MX,Meksiko
+MY,Malesia
 MZ,Mosambik
-MM,Myanmar
 NA,Namibia
-NR,Nauru
-NP,Nepal
-NI,Nicaragua
+NC,Uusi-Kaledonia
 NE,Niger
-NG,Nigeria
-NU,Niue
 NF,Norfolkinsaari
+NG,Nigeria
+NI,Nicaragua
+NL,Alankomaat
 NO,Norja
-CI,Norsunluurannikko
+NP,Nepal
+NR,Nauru
+NU,Niue
+NZ,Uusi-Seelanti
 OM,Oman
-PK,Pakistan
-PW,Palau
-PS,Palestiina
 PA,Panama
-PG,Papua-Uusi-Guinea
-PY,Paraguay
 PE,Peru
-PN,Pitcairn
-KP,Pohjois-Korea
-MP,Pohjois-Mariaanit
-PT,Portugali
-PR,"Puerto Rico"
-PL,Puola
-GQ,"Päiväntasaajan Guinea"
-QA,Qatar
-FR,Ranska
-GF,"Ranskan Guayana"
 PF,"Ranskan Polynesia"
-TF,"Ranskan ulkopuoliset eteläiset alueet"
+PG,Papua-Uusi-Guinea
+PH,Filippiinit
+PK,Pakistan
+PL,Puola
+PM,"Saint-Pierre ja Miquelon"
+PN,Pitcairn
+PR,"Puerto Rico"
+PS,Palestiina
+PT,Portugali
+PW,Palau
+PY,Paraguay
+QA,Qatar
+QO,ulkomeri
 RE,Réunion
 RO,Romania
-RW,Ruanda
-SE,Ruotsi
-SH,"Saint Helena"
-KN,"Saint Kitts ja Nevis"
-LC,"Saint Lucia"
-VC,"Saint Vincent ja Grenadiinit"
-BL,Saint-Barthélemy
-MF,Saint-Martin
-PM,"Saint-Pierre ja Miquelon"
-DE,Saksa
-SB,Salomonsaaret
-ZM,Sambia
-WS,Samoa
-SM,"San Marino"
-ST,"São Tomé ja Príncipe"
-SA,Saudi-Arabia
-SN,Senegal
 RS,Serbia
-CS,"Serbia ja Montenegro"
+RU,Venäjä
+RW,Ruanda
+SA,Saudi-Arabia
+SB,Salomonsaaret
 SC,Seychellit
-SL,"Sierra Leone"
-SG,Singapore
-SK,Slovakia
-SI,Slovenia
-SO,Somalia
-LK,"Sri Lanka"
 SD,Sudan
-FI,Suomi
+SE,Ruotsi
+SG,Singapore
+SH,"Saint Helena"
+SI,Slovenia
+SJ,"Huippuvuoret ja Jan Mayen"
+SK,Slovakia
+SL,"Sierra Leone"
+SM,"San Marino"
+SN,Senegal
+SO,Somalia
 SR,Surinam
-CH,Sveitsi
-SZ,Swazimaa
+ST,"São Tomé ja Príncipe"
+SV,"El Salvador"
 SY,Syyria
+SZ,Swazimaa
+TA,"Tristan da Cunha"
+TC,"Turks- ja Caicossaaret"
+TD,Tšad
+TF,"Ranskan ulkopuoliset eteläiset alueet"
+TG,Togo
+TH,Thaimaa
 TJ,Tadžikistan
+TK,Tokelau
+TL,Itä-Timor
+TM,Turkmenistan
+TN,Tunisia
+TO,Tonga
+TR,Turkki
+TT,"Trinidad ja Tobago"
+TV,Tuvalu
 TW,Taiwan
 TZ,Tansania
-DK,Tanska
-TH,Thaimaa
-TG,Togo
-TK,Tokelau
-TO,Tonga
-TT,"Trinidad ja Tobago"
-TA,"Tristan da Cunha"
-TD,Tšad
-CZ,Tšekki
-TN,Tunisia
-TR,Turkki
-TM,Turkmenistan
-TC,"Turks- ja Caicossaaret"
-TV,Tuvalu
-UG,Uganda
 UA,Ukraina
-QO,ulkomeri
-HU,Unkari
-UY,Uruguay
-NC,Uusi-Kaledonia
-NZ,Uusi-Seelanti
-UZ,Uzbekistan
-BY,Valko-Venäjä
-VU,Vanuatu
-VA,Vatikaani
-VE,Venezuela
-RU,Venäjä
-VN,Vietnam
-EE,Viro
-WF,"Wallis ja Futuna"
-US,Yhdysvallat
-VI,"Yhdysvaltain Neitsytsaaret"
+UG,Uganda
 UM,"Yhdysvaltain pienet erillissaaret"
+US,Yhdysvallat
+UY,Uruguay
+UZ,Uzbekistan
+VA,Vatikaani
+VC,"Saint Vincent ja Grenadiinit"
+VE,Venezuela
+VG,"Brittiläiset Neitsytsaaret"
+VI,"Yhdysvaltain Neitsytsaaret"
+VN,Vietnam
+VU,Vanuatu
+WF,"Wallis ja Futuna"
+WS,Samoa
+YE,Jemen
+YT,Mayotte
+ZA,Etelä-Afrikka
+ZM,Sambia
 ZW,Zimbabwe
+ZZ,"tuntematon tai virheellinen alue"
+142,Aasia
+143,Keski-Aasia
+145,Länsi-Aasia
+150,Eurooppa
+151,Itä-Eurooppa
+154,Pohjois-Eurooppa
+155,Länsi-Eurooppa
+172,"Itsenäisten valtioiden yhteisö"
+419,"Latinalainen Amerikka ja Karibia"
+830,Kanaalisaaret
