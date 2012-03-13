@@ -26,9 +26,9 @@ class Html extends Dumper {
     public function dump(array $data) {
 
         $document = new \DOMDocument('1.0', 'utf-8');
-        foreach ($data as $id => $name) {
+        foreach ($data as $iso => $name) {
             $optionElement = $document->createElementNS(null, 'option', $name);
-            $optionElement->setAttribute('value', $id);
+            $optionElement->setAttribute('value', $iso);
             $document->appendChild($optionElement);
         }
 

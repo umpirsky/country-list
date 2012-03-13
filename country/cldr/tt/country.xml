@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<countries><country><id>RU</id><name>Россия</name></country></countries>
+<countries><country><iso>RU</iso><name>Россия</name></country></countries>

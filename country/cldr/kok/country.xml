@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<countries><country><id>IN</id><name>भारत</name></country></countries>
+<countries><country><iso>IN</iso><name>भारत</name></country></countries>

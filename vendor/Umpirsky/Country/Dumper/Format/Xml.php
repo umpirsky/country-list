@@ -26,9 +26,9 @@ class Xml extends Dumper {
     public function dump(array $data) {
 
         $countriesElement = new \SimpleXmlElement("<?xml version=\"1.0\" encoding=\"utf-8\"?><countries/>");
-        foreach ($data as $id => $name) {
+        foreach ($data as $iso => $name) {
             $countryElement = $countriesElement->addChild('country');
-            $countryElement->addChild('id', $id);
+            $countryElement->addChild('iso', $iso);
             $countryElement->addChild('name', $name);
         }
 

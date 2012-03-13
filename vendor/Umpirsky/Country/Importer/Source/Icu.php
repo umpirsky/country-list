@@ -39,7 +39,7 @@ class Icu extends Importer {
      */
     public function getLanguages() {
 
-        return $this->locale->getLanguages();
+        return $this->locale->getLocales();
     }
 
     /**

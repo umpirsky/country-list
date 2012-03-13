@@ -108,9 +108,9 @@ abstract class SqlDumper extends Dumper {
 
         $insertSql = '';
         $insert = new Insert(self::TABLE_NAME);
-        foreach ($data as $id => $name) {
+        foreach ($data as $iso => $name) {
             $insertSql .= $insert
-                ->values(array('id' => $id, 'name' => $name))
+                ->values(array('id' => $iso, 'name' => $name))
                 ->getSqlString($this->getPlatform()) . ';' . PHP_EOL;
         }
 
