@@ -23,4 +23,9 @@ All formats are also available in multiple languages, please find full language 
 Where Does the Data Come From?
 ------------------------------
 
-Data is fetched using Symfony Locale component. Locale component uses  [ICU data files](http://source.icu-project.org/repos/icu/icu/trunk/source/data/) for country and locale list. So, if country list changes in the future, it will be very easy to update country list.
+For now, I have implemented two data importers:
+
+* ICU (imports data from [ICU](http://site.icu-project.org/))
+* CLDR (imports data from [CLDR](http://cldr.unicode.org/))
+
+So, if country list changes in the future, it will be very easy to update our country list.
