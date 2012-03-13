@@ -21,7 +21,7 @@ use Symfony\Component\Finder\Finder;
  */
 class Iterator implements \Iterator {
 
-    protected $values;
+    protected $dumpers;
 
     public function __construct() {
 
@@ -32,7 +32,7 @@ class Iterator implements \Iterator {
             ->depth(0)
             ->in(__DIR__ . '/Format');
 
-        $this->values = array();
+        $this->dumpers = array();
         foreach ($iterator as $file) {
             $dumperClassName = '\\Umpirsky\\Country\\Dumper\\Format\\' . strstr($file->getFilename(), '.', true);
             $this->attach(new $dumperClassName());
@@ -41,12 +41,12 @@ class Iterator implements \Iterator {
         $this->rewind();
     }
 
-    public function attach($fileinfo) {
-        $this->values[] = $fileinfo;
+    public function attach($dumper) {
+        $this->dumpers[] = $dumper;
     }
 
     public function rewind() {
-        reset($this->values);
+        reset($this->dumpers);
     }
 
     public function valid() {
@@ -54,14 +54,14 @@ class Iterator implements \Iterator {
     }
 
     public function next() {
-        next($this->values);
+        next($this->dumpers);
     }
 
     public function current() {
-        return current($this->values);
+        return current($this->dumpers);
     }
 
     public function key() {
-        return key($this->values);
+        return key($this->dumpers);
     }
 }

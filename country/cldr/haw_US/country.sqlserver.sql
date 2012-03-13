@@ -1,0 +1,22 @@
+CREATE TABLE country (id NVARCHAR(2) NOT NULL, name NVARCHAR(64) NOT NULL, PRIMARY KEY (id));
+
+INSERT INTO [country] ([id], [name]) VALUES ('AU', 'Nūhōlani');
+INSERT INTO [country] ([id], [name]) VALUES ('CA', 'Kanakā');
+INSERT INTO [country] ([id], [name]) VALUES ('CN', 'Kina');
+INSERT INTO [country] ([id], [name]) VALUES ('DE', 'Kelemānia');
+INSERT INTO [country] ([id], [name]) VALUES ('DK', 'Kenemaka');
+INSERT INTO [country] ([id], [name]) VALUES ('ES', 'Kepania');
+INSERT INTO [country] ([id], [name]) VALUES ('FR', 'Palani');
+INSERT INTO [country] ([id], [name]) VALUES ('GB', 'Aupuni Mōʻī Hui Pū ʻIa');
+INSERT INTO [country] ([id], [name]) VALUES ('GR', 'Helene');
+INSERT INTO [country] ([id], [name]) VALUES ('IE', 'ʻIlelani');
+INSERT INTO [country] ([id], [name]) VALUES ('IL', 'ʻIseraʻela');
+INSERT INTO [country] ([id], [name]) VALUES ('IN', 'ʻĪnia');
+INSERT INTO [country] ([id], [name]) VALUES ('IT', 'ʻĪkālia');
+INSERT INTO [country] ([id], [name]) VALUES ('JP', 'Iāpana');
+INSERT INTO [country] ([id], [name]) VALUES ('MX', 'Mekiko');
+INSERT INTO [country] ([id], [name]) VALUES ('NL', 'Hōlani');
+INSERT INTO [country] ([id], [name]) VALUES ('NZ', 'Aotearoa');
+INSERT INTO [country] ([id], [name]) VALUES ('PH', 'ʻĀina Pilipino');
+INSERT INTO [country] ([id], [name]) VALUES ('RU', 'Lūkia');
+INSERT INTO [country] ([id], [name]) VALUES ('US', 'ʻAmelika Hui Pū ʻIa');

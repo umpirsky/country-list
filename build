@@ -17,20 +17,23 @@
 
 require_once __DIR__ . '/autoload.php';
 
-use Symfony\Component\Locale\Locale;
 use Symfony\Component\Filesystem\Filesystem;
-use Umpirsky\Country\Dumper\Iterator;
+use Umpirsky\Country\Dumper\Iterator as DumperIterator;
+use Umpirsky\Country\Importer\Iterator as ImporterIterator;
 
-$locale = new Locale();
 $filesystem = new Filesystem();
-$dumperIterator = new Iterator();
+$dumperIterator = new DumperIterator();
+$importerIterator = new ImporterIterator();
 $filesystem->mkdir($rootDir = sprintf('%s/country', __DIR__));
-foreach ($locale->getLocales() as $language) {
-    $filesystem->mkdir($dir = sprintf('%s/%s', $rootDir, $language));
-    $countries = $locale->getDisplayCountries($language);
-    foreach($dumperIterator as $dumper) {
-        $file = sprintf('%s/country.%s', $dir, $dumper->getFormat());
-        $filesystem->touch($file);
-        file_put_contents($file, $dumper->dump($countries));
+foreach ($importerIterator as $importer) {
+    $filesystem->mkdir($importerDir = sprintf('%s/%s', $rootDir, $importer->getSource()));
+    foreach ($importer->getLanguages() as $language) {
+        $filesystem->mkdir($dumperDir = sprintf('%s/%s', $importerDir, $language));
+        $countries = $importer->getCountries($language);
+        foreach($dumperIterator as $dumper) {
+            $file = sprintf('%s/country.%s', $dumperDir, $dumper->getFormat());
+            $filesystem->touch($file);
+            file_put_contents($file, $dumper->dump($countries));
+        }
     }
 }

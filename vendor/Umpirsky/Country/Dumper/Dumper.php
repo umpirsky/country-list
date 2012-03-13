@@ -11,8 +11,6 @@
 
 namespace Umpirsky\Country\Dumper;
 
-use Umpirsky\Country\Dumper\DumperInterface;
-
 /**
  * Abstract dumper.
  *

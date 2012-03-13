@@ -1,0 +1,28 @@
+CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY("id"));
+
+INSERT INTO "country" ("id", "name") VALUES ('AF', 'ئەفغانیستان');
+INSERT INTO "country" ("id", "name") VALUES ('AL', 'ئەڵبانیا');
+INSERT INTO "country" ("id", "name") VALUES ('AM', 'ئەرمەنیا');
+INSERT INTO "country" ("id", "name") VALUES ('AR', 'ئارجەنتینا');
+INSERT INTO "country" ("id", "name") VALUES ('AT', 'ئۆتریش');
+INSERT INTO "country" ("id", "name") VALUES ('AU', 'ئۆستۆڕاڵیا');
+INSERT INTO "country" ("id", "name") VALUES ('AZ', 'ئازەربایجان');
+INSERT INTO "country" ("id", "name") VALUES ('BE', 'بەلژیک');
+INSERT INTO "country" ("id", "name") VALUES ('BH', 'بەحرەین');
+INSERT INTO "country" ("id", "name") VALUES ('BR', 'بڕازیل');
+INSERT INTO "country" ("id", "name") VALUES ('CA', 'کانەدا');
+INSERT INTO "country" ("id", "name") VALUES ('CL', 'شیلی');
+INSERT INTO "country" ("id", "name") VALUES ('CN', 'چین');
+INSERT INTO "country" ("id", "name") VALUES ('CU', 'کووبا');
+INSERT INTO "country" ("id", "name") VALUES ('CY', 'قیبرس');
+INSERT INTO "country" ("id", "name") VALUES ('DE', 'ئەڵمانیا');
+INSERT INTO "country" ("id", "name") VALUES ('DZ', 'ئەلجەزایر');
+INSERT INTO "country" ("id", "name") VALUES ('FR', 'فەڕەنسا');
+INSERT INTO "country" ("id", "name") VALUES ('GB', 'بەڕیتانیا');
+INSERT INTO "country" ("id", "name") VALUES ('IN', 'ھیند');
+INSERT INTO "country" ("id", "name") VALUES ('IQ', 'عێراق');
+INSERT INTO "country" ("id", "name") VALUES ('IT', 'ئیتاڵی');
+INSERT INTO "country" ("id", "name") VALUES ('JP', 'ژاپۆن');
+INSERT INTO "country" ("id", "name") VALUES ('RU', 'ڕووسیا');
+INSERT INTO "country" ("id", "name") VALUES ('US', 'وڵاتە یەکگرتووەکان');
+INSERT INTO "country" ("id", "name") VALUES ('ZZ', 'نەناسراو');
