@@ -19,7 +19,7 @@ use Zend\Db\Adapter\Platform;
 use Zend\Db\Sql\Insert;
 
 /**
- * SQL dumper.
+ * Abstract SQL dumper.
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
