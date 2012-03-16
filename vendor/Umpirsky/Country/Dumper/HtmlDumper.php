@@ -44,7 +44,10 @@ abstract class HtmlDumper extends Dumper {
         $html->appendChild($this->getHead());
         $html->appendChild($body);
 
-        return $this->getDocument()->saveHTML();
+        $html =  $this->getDocument()->saveHTML();
+        $this->reset();
+
+        return $html;
     }
 
     /**
@@ -67,6 +70,15 @@ abstract class HtmlDumper extends Dumper {
         }
 
         return $this->document;
+    }
+
+    /**
+     * Resets document internal objects.
+     */
+    protected function reset() {
+
+        $this->document = null;
+        $this->stylesheets = array();
     }
 
     /**
