@@ -25,43 +25,19 @@ class HtmlFlag extends HtmlDumper {
      * {@inheritdoc}
      */
     public function dump(array $data) {
-        
-        $document = \DOMImplementation::createDocument(
-            'http://www.w3.org/1999/xhtml',
-            'html',
-            \DOMImplementation::createDocumentType(
-                'html',
-                '-//W3C//DTD XHTML 1.1//EN',
-                'http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd'
-            )
-        );
-        $head = $document->createElement('head');
-        $metahttp = $document->createElement('meta');
-        $metahttp->setAttribute('http-equiv', 'Content-Type');
-        $metahttp->setAttribute('content', 'text/html; charset=utf-8');
-        $head->appendChild($metahttp);
-        $css = $document->createElement('link');
-        $css->setAttribute('href', 'https://raw.github.com/lafeber/world-flags-sprite/master/stylesheets/flags32.css');
-        $css->setAttribute('rel', 'stylesheet');
-        $css->setAttribute('type', 'text/css');
-        $head->appendChild($css);
 
-        $body = $document->createElement('body');
-        $ulElement = $document->createElement('ul');
+        $this->addStylesheet('https://raw.github.com/lafeber/world-flags-sprite/master/stylesheets/flags32.css');
+
+        $ulElement = $this->getDocument()->createElement('ul');
         foreach ($data as $iso => $name) {
-            $liElement = $document->createElement('li', $name);
+            $liElement = $this->getDocument()->createElement('li', $name);
             $liElement->setAttribute('class', sprintf('f32 %s', strtolower($iso)));
             $ulElement->appendChild($liElement);
-        }        
-        $body->appendChild($ulElement);
+        }
 
-        $html = $document->getElementsByTagName('html')->item(0);
-        $html->appendChild($head);
-        $html->appendChild($body);
-        
-        return $document->saveHTML();
+        return $this->dumpHtml($ulElement);
     }
-    
+
     /**
      * {@inheritdoc}
      */

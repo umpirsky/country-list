@@ -17,63 +17,100 @@ namespace Umpirsky\Country\Dumper;
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
 abstract class HtmlDumper extends Dumper {
-    
+
+    /**
+     * Array of stylesheets for this HTML document.
+     *
+     * @var string[]
+     */
+    protected $stylesheets = array();
+
+    /**
+     * @var \DOMDocument
+     */
+    protected $document;
+
     /**
      * Wraps DOM element to document and dumps it as HTML string.
-     * 
+     *
      * @param \DOMElement $element
      * @return string
      */
     protected function dumpHtml(\DOMElement $element) {
-        
-        $document = $this->createDocument();
-        $head = $this->createHead($document);
-        $body = $document->createElement('body');
+
+        $body = $this->getDocument()->createElement('body');
         $body->appendChild($element);
-        $html = $document->getElementsByTagName('html')->item(0);
-        $html->appendChild($head);
+        $html = $this->getDocument()->getElementsByTagName('html')->item(0);
+        $html->appendChild($this->getHead());
         $html->appendChild($body);
-        
-        return $document->saveHTML();
+
+        return $this->getDocument()->saveHTML();
     }
-    
+
     /**
      * Creates HTML document.
-     * 
+     *
      * @return \DOMDocument
      */
-    protected function createDocument() {
-        
-        return \DOMImplementation::createDocument(
-            'http://www.w3.org/1999/xhtml',
-            'html',
-            \DOMImplementation::createDocumentType(
+    protected function getDocument() {
+
+        if (null === $this->document) {
+            $this->document = \DOMImplementation::createDocument(
+                'http://www.w3.org/1999/xhtml',
                 'html',
-                '-//W3C//DTD XHTML 1.1//EN',
-                'http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd'
-            )
-        );
+                \DOMImplementation::createDocumentType(
+                    'html',
+                    '-//W3C//DTD XHTML 1.0 Strict//EN',
+                    'http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd'
+                )
+            );
+        }
+
+        return $this->document;
     }
-    
+
+    /**
+     * Adds new stylesheet to this HTML document.
+     *
+     * @param string $stylesheet
+     */
+    protected function addStylesheet($stylesheet) {
+
+        $this->stylesheets[] = $stylesheet;
+    }
+
+    /**
+     * Gets all stylesheets for this HTML document.
+     *
+     * @return string[]
+     */
+    protected function getStylesheets() {
+
+        return $this->stylesheets;
+    }
+
     /**
      * Creates HTML head.
-     * 
-     * @param \DOMDocument $document
+     *
      * @return \DOMElement
      */
-    protected function createHead(\DOMDocument $document) {
-        
-        $head = $document->createElement('head');
-        $metahttp = $document->createElement('meta');
+    protected function getHead() {
+
+        $head = $this->getDocument()->createElement('head');
+        $metahttp = $this->getDocument()->createElement('meta');
         $metahttp->setAttribute('http-equiv', 'Content-Type');
         $metahttp->setAttribute('content', 'text/html; charset=utf-8');
         $head->appendChild($metahttp);
-        $css = $document->createElement('link');
-        $css->setAttribute('href', 'https://raw.github.com/lafeber/world-flags-sprite/master/stylesheets/flags32.css');
-        $css->setAttribute('rel', 'stylesheet');
-        $css->setAttribute('type', 'text/css');
-        $head->appendChild($css);
-        
+        $head->appendChild($this->getDocument()->createElement('title', 'Country List'));
+
+        foreach ($this->getStylesheets() as $href) {
+            $stylesheet = $this->getDocument()->createElement('link');
+            $stylesheet->setAttribute('href', $href);
+            $stylesheet->setAttribute('rel', 'stylesheet');
+            $stylesheet->setAttribute('type', 'text/css');
+            $head->appendChild($stylesheet);
+        }
+
         return $head;
     }
 }

@@ -11,27 +11,28 @@
 
 namespace Umpirsky\Country\Dumper\Format;
 
-use Umpirsky\Country\Dumper\Dumper;
+use Umpirsky\Country\Dumper\HtmlDumper;
 
 /**
  * HTML dumper.
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-class Html extends Dumper {
+class Html extends HtmlDumper {
 
     /**
      * {@inheritdoc}
      */
     public function dump(array $data) {
 
-        $document = new \DOMDocument('1.0', 'utf-8');
+        $selectElement = $this->getDocument()->createElement('select');
+        $selectElement->setAttribute('name', 'country');
         foreach ($data as $iso => $name) {
-            $optionElement = $document->createElementNS(null, 'option', $name);
+            $optionElement = $this->getDocument()->createElement('option', $name);
             $optionElement->setAttribute('value', $iso);
-            $document->appendChild($optionElement);
+            $selectElement->appendChild($optionElement);
         }
 
-        return $document->saveHTML();
+        return $this->dumpHtml($selectElement);
     }
 }
