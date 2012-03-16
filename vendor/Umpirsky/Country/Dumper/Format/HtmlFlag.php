@@ -26,9 +26,10 @@ class HtmlFlag extends HtmlDumper {
      */
     public function dump(array $data) {
 
-        $this->addStylesheet('https://raw.github.com/umpirsky/world-flags-sprite/github-cdn/stylesheets/flags16.cdn.css');
+        $this->addStylesheet('http://country-list.umpirsky.com/css/flags32.css');
 
         $ulElement = $this->getDocument()->createElement('ul');
+        $ulElement->setAttribute('class', 'f32');
         foreach ($data as $iso => $name) {
             $liElement = $this->getDocument()->createElement('li', $name);
             $liElement->setAttribute('class', sprintf('flag %s', strtolower($iso)));
