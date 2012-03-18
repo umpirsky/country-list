@@ -6,14 +6,19 @@ List of all countries with names and ISO 3166-1 codes in all languages and all d
 Formats Available
 -----------------
 
-* Text
-* JSON
-* YAML
-* XML
-* HTML
-* CSV
-* SQL
-* PHP
+- Text
+- JSON
+- YAML
+- XML
+- HTML
+    * Select ([demo](http://country-list.umpirsky.com/country.html))
+    * Flags ([demo](http://country-list.umpirsky.com/country.flags.html))
+- CSV
+- SQL
+    * MySQL
+    * SQLite
+    * SQL Server
+- PHP
 
 Multilingual
 ------------
