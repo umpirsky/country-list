@@ -9,22 +9,24 @@
  * file that was distributed with this source code.
  */
 
-namespace Umpirsky\Country\Dumper\Format;
-
-use Umpirsky\Country\Dumper\SqlDumper;
+namespace Umpirsky\Country\Exporter;
 
 /**
- * MySQL dumper.
+ * Abstract exporter.
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-class MySql extends SqlDumper {
+abstract class Exporter implements ExporterInterface {
 
     /**
-     * {@inheritdoc}
+     * Gets exporter format.
+     *
+     * @return string
      */
-    public function getDriver() {
+    public function getFormat() {
 
-        return 'pdo_mysql';
+        $className = get_class($this);
+        return strtolower(substr($className, strrpos($className, '\\') + 1));
     }
+
 }

@@ -9,21 +9,21 @@
  * file that was distributed with this source code.
  */
 
-namespace Umpirsky\Country\Dumper\Format;
+namespace Umpirsky\Country\Exporter\Format;
 
-use Umpirsky\Country\Dumper\Dumper;
+use Umpirsky\Country\Exporter\Exporter;
 
 /**
- * CSV dumper.
+ * CSV exporter.
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-class Csv extends Dumper {
+class Csv extends Exporter {
 
     /**
      * {@inheritdoc}
      */
-    public function dump(array $data) {
+    public function export(array $data) {
 
         $outstream = fopen('php://temp', 'r+');
         fputcsv($outstream, array('iso', 'name'));

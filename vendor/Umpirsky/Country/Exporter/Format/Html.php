@@ -9,21 +9,21 @@
  * file that was distributed with this source code.
  */
 
-namespace Umpirsky\Country\Dumper\Format;
+namespace Umpirsky\Country\Exporter\Format;
 
-use Umpirsky\Country\Dumper\HtmlDumper;
+use Umpirsky\Country\Exporter\HtmlExporter;
 
 /**
- * HTML dumper.
+ * HTML exporter.
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-class Html extends HtmlDumper {
+class Html extends HtmlExporter {
 
     /**
      * {@inheritdoc}
      */
-    public function dump(array $data) {
+    public function export(array $data) {
 
         $selectElement = $this->getDocument()->createElement('select');
         $selectElement->setAttribute('name', 'country');
@@ -33,6 +33,6 @@ class Html extends HtmlDumper {
             $selectElement->appendChild($optionElement);
         }
 
-        return $this->dumpHtml($selectElement);
+        return $this->exportHtml($selectElement);
     }
 }

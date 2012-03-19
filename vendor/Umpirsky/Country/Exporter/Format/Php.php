@@ -9,23 +9,22 @@
  * file that was distributed with this source code.
  */
 
-namespace Umpirsky\Country\Dumper\Format;
+namespace Umpirsky\Country\Exporter\Format;
 
-use Umpirsky\Country\Dumper\Dumper;
-use Symfony\Component\Yaml\Yaml as SymfonyYaml;
+use Umpirsky\Country\Exporter\Exporter;
 
 /**
- * Yaml dumper.
+ * PHP exporter.
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-class Yaml extends Dumper {
+class Php extends Exporter {
 
     /**
      * {@inheritdoc}
      */
-    public function dump(array $data) {
+    public function export(array $data) {
 
-        return SymfonyYaml::dump($data);
+        return sprintf('<?php return %s;', var_export($data, true));
     }
 }

@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace Umpirsky\Country\Dumper;
+namespace Umpirsky\Country\Exporter;
 
-use Umpirsky\Country\Dumper\Dumper;
+use Umpirsky\Country\Exporter\Exporter;
 use Doctrine\DBAL\Platforms\AbstractPlatform;
 use Doctrine\DBAL\DriverManager;
 use Doctrine\DBAL\Schema\Table;
@@ -19,20 +19,20 @@ use Zend\Db\Adapter\Platform;
 use Zend\Db\Sql\Insert;
 
 /**
- * Abstract SQL dumper.
+ * Abstract SQL exporter.
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-abstract class SqlDumper extends Dumper {
+abstract class SqlExporter extends Exporter {
 
     const TABLE_NAME = 'country';
 
     /**
      * {@inheritdoc}
      */
-    public function dump(array $data) {
+    public function export(array $data) {
 
-        return $this->dumpCreateTable() . PHP_EOL . $this->dumpInsert($data);
+        return $this->exportCreateTable() . PHP_EOL . $this->exportInsert($data);
     }
 
     /**
@@ -81,11 +81,11 @@ abstract class SqlDumper extends Dumper {
     }
 
     /**
-     * Dumps create table SQL.
+     * Exports create table SQL.
      *
      * @return string
      */
-    protected function dumpCreateTable() {
+    protected function exportCreateTable() {
 
         $table = new Table(self::TABLE_NAME, array(), array(), array(), false, array());
         $table->addColumn('id', 'string', array('length' => 2, 'notnull' => true));
@@ -99,12 +99,12 @@ abstract class SqlDumper extends Dumper {
     }
 
     /**
-     * Dumps insert SQL.
+     * Exports insert SQL.
      *
      * @param array $data
      * @return string
      */
-    protected function dumpInsert(array $data) {
+    protected function exportInsert(array $data) {
 
         $insertSql = '';
         $insert = new Insert(self::TABLE_NAME);

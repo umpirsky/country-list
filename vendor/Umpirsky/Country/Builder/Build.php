@@ -16,7 +16,7 @@ use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\Filesystem\Filesystem;
-use Umpirsky\Country\Dumper\Iterator as DumperIterator;
+use Umpirsky\Country\Exporter\Iterator as ExporterIterator;
 use Umpirsky\Country\Importer\Iterator as ImporterIterator;
 
 /**
@@ -39,9 +39,9 @@ class Build extends Command {
     protected $filesystem;
 
     /**
-     * @var DumperIterator
+     * @var ExporterIterator
      */
-    protected $dumperIterator;
+    protected $exporterIterator;
 
     /**
      * @var ImporterIterator
@@ -58,7 +58,7 @@ class Build extends Command {
         parent::__construct('build');
         $this->filesystem = new Filesystem();
         $this->filesystem->mkdir($this->path = $path);
-        $this->dumperIterator = new DumperIterator();
+        $this->exporterIterator = new ExporterIterator();
         $this->importerIterator = new ImporterIterator();
     }
 
@@ -91,13 +91,13 @@ class Build extends Command {
                 $this->filesystem->mkdir($importerDir = sprintf('%s/%s', $this->path, $importer->getSource()));
                 foreach ($importer->getLanguages() as $language) {
                     if (null === $input->getArgument('language') || $input->getArgument('language') === $language) {
-                        $this->filesystem->mkdir($dumperDir = sprintf('%s/%s', $importerDir, $language));
+                        $this->filesystem->mkdir($exporterDir = sprintf('%s/%s', $importerDir, $language));
                         $countries = $importer->getCountries($language);
-                        foreach($this->dumperIterator as $dumper) {
-                            if (null === $input->getArgument('format') || $input->getArgument('format') === $dumper->getFormat()) {
-                                $file = sprintf('%s/country.%s', $dumperDir, $dumper->getFormat());
+                        foreach($this->exporterIterator as $exporter) {
+                            if (null === $input->getArgument('format') || $input->getArgument('format') === $exporter->getFormat()) {
+                                $file = sprintf('%s/country.%s', $exporterDir, $exporter->getFormat());
                                 $this->filesystem->touch($file);
-                                file_put_contents($file, $dumper->dump($countries));
+                                file_put_contents($file, $exporter->export($countries));
                                 $output->write(sprintf('File %s is generated.%s', $file, PHP_EOL));
                             }
                         }

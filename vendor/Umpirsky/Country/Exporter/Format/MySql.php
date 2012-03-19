@@ -9,22 +9,22 @@
  * file that was distributed with this source code.
  */
 
-namespace Umpirsky\Country\Dumper\Format;
+namespace Umpirsky\Country\Exporter\Format;
 
-use Umpirsky\Country\Dumper\SqlDumper;
+use Umpirsky\Country\Exporter\SqlExporter;
 
 /**
- * SQL server dumper.
+ * MySQL exporter.
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-class SqlServer extends SqlDumper {
+class MySql extends SqlExporter {
 
     /**
      * {@inheritdoc}
      */
     public function getDriver() {
 
-        return 'pdo_sqlsrv';
+        return 'pdo_mysql';
     }
 }

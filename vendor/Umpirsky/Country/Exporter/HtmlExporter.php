@@ -9,14 +9,14 @@
  * file that was distributed with this source code.
  */
 
-namespace Umpirsky\Country\Dumper;
+namespace Umpirsky\Country\Exporter;
 
 /**
- * Abstract HTML dumper.
+ * Abstract HTML exporter.
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-abstract class HtmlDumper extends Dumper {
+abstract class HtmlExporter extends Exporter {
 
     /**
      * Array of stylesheets for this HTML document.
@@ -31,12 +31,12 @@ abstract class HtmlDumper extends Dumper {
     protected $document;
 
     /**
-     * Wraps DOM element to document and dumps it as HTML string.
+     * Wraps DOM element to document and exports it as HTML string.
      *
      * @param \DOMElement $element
      * @return string
      */
-    protected function dumpHtml(\DOMElement $element) {
+    protected function exportHtml(\DOMElement $element) {
 
         $body = $this->getDocument()->createElement('body');
         $body->appendChild($element);

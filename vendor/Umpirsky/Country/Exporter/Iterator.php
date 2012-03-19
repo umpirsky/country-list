@@ -10,18 +10,18 @@
  * file that was distributed with this source code.
  */
 
-namespace Umpirsky\Country\Dumper;
+namespace Umpirsky\Country\Exporter;
 
 use Symfony\Component\Finder\Finder;
 
 /**
- * Iterates through various dumper formats.
+ * Iterates through various exporter formats.
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
 class Iterator implements \Iterator {
 
-    protected $dumpers;
+    protected $exporters;
 
     public function __construct() {
 
@@ -32,21 +32,21 @@ class Iterator implements \Iterator {
             ->depth(0)
             ->in(__DIR__ . '/Format');
 
-        $this->dumpers = array();
+        $this->exporters = array();
         foreach ($iterator as $file) {
-            $dumperClassName = '\\Umpirsky\\Country\\Dumper\\Format\\' . strstr($file->getFilename(), '.', true);
-            $this->attach(new $dumperClassName());
+            $exporterClassName = '\\Umpirsky\\Country\\Exporter\\Format\\' . strstr($file->getFilename(), '.', true);
+            $this->attach(new $exporterClassName());
         }
 
         $this->rewind();
     }
 
-    public function attach($dumper) {
-        $this->dumpers[] = $dumper;
+    public function attach($exporter) {
+        $this->exporters[] = $exporter;
     }
 
     public function rewind() {
-        reset($this->dumpers);
+        reset($this->exporters);
     }
 
     public function valid() {
@@ -54,14 +54,14 @@ class Iterator implements \Iterator {
     }
 
     public function next() {
-        next($this->dumpers);
+        next($this->exporters);
     }
 
     public function current() {
-        return current($this->dumpers);
+        return current($this->exporters);
     }
 
     public function key() {
-        return key($this->dumpers);
+        return key($this->exporters);
     }
 }

@@ -9,27 +9,22 @@
  * file that was distributed with this source code.
  */
 
-namespace Umpirsky\Country\Dumper\Format;
+namespace Umpirsky\Country\Exporter\Format;
 
-use Umpirsky\Country\Dumper\Dumper;
+use Umpirsky\Country\Exporter\SqlExporter;
 
 /**
- * Text dumper.
+ * SQLite exporter.
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-class Txt extends Dumper {
+class Sqlite extends SqlExporter {
 
     /**
      * {@inheritdoc}
      */
-    public function dump(array $data) {
+    public function getDriver() {
 
-        $txt = '';
-        foreach ($data as $id => $name) {
-            $txt .= sprintf('%s (%s)%s', $name, $id, PHP_EOL);
-        }
-
-        return $txt;
+        return 'pdo_sqlite';
     }
 }

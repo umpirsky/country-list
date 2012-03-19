@@ -9,22 +9,22 @@
  * file that was distributed with this source code.
  */
 
-namespace Umpirsky\Country\Dumper\Format;
+namespace Umpirsky\Country\Exporter\Format;
 
-use Umpirsky\Country\Dumper\HtmlDumper;
+use Umpirsky\Country\Exporter\HtmlExporter;
 
 /**
- * HTML dumper, adds country flags as well.
+ * HTML exporter, adds country flags as well.
  *
  * @see https://github.com/lafeber/world-flags-sprite
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-class HtmlFlag extends HtmlDumper {
+class HtmlFlag extends HtmlExporter {
 
     /**
      * {@inheritdoc}
      */
-    public function dump(array $data) {
+    public function export(array $data) {
 
         $this->addStylesheet('http://country-list.umpirsky.com/css/flags32.css');
 
@@ -36,7 +36,7 @@ class HtmlFlag extends HtmlDumper {
             $ulElement->appendChild($liElement);
         }
 
-        return $this->dumpHtml($ulElement);
+        return $this->exportHtml($ulElement);
     }
 
     /**

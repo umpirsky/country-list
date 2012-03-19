@@ -9,21 +9,21 @@
  * file that was distributed with this source code.
  */
 
-namespace Umpirsky\Country\Dumper\Format;
+namespace Umpirsky\Country\Exporter\Format;
 
-use Umpirsky\Country\Dumper\Dumper;
+use Umpirsky\Country\Exporter\Exporter;
 
 /**
- * XML dumper.
+ * XML exporter.
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-class Xml extends Dumper {
+class Xml extends Exporter {
 
     /**
      * {@inheritdoc}
      */
-    public function dump(array $data) {
+    public function export(array $data) {
 
         $countriesElement = new \SimpleXmlElement("<?xml version=\"1.0\" encoding=\"utf-8\"?><countries/>");
         foreach ($data as $iso => $name) {

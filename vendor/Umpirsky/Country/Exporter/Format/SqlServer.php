@@ -9,20 +9,22 @@
  * file that was distributed with this source code.
  */
 
-namespace Umpirsky\Country\Dumper;
+namespace Umpirsky\Country\Exporter\Format;
+
+use Umpirsky\Country\Exporter\SqlExporter;
 
 /**
- * Dumper interface.
+ * SQL server exporter.
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-interface DumperInterface {
+class SqlServer extends SqlExporter {
 
     /**
-     * Dumps data into specific format.
-     *
-     * @param array $data
-     * @return string
+     * {@inheritdoc}
      */
-    public function dump(array $data);
+    public function getDriver() {
+
+        return 'pdo_sqlsrv';
+    }
 }

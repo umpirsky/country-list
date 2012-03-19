@@ -9,22 +9,22 @@
  * file that was distributed with this source code.
  */
 
-namespace Umpirsky\Country\Dumper\Format;
+namespace Umpirsky\Country\Exporter\Format;
 
-use Umpirsky\Country\Dumper\Dumper;
+use Umpirsky\Country\Exporter\Exporter;
 
 /**
- * PHP dumper.
+ * Json exporter.
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-class Php extends Dumper {
+class Json extends Exporter {
 
     /**
      * {@inheritdoc}
      */
-    public function dump(array $data) {
+    public function export(array $data) {
 
-        return sprintf('<?php return %s;', var_export($data, true));
+        return json_encode($data);
     }
 }

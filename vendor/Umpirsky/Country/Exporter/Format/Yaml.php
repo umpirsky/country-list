@@ -9,24 +9,23 @@
  * file that was distributed with this source code.
  */
 
-namespace Umpirsky\Country\Dumper;
+namespace Umpirsky\Country\Exporter\Format;
+
+use Umpirsky\Country\Exporter\Exporter;
+use Symfony\Component\Yaml\Yaml as SymfonyYaml;
 
 /**
- * Abstract dumper.
+ * Yaml exporter.
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-abstract class Dumper implements DumperInterface {
+class Yaml extends Exporter {
 
     /**
-     * Gets dumper format.
-     *
-     * @return string
+     * {@inheritdoc}
      */
-    public function getFormat() {
+    public function export(array $data) {
 
-        $className = get_class($this);
-        return strtolower(substr($className, strrpos($className, '\\') + 1));
+        return SymfonyYaml::dump($data);
     }
-
 }
