@@ -86,6 +86,7 @@ class Build extends Command {
     */
     protected function execute(InputInterface $input, OutputInterface $output) {
 
+        $verbose = $input->getOption('verbose');
         foreach ($this->importerIterator as $importer) {
             if (null === $input->getArgument('source') || $input->getArgument('source') === $importer->getSource()) {
                 $this->filesystem->mkdir($importerDir = sprintf('%s/%s', $this->path, $importer->getSource()));
@@ -98,7 +99,9 @@ class Build extends Command {
                                 $file = sprintf('%s/country.%s', $exporterDir, $exporter->getFormat());
                                 $this->filesystem->touch($file);
                                 file_put_contents($file, $exporter->export($countries));
-                                $output->write(sprintf('File %s is generated.%s', $file, PHP_EOL));
+                                if ($verbose) {
+                                    $output->write(sprintf('<info>[file+]</info> %s%s', $file, PHP_EOL));
+                                }
                             }
                         }
                     }
