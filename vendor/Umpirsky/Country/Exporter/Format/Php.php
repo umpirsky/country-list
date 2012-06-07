@@ -25,6 +25,6 @@ class Php extends Exporter {
      */
     public function export(array $data) {
 
-        return sprintf('<?php return %s;', var_export($data, true));
+        return sprintf('<?php return %s;%s', var_export($data, true), PHP_EOL);
     }
 }

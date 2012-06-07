@@ -1,5 +1,11 @@
 CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY("id"));
 
+INSERT INTO "country" ("id", "name") VALUES ('AC', 'Ascension Island');
+INSERT INTO "country" ("id", "name") VALUES ('IC', 'Canary Islands');
+INSERT INTO "country" ("id", "name") VALUES ('EA', 'Ceuta and Melilla');
+INSERT INTO "country" ("id", "name") VALUES ('CP', 'Clipperton Island');
+INSERT INTO "country" ("id", "name") VALUES ('DG', 'Diego Garcia');
+INSERT INTO "country" ("id", "name") VALUES ('TA', 'Tristan da Cunha');
 INSERT INTO "country" ("id", "name") VALUES ('AT', 'অস্ট্রিয়া');
 INSERT INTO "country" ("id", "name") VALUES ('AU', 'অস্ট্রেলিয়া');
 INSERT INTO "country" ("id", "name") VALUES ('CI', 'আইভরি কোস্ট');
@@ -249,9 +255,3 @@ INSERT INTO "country" ("id", "name") VALUES ('NL', 'হলণ্ড');
 INSERT INTO "country" ("id", "name") VALUES ('HT', 'হাইতি');
 INSERT INTO "country" ("id", "name") VALUES ('HU', 'হাঙ্গেরি');
 INSERT INTO "country" ("id", "name") VALUES ('HM', 'হার্ড দ্বীপ এবং ম্যাকডোনাল্ড দ্বীপপুঞ্জ');
-INSERT INTO "country" ("id", "name") VALUES ('AC', 'Ascension Island');
-INSERT INTO "country" ("id", "name") VALUES ('IC', 'Canary Islands');
-INSERT INTO "country" ("id", "name") VALUES ('EA', 'Ceuta and Melilla');
-INSERT INTO "country" ("id", "name") VALUES ('CP', 'Clipperton Island');
-INSERT INTO "country" ("id", "name") VALUES ('DG', 'Diego Garcia');
-INSERT INTO "country" ("id", "name") VALUES ('TA', 'Tristan da Cunha');

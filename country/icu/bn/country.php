@@ -1,4 +1,10 @@
 <?php return array (
+  'AC' => 'Ascension Island',
+  'IC' => 'Canary Islands',
+  'EA' => 'Ceuta and Melilla',
+  'CP' => 'Clipperton Island',
+  'DG' => 'Diego Garcia',
+  'TA' => 'Tristan da Cunha',
   'AT' => 'অস্ট্রিয়া',
   'AU' => 'অস্ট্রেলিয়া',
   'CI' => 'আইভরি কোস্ট',
@@ -248,10 +254,4 @@
   'HT' => 'হাইতি',
   'HU' => 'হাঙ্গেরি',
   'HM' => 'হার্ড দ্বীপ এবং ম্যাকডোনাল্ড দ্বীপপুঞ্জ',
-  'AC' => 'Ascension Island',
-  'IC' => 'Canary Islands',
-  'EA' => 'Ceuta and Melilla',
-  'CP' => 'Clipperton Island',
-  'DG' => 'Diego Garcia',
-  'TA' => 'Tristan da Cunha',
 );

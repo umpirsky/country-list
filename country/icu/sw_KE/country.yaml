@@ -37,12 +37,12 @@ MG: Bukini
 BG: Bulgaria
 BI: Burundi
 BT: Butani
+IC: 'Canary Islands'
+EA: 'Ceuta and Melilla'
 TD: Chadi
 CL: Chile
 CN: China
 CX: 'Christmas Island'
-IC: 'Canary Islands'
-EA: 'Ceuta and Melilla'
 CP: 'Clipperton Island'
 CC: 'Cocos [Keeling] Islands'
 DK: Denmaki
@@ -61,6 +61,7 @@ PH: Filipino
 TF: 'French Southern Territories'
 GA: Gaboni
 GM: Gambia
+GH: Ghana
 GN: Gine
 GW: Ginebisau
 GQ: Ginekweta
@@ -72,7 +73,6 @@ GP: Gwadelupe
 GU: Gwam
 GT: Gwatemala
 GF: 'Gwiyana ya Ufaransa'
-GH: Ghana
 HT: Haiti
 HM: 'Heard Island and McDonald Islands'
 ES: Hispania
@@ -188,6 +188,7 @@ SA: Saudi
 SN: Senegali
 RS: Serbia
 CS: 'Serbia na Montenegro'
+SC: Shelisheli
 SL: 'Siera Leoni'
 SG: Singapoo
 SY: Siria
@@ -199,7 +200,6 @@ GS: 'South Georgia and the South Sandwich Islands'
 SD: Sudani
 SR: Surinamu
 SJ: 'Svalbard and Jan Mayen'
-SC: Shelisheli
 TH: Tailandi
 TW: Taiwani
 TJ: Tajikistani

@@ -37,14 +37,14 @@ BF: 'Burkina Faso'
 BI: Burundi
 BT: Butan
 BV: 'Buve Ostrva'
-TD: Čad
 IC: 'Canary Islands'
 CF: 'Centralno Afrička Republika'
-CZ: Češka
 EA: 'Ceuta and Melilla'
-CL: Čile
 CP: 'Clipperton Island'
 ME: 'Crna Gora'
+TD: Čad
+CZ: Češka
+CL: Čile
 DK: Danska
 CD: 'Demokratska Republika Kongo'
 DG: 'Diego Garcia'
@@ -211,19 +211,19 @@ SK: Slovačka
 SI: Slovenija
 SB: 'Solomonska Ostrva'
 SO: Somalija
-ES: Španija
 RS: Srbija
 CS: 'Srbija i Crna Gora'
-LK: 'Šri Lanka'
 SD: Sudan
 SR: Surinam
 BL: 'Sv. Bartolomej'
 MF: 'Sv. Martin'
-CH: Švajcarska
 SJ: 'Svalbard i Janmajen Ostrva'
 SZ: Svazilend
-SE: Švedska
 SH: 'Sveta Jelena'
+ES: Španija
+LK: 'Šri Lanka'
+CH: Švajcarska
+SE: Švedska
 TJ: Tadžikistan
 TH: Tajland
 TW: Tajvan
