@@ -16,8 +16,8 @@ namespace Umpirsky\Country\Exporter;
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-abstract class HtmlExporter extends Exporter {
-
+abstract class HtmlExporter extends Exporter
+{
     /**
      * Array of stylesheets for this HTML document.
      *
@@ -33,11 +33,11 @@ abstract class HtmlExporter extends Exporter {
     /**
      * Wraps DOM element to document and exports it as HTML string.
      *
-     * @param \DOMElement $element
+     * @param  \DOMElement $element
      * @return string
      */
-    protected function exportHtml(\DOMElement $element) {
-
+    protected function exportHtml(\DOMElement $element)
+    {
         $body = $this->getDocument()->createElement('body');
         $body->appendChild($element);
         $html = $this->getDocument()->getElementsByTagName('html')->item(0);
@@ -55,8 +55,8 @@ abstract class HtmlExporter extends Exporter {
      *
      * @return \DOMDocument
      */
-    protected function getDocument() {
-
+    protected function getDocument()
+    {
         if (null === $this->document) {
             $this->document = \DOMImplementation::createDocument(
                 'http://www.w3.org/1999/xhtml',
@@ -75,8 +75,8 @@ abstract class HtmlExporter extends Exporter {
     /**
      * Resets document internal objects.
      */
-    protected function reset() {
-
+    protected function reset()
+    {
         $this->document = null;
         $this->stylesheets = array();
     }
@@ -86,8 +86,8 @@ abstract class HtmlExporter extends Exporter {
      *
      * @param string $stylesheet
      */
-    protected function addStylesheet($stylesheet) {
-
+    protected function addStylesheet($stylesheet)
+    {
         $this->stylesheets[] = $stylesheet;
     }
 
@@ -96,8 +96,8 @@ abstract class HtmlExporter extends Exporter {
      *
      * @return string[]
      */
-    protected function getStylesheets() {
-
+    protected function getStylesheets()
+    {
         return $this->stylesheets;
     }
 
@@ -106,8 +106,8 @@ abstract class HtmlExporter extends Exporter {
      *
      * @return \DOMElement
      */
-    protected function getHead() {
-
+    protected function getHead()
+    {
         $head = $this->getDocument()->createElement('head');
         $metahttp = $this->getDocument()->createElement('meta');
         $metahttp->setAttribute('http-equiv', 'Content-Type');

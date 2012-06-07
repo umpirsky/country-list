@@ -23,23 +23,23 @@ use Zend\Db\Sql\Insert;
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-abstract class SqlExporter extends Exporter {
-
+abstract class SqlExporter extends Exporter
+{
     const TABLE_NAME = 'country';
 
     /**
      * {@inheritdoc}
      */
-    public function export(array $data) {
-
+    public function export(array $data)
+    {
         return $this->exportCreateTable() . PHP_EOL . $this->exportInsert($data);
     }
 
     /**
      * {@inheritdoc}
      */
-    public function getFormat() {
-
+    public function getFormat()
+    {
         return sprintf('%s.sql', parent::getFormat());
     }
 
@@ -48,15 +48,15 @@ abstract class SqlExporter extends Exporter {
      *
      * @return string
      */
-    public abstract function getDriver();
+    abstract public function getDriver();
 
     /**
      * Gets platform.
      *
      * @return \Zend\Db\Adapter\Platform\PlatformInterface
      */
-    public function getPlatform() {
-
+    public function getPlatform()
+    {
         switch ($this->getDriver()) {
             case 'pdo_mysql':
 
@@ -85,8 +85,8 @@ abstract class SqlExporter extends Exporter {
      *
      * @return string
      */
-    protected function exportCreateTable() {
-
+    protected function exportCreateTable()
+    {
         $table = new Table(self::TABLE_NAME, array(), array(), array(), false, array());
         $table->addColumn('id', 'string', array('length' => 2, 'notnull' => true));
         $table->setPrimaryKey(array('id'));
@@ -101,11 +101,11 @@ abstract class SqlExporter extends Exporter {
     /**
      * Exports insert SQL.
      *
-     * @param array $data
+     * @param  array  $data
      * @return string
      */
-    protected function exportInsert(array $data) {
-
+    protected function exportInsert(array $data)
+    {
         $insertSql = '';
         $insert = new Insert(self::TABLE_NAME);
         foreach ($data as $iso => $name) {

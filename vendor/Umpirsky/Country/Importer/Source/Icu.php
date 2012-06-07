@@ -19,8 +19,8 @@ use Symfony\Component\Locale\Locale;
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-class Icu extends Importer {
-
+class Icu extends Importer
+{
     /**
      * @var Locale
      */
@@ -29,24 +29,24 @@ class Icu extends Importer {
     /**
      * Icu constructor.
      */
-    public function __construct() {
-
+    public function __construct()
+    {
         $this->locale = new Locale();
     }
 
     /**
      * {@inheritdoc}
      */
-    public function getLanguages() {
-
+    public function getLanguages()
+    {
         return $this->locale->getLocales();
     }
 
     /**
      * {@inheritdoc}
      */
-    public function getCountries($language) {
-
+    public function getCountries($language)
+    {
         return $this->locale->getDisplayCountries($language);
     }
 }

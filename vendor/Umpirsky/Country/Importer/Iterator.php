@@ -1,6 +1,5 @@
 <?php
 
-
 /**
  * This file is part of the Country List project.
  *
@@ -23,8 +22,8 @@ class Iterator implements \Iterator {
 
     protected $importers;
 
-    public function __construct() {
-
+    public function __construct()
+    {
         $finder = new Finder();
         $iterator = $finder
             ->files()
@@ -41,27 +40,33 @@ class Iterator implements \Iterator {
         $this->rewind();
     }
 
-    public function attach($importer) {
+    public function attach($importer)
+    {
         $this->importers[] = $importer;
     }
 
-    public function rewind() {
+    public function rewind()
+    {
         reset($this->importers);
     }
 
-    public function valid() {
+    public function valid()
+    {
         return false !== $this->current();
     }
 
-    public function next() {
+    public function next()
+    {
         next($this->importers);
     }
 
-    public function current() {
+    public function current()
+    {
         return current($this->importers);
     }
 
-    public function key() {
+    public function key()
+    {
         return key($this->importers);
     }
 }

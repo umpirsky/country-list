@@ -16,15 +16,15 @@ namespace Umpirsky\Country\Exporter;
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-abstract class Exporter implements ExporterInterface {
-
+abstract class Exporter implements ExporterInterface
+{
     /**
      * Gets exporter format.
      *
      * @return string
      */
-    public function getFormat() {
-
+    public function getFormat()
+    {
         $className = get_class($this);
 
         return strtolower(substr($className, strrpos($className, '\\') + 1));

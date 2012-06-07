@@ -18,13 +18,13 @@ use Umpirsky\Country\Exporter\Exporter;
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-class Json extends Exporter {
-
+class Json extends Exporter
+{
     /**
      * {@inheritdoc}
      */
-    public function export(array $data) {
-
+    public function export(array $data)
+    {
         return json_encode($data);
     }
 }

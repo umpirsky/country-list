@@ -18,15 +18,15 @@ use Symfony\Component\Console\Application;
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-class Builder extends Application {
-
+class Builder extends Application
+{
    /**
     * Builder constructor.
     *
     * @param string $path base path to build files
     */
-    public function __construct($path) {
-
+    public function __construct($path)
+    {
         parent::__construct('Welcome to country list', '1.2');
 
         $this->addCommands(array(

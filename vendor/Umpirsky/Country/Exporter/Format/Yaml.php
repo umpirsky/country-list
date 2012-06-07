@@ -19,13 +19,13 @@ use Symfony\Component\Yaml\Yaml as SymfonyYaml;
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-class Yaml extends Exporter {
-
+class Yaml extends Exporter
+{
     /**
      * {@inheritdoc}
      */
-    public function export(array $data) {
-
+    public function export(array $data)
+    {
         return SymfonyYaml::dump($data);
     }
 }

@@ -18,13 +18,13 @@ use Umpirsky\Country\Exporter\Exporter;
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-class Xml extends Exporter {
-
+class Xml extends Exporter
+{
     /**
      * {@inheritdoc}
      */
-    public function export(array $data) {
-
+    public function export(array $data)
+    {
         $countriesElement = new \SimpleXmlElement("<?xml version=\"1.0\" encoding=\"utf-8\"?><countries/>");
         foreach ($data as $iso => $name) {
             $countryElement = $countriesElement->addChild('country');

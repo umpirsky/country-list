@@ -20,8 +20,8 @@ use Zend\Locale\Data\Cldr as ZendCldr;
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-class Cldr extends Importer {
-
+class Cldr extends Importer
+{
     /**
      * @var Locale
      */
@@ -30,8 +30,8 @@ class Cldr extends Importer {
     /**
      * Cldr constructor.
      */
-    public function __construct() {
-
+    public function __construct()
+    {
         ZendCldr::disableCache(true);
         $this->locale = new Locale();
     }
@@ -39,16 +39,16 @@ class Cldr extends Importer {
     /**
      * {@inheritdoc}
      */
-    public function getLanguages() {
-
+    public function getLanguages()
+    {
         return array_keys($this->locale->getLocaleList());
     }
 
     /**
      * {@inheritdoc}
      */
-    public function getCountries($language) {
-
+    public function getCountries($language)
+    {
         $countries = array();
         foreach (ZendCldr::getDisplayTerritory($language) as $iso => $name) {
             if (2 == strlen($iso)) {

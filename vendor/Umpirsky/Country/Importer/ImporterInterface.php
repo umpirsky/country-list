@@ -28,7 +28,7 @@ interface ImporterInterface {
     /**
      * Get list of all countries in given language.
      *
-     * @param string $language
+     * @param  string   $language
      * @return string[]
      */
     public function getCountries($language);

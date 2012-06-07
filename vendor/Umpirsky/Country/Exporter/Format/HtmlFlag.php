@@ -19,13 +19,13 @@ use Umpirsky\Country\Exporter\HtmlExporter;
  * @see https://github.com/lafeber/world-flags-sprite
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-class HtmlFlag extends HtmlExporter {
-
+class HtmlFlag extends HtmlExporter
+{
     /**
      * {@inheritdoc}
      */
-    public function export(array $data) {
-
+    public function export(array $data)
+    {
         $this->addStylesheet('http://country-list.umpirsky.com/css/flags32.css');
 
         $ulElement = $this->getDocument()->createElement('ul');
@@ -42,8 +42,8 @@ class HtmlFlag extends HtmlExporter {
     /**
      * {@inheritdoc}
      */
-    public function getFormat() {
-
+    public function getFormat()
+    {
         return 'flags.html';
     }
 }

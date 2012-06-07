@@ -18,13 +18,13 @@ use Umpirsky\Country\Exporter\HtmlExporter;
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-class Html extends HtmlExporter {
-
+class Html extends HtmlExporter
+{
     /**
      * {@inheritdoc}
      */
-    public function export(array $data) {
-
+    public function export(array $data)
+    {
         $selectElement = $this->getDocument()->createElement('select');
         $selectElement->setAttribute('name', 'country');
         foreach ($data as $iso => $name) {

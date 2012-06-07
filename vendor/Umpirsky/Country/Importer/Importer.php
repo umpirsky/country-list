@@ -16,15 +16,15 @@ namespace Umpirsky\Country\Importer;
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-abstract class Importer implements ImporterInterface {
-
+abstract class Importer implements ImporterInterface
+{
     /**
      * Gets source name.
      *
      * @return string
      */
-    public function getSource() {
-
+    public function getSource()
+    {
         $className = get_class($this);
 
         return strtolower(substr($className, strrpos($className, '\\') + 1));

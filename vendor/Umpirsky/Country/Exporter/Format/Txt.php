@@ -18,13 +18,13 @@ use Umpirsky\Country\Exporter\Exporter;
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-class Txt extends Exporter {
-
+class Txt extends Exporter
+{
     /**
      * {@inheritdoc}
      */
-    public function export(array $data) {
-
+    public function export(array $data)
+    {
         $txt = '';
         foreach ($data as $id => $name) {
             $txt .= sprintf('%s (%s)%s', $name, $id, PHP_EOL);

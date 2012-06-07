@@ -18,13 +18,13 @@ use Umpirsky\Country\Exporter\Exporter;
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-class Csv extends Exporter {
-
+class Csv extends Exporter
+{
     /**
      * {@inheritdoc}
      */
-    public function export(array $data) {
-
+    public function export(array $data)
+    {
         $outstream = fopen('php://temp', 'r+');
         fputcsv($outstream, array('iso', 'name'));
         foreach ($data as $iso => $name) {

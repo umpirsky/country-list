@@ -18,13 +18,13 @@ use Umpirsky\Country\Exporter\SqlExporter;
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-class SqlServer extends SqlExporter {
-
+class SqlServer extends SqlExporter
+{
     /**
      * {@inheritdoc}
      */
-    public function getDriver() {
-
+    public function getDriver()
+    {
         return 'pdo_sqlsrv';
     }
 }

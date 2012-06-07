@@ -24,8 +24,8 @@ use Umpirsky\Country\Importer\Iterator as ImporterIterator;
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-class Build extends Command {
-
+class Build extends Command
+{
     /**
      * Base path to build files.
      *
@@ -53,8 +53,8 @@ class Build extends Command {
      *
      * @param string $path base path to build files
      */
-    public function __construct($path) {
-
+    public function __construct($path)
+    {
         parent::__construct('build');
         $this->filesystem = new Filesystem();
         $this->filesystem->mkdir($this->path = $path);
@@ -65,8 +65,8 @@ class Build extends Command {
    /**
     * {@inheritdoc}
     */
-    protected function configure() {
-
+    protected function configure()
+    {
         $this
             ->setDescription('Builds country list files.')
             ->setDefinition(array(
@@ -84,8 +84,8 @@ class Build extends Command {
    /**
     * {@inheritdoc}
     */
-    protected function execute(InputInterface $input, OutputInterface $output) {
-
+    protected function execute(InputInterface $input, OutputInterface $output)
+    {
         $verbose = $input->getOption('verbose');
         foreach ($this->importerIterator as $importer) {
             if (null === $input->getArgument('source') || $input->getArgument('source') === $importer->getSource()) {
@@ -94,7 +94,7 @@ class Build extends Command {
                     if (null === $input->getArgument('language') || $input->getArgument('language') === $language) {
                         $this->filesystem->mkdir($exporterDir = sprintf('%s/%s', $importerDir, $language));
                         $countries = $importer->getCountries($language);
-                        foreach($this->exporterIterator as $exporter) {
+                        foreach ($this->exporterIterator as $exporter) {
                             if (null === $input->getArgument('format') || $input->getArgument('format') === $exporter->getFormat()) {
                                 $file = sprintf('%s/country.%s', $exporterDir, $exporter->getFormat());
                                 $this->filesystem->touch($file);

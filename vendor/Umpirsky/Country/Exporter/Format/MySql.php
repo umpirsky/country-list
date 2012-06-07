@@ -18,13 +18,13 @@ use Umpirsky\Country\Exporter\SqlExporter;
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-class MySql extends SqlExporter {
-
+class MySql extends SqlExporter
+{
     /**
      * {@inheritdoc}
      */
-    public function getDriver() {
-
+    public function getDriver()
+    {
         return 'pdo_mysql';
     }
 }
