@@ -1,0 +1,26 @@
+{
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://packages.zendframework.com/"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2",
+
+        "symfony/class-loader":  "dev-master",
+        "symfony/console":       "dev-master",
+        "symfony/filesystem":    "dev-master",
+        "symfony/finder":        "dev-master",
+        "symfony/locale":        "dev-master",
+        "symfony/yaml":          "dev-master",
+        "doctrine/dbal":         "dev-master",
+        "zendframework/zend-db": "dev-master"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "Umpirsky\\Country": "src/"
+        }
+    }
+}

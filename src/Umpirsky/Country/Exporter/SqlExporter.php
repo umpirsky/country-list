@@ -40,7 +40,7 @@ abstract class SqlExporter extends Exporter
      */
     public function getFormat()
     {
-        return sprintf('%s.sql', parent::getFormat());
+        return parent::getFormat().'%s.sql';
     }
 
     /**
@@ -92,7 +92,7 @@ abstract class SqlExporter extends Exporter
         return array_pop(DriverManager::getConnection(array('driver' => $this->getDriver()))
             ->getDatabasePlatform()
             ->getCreateTableSQL($table, AbstractPlatform::CREATE_INDEXES)
-        ) . ';' . PHP_EOL;
+        ).';'.PHP_EOL;
     }
 
     /**
@@ -108,7 +108,7 @@ abstract class SqlExporter extends Exporter
         foreach ($data as $iso => $name) {
             $insertSql .= $insert
                 ->values(array('id' => $iso, 'name' => $name))
-                ->getSqlString($this->getPlatform()) . ';' . PHP_EOL;
+                ->getSqlString($this->getPlatform()).';'.PHP_EOL;
         }
 
         return $insertSql;
