@@ -59,17 +59,14 @@ abstract class SqlExporter extends Exporter
     {
         switch ($this->getDriver()) {
             case 'pdo_mysql':
-
                 return new Platform\Mysql();
                 break;
 
             case 'pdo_sqlite':
-
                 return new Platform\Sqlite();
                 break;
 
             case 'pdo_sqlsrv':
-
                 return new Platform\SqlServer();
                 break;
 

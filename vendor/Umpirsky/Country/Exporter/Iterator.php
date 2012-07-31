@@ -18,8 +18,8 @@ use Symfony\Component\Finder\Finder;
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-class Iterator implements \Iterator {
-
+class Iterator implements \Iterator
+{
     protected $exporters;
 
     public function __construct()

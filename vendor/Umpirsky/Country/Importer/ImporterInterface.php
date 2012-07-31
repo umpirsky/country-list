@@ -16,8 +16,8 @@ namespace Umpirsky\Country\Importer;
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-interface ImporterInterface {
-
+interface ImporterInterface
+{
     /**
      * Get available languages.
      *

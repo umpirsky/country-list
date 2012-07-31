@@ -16,8 +16,8 @@ namespace Umpirsky\Country\Exporter;
  *
  * @author Саша Стаменковић <umpirsky@gmail.com>
  */
-interface ExporterInterface {
-
+interface ExporterInterface
+{
     /**
      * Exports data into specific format.
      *
