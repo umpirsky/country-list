@@ -29,11 +29,11 @@ class Iterator implements \Iterator {
             ->files()
             ->name('*.php')
             ->depth(0)
-            ->in(__DIR__ . '/Source');
+            ->in(__DIR__.'/Source');
 
         $this->importers = array();
         foreach ($iterator as $file) {
-            $importerClassName = '\\Umpirsky\\Country\\Importer\\Source\\' . strstr($file->getFilename(), '.', true);
+            $importerClassName = '\\Umpirsky\\Country\\Importer\\Source\\'.strstr($file->getFilename(), '.', true);
             $this->attach(new $importerClassName());
         }
 

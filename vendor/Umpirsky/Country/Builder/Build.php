@@ -75,9 +75,9 @@ class Build extends Command
                 new InputArgument('format', InputArgument::OPTIONAL, 'Format in which to export data')
             ))
             ->setHelp(sprintf(
-                    '%sBuilds country list files.%s',
-                    PHP_EOL,
-                    PHP_EOL
+                '%sBuilds country list files.%s',
+                PHP_EOL,
+                PHP_EOL
             ));
     }
 

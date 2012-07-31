@@ -29,11 +29,11 @@ class Iterator implements \Iterator {
             ->files()
             ->name('*.php')
             ->depth(0)
-            ->in(__DIR__ . '/Format');
+            ->in(__DIR__.'/Format');
 
         $this->exporters = array();
         foreach ($iterator as $file) {
-            $exporterClassName = '\\Umpirsky\\Country\\Exporter\\Format\\' . strstr($file->getFilename(), '.', true);
+            $exporterClassName = '\\Umpirsky\\Country\\Exporter\\Format\\'.strstr($file->getFilename(), '.', true);
             $this->attach(new $exporterClassName());
         }
 

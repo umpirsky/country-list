@@ -29,5 +29,4 @@ abstract class Exporter implements ExporterInterface
 
         return strtolower(substr($className, strrpos($className, '\\') + 1));
     }
-
 }

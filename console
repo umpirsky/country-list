@@ -18,5 +18,5 @@ use Umpirsky\Country\Builder\Builder;
 
 require_once __DIR__ . '/autoload.php';
 
-$builder = new Builder(sprintf('%s/country', __DIR__));
+$builder = new Builder(__DIR__.'/country');
 $builder->run();
