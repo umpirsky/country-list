@@ -89,18 +89,18 @@ class Build extends Command
         $verbose = $input->getOption('verbose');
         foreach ($this->importerIterator as $importer) {
             if (null === $input->getArgument('source') || $input->getArgument('source') === $importer->getSource()) {
-                $this->filesystem->mkdir($importerDir = sprintf('%s/%s', $this->path, $importer->getSource()));
+                $this->filesystem->mkdir($importerDir = $this->path.'/'.$importer->getSource());
                 foreach ($importer->getLanguages() as $language) {
                     if (null === $input->getArgument('language') || $input->getArgument('language') === $language) {
-                        $this->filesystem->mkdir($exporterDir = sprintf('%s/%s', $importerDir, $language));
+                        $this->filesystem->mkdir($exporterDir = $importerDir.'/'.$language);
                         $countries = $importer->getCountries($language);
                         foreach ($this->exporterIterator as $exporter) {
                             if (null === $input->getArgument('format') || $input->getArgument('format') === $exporter->getFormat()) {
-                                $file = sprintf('%s/country.%s', $exporterDir, $exporter->getFormat());
+                                $file = $exporterDir.'/country.'.$exporter->getFormat();
                                 $this->filesystem->touch($file);
                                 file_put_contents($file, $exporter->export($countries));
                                 if ($verbose) {
-                                    $output->write(sprintf('<info>[file+]</info> %s%s', $file, PHP_EOL));
+                                    $output->write('<info>[file+]</info> '.$file.PHP_EOL);
                                 }
                             }
                         }

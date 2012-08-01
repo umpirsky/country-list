@@ -16,7 +16,7 @@ use Umpirsky\Country\Builder\Builder;
  * Country list command line build interface.
  */
 
-require_once __DIR__ . '/autoload.php';
+include __DIR__ . '/vendor/autoload.php';
 
 $builder = new Builder(__DIR__.'/country');
 $builder->run();

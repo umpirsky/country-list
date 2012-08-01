@@ -40,7 +40,7 @@ abstract class SqlExporter extends Exporter
      */
     public function getFormat()
     {
-        return parent::getFormat().'%s.sql';
+        return parent::getFormat().'.sql';
     }
 
     /**

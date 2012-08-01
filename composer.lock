@@ -1,0 +1,86 @@
+{
+    "hash": "b2d7210e152f2cd9661dd837fbd7e327",
+    "packages": [
+        {
+            "package": "doctrine/common",
+            "version": "dev-master",
+            "alias-pretty-version": "2.4.x-dev",
+            "alias-version": "2.4.9999999.9999999-dev"
+        },
+        {
+            "package": "doctrine/common",
+            "version": "dev-master",
+            "source-reference": "68cbe687ceccd1de9a3db4d527122eba0f9dbd5a",
+            "commit-date": "1343765455"
+        },
+        {
+            "package": "doctrine/dbal",
+            "version": "dev-master",
+            "source-reference": "43191656cb96ca07dd7f11c0a4941de0d9f267d2",
+            "commit-date": "1343549870"
+        },
+        {
+            "package": "symfony/class-loader",
+            "version": "dev-master",
+            "source-reference": "v2.1.0-BETA4",
+            "commit-date": "1342347231"
+        },
+        {
+            "package": "symfony/console",
+            "version": "dev-master",
+            "source-reference": "7c328a9752ac035fe38dfae5425cf66b905c5394",
+            "commit-date": "1343512949"
+        },
+        {
+            "package": "symfony/filesystem",
+            "version": "dev-master",
+            "source-reference": "556127711cfa8e93b334e677aafdc10b3fbf799a",
+            "commit-date": "1343491637"
+        },
+        {
+            "package": "symfony/finder",
+            "version": "dev-master",
+            "source-reference": "7fe9695cb1dae09df7f545aabed8fa4b0026108b",
+            "commit-date": "1343512949"
+        },
+        {
+            "package": "symfony/locale",
+            "version": "dev-master",
+            "source-reference": "d6f016c243105b365a80da60b049ea884b002ecd",
+            "commit-date": "1343491637"
+        },
+        {
+            "package": "symfony/yaml",
+            "version": "dev-master",
+            "source-reference": "v2.1.0-BETA4",
+            "commit-date": "1342347231"
+        },
+        {
+            "package": "zendframework/zendframework",
+            "version": "dev-master",
+            "alias-pretty-version": "2.0.x-dev",
+            "alias-version": "2.0.9999999.9999999-dev"
+        },
+        {
+            "package": "zendframework/zendframework",
+            "version": "dev-master",
+            "source-reference": "59929bfe514d557e6f3e3441b6a3c5fa78fa2bbf",
+            "commit-date": "1343768700"
+        }
+    ],
+    "packages-dev": null,
+    "aliases": [
+
+    ],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "symfony/class-loader": 20,
+        "symfony/console": 20,
+        "symfony/filesystem": 20,
+        "symfony/finder": 20,
+        "symfony/locale": 20,
+        "symfony/yaml": 20,
+        "doctrine/dbal": 20,
+        "zendframework/zend-db": 20
+    }
+}
