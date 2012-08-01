@@ -68,7 +68,6 @@ INSERT INTO [country] ([id], [name]) VALUES ('EH', 'पश्चिमी सा
 INSERT INTO [country] ([id], [name]) VALUES ('ER', 'एरित्रिया');
 INSERT INTO [country] ([id], [name]) VALUES ('ES', 'स्पेन');
 INSERT INTO [country] ([id], [name]) VALUES ('ET', 'इथोपिया');
-INSERT INTO [country] ([id], [name]) VALUES ('EU', 'युरोपियन युनियन');
 INSERT INTO [country] ([id], [name]) VALUES ('FI', 'फिन्ल्याण्ड');
 INSERT INTO [country] ([id], [name]) VALUES ('FJ', 'फिजी');
 INSERT INTO [country] ([id], [name]) VALUES ('FK', 'फकल्याण्ड टापु');
@@ -186,7 +185,6 @@ INSERT INTO [country] ([id], [name]) VALUES ('PT', 'पोर्तुगल');
 INSERT INTO [country] ([id], [name]) VALUES ('PW', 'पलाउ');
 INSERT INTO [country] ([id], [name]) VALUES ('PY', 'प्यारागुये');
 INSERT INTO [country] ([id], [name]) VALUES ('QA', 'कटार');
-INSERT INTO [country] ([id], [name]) VALUES ('QO', 'बाह्य ओसनिया');
 INSERT INTO [country] ([id], [name]) VALUES ('RE', 'रियुनियन');
 INSERT INTO [country] ([id], [name]) VALUES ('RO', 'रोमानिया');
 INSERT INTO [country] ([id], [name]) VALUES ('RS', 'सर्बिया');

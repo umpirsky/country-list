@@ -1,4 +1,4 @@
-CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY("id"));
+CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
 INSERT INTO "country" ("id", "name") VALUES ('AD', 'Andóra');
 INSERT INTO "country" ("id", "name") VALUES ('AE', 'Aontas na nÉimíríochtaí Arabacha');
@@ -68,7 +68,6 @@ INSERT INTO "country" ("id", "name") VALUES ('EH', 'An Sahára Thiar');
 INSERT INTO "country" ("id", "name") VALUES ('ER', 'An Eiritré');
 INSERT INTO "country" ("id", "name") VALUES ('ES', 'An Spáinn');
 INSERT INTO "country" ("id", "name") VALUES ('ET', 'An Aetóip');
-INSERT INTO "country" ("id", "name") VALUES ('EU', 'An tAontas Eorpach');
 INSERT INTO "country" ("id", "name") VALUES ('FI', 'An Fhionlainn');
 INSERT INTO "country" ("id", "name") VALUES ('FJ', 'Fidsí');
 INSERT INTO "country" ("id", "name") VALUES ('FK', 'Oileáin Fháclainne');
@@ -186,7 +185,6 @@ INSERT INTO "country" ("id", "name") VALUES ('PT', 'An Phortaingéil');
 INSERT INTO "country" ("id", "name") VALUES ('PW', 'Palau');
 INSERT INTO "country" ("id", "name") VALUES ('PY', 'Paragua');
 INSERT INTO "country" ("id", "name") VALUES ('QA', 'Catar');
-INSERT INTO "country" ("id", "name") VALUES ('QO', 'An Aigéine Imeallach');
 INSERT INTO "country" ("id", "name") VALUES ('RE', 'Réunion');
 INSERT INTO "country" ("id", "name") VALUES ('RO', 'An Rómáin');
 INSERT INTO "country" ("id", "name") VALUES ('RS', 'An tSeirbia');

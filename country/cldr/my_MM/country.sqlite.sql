@@ -1,4 +1,4 @@
-CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY("id"));
+CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
 INSERT INTO "country" ("id", "name") VALUES ('AE', 'ယူအေအီး');
 INSERT INTO "country" ("id", "name") VALUES ('AF', 'အာဖဂန်နစ္စတန်');
@@ -51,7 +51,6 @@ INSERT INTO "country" ("id", "name") VALUES ('EG', 'အီဂျစ်');
 INSERT INTO "country" ("id", "name") VALUES ('EH', 'အနောက်ပိုင်း ဆာဟာရ');
 INSERT INTO "country" ("id", "name") VALUES ('ES', 'စပိန်');
 INSERT INTO "country" ("id", "name") VALUES ('ET', 'အီသီယိုးပီးယား');
-INSERT INTO "country" ("id", "name") VALUES ('EU', 'ဥရောပသမဂ္ဂ');
 INSERT INTO "country" ("id", "name") VALUES ('FI', 'ဖင်လန်');
 INSERT INTO "country" ("id", "name") VALUES ('FJ', 'ဖီဂျီ');
 INSERT INTO "country" ("id", "name") VALUES ('FK', 'ဖောက်ကလန် ကျွန်းစု');

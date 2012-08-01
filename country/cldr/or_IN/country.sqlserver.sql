@@ -69,7 +69,6 @@ INSERT INTO [country] ([id], [name]) VALUES ('EH', 'ପଶ୍ଚିମ ସାହ
 INSERT INTO [country] ([id], [name]) VALUES ('ER', 'ଇରିଟ୍ରିୟା');
 INSERT INTO [country] ([id], [name]) VALUES ('ES', 'ସ୍ପେନ୍');
 INSERT INTO [country] ([id], [name]) VALUES ('ET', 'ଇଥିଓପିଆ');
-INSERT INTO [country] ([id], [name]) VALUES ('EU', 'ୟୁରୋପିଆନ୍ ୟୁନିଅନ୍');
 INSERT INTO [country] ([id], [name]) VALUES ('FI', 'ଫିନଲ୍ୟାଣ୍ଡ');
 INSERT INTO [country] ([id], [name]) VALUES ('FJ', 'ଫିଜି');
 INSERT INTO [country] ([id], [name]) VALUES ('FK', 'ଫଲ୍କଲ୍ୟାଣ୍ଡ ଦ୍ବୀପପୁଞ୍ଜ');
@@ -188,7 +187,6 @@ INSERT INTO [country] ([id], [name]) VALUES ('PT', 'ପର୍ତ୍ତୁଗା�
 INSERT INTO [country] ([id], [name]) VALUES ('PW', 'ପାଲାଉ');
 INSERT INTO [country] ([id], [name]) VALUES ('PY', 'ପାରାଗୁଏ');
 INSERT INTO [country] ([id], [name]) VALUES ('QA', 'କତାର୍');
-INSERT INTO [country] ([id], [name]) VALUES ('QO', 'ଆଉଟଲେଇଂ ଓସେନିଆ');
 INSERT INTO [country] ([id], [name]) VALUES ('RE', 'ରିୟୁନିଅନ୍');
 INSERT INTO [country] ([id], [name]) VALUES ('RO', 'ରୋମାନିଆ');
 INSERT INTO [country] ([id], [name]) VALUES ('RS', 'ସର୍ବିଆ');

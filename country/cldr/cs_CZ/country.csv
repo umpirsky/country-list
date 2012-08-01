@@ -1,5 +1,4 @@
 iso,name
-AC,Ascension
 AD,Andorra
 AE,"Spojené arabské emiráty"
 AF,Afghánistán
@@ -49,7 +48,6 @@ CL,Chile
 CM,Kamerun
 CN,Čína
 CO,Kolumbie
-CP,Clipperton
 CR,Kostarika
 CS,"Srbsko a Černá Hora"
 CU,Kuba
@@ -58,13 +56,11 @@ CX,"Vánoční ostrovy"
 CY,Kypr
 CZ,"Česká republika"
 DE,Německo
-DG,"Diego Garcia"
 DJ,Džibuti
 DK,Dánsko
 DM,Dominika
 DO,"Dominikánská republika"
 DZ,Alžírsko
-EA,"Ceuta a Melilla"
 EC,Ekvádor
 EE,Estonsko
 EG,Egypt
@@ -72,7 +68,6 @@ EH,"Západní Sahara"
 ER,Eritrea
 ES,Španělsko
 ET,Etiopie
-EU,"Evropská unie"
 FI,Finsko
 FJ,Fidži
 FK,"Falklandské ostrovy"
@@ -104,7 +99,6 @@ HN,Honduras
 HR,Chorvatsko
 HT,Haiti
 HU,Maďarsko
-IC,"Kanárské ostrovy"
 ID,Indonésie
 IE,Irsko
 IL,Izrael
@@ -192,7 +186,6 @@ PT,Portugalsko
 PW,Palau
 PY,Paraguay
 QA,Katar
-QO,"Vnější Oceánie"
 RE,Réunion
 RO,Rumunsko
 RS,Srbsko
@@ -217,7 +210,6 @@ ST,"Svatý Tomáš"
 SV,"El Salvador"
 SY,Sýrie
 SZ,Svazijsko
-TA,"Tristan da Cunha"
 TC,"Ostrovy Caicos a Turks"
 TD,Čad
 TF,"Francouzská jižní teritoria"

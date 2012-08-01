@@ -1,5 +1,16 @@
 iso,name
-AC,Ascension
+BD,Bangladesh
+BN,Brunei
+BW,Botswana
+BY,Weissrussland
+CV,Kapverden
+DJ,Djibouti
+GB,Grossbritannien
+MH,Marshall-Inseln
+RW,Rwanda
+SB,Salomon-Inseln
+ST,"Sao Tomé und Principe"
+ZW,Zimbabwe
 AD,Andorra
 AE,"Vereinigte Arabische Emirate"
 AF,Afghanistan
@@ -19,7 +30,6 @@ AX,Alandinseln
 AZ,Aserbaidschan
 BA,"Bosnien und Herzegowina"
 BB,Barbados
-BD,Bangladesh
 BE,Belgien
 BF,"Burkina Faso"
 BG,Bulgarien
@@ -28,20 +38,17 @@ BI,Burundi
 BJ,Benin
 BL,"St. Barthélemy"
 BM,Bermuda
-BN,Brunei
 BO,Bolivien
 BR,Brasilien
 BS,Bahamas
 BT,Bhutan
 BV,Bouvetinsel
-BW,Botswana
-BY,Weissrussland
 BZ,Belize
 CA,Kanada
 CC,Kokosinseln
-CD,Kongo-Kinshasa
+CD,"Demokratische Republik Kongo"
 CF,"Zentralafrikanische Republik"
-CG,Kongo-Brazzaville
+CG,Kongo
 CH,Schweiz
 CI,"Côte d’Ivoire"
 CK,Cookinseln
@@ -49,22 +56,17 @@ CL,Chile
 CM,Kamerun
 CN,China
 CO,Kolumbien
-CP,Clipperton-Insel
 CR,"Costa Rica"
 CS,"Serbien und Montenegro"
 CU,Kuba
-CV,Kapverden
 CX,Weihnachtsinsel
 CY,Zypern
 CZ,"Tschechische Republik"
 DE,Deutschland
-DG,"Diego Garcia"
-DJ,Djibouti
 DK,Dänemark
 DM,Dominica
 DO,"Dominikanische Republik"
 DZ,Algerien
-EA,"Ceuta und Melilla"
 EC,Ecuador
 EE,Estland
 EG,Ägypten
@@ -72,16 +74,13 @@ EH,Westsahara
 ER,Eritrea
 ES,Spanien
 ET,Äthiopien
-EU,"Europäische Union"
 FI,Finnland
 FJ,Fidschi
 FK,Falklandinseln
 FM,Mikronesien
 FO,Färöer
 FR,Frankreich
-FX,Metropolitan-Frankreich
 GA,Gabun
-GB,Grossbritannien
 GD,Grenada
 GE,Georgien
 GF,Französisch-Guayana
@@ -105,7 +104,6 @@ HN,Honduras
 HR,Kroatien
 HT,Haiti
 HU,Ungarn
-IC,"Kanarische Inseln"
 ID,Indonesien
 IE,Irland
 IL,Israel
@@ -148,7 +146,6 @@ MD,"Republik Moldau"
 ME,Montenegro
 MF,"St. Martin"
 MG,Madagaskar
-MH,Marshall-Inseln
 MK,Mazedonien
 ML,Mali
 MM,Myanmar
@@ -188,19 +185,16 @@ PL,Polen
 PM,"St. Pierre und Miquelon"
 PN,Pitcairn
 PR,"Puerto Rico"
-PS,"Palästinensische Autonomiegebiete"
+PS,"Palästinensische Gebiete"
 PT,Portugal
 PW,Palau
 PY,Paraguay
 QA,Katar
-QO,"Äusseres Ozeanien"
 RE,Réunion
 RO,Rumänien
 RS,Serbien
 RU,"Russische Föderation"
-RW,Rwanda
 SA,Saudi-Arabien
-SB,Salomon-Inseln
 SC,Seychellen
 SD,Sudan
 SE,Schweden
@@ -214,11 +208,9 @@ SM,"San Marino"
 SN,Senegal
 SO,Somalia
 SR,Suriname
-ST,"Sao Tomé und Principe"
 SV,"El Salvador"
 SY,Syrien
 SZ,Swasiland
-TA,"Tristan da Cunha"
 TC,"Turks- und Caicosinseln"
 TD,Tschad
 TF,"Französische Süd- und Antarktisgebiete"
@@ -254,5 +246,4 @@ YE,Jemen
 YT,Mayotte
 ZA,Südafrika
 ZM,Sambia
-ZW,Zimbabwe
 ZZ,"Unbekannte oder ungültige Region"

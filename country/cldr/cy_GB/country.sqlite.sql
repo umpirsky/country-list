@@ -1,4 +1,4 @@
-CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY("id"));
+CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
 INSERT INTO "country" ("id", "name") VALUES ('AD', 'Andorra');
 INSERT INTO "country" ("id", "name") VALUES ('AE', 'Emiraethau Arabaidd Unedig');
@@ -181,7 +181,6 @@ INSERT INTO "country" ("id", "name") VALUES ('PT', 'Portiwgal');
 INSERT INTO "country" ("id", "name") VALUES ('PW', 'Palau');
 INSERT INTO "country" ("id", "name") VALUES ('PY', 'Paraguay');
 INSERT INTO "country" ("id", "name") VALUES ('QA', 'Qatar');
-INSERT INTO "country" ("id", "name") VALUES ('QO', 'Ynysoedd Pellenig y De');
 INSERT INTO "country" ("id", "name") VALUES ('RE', 'Réunion');
 INSERT INTO "country" ("id", "name") VALUES ('RO', 'Rwmania');
 INSERT INTO "country" ("id", "name") VALUES ('RU', 'Rwsia');

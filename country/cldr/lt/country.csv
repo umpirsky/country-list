@@ -1,5 +1,4 @@
 iso,name
-AC,"Ascension sala"
 AD,Andora
 AE,"Jungtiniai Arabų Emyratai"
 AF,Afganistanas
@@ -49,7 +48,6 @@ CL,Čilė
 CM,Kamerūnas
 CN,Kinija
 CO,Kolumbija
-CP,"Clipperton sala"
 CR,"Kosta Rika"
 CS,"Serbija ir Juodkalnija"
 CU,Kuba
@@ -58,13 +56,11 @@ CX,"Kalėdų sala"
 CY,Kipras
 CZ,Čekija
 DE,Vokietija
-DG,"Diego Garcia"
 DJ,Džibutis
 DK,Danija
 DM,Dominika
 DO,"Dominikos Respublika"
 DZ,Alžyras
-EA,"Ceuta ir Melilla"
 EC,Ekvadoras
 EE,Estija
 EG,Egiptas
@@ -72,14 +68,12 @@ EH,"Vakarų Sachara"
 ER,Eritrėja
 ES,Ispanija
 ET,Etiopija
-EU,"Europos Sąjunga"
 FI,Suomija
 FJ,Fidžis
 FK,"Falklando salos"
 FM,Mikronezija
 FO,"Farerų salos"
 FR,Prancūzija
-FX,"Prancūzija, Metropolitenas"
 GA,Gabonas
 GB,"Didžioji Britanija"
 GD,Grenada
@@ -99,13 +93,12 @@ GT,Gvatemala
 GU,Guamas
 GW,"Bisau Gvinėja"
 GY,Gajana
-HK,"Kinijos S. A. R. Honkongas"
+HK,"Kinijos S.A.R.Honkongas"
 HM,"Heardo ir McDonaldo Salų Sritis"
 HN,Hondūras
 HR,Kroatija
 HT,Haitis
 HU,Vengrija
-IC,"Kanarų salos"
 ID,Indonezija
 IE,Airija
 IL,Izraelis
@@ -193,7 +186,6 @@ PT,Portugalija
 PW,Palau
 PY,Paragvajus
 QA,Kataras
-QO,"Nuošali Okeanija"
 RE,Reunionas
 RO,Rumunija
 RS,Serbija
@@ -218,7 +210,6 @@ ST,"San Tomė ir Principė"
 SV,Salvadoras
 SY,Sirija
 SZ,Svazilendas
-TA,"Tristan da Cunha"
 TC,"Turkso ir Caicoso salos"
 TD,Čadas
 TF,"Prancūzijos Pietų sritys"

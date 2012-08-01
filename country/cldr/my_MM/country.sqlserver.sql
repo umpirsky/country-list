@@ -51,7 +51,6 @@ INSERT INTO [country] ([id], [name]) VALUES ('EG', 'အီဂျစ်');
 INSERT INTO [country] ([id], [name]) VALUES ('EH', 'အနောက်ပိုင်း ဆာဟာရ');
 INSERT INTO [country] ([id], [name]) VALUES ('ES', 'စပိန်');
 INSERT INTO [country] ([id], [name]) VALUES ('ET', 'အီသီယိုးပီးယား');
-INSERT INTO [country] ([id], [name]) VALUES ('EU', 'ဥရောပသမဂ္ဂ');
 INSERT INTO [country] ([id], [name]) VALUES ('FI', 'ဖင်လန်');
 INSERT INTO [country] ([id], [name]) VALUES ('FJ', 'ဖီဂျီ');
 INSERT INTO [country] ([id], [name]) VALUES ('FK', 'ဖောက်ကလန် ကျွန်းစု');

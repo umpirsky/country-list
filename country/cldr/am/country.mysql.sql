@@ -1,4 +1,4 @@
-CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY(id)) ENGINE = InnoDB;
+CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci ENGINE = InnoDB;
 
 INSERT INTO `country` (`id`, `name`) VALUES ('AD', 'አንዶራ');
 INSERT INTO `country` (`id`, `name`) VALUES ('AE', 'የተባበሩት አረብ ኤምሬትስ');
@@ -179,7 +179,6 @@ INSERT INTO `country` (`id`, `name`) VALUES ('PT', 'ፖርቱጋል');
 INSERT INTO `country` (`id`, `name`) VALUES ('PW', 'ፓላው');
 INSERT INTO `country` (`id`, `name`) VALUES ('PY', 'ፓራጓይ');
 INSERT INTO `country` (`id`, `name`) VALUES ('QA', 'ኳታር');
-INSERT INTO `country` (`id`, `name`) VALUES ('QO', 'ወጣ ያለ ኦሽኒያ');
 INSERT INTO `country` (`id`, `name`) VALUES ('RE', 'ሪዩኒየን');
 INSERT INTO `country` (`id`, `name`) VALUES ('RO', 'ሮሜኒያ');
 INSERT INTO `country` (`id`, `name`) VALUES ('RU', 'ራሺያ');

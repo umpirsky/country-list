@@ -1,4 +1,4 @@
-CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY(id)) ENGINE = InnoDB;
+CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci ENGINE = InnoDB;
 
 INSERT INTO `country` (`id`, `name`) VALUES ('AD', 'Andorra');
 INSERT INTO `country` (`id`, `name`) VALUES ('AE', 'Emirâts araps unîts');
@@ -69,7 +69,6 @@ INSERT INTO `country` (`id`, `name`) VALUES ('EH', 'Sahara ocidentâl');
 INSERT INTO `country` (`id`, `name`) VALUES ('ER', 'Eritree');
 INSERT INTO `country` (`id`, `name`) VALUES ('ES', 'Spagne');
 INSERT INTO `country` (`id`, `name`) VALUES ('ET', 'Etiopie');
-INSERT INTO `country` (`id`, `name`) VALUES ('EU', 'Union europeane');
 INSERT INTO `country` (`id`, `name`) VALUES ('FI', 'Finlandie');
 INSERT INTO `country` (`id`, `name`) VALUES ('FJ', 'Fizi');
 INSERT INTO `country` (`id`, `name`) VALUES ('FK', 'Isulis Falkland');
@@ -185,7 +184,6 @@ INSERT INTO `country` (`id`, `name`) VALUES ('PT', 'Portugal');
 INSERT INTO `country` (`id`, `name`) VALUES ('PW', 'Palau');
 INSERT INTO `country` (`id`, `name`) VALUES ('PY', 'Paraguay');
 INSERT INTO `country` (`id`, `name`) VALUES ('QA', 'Qatar');
-INSERT INTO `country` (`id`, `name`) VALUES ('QO', 'Oceanie periferiche');
 INSERT INTO `country` (`id`, `name`) VALUES ('RE', 'Reunion');
 INSERT INTO `country` (`id`, `name`) VALUES ('RO', 'Romanie');
 INSERT INTO `country` (`id`, `name`) VALUES ('RS', 'Serbie');

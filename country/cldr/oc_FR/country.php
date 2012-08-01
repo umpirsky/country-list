@@ -57,7 +57,6 @@
   'ER' => 'Eritrèa',
   'ES' => 'Espanha',
   'ET' => 'Etiopia',
-  'EU' => 'Union Europèa',
   'FI' => 'Finlàndia',
   'FJ' => 'Fiji',
   'FR' => 'França',

@@ -58,7 +58,6 @@ INSERT INTO [country] ([id], [name]) VALUES ('EG', 'Egipte');
 INSERT INTO [country] ([id], [name]) VALUES ('ER', 'Eritrèa');
 INSERT INTO [country] ([id], [name]) VALUES ('ES', 'Espanha');
 INSERT INTO [country] ([id], [name]) VALUES ('ET', 'Etiopia');
-INSERT INTO [country] ([id], [name]) VALUES ('EU', 'Union Europèa');
 INSERT INTO [country] ([id], [name]) VALUES ('FI', 'Finlàndia');
 INSERT INTO [country] ([id], [name]) VALUES ('FJ', 'Fiji');
 INSERT INTO [country] ([id], [name]) VALUES ('FR', 'França');

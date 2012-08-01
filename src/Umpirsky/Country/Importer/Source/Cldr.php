@@ -12,8 +12,6 @@
 namespace Umpirsky\Country\Importer\Source;
 
 use Umpirsky\Country\Importer\Importer;
-use Zend\Locale\Locale;
-use Zend\Locale\Data\Cldr as ZendCldr;
 
 /**
  * CLDR importer.
@@ -23,17 +21,11 @@ use Zend\Locale\Data\Cldr as ZendCldr;
 class Cldr extends Importer
 {
     /**
-     * @var Locale
-     */
-    protected $locale;
-
-    /**
      * Cldr constructor.
      */
     public function __construct()
     {
-        ZendCldr::disableCache(true);
-        $this->locale = new Locale();
+        \Zend_Locale::disableCache(true);
     }
 
     /**
@@ -41,7 +33,7 @@ class Cldr extends Importer
      */
     public function getLanguages()
     {
-        return array_keys($this->locale->getLocaleList());
+        return array_keys(\Zend_Locale::getLocaleList());
     }
 
     /**
@@ -49,13 +41,6 @@ class Cldr extends Importer
      */
     public function getCountries($language)
     {
-        $countries = array();
-        foreach (ZendCldr::getDisplayTerritory($language) as $iso => $name) {
-            if (2 == strlen($iso)) {
-                $countries[$iso] = $name;
-            }
-        }
-
-        return $countries;
+        return \Zend_Locale::getTranslationList('territory', $language, 2);
     }
 }

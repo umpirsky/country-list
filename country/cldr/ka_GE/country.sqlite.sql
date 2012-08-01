@@ -1,4 +1,4 @@
-CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY("id"));
+CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
 INSERT INTO "country" ("id", "name") VALUES ('AD', 'ანდორა');
 INSERT INTO "country" ("id", "name") VALUES ('AE', 'არაბეთის გაერთიანებული ემირატები');
@@ -67,7 +67,6 @@ INSERT INTO "country" ("id", "name") VALUES ('EH', 'დასავლეთი 
 INSERT INTO "country" ("id", "name") VALUES ('ER', 'ერიტრეა');
 INSERT INTO "country" ("id", "name") VALUES ('ES', 'ესპანეთი');
 INSERT INTO "country" ("id", "name") VALUES ('ET', 'ეთიოპია');
-INSERT INTO "country" ("id", "name") VALUES ('EU', 'ევროკავშირი');
 INSERT INTO "country" ("id", "name") VALUES ('FI', 'ფინეთი');
 INSERT INTO "country" ("id", "name") VALUES ('FJ', 'ფიჯი');
 INSERT INTO "country" ("id", "name") VALUES ('FK', 'ფალკლენდის კუნძულები');
@@ -180,7 +179,6 @@ INSERT INTO "country" ("id", "name") VALUES ('PT', 'პორტუგალი�
 INSERT INTO "country" ("id", "name") VALUES ('PW', 'პალაუ');
 INSERT INTO "country" ("id", "name") VALUES ('PY', 'პარაგვაი');
 INSERT INTO "country" ("id", "name") VALUES ('QA', 'კატარი');
-INSERT INTO "country" ("id", "name") VALUES ('QO', 'დაშორებული ოკეანია');
 INSERT INTO "country" ("id", "name") VALUES ('RE', 'რეიუნიონი');
 INSERT INTO "country" ("id", "name") VALUES ('RO', 'რუმინეთი');
 INSERT INTO "country" ("id", "name") VALUES ('RS', 'სერბია');

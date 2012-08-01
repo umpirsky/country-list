@@ -1,4 +1,3 @@
-AC: 'Insula Ascension'
 AD: Andorra
 AE: 'Emiratele Arabe Unite'
 AF: Afganistan
@@ -48,7 +47,6 @@ CL: Chile
 CM: Camerun
 CN: China
 CO: Columbia
-CP: 'Insula Clipperton'
 CR: 'Costa Rica'
 CS: 'Serbia și Muntenegru'
 CU: Cuba
@@ -57,13 +55,11 @@ CX: 'Insula Christmas'
 CY: Cipru
 CZ: 'Republica Cehă'
 DE: Germania
-DG: 'Diego Garcia'
 DJ: Djibouti
 DK: Danemarca
 DM: Dominica
 DO: 'Republica Dominicană'
 DZ: Algeria
-EA: 'Ceuta şi Melilla'
 EC: Ecuador
 EE: Estonia
 EG: Egipt
@@ -71,14 +67,12 @@ EH: 'Sahara Occidentală'
 ER: Eritreea
 ES: Spania
 ET: Etiopia
-EU: 'Uniunea Europeană'
 FI: Finlanda
 FJ: Fiji
 FK: 'Insulele Falkland'
 FM: Micronezia
 FO: 'Insulele Feroe'
 FR: Franța
-FX: 'Franța metropolitană'
 GA: Gabon
 GB: 'Marea Britanie'
 GD: Grenada
@@ -93,7 +87,7 @@ GN: Guineea
 GP: Guadelupa
 GQ: 'Guineea Ecuatorială'
 GR: Grecia
-GS: 'Georgia de Sud şi Insulele Sandwich de Sud'
+GS: 'Insulele Georgia de Sud și Sandwich de Sud'
 GT: Guatemala
 GU: Guam
 GW: Guineea-Bissau
@@ -104,7 +98,6 @@ HN: Honduras
 HR: Croația
 HT: Haiti
 HU: Ungaria
-IC: 'Insulele Canare'
 ID: Indonezia
 IE: Irlanda
 IL: Israel
@@ -192,7 +185,6 @@ PT: Portugalia
 PW: Palau
 PY: Paraguay
 QA: Qatar
-QO: 'Oceania Periferică'
 RE: Reunion
 RO: România
 RS: Serbia
@@ -217,7 +209,6 @@ ST: 'Sao Tome și Principe'
 SV: 'El Salvador'
 SY: Siria
 SZ: Swaziland
-TA: 'Tristan da Cunha'
 TC: 'Insulele Turks și Caicos'
 TD: Ciad
 TF: 'Teritoriile Australe și Antarctice Franceze'
@@ -236,7 +227,7 @@ TW: Taiwan
 TZ: Tanzania
 UA: Ucraina
 UG: Uganda
-UM: 'Insulele Minore Îndepărtate ale Statelor Unite ale Americii'
+UM: 'Insulele mici îndepărtate ale Statelor Unite ale Americii'
 US: 'Statele Unite ale Americii'
 UY: Uruguay
 UZ: Uzbekistan

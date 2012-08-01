@@ -1,4 +1,3 @@
-AC: 'Debesbraukšanas sala'
 AD: Andora
 AE: 'Apvienotie Arābu Emirāti'
 AF: Afganistāna
@@ -30,7 +29,7 @@ BM: 'Bermudu salas'
 BN: Bruneja
 BO: Bolīvija
 BR: Brazīlija
-BS: 'Bahamu salas'
+BS: Bahamas
 BT: Butāna
 BV: 'Buvē sala'
 BW: Botsvāna
@@ -40,7 +39,7 @@ CA: Kanāda
 CC: 'Kokosu jeb Kīlinga salas'
 CD: 'Kongo Demokrātiskā Republika'
 CF: 'Centrālāfrikas Republika'
-CG: 'Kongo - Brazavila'
+CG: Kongo
 CH: Šveice
 CI: Kotdivuāra
 CK: 'Kuka salas'
@@ -48,7 +47,6 @@ CL: Čīle
 CM: Kamerūna
 CN: Ķīna
 CO: Kolumbija
-CP: 'Klipertona sala'
 CR: Kostarika
 CS: 'Serbija un Melnkalne'
 CU: Kuba
@@ -57,13 +55,11 @@ CX: 'Ziemsvētku sala'
 CY: Kipra
 CZ: Čehija
 DE: Vācija
-DG: 'Djego Garsijas atols'
 DJ: Džibutija
 DK: Dānija
 DM: Dominika
 DO: 'Dominikānas Republika'
 DZ: Alžīrija
-EA: 'Seūta un Meliļa'
 EC: Ekvadora
 EE: Igaunija
 EG: Ēģipte
@@ -71,12 +67,11 @@ EH: Rietumsahāra
 ER: Eritreja
 ES: Spānija
 ET: Etiopija
-EU: 'Eiropas Savienība'
 FI: Somija
 FJ: Fidži
 FK: 'Folklenda salas'
-FM: Mikronēzija
-FO: 'Fēru Salas'
+FM: 'Mikronēzijas Federatīvās Valstis'
+FO: 'Farēru salas'
 FR: Francija
 GA: Gabona
 GB: Lielbritānija
@@ -103,13 +98,12 @@ HN: Hondurasa
 HR: Horvātija
 HT: Haiti
 HU: Ungārija
-IC: 'Kanāriju salas'
 ID: Indonēzija
 IE: Īrija
 IL: Izraēla
 IM: Mena
 IN: Indija
-IO: 'Indijas okeāna Britu teritorija'
+IO: 'Britu Indijas okeāna teritorija'
 IQ: Irāka
 IR: Irāna
 IS: Īslande
@@ -149,7 +143,7 @@ MG: Madagaskara
 MH: 'Māršala salas'
 MK: Maķedonija
 ML: Mali
-MM: 'Mjanma [Birma]'
+MM: Mjanma
 MN: Mongolija
 MO: 'Ķīnas īpašās pārvaldes apgabals Makao'
 MP: 'Ziemeļu Marianas salas'
@@ -186,12 +180,11 @@ PL: Polija
 PM: 'Senpjēra un Mikelona'
 PN: Pitkērna
 PR: Puertoriko
-PS: Palestīna
+PS: 'Palestīniešu pašpārvaldes teritorija'
 PT: Portugāle
 PW: Palau
 PY: Paragvaja
 QA: Katara
-QO: 'Okeānijas attālās salas'
 RE: Reinjona
 RO: Rumānija
 RS: Serbija
@@ -216,7 +209,6 @@ ST: 'Santome un Prinsipi'
 SV: Salvadora
 SY: Sīrija
 SZ: Svazilenda
-TA: 'Tristana da Kuņas salas'
 TC: 'Tērksas un Kaikosas salas'
 TD: Čada
 TF: 'Franču dienvidu teritorijas'
@@ -235,22 +227,22 @@ TW: Taivāna
 TZ: Tanzānija
 UA: Ukraina
 UG: Uganda
-UM: 'ASV Mazās Aizjūras salas'
+UM: 'ASV mazās aizjūras teritorijas'
 US: 'Amerikas Savienotās Valstis'
 UY: Urugvaja
 UZ: Uzbekistāna
 VA: Vatikāns
 VC: 'Sentvinsenta un Grenadīnas'
 VE: Venecuēla
-VG: 'Britu Virdžīnas'
-VI: 'ASV Virdžīnas'
+VG: 'Britu Virdžīnu salas'
+VI: 'Amerikāņu Virdžīnu salas'
 VN: Vjetnama
 VU: Vanuatu
 WF: 'Volisa un Futuna'
 WS: Samoa
 YE: Jemena
 YT: Majota
-ZA: 'Dienvidāfrikas Republika'
+ZA: Dienvidāfrika
 ZM: Zambija
 ZW: Zimbabve
 ZZ: 'nezināms vai nederīgs reģions'

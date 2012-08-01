@@ -1,5 +1,4 @@
 iso,name
-AC,"Illa de l'Ascensió"
 AD,Andorra
 AE,"Unió dels Emirats Àrabs"
 AF,Afganistan
@@ -39,9 +38,9 @@ BY,Bielorússia
 BZ,Belize
 CA,Canadà
 CC,"Illes Cocos"
-CD,"Congo - Kinshasa"
+CD,"República Democràtica del Congo"
 CF,"República Centreafricana"
-CG,"Congo - Brazzaville"
+CG,Congo
 CH,Suïssa
 CI,"Costa d’Ivori"
 CK,"Illes Cook"
@@ -49,7 +48,6 @@ CL,Xile
 CM,Camerun
 CN,Xina
 CO,Colòmbia
-CP,"Illa Clipperton"
 CR,"Costa Rica"
 CS,"Sèrbia i Montenegro"
 CU,Cuba
@@ -58,13 +56,11 @@ CX,"Illa Christmas"
 CY,Xipre
 CZ,"República Txeca"
 DE,Alemanya
-DG,"Diego Garcia"
 DJ,Djibouti
 DK,Dinamarca
 DM,Dominica
 DO,"República Dominicana"
 DZ,Algèria
-EA,"Ceuta i Melilla"
 EC,Equador
 EE,Estònia
 EG,Egipte
@@ -72,14 +68,12 @@ EH,"Sàhara Occidental"
 ER,Eritrea
 ES,Espanya
 ET,Etiòpia
-EU,"Unió Europea"
 FI,Finlàndia
 FJ,Fiji
 FK,"Illes Malvines"
 FM,Micronèsia
 FO,"Illes Fèroe"
 FR,França
-FX,"França metropolitana"
 GA,Gabon
 GB,"Regne Unit"
 GD,Grenada
@@ -105,7 +99,6 @@ HN,Hondures
 HR,Croàcia
 HT,Haití
 HU,Hongria
-IC,"Illes Canàries"
 ID,Indonèsia
 IE,Irlanda
 IL,Israel
@@ -151,7 +144,7 @@ MG,Madagascar
 MH,"Illes Marshall"
 MK,Macedònia
 ML,Mali
-MM,"Myanmar [Birmània]"
+MM,Myanmar
 MN,Mongòlia
 MO,"Regió administrativa especial xinesa de Macau"
 MP,"Illes Mariannes del Nord"
@@ -193,7 +186,6 @@ PT,Portugal
 PW,Palau
 PY,Paraguai
 QA,Qatar
-QO,"Territoris allunyats d'Oceania"
 RE,"Illa de la Reunió"
 RO,Romania
 RS,Sèrbia
@@ -218,7 +210,6 @@ ST,"São Tomé i Príncipe"
 SV,"El Salvador"
 SY,Síria
 SZ,Swazilàndia
-TA,"Tristão da Cunha"
 TC,"Illes Turks i Caicos"
 TD,Txad
 TF,"Territoris Francesos del Sud"

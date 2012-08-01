@@ -1,4 +1,4 @@
-CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY("id"));
+CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
 INSERT INTO "country" ("id", "name") VALUES ('AD', 'Andorra');
 INSERT INTO "country" ("id", "name") VALUES ('AE', 'Vereenigte Araabsche Emiraten');
@@ -68,7 +68,6 @@ INSERT INTO "country" ("id", "name") VALUES ('EH', 'Westsahara');
 INSERT INTO "country" ("id", "name") VALUES ('ER', 'Eritrea');
 INSERT INTO "country" ("id", "name") VALUES ('ES', 'Spanien');
 INSERT INTO "country" ("id", "name") VALUES ('ET', 'Äthiopien');
-INSERT INTO "country" ("id", "name") VALUES ('EU', 'Europääsche Union');
 INSERT INTO "country" ("id", "name") VALUES ('FI', 'Finnland');
 INSERT INTO "country" ("id", "name") VALUES ('FJ', 'Fidschi');
 INSERT INTO "country" ("id", "name") VALUES ('FK', 'Falkland-Eilannen');
@@ -187,7 +186,6 @@ INSERT INTO "country" ("id", "name") VALUES ('PT', 'Portugal');
 INSERT INTO "country" ("id", "name") VALUES ('PW', 'Palau');
 INSERT INTO "country" ("id", "name") VALUES ('PY', 'Paraguay');
 INSERT INTO "country" ("id", "name") VALUES ('QA', 'Katar');
-INSERT INTO "country" ("id", "name") VALUES ('QO', 'Büter Ozeanien');
 INSERT INTO "country" ("id", "name") VALUES ('RE', 'Reunion');
 INSERT INTO "country" ("id", "name") VALUES ('RO', 'Rumänien');
 INSERT INTO "country" ("id", "name") VALUES ('RS', 'Serbien');

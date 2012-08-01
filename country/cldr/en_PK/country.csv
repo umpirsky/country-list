@@ -1,5 +1,4 @@
 iso,name
-AC,"Ascension Island"
 AD,Andorra
 AE,"United Arab Emirates"
 AF,Afghanistan
@@ -50,7 +49,6 @@ CL,Chile
 CM,Cameroon
 CN,China
 CO,Colombia
-CP,"Clipperton Island"
 CR,"Costa Rica"
 CS,"Serbia and Montenegro"
 CT,"Canton and Enderbury Islands"
@@ -61,13 +59,11 @@ CY,Cyprus
 CZ,"Czech Republic"
 DD,"East Germany"
 DE,Germany
-DG,"Diego Garcia"
 DJ,Djibouti
 DK,Denmark
 DM,Dominica
 DO,"Dominican Republic"
 DZ,Algeria
-EA,"Ceuta and Melilla"
 EC,Ecuador
 EE,Estonia
 EG,Egypt
@@ -75,7 +71,6 @@ EH,"Western Sahara"
 ER,Eritrea
 ES,Spain
 ET,Ethiopia
-EU,"European Union"
 FI,Finland
 FJ,Fiji
 FK,"Falkland Islands"
@@ -109,7 +104,6 @@ HN,Honduras
 HR,Croatia
 HT,Haiti
 HU,Hungary
-IC,"Canary Islands"
 ID,Indonesia
 IE,Ireland
 IL,Israel
@@ -204,7 +198,6 @@ PW,Palau
 PY,Paraguay
 PZ,"Panama Canal Zone"
 QA,Qatar
-QO,"Outlying Oceania"
 RE,Réunion
 RO,Romania
 RS,Serbia
@@ -230,7 +223,6 @@ SU,"Union of Soviet Socialist Republics"
 SV,"El Salvador"
 SY,Syria
 SZ,Swaziland
-TA,"Tristan da Cunha"
 TC,"Turks and Caicos Islands"
 TD,Chad
 TF,"French Southern Territories"
@@ -270,4 +262,4 @@ YT,Mayotte
 ZA,"South Africa"
 ZM,Zambia
 ZW,Zimbabwe
-ZZ,"Unknown Region"
+ZZ,"Unknown or Invalid Region"

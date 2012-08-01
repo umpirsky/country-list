@@ -1,4 +1,3 @@
-AC: 'Otok Ascension'
 AD: Andora
 AE: 'Združeni arabski emirati'
 AF: Afganistan
@@ -40,7 +39,7 @@ CA: Kanada
 CC: 'Kokosovi otoki'
 CD: 'Demokratična republika Kongo'
 CF: 'Centralnoafriška republika'
-CG: 'Kongo - Brazzaville'
+CG: Kongo
 CH: Švica
 CI: 'Slonokoščena obala'
 CK: 'Cookovo otočje'
@@ -48,7 +47,6 @@ CL: Čile
 CM: Kamerun
 CN: Kitajska
 CO: Kolumbija
-CP: 'Otok Clipperton'
 CR: Kostarika
 CS: 'Srbija in Črna gora'
 CU: Kuba
@@ -57,13 +55,11 @@ CX: 'Božični otok'
 CY: Ciper
 CZ: Češka
 DE: Nemčija
-DG: 'Diego Garcia'
 DJ: Džibuti
 DK: Danska
 DM: Dominika
 DO: 'Dominikanska republika'
 DZ: Alžirija
-EA: 'Ceuta in Melilla'
 EC: Ekvador
 EE: Estonija
 EG: Egipt
@@ -71,14 +67,12 @@ EH: 'Zahodna Sahara'
 ER: Eritreja
 ES: Španija
 ET: Etiopija
-EU: 'Evropska unija'
 FI: Finska
 FJ: Fidži
 FK: 'Falklandski otoki'
 FM: Mikronezija
 FO: 'Ferski otoki'
 FR: Francija
-FX: 'Francija (metropolitanska)'
 GA: Gabon
 GB: 'Velika Britanija'
 GD: Grenada
@@ -104,7 +98,6 @@ HN: Honduras
 HR: Hrvaška
 HT: Haiti
 HU: Madžarska
-IC: 'Kanarski otoki'
 ID: Indonezija
 IE: Irska
 IL: Izrael
@@ -150,7 +143,7 @@ MG: Madagaskar
 MH: 'Marshallovi otoki'
 MK: Makedonija
 ML: Mali
-MM: 'Mjanmar [Burma]'
+MM: Mjanmar
 MN: Mongolija
 MO: 'Posebno administrativno območje LR Kitajske Macao'
 MP: 'Severni Marianski otoki'
@@ -192,7 +185,6 @@ PT: Portugalska
 PW: Palau
 PY: Paragvaj
 QA: Katar
-QO: 'Ostala oceanija'
 RE: Reunion
 RO: Romunija
 RS: Srbija
@@ -217,7 +209,6 @@ ST: 'Sao Tome in Principe'
 SV: Salvador
 SY: Sirija
 SZ: Svazi
-TA: 'Tristan da Cunha'
 TC: 'Otočji Turks in Caicos'
 TD: Čad
 TF: 'Francosko južno ozemlje'

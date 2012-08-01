@@ -1,4 +1,3 @@
-AC: Ascension
 AD: Andorra
 AE: 'Dei sameinte arabiske emirata'
 AF: Afghanistan
@@ -48,7 +47,6 @@ CL: Chile
 CM: Kamerun
 CN: Kina
 CO: Colombia
-CP: Clippertonøya
 CR: 'Costa Rica'
 CS: 'Serbia og Montenegro'
 CU: Cuba
@@ -57,13 +55,11 @@ CX: Christmasøya
 CY: Kypros
 CZ: Tsjekkia
 DE: Tyskland
-DG: 'Diego Garcia'
 DJ: Djibouti
 DK: Danmark
 DM: Dominica
 DO: 'Den dominikanske republikken'
 DZ: Algerie
-EA: 'Ceuta og Melilla'
 EC: Ecuador
 EE: Estland
 EG: Egypt
@@ -71,7 +67,6 @@ EH: Vest-Sahara
 ER: Eritrea
 ES: Spania
 ET: Etiopia
-EU: 'Den europeiske unionen'
 FI: Finland
 FJ: Fiji
 FK: Falklandsøyane
@@ -97,13 +92,12 @@ GT: Guatemala
 GU: Guam
 GW: Guinea-Bissau
 GY: Guyana
-HK: 'Hongkong S.A.R. Kina'
+HK: 'Hong Kong S.A.R. (Kina)'
 HM: 'Heard- og McDonaldsøyane'
 HN: Honduras
 HR: Kroatia
 HT: Haiti
 HU: Ungarn
-IC: Kanariøyane
 ID: Indonesia
 IE: Irland
 IL: Israel
@@ -151,7 +145,7 @@ MK: Makedonia
 ML: Mali
 MM: Myanmar
 MN: Mongolia
-MO: 'Macao S.A.R. Kina'
+MO: 'Macao S.A.R. (Kina)'
 MP: Nord-Marianane
 MQ: Martinique
 MR: Mauritania
@@ -191,7 +185,6 @@ PT: Portugal
 PW: Palau
 PY: Paraguay
 QA: Qatar
-QO: 'Ytre Oseania'
 RE: Réunion
 RO: Romania
 RS: Serbia
@@ -216,7 +209,6 @@ ST: 'São Tomé og Príncipe'
 SV: 'El Salvador'
 SY: Syria
 SZ: Swaziland
-TA: 'Tristan da Cunha'
 TC: 'Turks- og Caicosøyane'
 TD: Tchad
 TF: 'Franske sørområde'
@@ -242,8 +234,8 @@ UZ: Usbekistan
 VA: Vatikanstaten
 VC: 'St. Vincent og Grenadinane'
 VE: Venezuela
-VG: 'Dei britiske jomfruøyane'
-VI: 'Dei amerikanske jomfruøyane'
+VG: 'Jomfruøyane (britisk)'
+VI: 'Jomfruøyane (USA)'
 VN: Vietnam
 VU: Vanuatu
 WF: 'Wallis og Futuna'
@@ -253,4 +245,4 @@ YT: Mayotte
 ZA: Sør-Afrika
 ZM: Zambia
 ZW: Zimbabwe
-ZZ: 'ukjent eller ugyldig område'
+ZZ: '(ukjent eller ugyldig område)'

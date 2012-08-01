@@ -1,6 +1,5 @@
 CREATE TABLE country (id NVARCHAR(2) NOT NULL, name NVARCHAR(64) NOT NULL, PRIMARY KEY (id));
 
-INSERT INTO [country] ([id], [name]) VALUES ('AC', 'ఎసెషన్ దీవి');
 INSERT INTO [country] ([id], [name]) VALUES ('AD', 'అన్డోరా');
 INSERT INTO [country] ([id], [name]) VALUES ('AE', 'యునైటెడ్ ఆరబ్ ఎమిరేట్స్');
 INSERT INTO [country] ([id], [name]) VALUES ('AF', 'ఆఫ్ఘానిస్తాన్');
@@ -50,7 +49,6 @@ INSERT INTO [country] ([id], [name]) VALUES ('CL', 'చిలి');
 INSERT INTO [country] ([id], [name]) VALUES ('CM', 'కెమరూన్');
 INSERT INTO [country] ([id], [name]) VALUES ('CN', 'చైనా');
 INSERT INTO [country] ([id], [name]) VALUES ('CO', 'కొలంబియా');
-INSERT INTO [country] ([id], [name]) VALUES ('CP', 'క్లిప్పర్టన్ దీవి');
 INSERT INTO [country] ([id], [name]) VALUES ('CR', 'కోస్టారికా');
 INSERT INTO [country] ([id], [name]) VALUES ('CS', 'సర్బియా మరియు మంటెనీగ్రో');
 INSERT INTO [country] ([id], [name]) VALUES ('CU', 'క్యూబా');
@@ -59,13 +57,11 @@ INSERT INTO [country] ([id], [name]) VALUES ('CX', 'క్రిస్మస్ 
 INSERT INTO [country] ([id], [name]) VALUES ('CY', 'సైప్రస్');
 INSERT INTO [country] ([id], [name]) VALUES ('CZ', 'చెక్ గణరాజ్యం');
 INSERT INTO [country] ([id], [name]) VALUES ('DE', 'ఙర్మని');
-INSERT INTO [country] ([id], [name]) VALUES ('DG', 'డియాగో గార్సియా');
 INSERT INTO [country] ([id], [name]) VALUES ('DJ', 'జిబౌటి');
 INSERT INTO [country] ([id], [name]) VALUES ('DK', 'డెన్మార్క్');
 INSERT INTO [country] ([id], [name]) VALUES ('DM', 'డోమెనిక');
 INSERT INTO [country] ([id], [name]) VALUES ('DO', 'డొమినికన్ గణ రాజ్యం');
 INSERT INTO [country] ([id], [name]) VALUES ('DZ', 'అల్జీరియా');
-INSERT INTO [country] ([id], [name]) VALUES ('EA', 'స్యూటా మరియు మెలిల్లా');
 INSERT INTO [country] ([id], [name]) VALUES ('EC', 'ఈక్వడోర్');
 INSERT INTO [country] ([id], [name]) VALUES ('EE', 'ఎస్టోనియా');
 INSERT INTO [country] ([id], [name]) VALUES ('EG', 'ఈజిప్ట్');
@@ -73,7 +69,6 @@ INSERT INTO [country] ([id], [name]) VALUES ('EH', 'పడమటి సహార
 INSERT INTO [country] ([id], [name]) VALUES ('ER', 'ఎరిట్రియా');
 INSERT INTO [country] ([id], [name]) VALUES ('ES', 'స్పేన్');
 INSERT INTO [country] ([id], [name]) VALUES ('ET', 'ఇథియోపియా');
-INSERT INTO [country] ([id], [name]) VALUES ('EU', 'యురోపియన్ యునియన్');
 INSERT INTO [country] ([id], [name]) VALUES ('FI', 'ఫిన్లాండ్');
 INSERT INTO [country] ([id], [name]) VALUES ('FJ', 'ఫిజి');
 INSERT INTO [country] ([id], [name]) VALUES ('FK', 'ఫాక్ లేండ్ దీవులు');
@@ -105,7 +100,6 @@ INSERT INTO [country] ([id], [name]) VALUES ('HN', 'హోండోరాస్'
 INSERT INTO [country] ([id], [name]) VALUES ('HR', 'క్రోయేషియా');
 INSERT INTO [country] ([id], [name]) VALUES ('HT', 'హైటి');
 INSERT INTO [country] ([id], [name]) VALUES ('HU', 'హన్గేరి');
-INSERT INTO [country] ([id], [name]) VALUES ('IC', 'కేనరీ దీవులు');
 INSERT INTO [country] ([id], [name]) VALUES ('ID', 'ఇండోనేషియా');
 INSERT INTO [country] ([id], [name]) VALUES ('IE', 'ఐర్ లాండ్');
 INSERT INTO [country] ([id], [name]) VALUES ('IL', 'ఇస్రాయేల్');
@@ -153,7 +147,7 @@ INSERT INTO [country] ([id], [name]) VALUES ('MK', 'మేసెడోనియ�
 INSERT INTO [country] ([id], [name]) VALUES ('ML', 'మాలి');
 INSERT INTO [country] ([id], [name]) VALUES ('MM', 'మ్యాన్మార్');
 INSERT INTO [country] ([id], [name]) VALUES ('MN', 'మంగోలియా');
-INSERT INTO [country] ([id], [name]) VALUES ('MO', 'మాకావ్ సార్ చైనా');
+INSERT INTO [country] ([id], [name]) VALUES ('MO', 'మాకావ్ SAR చైనా');
 INSERT INTO [country] ([id], [name]) VALUES ('MP', 'ఉత్తర మరియానా దీవులు');
 INSERT INTO [country] ([id], [name]) VALUES ('MQ', 'మార్టినిక్');
 INSERT INTO [country] ([id], [name]) VALUES ('MR', 'మౌరిటేనియా');
@@ -193,7 +187,6 @@ INSERT INTO [country] ([id], [name]) VALUES ('PT', 'పోర్చుగల్'
 INSERT INTO [country] ([id], [name]) VALUES ('PW', 'పలావు');
 INSERT INTO [country] ([id], [name]) VALUES ('PY', 'పెరగువే');
 INSERT INTO [country] ([id], [name]) VALUES ('QA', 'కతర్');
-INSERT INTO [country] ([id], [name]) VALUES ('QO', 'ఒషేనియా బయటున్నవి');
 INSERT INTO [country] ([id], [name]) VALUES ('RE', 'రియూనియన్');
 INSERT INTO [country] ([id], [name]) VALUES ('RO', 'రోమానియా');
 INSERT INTO [country] ([id], [name]) VALUES ('RS', 'సెర్బియా');
@@ -218,7 +211,6 @@ INSERT INTO [country] ([id], [name]) VALUES ('ST', 'సావోటోమ్ మ
 INSERT INTO [country] ([id], [name]) VALUES ('SV', 'ఎల్ సాల్వడోర్');
 INSERT INTO [country] ([id], [name]) VALUES ('SY', 'సిరియా');
 INSERT INTO [country] ([id], [name]) VALUES ('SZ', 'స్వాజీలేండ్');
-INSERT INTO [country] ([id], [name]) VALUES ('TA', 'ట్రిస్టన్ డ కన్హా');
 INSERT INTO [country] ([id], [name]) VALUES ('TC', 'తుర్క్ మరియు కాలికోస్ దీవులు');
 INSERT INTO [country] ([id], [name]) VALUES ('TD', 'చాద్');
 INSERT INTO [country] ([id], [name]) VALUES ('TF', 'ఫ్రెంచ్ దక్షిణ ప్రాంతాలు');
@@ -226,7 +218,7 @@ INSERT INTO [country] ([id], [name]) VALUES ('TG', 'టోగో');
 INSERT INTO [country] ([id], [name]) VALUES ('TH', 'థాయ్ లాండ్');
 INSERT INTO [country] ([id], [name]) VALUES ('TJ', 'టాజీకిస్తాన్');
 INSERT INTO [country] ([id], [name]) VALUES ('TK', 'టోకేలావ్');
-INSERT INTO [country] ([id], [name]) VALUES ('TL', 'టిమోర్-లెస్టె');
+INSERT INTO [country] ([id], [name]) VALUES ('TL', 'తూర్పు టిమోర్');
 INSERT INTO [country] ([id], [name]) VALUES ('TM', 'తుర్కమెస్తాన్');
 INSERT INTO [country] ([id], [name]) VALUES ('TN', 'ట్యునీషియా');
 INSERT INTO [country] ([id], [name]) VALUES ('TO', 'టోంగా');

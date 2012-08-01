@@ -1,4 +1,3 @@
-AC: Ascension
 AD: Andorra
 AE: 'Vereinigte Arabische Emirate'
 AF: Afghanistan
@@ -38,9 +37,9 @@ BY: Belarus
 BZ: Belize
 CA: Kanada
 CC: Kokosinseln
-CD: Kongo-Kinshasa
+CD: 'Demokratische Republik Kongo'
 CF: 'Zentralafrikanische Republik'
-CG: Kongo-Brazzaville
+CG: Kongo
 CH: Schweiz
 CI: 'Côte d’Ivoire'
 CK: Cookinseln
@@ -48,7 +47,6 @@ CL: Chile
 CM: Kamerun
 CN: China
 CO: Kolumbien
-CP: Clipperton-Insel
 CR: 'Costa Rica'
 CS: 'Serbien und Montenegro'
 CU: Kuba
@@ -57,13 +55,11 @@ CX: Weihnachtsinsel
 CY: Zypern
 CZ: 'Tschechische Republik'
 DE: Deutschland
-DG: 'Diego Garcia'
 DJ: Dschibuti
 DK: Dänemark
 DM: Dominica
 DO: 'Dominikanische Republik'
 DZ: Algerien
-EA: 'Ceuta und Melilla'
 EC: Ecuador
 EE: Estland
 EG: Ägypten
@@ -71,14 +67,12 @@ EH: Westsahara
 ER: Eritrea
 ES: Spanien
 ET: Äthiopien
-EU: 'Europäische Union'
 FI: Finnland
 FJ: Fidschi
 FK: Falklandinseln
 FM: Mikronesien
 FO: Färöer
 FR: Frankreich
-FX: Metropolitan-Frankreich
 GA: Gabun
 GB: 'Vereinigtes Königreich'
 GD: Grenada
@@ -104,7 +98,6 @@ HN: Honduras
 HR: Kroatien
 HT: Haiti
 HU: Ungarn
-IC: 'Kanarische Inseln'
 ID: Indonesien
 IE: Irland
 IL: Israel
@@ -187,12 +180,11 @@ PL: Polen
 PM: 'St. Pierre und Miquelon'
 PN: Pitcairn
 PR: 'Puerto Rico'
-PS: 'Palästinensische Autonomiegebiete'
+PS: 'Palästinensische Gebiete'
 PT: Portugal
 PW: Palau
 PY: Paraguay
 QA: Katar
-QO: 'Äußeres Ozeanien'
 RE: Réunion
 RO: Rumänien
 RS: Serbien
@@ -217,7 +209,6 @@ ST: 'São Tomé und Príncipe'
 SV: 'El Salvador'
 SY: Syrien
 SZ: Swasiland
-TA: 'Tristan da Cunha'
 TC: 'Turks- und Caicosinseln'
 TD: Tschad
 TF: 'Französische Süd- und Antarktisgebiete'

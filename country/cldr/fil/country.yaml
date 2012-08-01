@@ -1,4 +1,3 @@
-AC: 'Acsencion island'
 AD: Andorra
 AE: 'United Arab Emirates'
 AF: Afghanistan
@@ -39,7 +38,7 @@ CA: Canada
 CC: 'Cocos Islands'
 CD: 'Congo - Kinshasa'
 CF: 'Central African Republic'
-CG: 'Congo - Brazzaville'
+CG: Congo
 CH: Switzerland
 CI: 'Côte d''Ivoire'
 CK: 'Cook Islands'
@@ -47,7 +46,6 @@ CL: Chile
 CM: Cameroon
 CN: Tsina
 CO: Colombia
-CP: 'Clipperton Island'
 CR: 'Costa Rica'
 CS: 'Serbia at Montenegro'
 CU: Cuba
@@ -56,13 +54,11 @@ CX: 'Christmas Island'
 CY: Cyprus
 CZ: 'Czech Republic'
 DE: Alemaya
-DG: 'Diego Garcia'
 DJ: Djibouti
 DK: Denmark
 DM: Dominica
 DO: 'Dominican Republic'
 DZ: Algeria
-EA: 'Ceuta and Melilla'
 EC: Ecuador
 EE: Estonia
 EG: Ehipto
@@ -70,7 +66,6 @@ EH: 'Western Sahara'
 ER: Eritrea
 ES: Espanya
 ET: Ethiopia
-EU: 'European Union'
 FI: Finland
 FJ: Fiji
 FK: 'Falkland Islands'
@@ -88,7 +83,7 @@ GM: Gambia
 GN: Guinea
 GQ: 'Equatorial Guinea'
 GR: Griyego
-GS: 'South Georgia and The South Sandwich Islands'
+GS: 'South Georgia and the South Sandwich Islands'
 GW: Guinea-Bissau
 HK: 'Hong Kong SAR China'
 HM: 'Heard Island and McDonald Islands'
@@ -96,7 +91,6 @@ HN: Honduras
 HR: Croatia
 HT: Haiti
 HU: Hungary
-IC: 'Canary Island'
 ID: Indonesia
 IE: Ireland
 IL: Israel
@@ -116,7 +110,7 @@ KH: Cambodia
 KI: Kiribati
 KM: Comoros
 KN: 'Saint Kitts and Nevis'
-KP: 'North Korea'
+KP: 'Hilagang Korea'
 KR: 'Timog Korea'
 KY: 'Cayman Islands'
 KZ: Kazakhstan
@@ -139,7 +133,7 @@ MK: Macedonia
 ML: Mali
 MM: Myanmar
 MN: Mongolia
-MO: 'Macau SAR China'
+MO: Macao
 MP: 'Northern Mariana Islands'
 MR: Mauritania
 MW: Malawi
@@ -164,23 +158,21 @@ PH: Pilipinas
 PK: Pakistan
 PL: Poland
 PM: 'Saint Pierre at Miquelon'
-PN: Pitcairn
-PS: 'Palestinian Territory'
+PS: Palestine
 PT: Portugal
 PY: Paraguay
-QO: 'Malayong bahagi ng Oceania'
 RO: Romania
 RS: Serbia
-RU: 'Russian Federation'
+RU: Russia
 RW: Rwanda
 SA: 'Saudi Arabya'
 SB: 'Solomon Islands'
 SC: Seychelles
 SD: Sudan
 SE: Sweden
-SH: 'St. Helena'
+SH: 'Saint Helena'
 SI: Slovenia
-SJ: 'Svalbard and Jan Mayen Islands'
+SJ: 'Svalbard and Jan Mayen'
 SK: Slovakia
 SL: 'Sierra Leone'
 SM: 'San Marino'
@@ -191,7 +183,6 @@ ST: 'Sao Tome and Principe'
 SV: 'El Salvador'
 SY: Syria
 SZ: Swaziland
-TA: 'Tristan de Cunha'
 TC: 'Turks and Caicos Islands'
 TD: Chad
 TF: 'French Southern Territories'
@@ -199,7 +190,7 @@ TG: Togo
 TH: Thailand
 TJ: Tajikistan
 TK: Tokelau
-TL: Timor-Leste
+TL: 'East Timor'
 TM: Turkmenistan
 TN: Tunisia
 TO: Tonga
@@ -210,8 +201,8 @@ TW: Taiwan
 TZ: Tanzania
 UA: Ukraine
 UG: Uganda
-UM: 'Mga Minor Outlying Island ng Estados Unidos'
-US: 'Estados Unidos'
+UM: 'United States minor outlying islands'
+US: 'United States'
 UY: Uruguay
 UZ: Uzbekistan
 VA: 'Vatican City'
@@ -221,10 +212,10 @@ VG: 'British Virgin Islands'
 VI: 'U.S. Virgin Islands'
 VN: Vietnam
 VU: Vanuatu
-WF: 'Wallis and the Futuna Islands'
+WF: 'Wallis and Futuna'
 WS: Samoa
 YE: Yemen
-ZA: 'South Africa'
+ZA: 'Timog Afrika'
 ZM: Zambia
 ZW: Zimbabwe
 ZZ: 'Hindi kilala o Hindi wastong Rehiyon'

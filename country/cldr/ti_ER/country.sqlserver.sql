@@ -179,7 +179,6 @@ INSERT INTO [country] ([id], [name]) VALUES ('PT', 'ፖርቱጋል');
 INSERT INTO [country] ([id], [name]) VALUES ('PW', 'ፓላው');
 INSERT INTO [country] ([id], [name]) VALUES ('PY', 'ፓራጓይ');
 INSERT INTO [country] ([id], [name]) VALUES ('QA', 'ኳታር');
-INSERT INTO [country] ([id], [name]) VALUES ('QO', 'ወጣ ያለ ኦሽኒያ');
 INSERT INTO [country] ([id], [name]) VALUES ('RE', 'ሪዩኒየን');
 INSERT INTO [country] ([id], [name]) VALUES ('RO', 'ሮሜኒያ');
 INSERT INTO [country] ([id], [name]) VALUES ('RU', 'ራሺያ');

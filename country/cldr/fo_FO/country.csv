@@ -1,5 +1,4 @@
 iso,name
-AC,Ascensionoyggjin
 AD,Andorra
 AE,"Sameindu Emirríkini"
 AF,Afganistan
@@ -7,7 +6,7 @@ AG,"Antigua og Barbuda"
 AI,Anguilla
 AL,Albania
 AM,Armenia
-AN,"Niðurlendsku Antilloyggjarnar"
+AN,"Niðurlendsku Antilloyggjar"
 AO,Angola
 AQ,Antarktis
 AR,Argentina
@@ -38,18 +37,17 @@ BW,Botsvana
 BY,Hvítarussland
 BZ,Belis
 CA,Kanada
-CC,Kokosoyggjarnar
+CC,Kokosoyggjar
 CD,Kongo-Kinshasa
 CF,Miðafrikalýðveldið
 CG,Kongo
 CH,Sveis
 CI,Fílabeinsstrondin
-CK,Cooksoyggjarnar
+CK,Cooksoyggjar
 CL,Kili
 CM,Kamerun
 CN,Kina
 CO,Kolombia
-CP,Clippertonoyggjin
 CR,"Kosta Rika"
 CU,Kuba
 CV,Grønhøvdaoyggjarnar
@@ -57,13 +55,11 @@ CX,Jólaoyggjin
 CY,Kýpros
 CZ,Kekkia
 DE,Týskland
-DG,"Diego Garcia"
 DJ,Djibouti
 DK,Danmørk
 DM,Dominika
 DO,"Domingo lýðveldið"
 DZ,Algeria
-EA,"Ceuta og Melilla"
 EC,Ekvador
 EE,Estland
 EG,Egyptaland
@@ -71,10 +67,9 @@ EH,Vestursahara
 ER,Eritrea
 ES,Spania
 ET,Etiopia
-EU,Evropasamveldið
 FI,Finnland
 FJ,Fiji
-FK,Falklandsoyggjarnar
+FK,Falklandsoyggjar
 FM,Mikronesia
 FO,Føroyar
 FR,Frakland
@@ -98,18 +93,17 @@ GU,Guam
 GW,"Guinea Bissau"
 GY,Gujana
 HK,Hongkong
-HM,"Heard- og McDonald-oyggjarnar"
+HM,"Heard- og McDonald-oyggjar"
 HN,Honduras
 HR,Kroatia
 HT,Haiti
 HU,Ungarn
-IC,Kanaríoyggjarnar
 ID,Indonesia
 IE,Írland
 IL,Ísrael
 IM,Mann
 IN,India
-IO,"Bretsku Indiahavsoyggjarnar"
+IO,"Bretsku Indiahavsoyggjar"
 IQ,Irak
 IR,Iran
 IS,Ísland
@@ -127,7 +121,7 @@ KN,"Saint Kitts og Nevis"
 KP,Norður-Korea
 KR,Suður-Korea
 KW,Kuvait
-KY,Caymanoyggjarnar
+KY,Caymanoyggjar
 KZ,Kasakstan
 LA,Laos
 LB,Libanon
@@ -152,7 +146,7 @@ ML,Mali
 MM,Burma
 MN,Mongolia
 MO,Makao
-MP,Norðurmarianoyggjarnar
+MP,Norðurmarianoyggjar
 MQ,Martinique
 MR,Móritania
 MS,Montserrat
@@ -166,7 +160,7 @@ MZ,Mosambik
 NA,Namibia
 NC,Ný-Kaledonia
 NE,Niger
-NF,Norfolkoyggjin
+NF,Norfolkoy
 NG,Nigeria
 NI,Nikaragua
 NL,Niðurlond
@@ -183,7 +177,7 @@ PG,"Papua Nýguinea"
 PH,Filipsoyggjar
 PK,Pakistan
 PL,Pólland
-PM,"Saint Pierre og Miquelon"
+PM,"Saint-Pierre og Miquelon"
 PN,Pitcairn
 PR,"Puerto Rico"
 PS,"Palestinskt territorium"
@@ -215,14 +209,13 @@ ST,"Sao Tome og Prinsipi"
 SV,"El Salvador"
 SY,Syria
 SZ,Svasiland
-TA,"Tristan da Cunha"
-TC,"Turks- og Caicosoyggjarnar"
+TC,"Turks- og Caicosoyggjar"
 TD,Kjad
 TG,Togo
 TH,Teiland
 TJ,Tadsjikistan
 TK,Tokelau
-TL,Eystur-Timor
+TL,"Eystur Timor"
 TM,Turkmenistan
 TN,Tunesia
 TO,Tonga
@@ -239,8 +232,8 @@ UZ,Usbekistan
 VA,Vatikan
 VC,"Saint Vinsent og Grenadinoyggjar"
 VE,Venesuela
-VG,"Stóra Bretlands Jómfrúoyggjarnar"
-VI,"Sambandsríki Amerikas Jómfrúoyggjarnar"
+VG,"Stóra Bretlands Jómfrúoyggjar"
+VI,"Sambandsríki Amerikas Jómfrúoyggjar"
 VN,Vietnam
 VU,Vanuatu
 WF,"Wallis og Futuna"

@@ -1,257 +1,249 @@
 iso,name
-AC,"Острво Асенсион"
-AD,Андора
-AE,"Уједињени Арапски Емирати"
-AF,Авганистан
-AG,"Антигве и Барбуда"
-AI,Ангвила
-AL,Албанија
-AM,Арменија
-AN,"Холандски Антили"
-AO,Ангола
-AQ,Антарктик
-AR,Аргентина
-AS,"Америчка Самоа"
-AT,Аустрија
-AU,Аустралија
-AW,Аруба
-AX,"Аландска острва"
-AZ,Азербејџан
-BA,"Босна и Херцеговина"
-BB,Барбадос
-BD,Бангладеш
-BE,Белгија
-BF,"Буркина Фасо"
-BG,Бугарска
-BH,Бахреин
-BI,Бурунди
-BJ,Бенин
-BL,"Свети Бартоломеј"
-BM,Бермуда
-BN,Брунеј
-BO,Боливија
-BR,Бразил
-BS,Бахами
-BT,Бутан
-BV,"Буве Острва"
-BW,Боцвана
-BY,Белорусија
-BZ,Белизе
-CA,Канада
-CC,"Кокос (Келинг) Острва"
-CD,"Конго - Киншаса"
-CF,"Централно Афричка Република"
-CG,"Конго - Бразавил"
-CH,Швајцарска
-CI,"Обала Слоноваче"
-CK,"Кукова Острва"
-CL,Чиле
-CM,Камерун
-CN,Кина
-CO,Колумбија
-CP,"Острво Клипертон"
-CR,Костарика
-CS,"Србија и Црна Гора"
-CU,Куба
-CV,"Капе Верде"
-CX,"Божићна острва"
-CY,Кипар
-CZ,Чешка
-DE,Немачка
-DG,"Дијего Гарсија"
-DJ,Џибути
-DK,Данска
-DM,Доминика
-DO,"Доминиканска Република"
-DZ,Алжир
-EA,"Сеута и Мелиља"
-EC,Еквадор
-EE,Естонија
-EG,Египат
-EH,"Западна Сахара"
-ER,Еритреја
-ES,Шпанија
-ET,Етиопија
-EU,"Европска Унија"
-FI,Финска
-FJ,Фиџи
-FK,"Фолкландска Острва"
-FM,Микронезија
-FO,"Фарска Острва"
-FR,Француска
-GA,Габон
-GB,"Велика Британија"
-GD,Гренада
-GE,Грузија
-GF,"Француска Гвајана"
-GG,Гурнси
-GH,Гана
-GI,Гибралтар
-GL,Гренланд
-GM,Гамбија
-GN,Гвинеја
-GP,Гваделупе
-GQ,"Екваторијална Гвинеја"
-GR,Грчка
-GS,"Јужна Џорџија и Јужна Сендвич Острва"
-GT,Гватемала
-GU,Гуам
-GW,Гвинеја-Бисао
-GY,Гвајана
-HK,"Хонг Конг С. А. Р. Кина"
-HM,"Херд и Мекдоналд Острва"
-HN,Хондурас
-HR,Хрватска
-HT,Хаити
-HU,Мађарска
-IC,"Канарска острва"
-ID,Индонезија
-IE,Ирска
-IL,Израел
-IM,"Острво Ман"
-IN,Индија
-IO,"Британска територија у Индијском океану"
-IQ,Ирак
-IR,Иран
-IS,Исланд
-IT,Италија
-JE,Џерси
-JM,Јамајка
-JO,Јордан
-JP,Јапан
-KE,Кенија
-KG,Киргизстан
-KH,Камбоџа
-KI,Кирибати
-KM,"Коморска Острва"
-KN,"Сент Китс и Невис"
-KP,"Северна Кореја"
-KR,"Јужна Кореја"
-KW,Кувајт
-KY,"Кајманска Острва"
-KZ,Казахстан
-LA,Лаос
-LB,Либан
-LC,"Сент Луција"
-LI,Лихтенштајн
-LK,"Шри Ланка"
-LR,Либерија
-LS,Лесото
-LT,Литванија
-LU,Луксембург
-LV,Летонија
-LY,Либија
-MA,Мароко
-MC,Монако
-MD,Молдавија
-ME,"Црна Гора"
-MF,"Сент Мартин"
-MG,Мадагаскар
-MH,"Маршалска Острва"
-MK,Македонија
-ML,Мали
-MM,"Мијанмар [Бурма]"
-MN,Монголија
-MO,"Макао С. А. Р. Кина"
-MP,"Северна Маријанска Острва"
-MQ,Мартиник
-MR,Мауританија
-MS,Монсерат
-MT,Малта
-MU,Маурицијус
-MV,Малдиви
-MW,Малави
-MX,Мексико
-MY,Малезија
-MZ,Мозамбик
-NA,Намибија
-NC,"Нова Каледонија"
-NE,Нигер
-NF,"Норфолк Острво"
-NG,Нигерија
-NI,Никарагва
-NL,Холандија
-NO,Норвешка
-NP,Непал
-NR,Науру
-NU,Ниуе
-NZ,"Нови Зеланд"
-OM,Оман
-PA,Панама
-PE,Перу
-PF,"Француска Полинезија"
-PG,"Папуа Нова Гвинеја"
-PH,Филипини
-PK,Пакистан
-PL,Пољска
-PM,"Сен Пјер и Микелон"
-PN,Питкерн
-PR,"Порто Рико"
-PS,"Палестинске територије"
-PT,Португал
-PW,Палау
-PY,Парагвај
-QA,Катар
-QO,"Остала океанија"
-RE,Реинион
-RO,Румунија
-RS,Србија
-RU,Русија
-RW,Руанда
-SA,"Саудијска Арабија"
-SB,"Соломонска Острва"
-SC,Сејшели
-SD,Судан
-SE,Шведска
-SG,Сингапур
-SH,"Света Јелена"
-SI,Словенија
-SJ,"Свалбард и Јанмајен Острва"
-SK,Словачка
-SL,"Сијера Леоне"
-SM,"Сан Марино"
-SN,Сенегал
-SO,Сомалија
-SR,Суринам
-ST,"Сао Томе и Принципе"
-SV,Салвадор
-SY,Сирија
-SZ,Свазиленд
-TA,"Тристан да Куња"
-TC,"Туркс и Кајкос Острва"
-TD,Чад
-TF,"Француске Јужне Територије"
-TG,Того
-TH,Тајланд
-TJ,Таџикистан
-TK,Токелау
-TL,"Источни Тимор"
-TM,Туркменистан
-TN,Тунис
-TO,Тонга
-TR,Турска
-TT,"Тринидад и Тобаго"
-TV,Тувалу
-TW,Тајван
-TZ,Танзанија
-UA,Украјина
-UG,Уганда
-UM,"Мања удаљена острва САД"
-US,"Сједињене Америчке Државе"
-UY,Уругвај
-UZ,Узбекистан
-VA,Ватикан
-VC,"Сент Винсент и Гренадини"
-VE,Венецуела
-VG,"Британска Девичанска Острва"
-VI,"С.А.Д. Девичанска Острва"
-VN,Вијетнам
-VU,Вануату
-WF,"Валис и Футуна Острва"
-WS,Самоа
-YE,Јемен
-YT,Мајоте
-ZA,"Јужноафричка Република"
-ZM,Замбија
-ZW,Зимбабве
-ZZ,"Непозната или неважећа област"
+AD,Andora
+AE,"Ujedinjeni Arapski Emirati"
+AF,Avganistan
+AG,"Antigva i Barbuda"
+AI,Angvila
+AL,Albanija
+AM,Armenija
+AN,"Holandski Antili"
+AO,Angola
+AQ,Antarktika
+AR,Argentina
+AS,"Američka Samoa"
+AT,Austrija
+AU,Australija
+AW,Aruba
+AX,"Alandska ostrva"
+AZ,Azerbejdžan
+BA,"Bosna i Hercegovina"
+BB,Barbados
+BD,Bangladeš
+BE,Belgija
+BF,"Burkina Faso"
+BG,Bugarska
+BH,Bahrein
+BI,Burundi
+BJ,Benin
+BL,"Sv. Bartolomej"
+BM,Bermuda
+BN,Brunej
+BO,Bolivija
+BR,Brazil
+BS,Bahami
+BT,Butan
+BV,"Buve Ostrva"
+BW,Bocvana
+BY,Belorusija
+BZ,Belise
+CA,Kanada
+CC,"Kokos (Keling) Ostrva"
+CD,"Demokratska Republika Kongo"
+CF,"Centralno Afrička Republika"
+CG,Kongo
+CH,Švajcarska
+CI,"Obala Slonovače"
+CK,"Kukova Ostrva"
+CL,Čile
+CM,Kamerun
+CN,Kina
+CO,Kolumbija
+CR,Kostarika
+CS,"Srbija i Crna Gora"
+CU,Kuba
+CV,"Kape Verde"
+CX,"Božićna Ostrva"
+CY,Kipar
+CZ,Češka
+DE,Nemačka
+DJ,Džibuti
+DK,Danska
+DM,Dominika
+DO,"Dominikanska Republika"
+DZ,Alžir
+EC,Ekvador
+EE,Estonija
+EG,Egipat
+EH,"Zapadna Sahara"
+ER,Eritreja
+ES,Španija
+ET,Etiopija
+FI,Finska
+FJ,Fidži
+FK,"Folklandska Ostrva"
+FM,Mikronezija
+FO,"Farska Ostrva"
+FR,Francuska
+GA,Gabon
+GB,"Velika Britanija"
+GD,Grenada
+GE,Gruzija
+GF,"Francuska Gvajana"
+GG,Gurnsi
+GH,Gana
+GI,Gibraltar
+GL,Grenland
+GM,Gambija
+GN,Gvineja
+GP,Gvadelupe
+GQ,"Ekvatorijalna Gvineja"
+GR,Grčka
+GS,"Južna Džordžija i Južna Sendvič Ostrva"
+GT,Gvatemala
+GU,Guam
+GW,Gvineja-Bisao
+GY,Gvajana
+HK,"Hong Kong (S. A. R. Kina)"
+HM,"Herd i Mekdonald Ostrva"
+HN,Honduras
+HR,Hrvatska
+HT,Haiti
+HU,Mađarska
+ID,Indonezija
+IE,Irska
+IL,Izrael
+IM,"Ostrvo Man"
+IN,Indija
+IO,"Britansko Indijska Okeanska Teritorija"
+IQ,Irak
+IR,Iran
+IS,Island
+IT,Italija
+JE,Džersi
+JM,Jamajka
+JO,Jordan
+JP,Japan
+KE,Kenija
+KG,Kirgizstan
+KH,Kambodža
+KI,Kiribati
+KM,"Komorska Ostrva"
+KN,"Sent Kits i Nevis"
+KP,"Severna Koreja"
+KR,"Južna Koreja"
+KW,Kuvajt
+KY,"Kajmanska Ostrva"
+KZ,Kazahstan
+LA,Laos
+LB,Liban
+LC,"Sent Lucija"
+LI,Lihtenštajn
+LK,"Šri Lanka"
+LR,Liberija
+LS,Lesoto
+LT,Litvanija
+LU,Luksemburg
+LV,Letonija
+LY,Libija
+MA,Maroko
+MC,Monako
+MD,Moldavija
+ME,"Crna Gora"
+MF,"Sv. Martin"
+MG,Madagaskar
+MH,"Maršalska Ostrva"
+MK,Makedonija
+ML,Mali
+MM,Mijanmar
+MN,Mongolija
+MO,"Makao (S. A. R. Kina)"
+MP,"Severna Marijanska Ostrva"
+MQ,Martinik
+MR,Mauritanija
+MS,Monserat
+MT,Malta
+MU,Mauricius
+MV,Maldivi
+MW,Malavi
+MX,Meksiko
+MY,Malezija
+MZ,Mozambik
+NA,Namibija
+NC,"Nova Kaledonija"
+NE,Niger
+NF,"Norfolk Ostrvo"
+NG,Nigerija
+NI,Nikaragva
+NL,Holandija
+NO,Norveška
+NP,Nepal
+NR,Nauru
+NU,Niue
+NZ,"Novi Zeland"
+OM,Oman
+PA,Panama
+PE,Peru
+PF,"Francuska Polinezija"
+PG,"Papua Nova Gvineja"
+PH,Filipini
+PK,Pakistan
+PL,Poljska
+PM,"Sen Pjer i Mikelon"
+PN,Pitcairn
+PR,"Porto Riko"
+PS,"Palestinska Teritorija"
+PT,Portugal
+PW,Palau
+PY,Paragvaj
+QA,Katar
+RE,Rejunion
+RO,Rumunija
+RS,Srbija
+RU,Rusija
+RW,Ruanda
+SA,"Saudijska Arabija"
+SB,"Solomonska Ostrva"
+SC,Sejšeli
+SD,Sudan
+SE,Švedska
+SG,Singapur
+SH,"Sveta Jelena"
+SI,Slovenija
+SJ,"Svalbard i Janmajen Ostrva"
+SK,Slovačka
+SL,"Sijera Leone"
+SM,"San Marino"
+SN,Senegal
+SO,Somalija
+SR,Surinam
+ST,"Sao Tome i Principe"
+SV,Salvador
+SY,Sirija
+SZ,Svazilend
+TC,"Turks i Kajkos Ostrva"
+TD,Čad
+TF,"Francuske Južne Teritorije"
+TG,Togo
+TH,Tajland
+TJ,Tadžikistan
+TK,Tokelau
+TL,"Istočni Timor"
+TM,Turkmenistan
+TN,Tunis
+TO,Tonga
+TR,Turska
+TT,"Trinidad i Tobago"
+TV,Tuvalu
+TW,Tajvan
+TZ,Tanzanija
+UA,Ukrajina
+UG,Uganda
+UM,"Manja Udaljena Ostrva SAD"
+US,"Sjedinjene Američke Države"
+UY,Urugvaj
+UZ,Uzbekistan
+VA,Vatikan
+VC,"Sent Vinsent i Grenadini"
+VE,Venecuela
+VG,"Britanska Devičanska Ostrva"
+VI,"S.A.D. Devičanska Ostrva"
+VN,Vijetnam
+VU,Vanuatu
+WF,"Valis i Futuna Ostrva"
+WS,Samoa
+YE,Jemen
+YT,Majote
+ZA,"Južnoafrička Republika"
+ZM,Zambija
+ZW,Zimbabve
+ZZ,"Nepoznat ili nevažeći region"

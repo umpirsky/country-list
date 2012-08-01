@@ -33,9 +33,6 @@ class Iterator implements \Iterator
 
         $this->importers = array();
         foreach ($iterator as $file) {
-            if ('Cldr.php' === $file->getFilename()) {
-                continue; // Temporary fix since Cldr is removed from Zend Framework
-            }
             $importerClassName = '\\Umpirsky\\Country\\Importer\\Source\\'.strstr($file->getFilename(), '.', true);
             $this->attach(new $importerClassName());
         }

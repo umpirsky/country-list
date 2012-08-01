@@ -1,5 +1,4 @@
 iso,name
-AC,"Ascension Adası"
 AD,Andorra
 AE,"Birleşik Arap Emirlikleri"
 AF,Afganistan
@@ -32,7 +31,7 @@ BN,Brunei
 BO,Bolivya
 BR,Brezilya
 BS,Bahamalar
-BT,Butan
+BT,Bhutan
 BV,"Bouvet Adası"
 BW,Botsvana
 BY,"Beyaz Rusya"
@@ -49,7 +48,6 @@ CL,Şili
 CM,Kamerun
 CN,Çin
 CO,Kolombiya
-CP,"Clipperton Adası"
 CR,"Kosta Rika"
 CS,Sırbistan-Karadağ
 CU,Küba
@@ -58,13 +56,11 @@ CX,"Christmas Adası"
 CY,"Güney Kıbrıs Rum Kesimi"
 CZ,"Çek Cumhuriyeti"
 DE,Almanya
-DG,"Diego Garcia"
 DJ,Cibuti
 DK,Danimarka
 DM,Dominika
 DO,"Dominik Cumhuriyeti"
 DZ,Cezayir
-EA,"Ceuta ve Melilla"
 EC,Ekvador
 EE,Estonya
 EG,Mısır
@@ -72,14 +68,12 @@ EH,"Batı Sahara"
 ER,Eritre
 ES,İspanya
 ET,Etiyopya
-EU,"Avrupa Birliği"
 FI,Finlandiya
 FJ,Fiji
 FK,"Falkland Adaları"
 FM,"Mikronezya Federal Eyaletleri"
 FO,"Faroe Adaları"
 FR,Fransa
-FX,"Fransa, Metropolitan"
 GA,Gabon
 GB,"Birleşik Krallık"
 GD,Grenada
@@ -91,7 +85,7 @@ GI,Cebelitarık
 GL,Grönland
 GM,Gambiya
 GN,Gine
-GP,Guadalupe
+GP,Guadeloupe
 GQ,"Ekvator Ginesi"
 GR,Yunanistan
 GS,"Güney Georgia ve Güney Sandwich Adaları"
@@ -105,13 +99,12 @@ HN,Honduras
 HR,Hırvatistan
 HT,Haiti
 HU,Macaristan
-IC,"Kanarya Adaları"
 ID,Endonezya
 IE,İrlanda
 IL,İsrail
 IM,"Man Adası"
 IN,Hindistan
-IO,"İngiliz Hint Okyanusu Bölgesi"
+IO,"Hint Okyanusu İngiliz Bölgesi"
 IQ,Irak
 IR,İran
 IS,İzlanda
@@ -137,7 +130,7 @@ LC,"Saint Lucia"
 LI,Liechtenstein
 LK,"Sri Lanka"
 LR,Liberya
-LS,Lesoto
+LS,Lesotho
 LT,Litvanya
 LU,Lüksemburg
 LV,Letonya
@@ -153,7 +146,7 @@ MK,Makedonya
 ML,Mali
 MM,Myanmar
 MN,Moğolistan
-MO,"Makao SAR - Çin"
+MO,"Makao S.A.R. Çin"
 MP,"Kuzey Mariana Adaları"
 MQ,Martinik
 MR,Moritanya
@@ -193,7 +186,6 @@ PT,Portekiz
 PW,Palau
 PY,Paraguay
 QA,Katar
-QO,"Uzak Okyanusya"
 RE,Reunion
 RO,Romanya
 RS,Sırbistan
@@ -201,13 +193,13 @@ RU,"Rusya Federasyonu"
 RW,Ruanda
 SA,"Suudi Arabistan"
 SB,"Solomon Adaları"
-SC,Seyşeller
+SC,"Seyşel Adaları"
 SD,Sudan
 SE,İsveç
 SG,Singapur
 SH,"Saint Helena"
 SI,Slovenya
-SJ,"Svalbard ve Jan Mayen Adaları"
+SJ,"Svalbard ve Jan Mayen"
 SK,Slovakya
 SL,"Sierra Leone"
 SM,"San Marino"
@@ -218,7 +210,6 @@ ST,"Sao Tome ve Principe"
 SV,"El Salvador"
 SY,Suriye
 SZ,Svaziland
-TA,"Tristan da Cunha"
 TC,"Turks ve Caicos Adaları"
 TD,Çad
 TF,"Fransız Güney Bölgeleri"
@@ -226,7 +217,7 @@ TG,Togo
 TH,Tayland
 TJ,Tacikistan
 TK,Tokelau
-TL,Timor-Leste
+TL,"Doğu Timor"
 TM,Türkmenistan
 TN,Tunus
 TO,Tonga
@@ -248,7 +239,7 @@ VG,"İngiliz Virgin Adaları"
 VI,"ABD Virgin Adaları"
 VN,Vietnam
 VU,Vanuatu
-WF,"Wallis ve Futuna Adaları"
+WF,"Wallis ve Futuna"
 WS,Samoa
 YE,Yemen
 YT,Mayotte

@@ -1,10 +1,7 @@
 iso,name
-AC,"Ascension Uhartea"
-AD,Andorra
 AE,"Arabiar Emirrerri Batuak"
 AF,Afganistan
 AG,"Antigua eta Barbuda"
-AI,Angila
 AL,Albania
 AM,Armenia
 AN,"Holandarren Antillak"
@@ -42,7 +39,6 @@ CL,Txile
 CM,Kamerun
 CN,Txina
 CO,Kolonbia
-CP,CP
 CS,"Serbia eta Montenegro"
 CU,Kuba
 CV,"Cabo Verde"
@@ -50,13 +46,11 @@ CX,"Christmas uhartea"
 CY,Zipre
 CZ,"Txekiar errepublika"
 DE,Alemania
-DG,DG
 DJ,Djibuti
 DK,Danimarka
 DM,Dominika
 DO,"Dominikar Errepublika"
 DZ,Aljeria
-EA,"Ceuta eta Melilla"
 EC,Ekuador
 EE,Estonia
 EG,Egipto
@@ -75,22 +69,18 @@ GE,Georgia
 GF,"Guyana Frantsesa"
 GG,Guernsey
 GH,Ghana
-GI,Gibraltar
 GL,Groenlandia
 GM,Gambia
 GN,Ginea
-GP,Guadalupe
 GQ,"Ekuatore Ginea"
 GR,Grezia
 GS,"Hegoaldeko Georgia eta Hegoaldeko Sandwich uharteak"
 GW,Ginea-Bissau
-HK,HK
 HM,"Heard eta McDonald Uharteak"
 HN,Honduras
 HR,Kroazia
 HT,Haiti
 HU,Hungaria
-IC,Kanariak
 ID,Indonesia
 IE,Irlanda
 IL,Israel
@@ -138,7 +128,6 @@ MM,Birmania
 MN,Mongolia
 MO,Makau
 MP,"Iparraldeko Mariana uharteak"
-MQ,Martinika
 MR,Mauritania
 MU,Maurizio
 MV,Maldivak
@@ -188,11 +177,9 @@ SN,Senegal
 SO,Somalia
 SR,Surinam
 ST,"Sao Tomé eta Principe"
-SV,"El Salvador"
 SY,Siria
 SZ,Swazilandia
-TA,TA
-TC,"Turk eta Caicos uharteak"
+TC,"Turk eta Caico uharteak"
 TD,Txad
 TF,"Frantziaren Lurralde Australak"
 TG,Togo
@@ -214,7 +201,7 @@ UM,"Estatu Batuetatik urruti dauden uharte txikiak"
 US,"Ameriketako Estatu Batuak"
 UY,Uruguai
 UZ,Uzbekistan
-VA,"Vatikano Hiria"
+VA,Vatikano
 VC,"Saint Vincent eta Grenadinak"
 VE,Venezuela
 VG,"Birjina uharte britainiarrak"
@@ -227,4 +214,3 @@ YE,Yemen
 ZA,Hegoafrika
 ZM,Zambia
 ZW,Zimbabwe
-ZZ,ZZ

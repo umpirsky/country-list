@@ -94,6 +94,9 @@ class Build extends Command
                     if (null === $input->getArgument('language') || $input->getArgument('language') === $language) {
                         $this->filesystem->mkdir($exporterDir = $importerDir.'/'.$language);
                         $countries = $importer->getCountries($language);
+                        if (!is_array($countries)) {
+                            continue;
+                        }
                         foreach ($this->exporterIterator as $exporter) {
                             if (null === $input->getArgument('format') || $input->getArgument('format') === $exporter->getFormat()) {
                                 $file = $exporterDir.'/country.'.$exporter->getFormat();

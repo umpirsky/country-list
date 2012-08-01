@@ -1,5 +1,4 @@
 iso,name
-AC,"Otok Ascension"
 AD,Andora
 AE,"Ujedinjeni Arapski Emirati"
 AF,Afganistan
@@ -41,7 +40,7 @@ CA,Kanada
 CC,"Kokosovi Otoci"
 CD,"Demokratska Republika Kongo"
 CF,"Srednjoafrička Republika"
-CG,"Kongo - Brazzaville"
+CG,Kongo
 CH,Švicarska
 CI,"Obala Bjelokosti"
 CK,"Kukovi Otoci"
@@ -49,7 +48,6 @@ CL,Čile
 CM,Kamerun
 CN,Kina
 CO,Kolumbija
-CP,"Otok Clipperton"
 CR,Kostarika
 CS,"Srbija i Crna Gora"
 CU,Kuba
@@ -58,13 +56,11 @@ CX,"Božićni Otok"
 CY,Cipar
 CZ,"Češka Republika"
 DE,Njemačka
-DG,"Diego Garcia"
 DJ,Džibuti
 DK,Danska
 DM,Dominika
 DO,"Dominikanska Republika"
 DZ,Alžir
-EA,"Ceuta i Melilla"
 EC,Ekvador
 EE,Estonija
 EG,Egipat
@@ -72,14 +68,12 @@ EH,"Zapadna Sahara"
 ER,Eritreja
 ES,Španjolska
 ET,Etiopija
-EU,"Europska Unija"
 FI,Finska
 FJ,Fidži
 FK,"Falklandski Otoci"
 FM,Mikronezija
 FO,"Farski Otoci"
 FR,Francuska
-FX,"Metropolitanska Francuska"
 GA,Gabon
 GB,"Velika Britanija"
 GD,Grenada
@@ -105,7 +99,6 @@ HN,Honduras
 HR,Hrvatska
 HT,Haiti
 HU,Mađarska
-IC,"Kanarski Otoci"
 ID,Indonezija
 IE,Irska
 IL,Izrael
@@ -126,7 +119,7 @@ KH,Kambodža
 KI,Kiribati
 KM,Komori
 KN,"Sveti Kristofor i Nevis"
-KP,"Sjeverna Koreja"
+KP,"Koreja, Sjeverna"
 KR,"Južna Koreja"
 KW,Kuvajt
 KY,"Kajmanski Otoci"
@@ -141,7 +134,7 @@ LS,Lesoto
 LT,Litva
 LU,Luksemburg
 LV,Latvija
-LY,Libija
+LY,"Libijska Arapska Džamahirija"
 MA,Maroko
 MC,Monako
 MD,Moldavija
@@ -149,7 +142,7 @@ ME,"Crna Gora"
 MF,"Sveti Martin"
 MG,Madagaskar
 MH,"Maršalovi Otoci"
-MK,Makedonija
+MK,"Bivša Jugoslavenska Republika Makedonija"
 ML,Mali
 MM,Mijanma
 MN,Mongolija
@@ -193,7 +186,6 @@ PT,Portugal
 PW,Palau
 PY,Paragvaj
 QA,Katar
-QO,"Ostala oceanija"
 RE,Reunion
 RO,Rumunjska
 RS,Srbija
@@ -218,7 +210,6 @@ ST,"Sveti Toma i Prinsipe"
 SV,"El Salvador"
 SY,Sirija
 SZ,Svazi
-TA,"Tristan da Cunha"
 TC,"Turkski i Kaikos Otoci"
 TD,Čad
 TF,"Francuski Južni Teritoriji"

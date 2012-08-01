@@ -1,5 +1,4 @@
 iso,name
-AC,"Isola di Ascensione"
 AD,Andorra
 AE,"Emirati Arabi Uniti"
 AF,Afghanistan
@@ -49,7 +48,6 @@ CL,Cile
 CM,Camerun
 CN,Cina
 CO,Colombia
-CP,"Isola di Clipperton"
 CR,"Costa Rica"
 CS,"Serbia e Montenegro"
 CU,Cuba
@@ -58,13 +56,11 @@ CX,"Isola di Christmas"
 CY,Cipro
 CZ,"Repubblica Ceca"
 DE,Germania
-DG,"Diego Garcia"
 DJ,Gibuti
 DK,Danimarca
 DM,Dominica
 DO,"Repubblica Dominicana"
 DZ,Algeria
-EA,"Ceuta e Melilla"
 EC,Ecuador
 EE,Estonia
 EG,Egitto
@@ -72,14 +68,12 @@ EH,"Sahara Occidentale"
 ER,Eritrea
 ES,Spagna
 ET,Etiopia
-EU,"Unione Europea"
 FI,Finlandia
 FJ,Figi
 FK,"Isole Falkland"
 FM,Micronesia
 FO,"Isole Faroe"
 FR,Francia
-FX,"Francia metropolitana"
 GA,Gabon
 GB,"Regno Unito"
 GD,Grenada
@@ -105,7 +99,6 @@ HN,Honduras
 HR,Croazia
 HT,Haiti
 HU,Ungheria
-IC,"Isole Canarie"
 ID,Indonesia
 IE,Irlanda
 IL,Israele
@@ -187,12 +180,11 @@ PL,Polonia
 PM,"Saint Pierre e Miquelon"
 PN,Pitcairn
 PR,Portorico
-PS,"Territori palestinesi"
+PS,Palestina
 PT,Portogallo
 PW,Palau
 PY,Paraguay
 QA,Qatar
-QO,"Oceania lontana"
 RE,Réunion
 RO,Romania
 RS,Serbia
@@ -217,7 +209,6 @@ ST,"Sao Tomé e Príncipe"
 SV,"El Salvador"
 SY,Siria
 SZ,Swaziland
-TA,"Tristan da Cunha"
 TC,"Isole Turks e Caicos"
 TD,Ciad
 TF,"Territori australi francesi"

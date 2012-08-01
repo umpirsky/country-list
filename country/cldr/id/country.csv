@@ -1,5 +1,4 @@
 iso,name
-AC,"Pulau Ascension"
 AD,Andora
 AE,"Uni Emirat Arab"
 AF,Afghanistan
@@ -30,9 +29,9 @@ BM,Bermuda
 BN,Brunei
 BO,Bolivia
 BR,Brazil
-BS,Bahama
+BS,Bahamas
 BT,Bhutan
-BV,"Pulau Bouvet"
+BV,"Kepulauan Bouvet"
 BW,Botswana
 BY,Belarusia
 BZ,Belize
@@ -40,15 +39,14 @@ CA,Kanada
 CC,"Kepulauan Cocos"
 CD,"Republik Demokratik Kongo"
 CF,"Republik Afrika Tengah"
-CG,"Kongo - Republik"
+CG,Kongo
 CH,Swiss
-CI,"Cote d'Ivoire"
+CI,"Pantai Gading"
 CK,"Kepulauan Cook"
-CL,Cile
+CL,Chili
 CM,Kamerun
 CN,Cina
 CO,Kolombia
-CP,"Pulau Clipperton"
 CR,"Kosta Rika"
 CS,"Serbia dan Montenegro"
 CU,Kuba
@@ -57,13 +55,11 @@ CX,"Pulau Christmas"
 CY,Siprus
 CZ,"Republik Ceko"
 DE,Jerman
-DG,"Diego Garcia"
-DJ,Jibuti
+DJ,Jibouti
 DK,Denmark
 DM,Dominika
 DO,"Republik Dominika"
 DZ,Algeria
-EA,"Ceuta dan Melilla"
 EC,Ekuador
 EE,Estonia
 EG,Mesir
@@ -73,7 +69,7 @@ ES,Spanyol
 ET,Ethiopia
 FI,Finlandia
 FJ,Fiji
-FK,"Kepulauan Malvinas"
+FK,"Kepulauan Falkland"
 FM,Mikronesia
 FO,"Kepulauan Faroe"
 FR,Perancis
@@ -85,30 +81,29 @@ GF,"Guyana Perancis"
 GG,Guernsey
 GH,Ghana
 GI,Gibraltar
-GL,Grinlandia
+GL,Greenland
 GM,Gambia
 GN,Guinea
 GP,Guadeloupe
 GQ,"Guinea Khatulistiwa"
 GR,Yunani
-GS,"Kepulauan South Sandwich dan South Georgia"
+GS,"Georgia Selatan dan Kepulauan Sandwich Selatan"
 GT,Guatemala
 GU,Guam
 GW,Guinea-Bissau
 GY,Guyana
-HK,"Hong Kong SAR China"
+HK,"Hong Kong S.A.R., Cina"
 HM,"Pulau Heard dan Kepulauan McDonald"
 HN,Honduras
 HR,Kroasia
 HT,Haiti
 HU,Hungaria
-IC,"Kepulauan Canary"
 ID,Indonesia
 IE,Irlandia
 IL,Israel
 IM,"Isle of Man"
 IN,India
-IO,"Wilayah Inggris di Samudra Hindia"
+IO,"British Indian Ocean Territory"
 IQ,Iraq
 IR,Iran
 IS,Islandia
@@ -118,7 +113,7 @@ JM,Jamaika
 JO,Yordania
 JP,Jepang
 KE,Kenya
-KG,Kirgistan
+KG,Kyrgyzstan
 KH,Kamboja
 KI,Kiribati
 KM,Komoros
@@ -127,36 +122,36 @@ KP,"Korea Utara"
 KR,"Korea Selatan"
 KW,Kuwait
 KY,"Kepulauan Kayman"
-KZ,Kazakstan
+KZ,Kazakhstan
 LA,Laos
 LB,Lebanon
-LC,"Saint Lucia"
+LC,"Santa Lusia"
 LI,Liechtenstein
 LK,"Sri Lanka"
 LR,Liberia
 LS,Lesotho
-LT,Lituania
+LT,Lithuania
 LU,Luxembourg
 LV,Latvia
-LY,Libia
+LY,Libya
 MA,Maroko
 MC,Monaco
 MD,Moldova
 ME,Montenegro
 MG,Madagaskar
 MH,"Kepulauan Marshall"
-MK,Makedonia
+MK,Macedonia
 ML,Mali
 MM,Myanmar
 MN,Mongolia
-MO,"Makau SAR China"
+MO,"Makao S.A.R. Cina"
 MP,"Kepualuan Mariana Utara"
 MQ,Martinique
 MR,Mauritania
 MS,Montserrat
 MT,Malta
 MU,Mauritius
-MV,Maladewa
+MV,Maldives
 MW,Malawi
 MX,Mexico
 MY,Malaysia
@@ -166,7 +161,7 @@ NC,"Kaledonia Baru"
 NE,Niger
 NF,"Kepulauan Norfolk"
 NG,Nigeria
-NI,Nikaragua
+NI,Nicaragua
 NL,Netherlands
 NO,Norwegia
 NP,Nepal
@@ -177,7 +172,7 @@ OM,Oman
 PA,Panama
 PE,Peru
 PF,"Polynesia Perancis"
-PG,"Nugini Papua Nugini"
+PG,"Papua Nugini"
 PH,Filipina
 PK,Pakistan
 PL,Polandia
@@ -190,7 +185,7 @@ PW,Palau
 PY,Paraguay
 QA,Qatar
 RE,Réunion
-RO,Rumania
+RO,Romania
 RS,Serbia
 RU,Rusia
 RW,Rwanda
@@ -198,11 +193,11 @@ SA,"Arab Saudi"
 SB,"Kepulauan Solomon"
 SC,Seychelles
 SD,Sudan
-SE,Swedia
+SE,Sweden
 SG,Singapura
 SH,"Saint Helena"
 SI,Slovenia
-SJ,"Kepulauan Svalbard dan Jan Mayen"
+SJ,"Svalbard dan Jan Mayen"
 SK,Slovakia
 SL,"Sierra Leone"
 SM,"San Marino"
@@ -213,7 +208,6 @@ ST,"Sao Tome dan Principe"
 SV,"El Salvador"
 SY,Syria
 SZ,Swaziland
-TA,"Tristan da Cunha"
 TC,"Kepulauan Turks dan Caicos"
 TD,Chad
 TF,"Wilayah Prancis Selatan"
@@ -221,7 +215,7 @@ TG,Togo
 TH,Thailand
 TJ,Tajikistan
 TK,Tokelau
-TL,"Timor Leste"
+TL,"Timor Timur"
 TM,Turkmenistan
 TN,Tunisia
 TO,Tonga
@@ -232,18 +226,18 @@ TW,Taiwan
 TZ,Tanzania
 UA,Ukraina
 UG,Uganda
-UM,"Kepulauan Kecil Terluar Amerika Serikat"
+UM,"Kepulauan minor sekitar Amerika Serikat"
 US,"Amerika Serikat"
 UY,Uruguay
 UZ,Uzbekistan
 VA,Vatikan
 VC,"Saint Vincent dan Grenadines"
 VE,Venezuela
-VG,"Kepulauan Virgin Inggris"
+VG,"Kepulauan British Virgin"
 VI,"Kepulauan U.S. Virgin"
 VN,Vietnam
 VU,Vanuatu
-WF,"Kepulauan Wallis dan Futuna"
+WF,"Wallis dan Futuna"
 WS,Samoa
 YE,Yaman
 YT,Mayotte

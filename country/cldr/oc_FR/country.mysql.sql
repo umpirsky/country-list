@@ -1,4 +1,4 @@
-CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY(id)) ENGINE = InnoDB;
+CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci ENGINE = InnoDB;
 
 INSERT INTO `country` (`id`, `name`) VALUES ('AD', 'Andòrra');
 INSERT INTO `country` (`id`, `name`) VALUES ('AF', 'Afganistan');
@@ -58,7 +58,6 @@ INSERT INTO `country` (`id`, `name`) VALUES ('EG', 'Egipte');
 INSERT INTO `country` (`id`, `name`) VALUES ('ER', 'Eritrèa');
 INSERT INTO `country` (`id`, `name`) VALUES ('ES', 'Espanha');
 INSERT INTO `country` (`id`, `name`) VALUES ('ET', 'Etiopia');
-INSERT INTO `country` (`id`, `name`) VALUES ('EU', 'Union Europèa');
 INSERT INTO `country` (`id`, `name`) VALUES ('FI', 'Finlàndia');
 INSERT INTO `country` (`id`, `name`) VALUES ('FJ', 'Fiji');
 INSERT INTO `country` (`id`, `name`) VALUES ('FR', 'França');

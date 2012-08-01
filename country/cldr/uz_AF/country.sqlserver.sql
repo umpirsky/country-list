@@ -1,6 +1,6 @@
 CREATE TABLE country (id NVARCHAR(2) NOT NULL, name NVARCHAR(64) NOT NULL, PRIMARY KEY (id));
 
-INSERT INTO [country] ([id], [name]) VALUES ('AF', 'Афғонистон');
+INSERT INTO [country] ([id], [name]) VALUES ('AF', 'افغانستان');
 INSERT INTO [country] ([id], [name]) VALUES ('BR', 'Бразилия');
 INSERT INTO [country] ([id], [name]) VALUES ('CN', 'Хитой');
 INSERT INTO [country] ([id], [name]) VALUES ('DE', 'Олмония');

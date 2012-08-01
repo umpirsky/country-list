@@ -67,7 +67,6 @@
   'ER' => 'Eritreja',
   'ES' => 'Spanja',
   'ET' => 'Etijopja',
-  'EU' => 'Unjoni Ewropea',
   'FI' => 'Finlandja',
   'FJ' => 'Fiġi',
   'FK' => 'Falkland Islands',

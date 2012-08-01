@@ -1,5 +1,4 @@
 iso,name
-AC,Ascension
 AD,Andorra
 AE,"Sameinuðu arabísku furstadæmin"
 AF,Afganistan
@@ -26,7 +25,7 @@ BG,Búlgaría
 BH,Barein
 BI,Búrúndí
 BJ,Benín
-BL,"Sankti Barthélemy"
+BL,"Saint Barthélemy"
 BM,Bermúdaeyjar
 BN,Brúnei
 BO,Bólivía
@@ -49,7 +48,6 @@ CL,Chíle
 CM,Kamerún
 CN,Kína
 CO,Kólumbía
-CP,Clipperton
 CR,Kostaríka
 CS,"Serbía og Svartfjallaland"
 CU,Kúba
@@ -58,13 +56,11 @@ CX,Jólaey
 CY,Kýpur
 CZ,Tékkland
 DE,Þýskaland
-DG,"Diego Garcia"
 DJ,Djíbútí
 DK,Danmörk
 DM,Dóminíka
 DO,"Dóminíska lýðveldið"
 DZ,Alsír
-EA,"Ceuta og Melilla"
 EC,Ekvador
 EE,Eistland
 EG,Egyptaland
@@ -72,7 +68,6 @@ EH,Vestur-Sahara
 ER,Erítrea
 ES,Spánn
 ET,Eþíópía
-EU,Evrópusambandið
 FI,Finnland
 FJ,Fídjieyjar
 FK,Falklandseyjar
@@ -104,7 +99,6 @@ HN,Hondúras
 HR,Króatía
 HT,Haítí
 HU,Ungverjaland
-IC,Kanaríeyjar
 ID,Indónesía
 IE,Írland
 IL,Ísrael
@@ -145,7 +139,7 @@ MA,Marokkó
 MC,Mónakó
 MD,Moldóva
 ME,Svartfjallaland
-MF,"Sankti Martin"
+MF,"Saint Martin"
 MG,Madagaskar
 MH,Marshalleyjar
 MK,Makedónía
@@ -192,7 +186,6 @@ PT,Portúgal
 PW,Palá
 PY,Paragvæ
 QA,Katar
-QO,"Ytri Eyjaálfa"
 RE,Réunion
 RO,Rúmenía
 RS,Serbía
@@ -217,7 +210,6 @@ ST,"Saó Tóme og Prinsípe"
 SV,"El Salvador"
 SY,Sýrland
 SZ,Svasíland
-TA,"Tristan da Cunha"
 TC,"Turks- og Caicoseyjar"
 TD,Tsjad
 TF,"Frönsku suðlægu landsvæðin"

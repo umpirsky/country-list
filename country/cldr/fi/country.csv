@@ -1,5 +1,4 @@
 iso,name
-AC,Ascension-saari
 AD,Andorra
 AE,Arabiemiirikunnat
 AF,Afganistan
@@ -39,9 +38,9 @@ BY,Valko-Venäjä
 BZ,Belize
 CA,Kanada
 CC,Kookossaaret
-CD,"Kongon demokraattinen tasavalta"
+CD,Kongo-Kinshasa
 CF,"Keski-Afrikan tasavalta"
-CG,"Kongon tasavalta"
+CG,Kongo-Brazzaville
 CH,Sveitsi
 CI,Norsunluurannikko
 CK,Cookinsaaret
@@ -49,7 +48,6 @@ CL,Chile
 CM,Kamerun
 CN,Kiina
 CO,Kolumbia
-CP,Clippertoninsaari
 CR,"Costa Rica"
 CS,"Serbia ja Montenegro"
 CU,Kuuba
@@ -58,13 +56,11 @@ CX,Joulusaari
 CY,Kypros
 CZ,Tšekki
 DE,Saksa
-DG,"Diego Garcia"
 DJ,Djibouti
 DK,Tanska
 DM,Dominica
 DO,"Dominikaaninen tasavalta"
 DZ,Algeria
-EA,"Ceuta ja Melilla"
 EC,Ecuador
 EE,Viro
 EG,Egypti
@@ -72,14 +68,12 @@ EH,Länsi-Sahara
 ER,Eritrea
 ES,Espanja
 ET,Etiopia
-EU,EU
 FI,Suomi
 FJ,Fidži
 FK,Falklandinsaaret
 FM,"Mikronesian liittovaltio"
 FO,Färsaaret
 FR,Ranska
-FX,"Ranskan Eurooppaan kuuluvat osat"
 GA,Gabon
 GB,Britannia
 GD,Grenada
@@ -99,13 +93,12 @@ GT,Guatemala
 GU,Guam
 GW,Guinea-Bissau
 GY,Guyana
-HK,"Hongkong – Kiinan e.h.a."
+HK,"Hongkong – Kiinan erityishallintoalue"
 HM,"Heard- ja McDonaldinsaaret"
 HN,Honduras
 HR,Kroatia
 HT,Haiti
 HU,Unkari
-IC,Kanariansaaret
 ID,Indonesia
 IE,Irlanti
 IL,Israel
@@ -153,7 +146,7 @@ MK,Makedonia
 ML,Mali
 MM,Myanmar
 MN,Mongolia
-MO,"Macao – Kiinan e.h.a."
+MO,"Macao – Kiinan erityishallintoalue"
 MP,Pohjois-Mariaanit
 MQ,Martinique
 MR,Mauritania
@@ -193,7 +186,6 @@ PT,Portugali
 PW,Palau
 PY,Paraguay
 QA,Qatar
-QO,ulkomeri
 RE,Réunion
 RO,Romania
 RS,Serbia
@@ -218,7 +210,6 @@ ST,"São Tomé ja Príncipe"
 SV,"El Salvador"
 SY,Syyria
 SZ,Swazimaa
-TA,"Tristan da Cunha"
 TC,"Turks- ja Caicossaaret"
 TD,Tšad
 TF,"Ranskan ulkopuoliset eteläiset alueet"

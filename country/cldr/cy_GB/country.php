@@ -180,7 +180,6 @@
   'PW' => 'Palau',
   'PY' => 'Paraguay',
   'QA' => 'Qatar',
-  'QO' => 'Ynysoedd Pellenig y De',
   'RE' => 'Réunion',
   'RO' => 'Rwmania',
   'RU' => 'Rwsia',

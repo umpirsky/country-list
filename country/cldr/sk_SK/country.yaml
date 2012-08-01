@@ -1,4 +1,3 @@
-AC: Ascension
 AD: Andorra
 AE: 'Spojené arabské emiráty'
 AF: Afganistan
@@ -48,7 +47,6 @@ CL: Čile
 CM: Kamerun
 CN: Čína
 CO: Kolumbia
-CP: Clipperton
 CR: Kostarika
 CS: 'Srbsko a Čierna Hora'
 CU: Kuba
@@ -57,13 +55,11 @@ CX: 'Vianočný ostrov'
 CY: Cyprus
 CZ: 'Česká republika'
 DE: Nemecko
-DG: 'Diego Garcia'
 DJ: Džibuti
 DK: Dánsko
 DM: Dominika
 DO: 'Dominikánska republika'
 DZ: Alžírsko
-EA: 'Ceuta a Melilla'
 EC: Ekvádor
 EE: Estónsko
 EG: Egypt
@@ -71,14 +67,12 @@ EH: 'Západná Sahara'
 ER: Eritrea
 ES: Španielsko
 ET: Etiópia
-EU: 'Európska únia'
 FI: Fínsko
 FJ: Fidži
 FK: 'Falklandské ostrovy'
 FM: Mikronézia
 FO: 'Faerské ostrovy'
 FR: Francúzsko
-FX: 'Metropolitné Francúzsko'
 GA: Gabon
 GB: 'Spojené kráľovstvo'
 GD: Grenada
@@ -104,7 +98,6 @@ HN: Honduras
 HR: Chorvátsko
 HT: Haiti
 HU: Maďarsko
-IC: 'Kanárske ostrovy'
 ID: Indonézia
 IE: Írsko
 IL: Izrael
@@ -192,7 +185,6 @@ PT: Portugalsko
 PW: Palau
 PY: Paraguaj
 QA: Katar
-QO: 'Tichomorie - ostatné'
 RE: Reunion
 RO: Rumunsko
 RS: Srbsko
@@ -217,7 +209,6 @@ ST: 'Svätý Tomáš a Princove ostrovy'
 SV: Salvador
 SY: 'Sýrska arabská republika'
 SZ: Svazijsko
-TA: 'Tristan da Cunha'
 TC: 'Turks a Caicos'
 TD: Čad
 TF: 'Francúzske južné územia'

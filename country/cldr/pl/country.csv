@@ -1,5 +1,4 @@
 iso,name
-AC,"Wyspa Wniebowstąpienia"
 AD,Andora
 AE,"Zjednoczone Emiraty Arabskie"
 AF,Afganistan
@@ -49,7 +48,6 @@ CL,Chile
 CM,Kamerun
 CN,Chiny
 CO,Kolumbia
-CP,Clipperton
 CR,Kostaryka
 CS,"Serbia i Czarnogóra"
 CU,Kuba
@@ -58,13 +56,11 @@ CX,"Wyspa Bożego Narodzenia"
 CY,Cypr
 CZ,Czechy
 DE,Niemcy
-DG,"Diego Garcia"
 DJ,Dżibuti
 DK,Dania
 DM,Dominika
 DO,"Republika Dominikańska"
 DZ,Algieria
-EA,"Ceuta i Melilla"
 EC,Ekwador
 EE,Estonia
 EG,Egipt
@@ -72,14 +68,12 @@ EH,"Sahara Zachodnia"
 ER,Erytrea
 ES,Hiszpania
 ET,Etiopia
-EU,"Unia Europejska"
 FI,Finlandia
 FJ,Fidżi
 FK,Falklandy
 FM,"Federalne Stany Mikronezji"
 FO,"Wyspy Owcze"
 FR,Francja
-FX,"Francja metropolitalna"
 GA,Gabon
 GB,"Wielka Brytania"
 GD,Grenada
@@ -99,13 +93,12 @@ GT,Gwatemala
 GU,Guam
 GW,"Gwinea Bissau"
 GY,Gujana
-HK,"Hongkong SAR"
+HK,"Hongkong, Specjalny Region Administracyjny Chin"
 HM,"Wyspy Heard i McDonalda"
 HN,Honduras
 HR,Chorwacja
 HT,Haiti
 HU,Węgry
-IC,"Wyspy Kanaryjskie"
 ID,Indonezja
 IE,Irlandia
 IL,Izrael
@@ -153,7 +146,7 @@ MK,Macedonia
 ML,Mali
 MM,Birma
 MN,Mongolia
-MO,"Makau SAR"
+MO,"Makau, Specjalny Region Administracyjny Chin"
 MP,"Mariany Północne"
 MQ,Martynika
 MR,Mauretania
@@ -193,7 +186,6 @@ PT,Portugalia
 PW,Palau
 PY,Paragwaj
 QA,Katar
-QO,"Oceania inne"
 RE,Reunion
 RO,Rumunia
 RS,Serbia
@@ -218,7 +210,6 @@ ST,"Wyspy Świętego Tomasza i Książęca"
 SV,Salwador
 SY,Syria
 SZ,Suazi
-TA,"Tristan da Cunha"
 TC,"Turks i Caicos"
 TD,Czad
 TF,"Francuskie Terytoria Południowe"

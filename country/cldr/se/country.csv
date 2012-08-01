@@ -1,5 +1,4 @@
 iso,name
-AC,Ascension
 AD,Andorra
 AE,"Ovttastuvvan Arábaemiráhtat"
 AF,Afghanistan
@@ -39,29 +38,23 @@ BZ,Belize
 CA,Kanáda
 CC,Cocos-sullot
 CD,Kongo-Kinshasa
-CF,"Gaska-Afrihká dásseváldi"
 CG,Kongo-Brazzaville
 CH,Šveica
-CI,Elfenbenariddu
 CK,Cook-sullot
 CL,Čiile
 CM,Kamerun
 CN,Kiinná
 CO,Kolombia
-CP,Clipperton
 CR,"Costa Rica"
 CU,Kuba
 CV,"Kap Verde"
 CY,Kypros
 CZ,Čeahkka
 DE,Duiska
-DG,"Diego Garcia"
 DJ,Djibouti
 DK,Dánmárku
 DM,Dominica
-DO,"Dominikána dásseváldi"
 DZ,Algeria
-EA,"Ceuta ja Melilla"
 EC,Ecuador
 EE,Estlánda
 EG,Egypta
@@ -69,7 +62,6 @@ EH,Oarje-Sahára
 ER,Eritrea
 ES,Spánia
 ET,Etiopia
-EU,"Eurohpa Uniovdna"
 FI,Suopma
 FJ,Fijisullot
 FK,Falklandsullot
@@ -96,12 +88,10 @@ GU,Guam
 GW,Guinea-Bissau
 GY,Guyana
 HK,Hongkong
-HM,"Heard- ja McDonald-sullot"
 HN,Honduras
 HR,Kroátia
 HT,Haiti
 HU,Ungár
-IC,Kanáriasullot
 ID,Indonesia
 IE,Irlánda
 IL,Israel
@@ -175,7 +165,6 @@ NZ,Ođđa-Selánda
 OM,Oman
 PA,Panama
 PE,Peru
-PF,"Frankriikka Polynesia"
 PG,Papua-Ođđa-Guinea
 PH,Filippiinnat
 PK,Pakistan
@@ -212,7 +201,6 @@ ST,"São Tomé ja Príncipe"
 SV,"El Salvador"
 SY,Syria
 SZ,Svazieana
-TA,"Tristan da Cunha"
 TC,"Turks ja Caicos-sullot"
 TD,Tčad
 TG,Togo

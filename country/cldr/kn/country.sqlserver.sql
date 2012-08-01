@@ -1,6 +1,5 @@
 CREATE TABLE country (id NVARCHAR(2) NOT NULL, name NVARCHAR(64) NOT NULL, PRIMARY KEY (id));
 
-INSERT INTO [country] ([id], [name]) VALUES ('AC', 'ಅಸೆನ್ಶನ್ ದ್ವೀಪ');
 INSERT INTO [country] ([id], [name]) VALUES ('AD', 'ಅಂಡೋರಾ');
 INSERT INTO [country] ([id], [name]) VALUES ('AE', 'ಸಂಯುಕ್ತ ಅರಬ್ ಎಮಿರೇಟಸ್');
 INSERT INTO [country] ([id], [name]) VALUES ('AF', 'ಅಫಘಾನಿಸ್ಥಾನ್');
@@ -50,7 +49,6 @@ INSERT INTO [country] ([id], [name]) VALUES ('CL', 'ಚಿಲಿ');
 INSERT INTO [country] ([id], [name]) VALUES ('CM', 'ಕ್ಯಾಮರೋನ್');
 INSERT INTO [country] ([id], [name]) VALUES ('CN', 'ಚೀನ');
 INSERT INTO [country] ([id], [name]) VALUES ('CO', 'ಕೊಲಂಬಿಯಾ');
-INSERT INTO [country] ([id], [name]) VALUES ('CP', 'ಕ್ಲಿಪ್ಪರ್‌ಟನ್ ದ್ವೀಪ');
 INSERT INTO [country] ([id], [name]) VALUES ('CR', 'ಕೊಸ್ಟಾ ರಿಕಾ');
 INSERT INTO [country] ([id], [name]) VALUES ('CS', 'ಸೆರ್ಬಿಯಾ ಮತ್ತು ಮೊಂಟೊನೆಗ್ರೋ');
 INSERT INTO [country] ([id], [name]) VALUES ('CU', 'ಕ್ಯೂಬಾ');
@@ -59,13 +57,11 @@ INSERT INTO [country] ([id], [name]) VALUES ('CX', 'ಕ್ರಿಸ್‌ಮಸ�
 INSERT INTO [country] ([id], [name]) VALUES ('CY', 'ಸೈಪ್ರಸ್');
 INSERT INTO [country] ([id], [name]) VALUES ('CZ', 'ಚೆಕ್ ರಿಪಬ್ಲಿಕ್');
 INSERT INTO [country] ([id], [name]) VALUES ('DE', 'ಜರ್ಮನಿ');
-INSERT INTO [country] ([id], [name]) VALUES ('DG', 'ಡಿಯೇಗೋ ಗಾರ್ಸಿಯಾ');
 INSERT INTO [country] ([id], [name]) VALUES ('DJ', 'ಜಿಬೋಟಿ');
 INSERT INTO [country] ([id], [name]) VALUES ('DK', 'ಡೆನ್ಮಾರ್ಕ್');
 INSERT INTO [country] ([id], [name]) VALUES ('DM', 'ಡೊಮಿನಿಕಾ');
 INSERT INTO [country] ([id], [name]) VALUES ('DO', 'ಡೊಮೆನಿಕ್ ರಿಪಬ್ಲಿಕ್');
 INSERT INTO [country] ([id], [name]) VALUES ('DZ', 'ಅಲ್ಗೇರಿಯಾ');
-INSERT INTO [country] ([id], [name]) VALUES ('EA', 'ಸ್ಯೂಟಾ ಮತ್ತು ಮೆಲಿಲ್ಲಾ');
 INSERT INTO [country] ([id], [name]) VALUES ('EC', 'ಈಕ್ವೆಡಾರ್');
 INSERT INTO [country] ([id], [name]) VALUES ('EE', 'ಎಸ್ತೊನಿಯ');
 INSERT INTO [country] ([id], [name]) VALUES ('EG', 'ಈಜಿಪ್ಟ್');
@@ -73,7 +69,6 @@ INSERT INTO [country] ([id], [name]) VALUES ('EH', 'ಪಶ್ಚಿಮ ಸಹಾ
 INSERT INTO [country] ([id], [name]) VALUES ('ER', 'ಏರಿಟ್ರಿಯಾ');
 INSERT INTO [country] ([id], [name]) VALUES ('ES', 'ಸ್ಪೈನ್');
 INSERT INTO [country] ([id], [name]) VALUES ('ET', 'ಇಥಿಯೋಪಿಯಾ');
-INSERT INTO [country] ([id], [name]) VALUES ('EU', 'ಯುರೋಪಿಯನ್ ಯೂನಿಯನ್');
 INSERT INTO [country] ([id], [name]) VALUES ('FI', 'ಫಿನ್‍‍ಲ್ಯಾಂಡ್');
 INSERT INTO [country] ([id], [name]) VALUES ('FJ', 'ಫಿಜಿ');
 INSERT INTO [country] ([id], [name]) VALUES ('FK', 'ಫ್ಹಾಕ್‌ಲ್ಯಾಂಡ್ ದ್ವೀಪಗಳು');
@@ -105,7 +100,6 @@ INSERT INTO [country] ([id], [name]) VALUES ('HN', 'ಹೊಂಡುರಾಸ್'
 INSERT INTO [country] ([id], [name]) VALUES ('HR', 'ಕ್ರೋಯೇಶಿಯಾ');
 INSERT INTO [country] ([id], [name]) VALUES ('HT', 'ಹೈಟಿ');
 INSERT INTO [country] ([id], [name]) VALUES ('HU', 'ಹಂಗೇರಿ');
-INSERT INTO [country] ([id], [name]) VALUES ('IC', 'ಕೆನರಿ ದ್ವೀಪಗಳು');
 INSERT INTO [country] ([id], [name]) VALUES ('ID', 'ಇಂಡೋನೇಶಿಯಾ');
 INSERT INTO [country] ([id], [name]) VALUES ('IE', 'ಐರ್ಲೆಂಡ್');
 INSERT INTO [country] ([id], [name]) VALUES ('IL', 'ಇಸ್ರೇಲ್');
@@ -193,7 +187,6 @@ INSERT INTO [country] ([id], [name]) VALUES ('PT', 'ಪೋರ್ಚುಗಲ್'
 INSERT INTO [country] ([id], [name]) VALUES ('PW', 'ಪಲಾವು');
 INSERT INTO [country] ([id], [name]) VALUES ('PY', 'ಪರಾಗ್ವೇ');
 INSERT INTO [country] ([id], [name]) VALUES ('QA', 'ಕತಾರ್');
-INSERT INTO [country] ([id], [name]) VALUES ('QO', 'ಔಟ್‌ಲೈಯಿಂಗ್ ಓಶಿಯಾನಿಯಾ');
 INSERT INTO [country] ([id], [name]) VALUES ('RE', 'ರೀಯೂನಿಯನ್');
 INSERT INTO [country] ([id], [name]) VALUES ('RO', 'ರೊಮ್ಯಾನಿಯಾ');
 INSERT INTO [country] ([id], [name]) VALUES ('RS', 'ಸೆರ್ಬಿಯಾ');
@@ -218,7 +211,6 @@ INSERT INTO [country] ([id], [name]) VALUES ('ST', 'ಸಾವೋ ಟೋಮ್ �
 INSERT INTO [country] ([id], [name]) VALUES ('SV', 'ಎಲ್ ಸಾಲ್ವೇಡಾರ್');
 INSERT INTO [country] ([id], [name]) VALUES ('SY', 'ಸಿರಿಯಾ');
 INSERT INTO [country] ([id], [name]) VALUES ('SZ', 'ಸ್ವಾಜಿಲ್ಯಾಂಡ್');
-INSERT INTO [country] ([id], [name]) VALUES ('TA', 'ಟ್ರಿಸ್ಟನ್ ಡ ಕುನ್ಹಾ');
 INSERT INTO [country] ([id], [name]) VALUES ('TC', 'ಟರ್ಕ್ಸ್ ಮತ್ತು ಕೈಕೋಸ್ ದ್ವೀಪಗಳು');
 INSERT INTO [country] ([id], [name]) VALUES ('TD', 'ಚಾಡ್');
 INSERT INTO [country] ([id], [name]) VALUES ('TF', 'ಫ್ರೆಂಚ್ ದಕ್ಷಿಣ ಪ್ರದೇಶಗಳು');
