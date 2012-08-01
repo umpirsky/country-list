@@ -16,6 +16,7 @@ Formats Available
 - CSV
 - SQL
     * MySQL
+    * PostgreSQL
     * SQLite
     * SQL Server
 - PHP

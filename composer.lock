@@ -1,5 +1,5 @@
 {
-    "hash": "b2d7210e152f2cd9661dd837fbd7e327",
+    "hash": "52be1cf909eca11c1aac91cbc2abc27c",
     "packages": [
         {
             "package": "doctrine/common",
@@ -56,16 +56,8 @@
             "commit-date": "1342347231"
         },
         {
-            "package": "zendframework/zendframework",
-            "version": "dev-master",
-            "alias-pretty-version": "2.0.x-dev",
-            "alias-version": "2.0.9999999.9999999-dev"
-        },
-        {
-            "package": "zendframework/zendframework",
-            "version": "dev-master",
-            "source-reference": "59929bfe514d557e6f3e3441b6a3c5fa78fa2bbf",
-            "commit-date": "1343768700"
+            "package": "zendframework/zend-db",
+            "version": "2.0.0-rc1"
         }
     ],
     "packages-dev": null,
@@ -80,7 +72,6 @@
         "symfony/finder": 20,
         "symfony/locale": 20,
         "symfony/yaml": 20,
-        "doctrine/dbal": 20,
-        "zendframework/zend-db": 20
+        "doctrine/dbal": 20
     }
 }
