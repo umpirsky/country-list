@@ -62,6 +62,10 @@ abstract class SqlExporter extends Exporter
                 return new Platform\Mysql();
                 break;
 
+            case 'pdo_pgsql':
+                return new Platform\Postgresql();
+                break;
+
             case 'pdo_sqlite':
                 return new Platform\Sqlite();
                 break;
