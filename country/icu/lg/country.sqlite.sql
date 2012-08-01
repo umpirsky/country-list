@@ -1,4 +1,4 @@
-CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY("id"));
+CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
 INSERT INTO "country" ("id", "name") VALUES ('AF', 'Afaganisitani');
 INSERT INTO "country" ("id", "name") VALUES ('AX', 'Åland Islands');
