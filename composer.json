@@ -16,19 +16,19 @@
         }
     ],
     "require": {
-        "php": ">=5.3.2",
-
-        "symfony/class-loader":         "dev-master",
-        "symfony/console":              "dev-master",
-        "symfony/filesystem":           "dev-master",
-        "symfony/finder":               "dev-master",
-        "symfony/locale":               "dev-master",
-        "symfony/yaml":                 "dev-master",
-        "doctrine/dbal":                "dev-master",
-        "zendframework/zendframework1": "dev-master",
+        "php": ">=5.3.2"
+    },
+    "require-dev": {   
+        "symfony/class-loader":         "2.1.*",
+        "symfony/console":              "2.1.*",
+        "symfony/filesystem":           "2.1.*",
+        "symfony/finder":               "2.1.*",
+        "symfony/locale":               "2.1.*",
+        "symfony/yaml":                 "2.1.*",
+        "doctrine/dbal":                "2.*",
+        "zendframework/zendframework1": "1.*",
         "zendframework/zend-db":        "2.0.*"
     },
-    "minimum-stability": "dev",
     "autoload": {
         "psr-0": {
             "Umpirsky\\Country": "src/"
