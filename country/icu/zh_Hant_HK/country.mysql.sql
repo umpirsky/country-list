@@ -1,4 +1,4 @@
-CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci ENGINE = InnoDB;
+CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
 
 INSERT INTO `country` (`id`, `name`) VALUES ('TT', '千里達及托巴哥');
 INSERT INTO `country` (`id`, `name`) VALUES ('TR', '土耳其');
@@ -197,7 +197,6 @@ INSERT INTO `country` (`id`, `name`) VALUES ('KY', '開曼群島');
 INSERT INTO `country` (`id`, `name`) VALUES ('TJ', '塔吉克');
 INSERT INTO `country` (`id`, `name`) VALUES ('SN', '塞內加爾');
 INSERT INTO `country` (`id`, `name`) VALUES ('SC', '塞席爾');
-INSERT INTO `country` (`id`, `name`) VALUES ('EA', '塞晤達與美利亞');
 INSERT INTO `country` (`id`, `name`) VALUES ('RS', '塞爾維亞');
 INSERT INTO `country` (`id`, `name`) VALUES ('CS', '塞爾維亞和蒙特尼哥羅');
 INSERT INTO `country` (`id`, `name`) VALUES ('AT', '奧地利');
@@ -208,6 +207,7 @@ INSERT INTO `country` (`id`, `name`) VALUES ('NC', '新喀里多尼亞群島');
 INSERT INTO `country` (`id`, `name`) VALUES ('SL', '獅子山');
 INSERT INTO `country` (`id`, `name`) VALUES ('CH', '瑞士');
 INSERT INTO `country` (`id`, `name`) VALUES ('SE', '瑞典');
+INSERT INTO `country` (`id`, `name`) VALUES ('EA', '瑟塔與梅利拉');
 INSERT INTO `country` (`id`, `name`) VALUES ('VU', '萬那杜');
 INSERT INTO `country` (`id`, `name`) VALUES ('IT', '義大利');
 INSERT INTO `country` (`id`, `name`) VALUES ('BL', '聖巴瑟米');

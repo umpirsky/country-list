@@ -215,7 +215,7 @@ INSERT INTO "country" ("id", "name") VALUES ('SJ', 'Svalbard och Jan Mayen');
 INSERT INTO "country" ("id", "name") VALUES ('SE', 'Sverige');
 INSERT INTO "country" ("id", "name") VALUES ('SZ', 'Swaziland');
 INSERT INTO "country" ("id", "name") VALUES ('ZA', 'Sydafrika');
-INSERT INTO "country" ("id", "name") VALUES ('GS', 'Sydgeorgien och Södra Sandwichöarna');
+INSERT INTO "country" ("id", "name") VALUES ('GS', 'Sydgeorgien och Sydsandwichöarna');
 INSERT INTO "country" ("id", "name") VALUES ('KR', 'Sydkorea');
 INSERT INTO "country" ("id", "name") VALUES ('SY', 'Syrien');
 INSERT INTO "country" ("id", "name") VALUES ('TJ', 'Tadzjikistan');

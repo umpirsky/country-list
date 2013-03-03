@@ -2,7 +2,6 @@ AR: Adyentina
 ZA: 'Afilika Kusini'
 AF: Afuganistani
 IS: Aislandi
-AX: 'Åland Islands'
 AL: Albania
 DZ: Aljelia
 AM: Almenia
@@ -10,10 +9,8 @@ AW: Aluba
 AD: Andola
 AO: Angola
 AI: Angwila
-AQ: Antarctica
 AG: 'Antigua na Balbuda'
 AN: 'Antili za Uholanzi'
-AC: 'Ascension Island'
 AU: Austlalia
 AT: Austlia
 IE: Ayalandi
@@ -31,14 +28,11 @@ BN: Blunei
 BO: Bolivia
 BA: 'Bosnia na Hezegovina'
 BW: Botswana
-BV: 'Bouvet Island'
 BF: Buchinafaso
 MG: Bukini
 BG: Bulgalia
 BI: Bulundi
 BT: Butani
-IC: 'Canary Islands'
-EA: 'Ceuta and Melilla'
 TD: Chadi
 CL: Chile
 CN: China
@@ -52,12 +46,8 @@ SB: 'Chisiwa cha Solomon'
 TC: 'Chisiwa cha Tuluchi na Kaiko'
 VI: 'Chisiwa Chivihi cha Malekani'
 VG: 'Chisiwa Chivihi cha Wingalesa'
-CX: 'Christmas Island'
-CP: 'Clipperton Island'
-CC: 'Cocos [Keeling] Islands'
 DK: Denmaki
 GI: Diblalta
-DG: 'Diego Garcia'
 AE: 'Dimiliki dya Vakulungwa va Chalabu'
 DM: Dominika
 JM: Dyamaika
@@ -68,11 +58,8 @@ EC: Ekwado
 ER: Elitilea
 SV: Elsavado
 EE: Estonia
-EU: 'European Union'
-FO: 'Faroe Islands'
 FJ: Fiji
 PH: Filipino
-TF: 'French Southern Territories'
 GA: Gaboni
 GM: Gambia
 GH: Ghana
@@ -81,29 +68,24 @@ GW: Ginebisau
 GQ: Ginekweta
 GD: Glenada
 GL: Glinlandi
-GG: Guernsey
 GY: Guyana
 GP: Gwadelupe
 GU: Gwam
 GT: Gwatemala
 GF: 'Gwiyana ya Ufalansa'
 HT: Haiti
-HM: 'Heard Island and McDonald Islands'
 ES: Hispania
 HN: Hondulasi
-HK: 'Hong Kong SAR China'
 HU: Hungalia
 IQ: Ilaki
 IN: India
 ID: Indonesia
 IL: Islaeli
-IM: 'Isle of Man'
 IT: Italia
 CF: 'Jamuhuli ya Afilika ya Paching''ati'
 CZ: 'Jamuhuli ya Chechi'
 CD: 'Jamuhuli ya Chidemoklasia ya kuKongo'
 DO: 'Jamuhuli ya Dominika'
-JE: Jersey
 KH: Kambodia
 CM: Kameluni
 CA: Kanada
@@ -137,7 +119,6 @@ LT: Litwania
 RE: Liyunioni
 RO: Lomania
 RW: Lwanda
-MO: 'Macau SAR China'
 MW: Malawi
 US: Malekani
 MY: Malesia
@@ -157,7 +138,6 @@ MA: Moloko
 MC: Monako
 MN: Mongolia
 MS: Monselati
-ME: Montenegro
 MZ: Msumbiji
 MM: Myama
 NA: Namibia
@@ -173,7 +153,6 @@ NO: Norwe
 NC: Nyukaledonia
 NZ: Nyuzilandi
 OM: Omani
-QO: 'Outlying Oceania'
 PK: Pakistani
 PY: Palagwai
 PW: Palau
@@ -184,8 +163,6 @@ PN: Pitikeluni
 PL: Polandi
 PF: 'Polinesia ya Ufalansa'
 PR: Pwetoliko
-BL: 'Saint Barthélemy'
-MF: 'Saint Martin'
 SM: Samalino
 WS: Samoa
 AS: 'Samoa ya Malekani'
@@ -198,7 +175,6 @@ ST: 'Saotome na Prinsipe'
 SA: Saudia
 CS: 'Selbia na Monteneglo'
 SN: Senegali
-RS: Serbia
 SC: Shelisheli
 SL: 'Siela Leoni'
 SY: Silia
@@ -207,10 +183,8 @@ SG: Singapoo
 SK: Slovakia
 SI: Slovenia
 SO: Somalia
-GS: 'South Georgia and the South Sandwich Islands'
 SD: Sudani
 SR: Sulinamu
-SJ: 'Svalbard and Jan Mayen'
 TJ: Tadikistani
 TH: Tailandi
 TW: Taiwani
@@ -220,11 +194,9 @@ TL: 'Timoli ya Mashaliki'
 TG: Togo
 TK: Tokelau
 TO: Tonga
-TA: 'Tristan da Cunha'
 TM: Tuluchimenistani
 TN: Tunisia
 TV: Tuvalu
-UM: 'U.S. Minor Outlying Islands'
 IR: Uadyemi
 BE: Ubelgidi
 DE: Udyerumani
@@ -248,7 +220,6 @@ VA: Vatikani
 VE: Venezuela
 VN: Vietinamu
 WF: 'Walis na Futuna'
-EH: 'Western Sahara'
 YE: Yemeni
 JO: Yordani
 ZM: Zambia

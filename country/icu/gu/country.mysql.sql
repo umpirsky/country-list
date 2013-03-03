@@ -1,4 +1,4 @@
-CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci ENGINE = InnoDB;
+CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
 
 INSERT INTO `country` (`id`, `name`) VALUES ('AO', 'અંગોલા');
 INSERT INTO `country` (`id`, `name`) VALUES ('AZ', 'અઝરબૈજાન');
@@ -168,7 +168,7 @@ INSERT INTO `country` (`id`, `name`) VALUES ('BN', 'બ્રુનેઇ');
 INSERT INTO `country` (`id`, `name`) VALUES ('IN', 'ભારત');
 INSERT INTO `country` (`id`, `name`) VALUES ('BT', 'ભૂટાન');
 INSERT INTO `country` (`id`, `name`) VALUES ('MN', 'મંગોલિયા');
-INSERT INTO `country` (`id`, `name`) VALUES ('MO', 'મકાઓ SAR ચીન');
+INSERT INTO `country` (`id`, `name`) VALUES ('MO', 'મકાઉ SAR ચીન');
 INSERT INTO `country` (`id`, `name`) VALUES ('MY', 'મલેશિયા');
 INSERT INTO `country` (`id`, `name`) VALUES ('FM', 'માઇક્રોનેશિયા');
 INSERT INTO `country` (`id`, `name`) VALUES ('MQ', 'માર્ટીનીક');

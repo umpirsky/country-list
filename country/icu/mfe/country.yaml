@@ -1,17 +1,14 @@
 AF: Afganistan
-AX: 'Åland Islands'
 AL: Albani
 DE: Almagn
 DZ: Alzeri
 AD: Andor
 AO: Angola
 AI: Anguilla
-AQ: Antarctica
 AG: Antigua-ek-Barbuda
 AN: 'Antiy neerlande'
 AM: Armeni
 AW: Aruba
-AC: 'Ascension Island'
 HT: Ayti
 AZ: Azerbaïdjan
 BS: Bahamas
@@ -28,34 +25,24 @@ BO: Bolivi
 BA: Bosni-Herzegovinn
 BW: Botswana
 BT: Boutan
-BV: 'Bouvet Island'
 BR: Brezil
 BN: Brunei
 BF: 'Burkina Faso'
 BI: Burundi
-IC: 'Canary Islands'
-EA: 'Ceuta and Melilla'
-CX: 'Christmas Island'
-CP: 'Clipperton Island'
-CC: 'Cocos [Keeling] Islands'
 CR: 'Costa Rica'
 CI: 'Côte d''Ivoire'
 CU: Cuba
 CY: Cyprus
 DK: Dannmark
-DG: 'Diego Garcia'
 DJ: Djibouti
 DM: Dominik
 EC: Ekwater
 AE: 'Emira arab ini'
 ER: Erythre
 EE: Estoni
-EU: 'European Union'
-FO: 'Faroe Islands'
 FJ: Fidji
 PH: Filipinn
 FI: Finland
-TF: 'French Southern Territories'
 GA: Gabon
 GM: Gambi
 GH: Ghana
@@ -68,22 +55,17 @@ GR: Gres
 GP: Guadloup
 GU: Guam
 GT: Guatemala
-GG: Guernsey
 GY: Guyana
 GF: 'Gwiyann franse'
-HM: 'Heard Island and McDonald Islands'
 HN: Honduras
-HK: 'Hong Kong SAR China'
 UA: Ikrenn
 ID: Indonezi
 IQ: Irak
 IR: Iran
 IE: Irland
 IS: Island
-IM: 'Isle of Man'
 IT: Itali
 IL: Izrael
-JE: Jersey
 KH: Kambodj
 CM: Kamerounn
 CA: Kanada
@@ -127,7 +109,6 @@ LT: Lituani
 AU: Lostrali
 AT: Lostris
 LU: Luxembourg
-MO: 'Macau SAR China'
 MG: Madagaskar
 MW: Malawi
 MV: Maldiv
@@ -143,7 +124,6 @@ FM: Mikronezi
 MD: Moldavi
 MC: Monako
 MN: Mongoli
-ME: Montenegro
 MS: Montsera
 MU: Moris
 MR: Moritani
@@ -163,7 +143,6 @@ NL: Oland
 OM: Oman
 HU: Ongri
 UG: Ouganda
-QO: 'Outlying Oceania'
 UZ: Ouzbekistan
 PK: Pakistan
 PW: Palau
@@ -182,8 +161,6 @@ DO: 'Repiblik dominikin'
 CF: 'Repiblik Lafrik Santral'
 RO: Roumani
 RW: Rwanda
-BL: 'Saint Barthélemy'
-MF: 'Saint Martin'
 KN: Saint-Christophe-ek-Niévès
 SM: Saint-Marin
 PM: Saint-Pierre-ek-Miquelon
@@ -196,7 +173,6 @@ AS: 'Samoa amerikin'
 ST: 'São Tome-ek-Prínsip'
 SN: Senegal
 CS: Serbi-ek-Montenegro
-RS: Serbia
 SC: Sesel
 CL: Shili
 ZA: Sid-Afrik
@@ -206,10 +182,8 @@ SK: Slovaki
 SI: Sloveni
 SO: Somali
 SD: Soudan
-GS: 'South Georgia and the South Sandwich Islands'
 LK: 'Sri Lanka'
 SR: Surinam
-SJ: 'Svalbard and Jan Mayen'
 SZ: Swaziland
 TJ: Tadjikistan
 TW: Taiwan
@@ -225,17 +199,14 @@ TG: Togo
 TK: Tokelau
 TO: Tonga
 TT: Trinite-ek-Tobago
-TA: 'Tristan da Cunha'
 TM: Turkmenistan
 TV: Tuvalu
-UM: 'U.S. Minor Outlying Islands'
 GB: 'United Kingdom'
 UY: Uruguay
 VU: Vanuatu
 VE: Venezuela
 VN: Vietnam
 WF: Wallis-ek-Futuna
-EH: 'Western Sahara'
 YE: Yemenn
 JM: Zamaik
 ZM: Zambi

@@ -119,7 +119,7 @@
   'CO' => 'Kolumbija',
   'KM' => 'Komoru salas',
   'CG' => 'Kongo - Brazavila',
-  'CD' => 'Kongo Demokrātiskā Republika',
+  'CD' => 'Kongo-Kinšasa',
   'CR' => 'Kostarika',
   'CI' => 'Kotdivuāra',
   'RU' => 'Krievija',

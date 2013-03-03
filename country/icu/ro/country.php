@@ -59,7 +59,7 @@
   'EC' => 'Ecuador',
   'EG' => 'Egipt',
   'SV' => 'El Salvador',
-  'CH' => 'Eleveția',
+  'CH' => 'Elveția',
   'AE' => 'Emiratele Arabe Unite',
   'ER' => 'Eritreea',
   'EE' => 'Estonia',

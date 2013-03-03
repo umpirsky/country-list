@@ -1,11 +1,5 @@
 CREATE TABLE country (id NVARCHAR(2) NOT NULL, name NVARCHAR(64) NOT NULL, PRIMARY KEY (id));
 
-INSERT INTO [country] ([id], [name]) VALUES ('AC', 'Ascension Island');
-INSERT INTO [country] ([id], [name]) VALUES ('IC', 'Canary Islands');
-INSERT INTO [country] ([id], [name]) VALUES ('EA', 'Ceuta and Melilla');
-INSERT INTO [country] ([id], [name]) VALUES ('CP', 'Clipperton Island');
-INSERT INTO [country] ([id], [name]) VALUES ('DG', 'Diego Garcia');
-INSERT INTO [country] ([id], [name]) VALUES ('TA', 'Tristan da Cunha');
 INSERT INTO [country] ([id], [name]) VALUES ('AO', 'ಅಂಗೋಲಾ');
 INSERT INTO [country] ([id], [name]) VALUES ('AQ', 'ಅಂಟಾರ್ಟಿಕಾ');
 INSERT INTO [country] ([id], [name]) VALUES ('AD', 'ಅಂಡೋರಾ');
@@ -18,6 +12,7 @@ INSERT INTO [country] ([id], [name]) VALUES ('AR', 'ಅರ್ಜೆಂಟೈನ�
 INSERT INTO [country] ([id], [name]) VALUES ('AM', 'ಅರ್ಮೇನಿಯಾ');
 INSERT INTO [country] ([id], [name]) VALUES ('DZ', 'ಅಲ್ಗೇರಿಯಾ');
 INSERT INTO [country] ([id], [name]) VALUES ('AL', 'ಅಲ್ಬೇನಿಯಾ');
+INSERT INTO [country] ([id], [name]) VALUES ('AC', 'ಅಸೆನ್ಶನ್ ದ್ವೀಪ');
 INSERT INTO [country] ([id], [name]) VALUES ('AI', 'ಆಂಗುಯಿಲ್ಲಾ');
 INSERT INTO [country] ([id], [name]) VALUES ('AG', 'ಆಂಟಿಗುವಾ ಮತ್ತು ಬರ್ಬುಡಾ');
 INSERT INTO [country] ([id], [name]) VALUES ('AX', 'ಆಲ್ಯಾಂಡ್ ದ್ವೀಪಗಳು');
@@ -64,10 +59,12 @@ INSERT INTO [country] ([id], [name]) VALUES ('CC', 'ಕೊಕೊಸ್ ದ್ವ
 INSERT INTO [country] ([id], [name]) VALUES ('KM', 'ಕೊಮೊರೊಸ್');
 INSERT INTO [country] ([id], [name]) VALUES ('CO', 'ಕೊಲಂಬಿಯಾ');
 INSERT INTO [country] ([id], [name]) VALUES ('CR', 'ಕೊಸ್ಟಾ ರಿಕಾ');
+INSERT INTO [country] ([id], [name]) VALUES ('IC', 'ಕ್ಯಾನರಿ ದ್ವೀಪಗಳು');
 INSERT INTO [country] ([id], [name]) VALUES ('CM', 'ಕ್ಯಾಮರೋನ್');
 INSERT INTO [country] ([id], [name]) VALUES ('CU', 'ಕ್ಯೂಬಾ');
 INSERT INTO [country] ([id], [name]) VALUES ('CX', 'ಕ್ರಿಸ್‌ಮಸ್ ದ್ವೀಪ');
 INSERT INTO [country] ([id], [name]) VALUES ('HR', 'ಕ್ರೋಯೇಶಿಯಾ');
+INSERT INTO [country] ([id], [name]) VALUES ('CP', 'ಕ್ಲಿಪರ್ಟನ್‌ ಐಲ್ಯಾಂಡ್‌');
 INSERT INTO [country] ([id], [name]) VALUES ('GY', 'ಗಯಾನಾ');
 INSERT INTO [country] ([id], [name]) VALUES ('GN', 'ಗಿನಿ');
 INSERT INTO [country] ([id], [name]) VALUES ('GW', 'ಗಿನಿ-ಬಿಸ್ಸಾವ್');
@@ -105,10 +102,12 @@ INSERT INTO [country] ([id], [name]) VALUES ('TK', 'ಟೊಕೆಲಾವ್');
 INSERT INTO [country] ([id], [name]) VALUES ('TG', 'ಟೋಗೋ');
 INSERT INTO [country] ([id], [name]) VALUES ('TT', 'ಟ್ರಿನಿಡಾಡ್ ಮತ್ತು ಟೊಬ್ಯಾಗೊ');
 INSERT INTO [country] ([id], [name]) VALUES ('DK', 'ಡೆನ್ಮಾರ್ಕ್');
+INSERT INTO [country] ([id], [name]) VALUES ('DG', 'ಡೈಗೋ ಗಾರ್ಸಿಯ');
 INSERT INTO [country] ([id], [name]) VALUES ('DM', 'ಡೊಮಿನಿಕಾ');
 INSERT INTO [country] ([id], [name]) VALUES ('DO', 'ಡೊಮೆನಿಕ್ ರಿಪಬ್ಲಿಕ್');
 INSERT INTO [country] ([id], [name]) VALUES ('TJ', 'ತಜಾಕಿಸ್ಥಾನ್');
 INSERT INTO [country] ([id], [name]) VALUES ('TM', 'ತುರ್ಕಮೆನಿಸ್ಥಾನ್');
+INSERT INTO [country] ([id], [name]) VALUES ('TA', 'ತ್ರಿಸ್ತಾನ್‌ ದ ಕುನ್ಹಾ');
 INSERT INTO [country] ([id], [name]) VALUES ('TH', 'ಥೈಲ್ಯಾಂಡ್');
 INSERT INTO [country] ([id], [name]) VALUES ('TW', 'ಥೈವಾನ್');
 INSERT INTO [country] ([id], [name]) VALUES ('ZA', 'ದಕ್ಷಿಣ ಆಫ್ರಿಕಾ');
@@ -142,7 +141,7 @@ INSERT INTO [country] ([id], [name]) VALUES ('PS', 'ಪ್ಯಾಲಿಸ್ಟ�
 INSERT INTO [country] ([id], [name]) VALUES ('PR', 'ಪ್ಯೂರ್ಟೋ ರಿಕೊ');
 INSERT INTO [country] ([id], [name]) VALUES ('FO', 'ಫರೋ ದ್ವೀಪಗಳು');
 INSERT INTO [country] ([id], [name]) VALUES ('FJ', 'ಫಿಜಿ');
-INSERT INTO [country] ([id], [name]) VALUES ('FI', 'ಫಿನ್‍‍ಲ್ಯಾಂಡ್');
+INSERT INTO [country] ([id], [name]) VALUES ('FI', 'ಫಿನ್‌ಲ್ಯಾಂಡ್');
 INSERT INTO [country] ([id], [name]) VALUES ('PH', 'ಫಿಲಿಫೈನ್ಸ್');
 INSERT INTO [country] ([id], [name]) VALUES ('FR', 'ಫ್ರಾನ್ಸ್');
 INSERT INTO [country] ([id], [name]) VALUES ('GF', 'ಫ್ರೆಂಚ್ ಗಯಾನಾ');
@@ -172,7 +171,6 @@ INSERT INTO [country] ([id], [name]) VALUES ('BN', 'ಬ್ರೂನಿ');
 INSERT INTO [country] ([id], [name]) VALUES ('BR', 'ಬ್ರೆಜಿಲ್');
 INSERT INTO [country] ([id], [name]) VALUES ('IN', 'ಭಾರತ');
 INSERT INTO [country] ([id], [name]) VALUES ('BT', 'ಭೂತಾನ್');
-INSERT INTO [country] ([id], [name]) VALUES ('MO', 'ಮಕಾವ್ SAR ಚೀನಾ');
 INSERT INTO [country] ([id], [name]) VALUES ('MG', 'ಮಡಗಾಸ್ಕರ್');
 INSERT INTO [country] ([id], [name]) VALUES ('CF', 'ಮಧ್ಯ ಆಫ್ರಿಕಾ ಗಣರಾಜ್ಯ');
 INSERT INTO [country] ([id], [name]) VALUES ('MM', 'ಮಯನ್ಮಾರ್');
@@ -186,6 +184,7 @@ INSERT INTO [country] ([id], [name]) VALUES ('MH', 'ಮಾರ್ಶಲ್ ದ್
 INSERT INTO [country] ([id], [name]) VALUES ('ML', 'ಮಾಲಿ');
 INSERT INTO [country] ([id], [name]) VALUES ('MT', 'ಮಾಲ್ಟಾ');
 INSERT INTO [country] ([id], [name]) VALUES ('MV', 'ಮಾಲ್ಡಿವ್ಸ್');
+INSERT INTO [country] ([id], [name]) VALUES ('MO', 'ಮೆಕ್ವಾ SAR ಚೀನಾ');
 INSERT INTO [country] ([id], [name]) VALUES ('MX', 'ಮೆಕ್ಸಿಕೊ');
 INSERT INTO [country] ([id], [name]) VALUES ('FM', 'ಮೈಕ್ರೋನೇಶಿಯಾ');
 INSERT INTO [country] ([id], [name]) VALUES ('MN', 'ಮೊಂಗೋಲಿಯಾ');
@@ -229,6 +228,7 @@ INSERT INTO [country] ([id], [name]) VALUES ('SC', 'ಸೀಶೆಲ್ಲೆಸ�
 INSERT INTO [country] ([id], [name]) VALUES ('SR', 'ಸುರಿನಾಮ');
 INSERT INTO [country] ([id], [name]) VALUES ('SD', 'ಸೂಡಾನ್');
 INSERT INTO [country] ([id], [name]) VALUES ('SN', 'ಸೆನೆಗಲ್');
+INSERT INTO [country] ([id], [name]) VALUES ('EA', 'ಸೆಯುಟಾ ಹಾಗೂ ಮೆಲಿಲ್ಲಾ');
 INSERT INTO [country] ([id], [name]) VALUES ('RS', 'ಸೆರ್ಬಿಯಾ');
 INSERT INTO [country] ([id], [name]) VALUES ('CS', 'ಸೆರ್ಬಿಯಾ ಮತ್ತು ಮೊಂಟೊನೆಗ್ರೋ');
 INSERT INTO [country] ([id], [name]) VALUES ('KN', 'ಸೇಂಟ್ ಕಿಟ್ಸ್ ಮತ್ತು ನೆವಿಸ್');
@@ -252,6 +252,6 @@ INSERT INTO [country] ([id], [name]) VALUES ('CH', 'ಸ್ವಿಡ್ಜರ್�
 INSERT INTO [country] ([id], [name]) VALUES ('SE', 'ಸ್ವೀಡನ್');
 INSERT INTO [country] ([id], [name]) VALUES ('HU', 'ಹಂಗೇರಿ');
 INSERT INTO [country] ([id], [name]) VALUES ('HM', 'ಹರ್ಡ್ ದ್ವೀಪ ಮತ್ತು ಮಾಕ್‌ಡೊನಾಲ್ಡ್ ದ್ವೀಪಗಳು');
-INSERT INTO [country] ([id], [name]) VALUES ('HK', 'ಹಾಂಗ್ ಕಾಂಗ್ SAR ಚೀನಾ');
+INSERT INTO [country] ([id], [name]) VALUES ('HK', 'ಹಾಂಗ್‌ ಕಾಂಗ್‌ SAR ಚೀನಾ');
 INSERT INTO [country] ([id], [name]) VALUES ('HT', 'ಹೈಟಿ');
 INSERT INTO [country] ([id], [name]) VALUES ('HN', 'ಹೊಂಡುರಾಸ್');

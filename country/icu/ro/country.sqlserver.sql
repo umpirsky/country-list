@@ -60,7 +60,7 @@ INSERT INTO [country] ([id], [name]) VALUES ('DM', 'Dominica');
 INSERT INTO [country] ([id], [name]) VALUES ('EC', 'Ecuador');
 INSERT INTO [country] ([id], [name]) VALUES ('EG', 'Egipt');
 INSERT INTO [country] ([id], [name]) VALUES ('SV', 'El Salvador');
-INSERT INTO [country] ([id], [name]) VALUES ('CH', 'Eleveția');
+INSERT INTO [country] ([id], [name]) VALUES ('CH', 'Elveția');
 INSERT INTO [country] ([id], [name]) VALUES ('AE', 'Emiratele Arabe Unite');
 INSERT INTO [country] ([id], [name]) VALUES ('ER', 'Eritreea');
 INSERT INTO [country] ([id], [name]) VALUES ('EE', 'Estonia');

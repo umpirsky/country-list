@@ -1,5 +1,5 @@
 AF: Afganistan
-AX: 'Åland Islands'
+AX: Åland-eilande
 AL: Albanië
 DZ: Algerië
 AS: 'Amerikaans Samoa'
@@ -11,7 +11,7 @@ AG: 'Antigua en Barbuda'
 AR: Argentinië
 AM: Armenië
 AW: Aruba
-AC: 'Ascension Island'
+AC: Ascension-eiland
 AZ: Aserbeidjan
 AU: Australië
 BS: Bahamas
@@ -27,20 +27,18 @@ BF: 'Boerkina Fasso'
 BO: Bolivië
 BA: 'Bosnië en Herzegowina'
 BW: Botswana
-BV: 'Bouvet Island'
+BV: Bouveteiland
 BR: Brasilië
 IO: 'Britse Indiese Oseaan Gebied'
 VG: 'Britse Maagde-eilande'
 BN: Broenei
 BG: Bulgarye
 BI: Burundi
-IC: 'Canary Islands'
-EA: 'Ceuta and Melilla'
+EA: 'Ceuta en Melilla'
 CL: Chili
-CX: 'Christmas Island'
 CY: Ciprus
-CP: 'Clipperton Island'
-CC: 'Cocos [Keeling] Islands'
+CP: Clipperton-eiland
+CC: 'Cocos- [Keeling] eilande'
 KM: Comore
 CK: Cookeilande
 CR: 'Costa Rica'
@@ -53,11 +51,12 @@ DO: 'Dominikaanse Republiek'
 DE: Duitsland
 EC: Ecuador
 EG: Egipte
+IM: 'Eiland Man'
 GQ: Ekwatoriaal-Guinee
 ER: Eritrea
 EE: Estland
 ET: Ethiopië
-EU: 'European Union'
+EU: 'Europese Unie'
 FK: Falklandeilande
 FO: Faroëreilande
 FJ: Fidji
@@ -66,7 +65,7 @@ FI: Finland
 FR: Frankryk
 GF: Frans-Guyana
 PF: Frans-Polinesië
-TF: 'French Southern Territories'
+TF: 'Franse Suidelike Gebiede'
 GA: Gaboen
 GM: Gambië
 GE: Georgië
@@ -84,7 +83,7 @@ GN: Guinee
 GW: Guinee-Bissau
 GY: Guyana
 HT: Haïti
-HM: 'Heard Island and McDonald Islands'
+HM: 'Heard-eiland en McDonald-eilande'
 HN: Honduras
 HU: Hongarye
 HK: Hongkong
@@ -93,7 +92,6 @@ IN: Indië
 ID: Indonesië
 IQ: Irak
 IR: Iran
-IM: 'Isle of Man'
 IL: Israel
 IT: Italië
 CI: Ivoorkus
@@ -107,9 +105,11 @@ CV: 'Kaap Verde'
 KH: Kambodja
 CM: Kameroen
 CA: Kanada
+IC: Kanarie-eilande
 KZ: Kasakstan
 QA: Katar
 KE: Kenia
+CX: Kerseiland
 KG: Kirgisië
 KI: Kiribati
 KW: Koeweit
@@ -167,9 +167,9 @@ NF: Norfolk-eiland
 UA: Oekraine
 UZ: Oesbekistan
 OM: Oman
+QO: 'Omliggende Oseanië'
 TL: Oos-Timor
 AT: Oostenryk
-QO: 'Outlying Oceania'
 PK: Pakistan
 PW: Palau
 PS: Palestina
@@ -185,9 +185,7 @@ RE: Réunion
 RO: Roemenië
 RU: Rusland
 RW: Rwanda
-BL: 'Saint Barthélemy'
 KN: 'Saint Kitts en Nevis'
-MF: 'Saint Martin'
 VC: 'Saint Vincent en die Grenadine'
 SV: Salvador
 WS: Samoa
@@ -196,13 +194,15 @@ ST: 'Sao Tome en Principe'
 SA: Saoedi-Arabië
 SN: Senegal
 CF: 'Sentraal-Afrikaanse Republiek'
-RS: Serbia
+RS: Serwië
 CS: 'Serwië en Montenegro'
 SC: Seychelle
 SL: 'Sierra Leone'
 SG: Singapoer
+BL: 'Sint Barthélemy'
 SH: 'Sint Helena'
 LC: 'Sint Lucia'
+MF: 'Sint Martin'
 PM: 'Sint-Pierre en Miquelon'
 SY: Sirië
 CN: Sjina
@@ -211,13 +211,13 @@ SI: Slowenië
 SD: Soedan
 SB: 'Solomon Eilande'
 SO: Somalië
-GS: 'South Georgia and the South Sandwich Islands'
 ES: Spanje
 LK: 'Sri Lanka'
 ZA: Suid-Afrika
+GS: 'Suid-Georgië en die Suid-Sandwich-eilande'
 KR: Suid-Korea
 SR: Suriname
-SJ: 'Svalbard and Jan Mayen'
+SJ: 'Svalbard en Jan Mayen'
 SZ: Swaziland
 SE: Swede
 CH: Switserland
@@ -237,7 +237,6 @@ TM: Turkmenië
 TC: 'Turks en Caicos Eilande'
 TR: Turkye
 TV: Tuvalu
-UM: 'U.S. Minor Outlying Islands'
 UG: Uganda
 UY: Uruguay
 VI: 'V.S. Maagde-eilande'
@@ -247,6 +246,7 @@ VE: Venezuela
 AE: 'Verenigde Arabiese Emirate'
 US: 'Verenigde State van Amerika'
 VN: Viëtnam
+UM: 'VS klein omliggende eilande'
 WF: 'Wallis en Futuna'
 EH: Wes-Sahara
 BY: Wit-Rusland

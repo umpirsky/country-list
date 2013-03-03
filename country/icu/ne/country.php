@@ -1,12 +1,4 @@
 <?php return array (
-  'AC' => 'Ascension Island',
-  'IC' => 'Canary Islands',
-  'EA' => 'Ceuta and Melilla',
-  'CP' => 'Clipperton Island',
-  'DG' => 'Diego Garcia',
-  'CS' => 'Serbia and Montenegro',
-  'GS' => 'South Georgia and the South Sandwich Islands',
-  'TA' => 'Tristan da Cunha',
   'AO' => 'अङ्गोला',
   'AZ' => 'अजरबैजान',
   'AQ' => 'अन्टारतिका',

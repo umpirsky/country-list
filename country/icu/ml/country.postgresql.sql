@@ -1,11 +1,5 @@
 CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
-INSERT INTO "country" ("id", "name") VALUES ('AC', 'Ascension Island');
-INSERT INTO "country" ("id", "name") VALUES ('IC', 'Canary Islands');
-INSERT INTO "country" ("id", "name") VALUES ('EA', 'Ceuta and Melilla');
-INSERT INTO "country" ("id", "name") VALUES ('CP', 'Clipperton Island');
-INSERT INTO "country" ("id", "name") VALUES ('DG', 'Diego Garcia');
-INSERT INTO "country" ("id", "name") VALUES ('TA', 'Tristan da Cunha');
 INSERT INTO "country" ("id", "name") VALUES ('AQ', 'അന്‍റാര്‍ട്ടിക്ക');
 INSERT INTO "country" ("id", "name") VALUES ('AD', 'അന്‍റോറ');
 INSERT INTO "country" ("id", "name") VALUES ('AF', 'അഫ്ഗാനിസ്ഥാന്‍');
@@ -17,6 +11,7 @@ INSERT INTO "country" ("id", "name") VALUES ('AR', 'അര്‍ജന്‍റ�
 INSERT INTO "country" ("id", "name") VALUES ('AM', 'അര്‍മേനിയ');
 INSERT INTO "country" ("id", "name") VALUES ('AX', 'അലന്‍ഡ് ദ്വീപുകള്‍');
 INSERT INTO "country" ("id", "name") VALUES ('AL', 'അല്‍ബേനിയ');
+INSERT INTO "country" ("id", "name") VALUES ('AC', 'അസന്‍ഷന്‍ ദ്വീപ്');
 INSERT INTO "country" ("id", "name") VALUES ('AZ', 'അസര്‍ബൈജാന്‍');
 INSERT INTO "country" ("id", "name") VALUES ('DZ', 'അള്‍ജീരിയ');
 INSERT INTO "country" ("id", "name") VALUES ('AW', 'അറുബ');
@@ -50,6 +45,7 @@ INSERT INTO "country" ("id", "name") VALUES ('AU', 'ഓസ്ട്രേലി�
 INSERT INTO "country" ("id", "name") VALUES ('KH', 'കംബോഡിയ');
 INSERT INTO "country" ("id", "name") VALUES ('KZ', 'കസാഖിസ്ഥാന്‍');
 INSERT INTO "country" ("id", "name") VALUES ('CA', 'കാനഡ');
+INSERT INTO "country" ("id", "name") VALUES ('IC', 'കാനറി ദ്വീപുകള്‍');
 INSERT INTO "country" ("id", "name") VALUES ('CM', 'കാമറൂണ്‍');
 INSERT INTO "country" ("id", "name") VALUES ('KI', 'കിരിബാത്തി');
 INSERT INTO "country" ("id", "name") VALUES ('KG', 'കിര്‍ഗിസ്ഥാന്‍');
@@ -68,6 +64,7 @@ INSERT INTO "country" ("id", "name") VALUES ('CR', 'കോസ്റ്ററി�
 INSERT INTO "country" ("id", "name") VALUES ('CU', 'ക്യൂബ');
 INSERT INTO "country" ("id", "name") VALUES ('CX', 'ക്രിസ്മസ് ദ്വീപ്');
 INSERT INTO "country" ("id", "name") VALUES ('HR', 'ക്രൊയേഷ്യ');
+INSERT INTO "country" ("id", "name") VALUES ('CP', 'ക്ലിപ്പെര്‍ട്ടന്‍ ദ്വീപ്');
 INSERT INTO "country" ("id", "name") VALUES ('QA', 'ഖത്തര്‍');
 INSERT INTO "country" ("id", "name") VALUES ('GY', 'ഗയാന');
 INSERT INTO "country" ("id", "name") VALUES ('GA', 'ഗാബോണ്‍');
@@ -100,7 +97,9 @@ INSERT INTO "country" ("id", "name") VALUES ('TN', 'ടുണീഷ്യ');
 INSERT INTO "country" ("id", "name") VALUES ('TK', 'ടൊകെലാവു');
 INSERT INTO "country" ("id", "name") VALUES ('TG', 'ടോഗോ');
 INSERT INTO "country" ("id", "name") VALUES ('TO', 'ടോംഗ');
+INSERT INTO "country" ("id", "name") VALUES ('TA', 'ട്രസ്റ്റന്‍ ഡ കൂന');
 INSERT INTO "country" ("id", "name") VALUES ('TT', 'ട്രിനിഡാഡും റ്റൊബാഗോയും');
+INSERT INTO "country" ("id", "name") VALUES ('DG', 'ഡീഗോ ഗ്രാഷ്യ');
 INSERT INTO "country" ("id", "name") VALUES ('DK', 'ഡെന്‍മാര്‍ക്ക്');
 INSERT INTO "country" ("id", "name") VALUES ('DM', 'ഡൊമിനിക്ക');
 INSERT INTO "country" ("id", "name") VALUES ('DO', 'ഡൊമിനിക്കന്‍ റിപ്പബ്ലിക്');
@@ -231,6 +230,7 @@ INSERT INTO "country" ("id", "name") VALUES ('MF', 'സെന്‍റ് മാ
 INSERT INTO "country" ("id", "name") VALUES ('LC', 'സെന്‍റ് ലൂസിയ');
 INSERT INTO "country" ("id", "name") VALUES ('VC', 'സെന്‍റ് വിന്‍സന്‍റും ഗ്രനഡൈന്‍സും');
 INSERT INTO "country" ("id", "name") VALUES ('SH', 'സെന്‍റ് ഹെലീന');
+INSERT INTO "country" ("id", "name") VALUES ('EA', 'സെയൂത്ത ആന്‍ഡ് മെലിയ');
 INSERT INTO "country" ("id", "name") VALUES ('KN', 'സെയ്ന്‍റ് കിറ്റ്സും നെവിസും');
 INSERT INTO "country" ("id", "name") VALUES ('SC', 'സെയ്ഷെല്‍സ്');
 INSERT INTO "country" ("id", "name") VALUES ('RS', 'സെര്‍ബിയ');

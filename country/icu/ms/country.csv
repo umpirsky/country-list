@@ -1,7 +1,6 @@
 iso,name
 AF,Afghanistan
 ZA,"Afrika Selatan"
-AX,"Åland Islands"
 AL,Albania
 DZ,Aljazair
 AS,"American Samoa"
@@ -15,7 +14,6 @@ SA,"Arab Saudi"
 AR,Argentina
 AM,Armenia
 AW,Aruba
-AC,"Ascension Island"
 AU,Australia
 AT,Austria
 AZ,Azerbaijan
@@ -42,22 +40,21 @@ BG,Bulgaria
 BF,"Burkina Faso"
 BI,Burundi
 TD,Cad
-IC,"Canary Islands"
 CV,"Cape Verde"
 KY,"Cayman Islands"
-EA,"Ceuta and Melilla"
+EA,"Ceuta dan Melilla"
+CN,China
 CX,"Christmas Island"
 CL,Cile
-CN,Cina
-CP,"Clipperton Island"
-CC,"Cocos (Keeling) Islands"
+CC,"Cocos [Keeling] Islands"
 CO,Colombia
 KM,Comoros
 CG,Congo
+CD,"Congo - Kinshasa"
 CK,"Cook Islands"
+CI,"Côte d’Ivoire"
 HR,Croatia
 CU,Cuba
-CD,"Democratic Republic of the Congo"
 DK,Denmark
 DG,"Diego Garcia"
 DM,Dominica
@@ -68,7 +65,6 @@ GQ,"Equatorial Guinea"
 ER,Eritrea
 EE,Estonia
 ET,Ethiopia
-EU,"European Union"
 FK,"Falkland Islands"
 FO,"Faroe Islands"
 PT,Feringgi
@@ -94,11 +90,11 @@ GW,"Guinea Bissau"
 GY,Guyana
 HT,Haiti
 HM,"Heard Island and McDonald Islands"
-IN,Hindia
 HN,Honduras
 HK,"Hong Kong S.A.R., China"
 HU,Hungari
 IS,Iceland
+IN,India
 ID,Indonesia
 IR,Iran
 IQ,Iraq
@@ -117,8 +113,11 @@ CA,Kanada
 KZ,Kazakhstan
 KH,Kemboja
 KE,Kenya
+AX,"Kepulauan Åland"
+IC,"Kepulauan Canary"
 MH,"Kepulauan Marshall"
 SB,"Kepulauan Solomon"
+EU,"Kesatuan Eropah"
 CY,Kibris
 KI,Kiribati
 CR,"Kosta Rika"
@@ -133,7 +132,7 @@ LI,Liechtenstein
 LT,Lithuania
 LB,Lubnan
 LU,Luksembourg
-MO,"Macao S.A.R., China"
+MO,"Macau SAR China"
 MK,Macedonia
 MG,Madagaskar
 MA,Maghribi
@@ -169,13 +168,12 @@ NU,Niue
 NF,"Norfolk Island"
 MP,"Northern Mariana Islands"
 NO,Norway
+QO,"Oceania Terpencil"
 OM,Oman
-QO,"Outlying Oceania"
 PK,Pakistan
 PW,Palau
 PS,"Palestinian Territory"
 PA,Panama
-CI,"Pantai Gading"
 PG,"Papua New Guinea"
 PY,Paraguay
 FR,Perancis
@@ -183,13 +181,15 @@ PE,Peru
 PN,Pitcairn
 PL,Poland
 PR,"Puerto Rico"
+AC,"Pulau Ascension"
+CP,"Pulau Clipperton"
 QA,Qatar
 CF,"Republik Afrika Tengah"
 CZ,"Republik Czech"
 DO,"Republik Dominican"
 RE,Réunion
 RO,Romania
-RU,Russia
+RU,Rusia
 RW,Rwanda
 EH,"Sahara Barat"
 BL,"Saint Barthélemy"

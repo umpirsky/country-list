@@ -8,7 +8,7 @@ AG: 'Antígva og Barbúda'
 AR: Argentína
 AM: Armenía
 AW: Arúba
-AC: 'Ascension Island'
+AC: Ascension-eyja
 AZ: Aserbaídsjan
 CD: Austur-Kongó
 TL: Austur-Tímor
@@ -18,6 +18,7 @@ AU: Ástralía
 BS: Bahamaeyjar
 US: Bandaríkin
 AS: 'Bandaríska Samóa'
+VI: 'Bandarísku Jómfrúaeyjar'
 BD: Bangladess
 BB: Barbados
 BH: Barein
@@ -31,17 +32,17 @@ BV: Bouveteyja
 BO: Bólivía
 BR: Brasilía
 IO: 'Bresku Indlandshafseyjar'
+VG: 'Bresku Jómfrúaeyjar'
 GB: Bretland
 BN: Brúnei
 BG: Búlgaría
 BF: 'Búrkína Fasó'
 BI: Búrúndí
 BT: Bútan
-IC: 'Canary Islands'
 KY: Caymaneyjar
-EA: 'Ceuta and Melilla'
+EA: 'Ceuta og Melilla'
 CL: Chíle
-CP: 'Clipperton Island'
+CP: Clipperton-eyja
 CK: Cookseyjar
 DK: Danmörk
 DG: 'Diego Garcia'
@@ -100,12 +101,11 @@ JP: Japan
 YE: Jemen
 JE: Jersey
 CX: Jólaey
-VI: 'Jómfrúaeyjar (bandarísku)'
-VG: 'Jómfrúaeyjar (bresku)'
 JO: Jórdanía
 KH: Kambódía
 CM: Kamerún
 CA: Kanada
+IC: Kanaríeyjar
 KZ: Kasakstan
 QA: Katar
 KE: Kenía
@@ -203,6 +203,7 @@ SN: Senegal
 RS: Serbía
 CS: 'Serbía og Svartfjallaland'
 SC: Seychelleseyjar
+ZW: Simbabve
 SG: Singapúr
 SL: 'Síerra Leóne'
 SK: Slóvakía
@@ -251,5 +252,4 @@ EH: Vestur-Sahara
 VN: Víetnam
 WF: 'Wallis- og Fútúnaeyjar'
 QO: 'Ytri Eyjaálfa'
-ZW: Zimbabwe
 DE: Þýskaland

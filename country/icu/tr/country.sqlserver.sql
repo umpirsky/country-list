@@ -194,7 +194,7 @@ INSERT INTO [country] ([id], [name]) VALUES ('PR', 'Porto Riko');
 INSERT INTO [country] ([id], [name]) VALUES ('RE', 'Reunion');
 INSERT INTO [country] ([id], [name]) VALUES ('RO', 'Romanya');
 INSERT INTO [country] ([id], [name]) VALUES ('RW', 'Ruanda');
-INSERT INTO [country] ([id], [name]) VALUES ('RU', 'Rusya Federasyonu');
+INSERT INTO [country] ([id], [name]) VALUES ('RU', 'Rusya');
 INSERT INTO [country] ([id], [name]) VALUES ('BL', 'Saint Barthelemy');
 INSERT INTO [country] ([id], [name]) VALUES ('SH', 'Saint Helena');
 INSERT INTO [country] ([id], [name]) VALUES ('KN', 'Saint Kitts ve Nevis');

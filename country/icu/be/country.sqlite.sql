@@ -1,26 +1,5 @@
 CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
-INSERT INTO "country" ("id", "name") VALUES ('AC', 'Ascension Island');
-INSERT INTO "country" ("id", "name") VALUES ('IC', 'Canary Islands');
-INSERT INTO "country" ("id", "name") VALUES ('EA', 'Ceuta and Melilla');
-INSERT INTO "country" ("id", "name") VALUES ('CP', 'Clipperton Island');
-INSERT INTO "country" ("id", "name") VALUES ('CI', 'Côte d’Ivoire');
-INSERT INTO "country" ("id", "name") VALUES ('DG', 'Diego Garcia');
-INSERT INTO "country" ("id", "name") VALUES ('FO', 'Faroe Islands');
-INSERT INTO "country" ("id", "name") VALUES ('GU', 'Guam');
-INSERT INTO "country" ("id", "name") VALUES ('GG', 'Guernsey');
-INSERT INTO "country" ("id", "name") VALUES ('IM', 'Isle of Man');
-INSERT INTO "country" ("id", "name") VALUES ('JE', 'Jersey');
-INSERT INTO "country" ("id", "name") VALUES ('YT', 'Mayotte');
-INSERT INTO "country" ("id", "name") VALUES ('PN', 'Pitcairn Islands');
-INSERT INTO "country" ("id", "name") VALUES ('PR', 'Puerto Rico');
-INSERT INTO "country" ("id", "name") VALUES ('BL', 'Saint Barthélemy');
-INSERT INTO "country" ("id", "name") VALUES ('MF', 'Saint Martin');
-INSERT INTO "country" ("id", "name") VALUES ('PM', 'Saint Pierre and Miquelon');
-INSERT INTO "country" ("id", "name") VALUES ('SM', 'San Marino');
-INSERT INTO "country" ("id", "name") VALUES ('CS', 'Serbia and Montenegro');
-INSERT INTO "country" ("id", "name") VALUES ('TA', 'Tristan da Cunha');
-INSERT INTO "country" ("id", "name") VALUES ('UM', 'U.S. Minor Outlying Islands');
 INSERT INTO "country" ("id", "name") VALUES ('AE', 'Аб\'яднаныя Арабскія Эміраты');
 INSERT INTO "country" ("id", "name") VALUES ('AZ', 'Азербайджан');
 INSERT INTO "country" ("id", "name") VALUES ('AX', 'Аландскія астравы');

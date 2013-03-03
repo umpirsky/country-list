@@ -1,37 +1,9 @@
 iso,name
-AX,"Åland Islands"
-AQ,Antarctica
-AC,"Ascension Island"
-BV,"Bouvet Island"
-IC,"Canary Islands"
-EA,"Ceuta and Melilla"
-CX,"Christmas Island"
-CP,"Clipperton Island"
-CC,"Cocos [Keeling] Islands"
-DG,"Diego Garcia"
-EU,"European Union"
-FO,"Faroe Islands"
-GG,Guernsey
-HM,"Heard Island and McDonald Islands"
-HK,"Hong Kong SAR China"
-IM,"Isle of Man"
-JE,Jersey
-KZ,Kazakhstan
-KG,Kyrgyzstan
-MO,"Macau SAR China"
-ME,Montenegro
-QO,"Outlying Oceania"
-BL,"Saint Barthélemy"
-MF,"Saint Martin"
-RS,Serbia
-GS,"South Georgia and the South Sandwich Islands"
-SJ,"Svalbard and Jan Mayen"
-TA,"Tristan da Cunha"
-UM,"U.S. Minor Outlying Islands"
 HU,ሀንጋሪ
 HT,ሀይቲ
 IN,ህንድ
 HN,ሆንዱራስ
+HK,"ሆንግ ኮንግ SAR ቻይና"
 LU,ሉክሰምበርግ
 LY,ሊቢያ
 LB,ሊባኖስ
@@ -51,6 +23,7 @@ MU,ማሩሸስ
 MH,"ማርሻል አይላንድ"
 MQ,ማርቲኒክ
 MK,ማከዶኒያ
+MO,"ማካኡSAR ቻይና"
 MM,ማያንማር
 MG,ማዳጋስካር
 MX,ሜክሲኮ
@@ -61,6 +34,7 @@ MD,ሞልዶቫ
 MR,ሞሪቴኒያ
 MA,ሞሮኮ
 MC,ሞናኮ
+ME,ሞንተኔግሮ
 MS,ሞንትሴራት
 MN,ሞንጎሊያ
 MZ,ሞዛምቢክ
@@ -71,6 +45,7 @@ RO,ሮሜኒያ
 SB,"ሰሎሞን ደሴት"
 KP,"ሰሜን ኮሪያ"
 CS,ሰርቢያ
+RS,ሰርብያ
 SO,ሱማሌ
 SR,ሱሪናም
 SZ,ሱዋዚላንድ
@@ -88,17 +63,22 @@ SL,ሴራሊዮን
 SN,ሴኔጋል
 SH,"ሴንት ሄለና"
 LC,"ሴንት ሉቺያ"
+MF,"ሴንት ማርቲን"
+EA,"ሴኡታና ሜሊላ"
 SK,ስሎቫኪያ
 SI,ስሎቬኒያ
+SJ,"ስቫልባርድ እና ጃን ማየን"
 CH,ስዊዘርላንድ
 SE,ስዊድን
 ES,ስፔን
+BL,"ቅዱስ በርቴሎሜ"
 VC,"ቅዱስ ቪንሴንት እና ግሬናዲንስ"
 KN,"ቅዱስ ኪትስ እና ኔቪስ"
 PM,"ቅዱስ ፒዬር እና ሚኩኤሎን"
 BT,ቡህታን
 BG,ቡልጌሪያ
 BF,"ቡርኪና ፋሶ"
+BV,"ቡቬት ደሴት"
 GW,ቢሳዎ
 BS,ባሃማስ
 BH,ባህሬን
@@ -127,6 +107,7 @@ TZ,ታንዛኒያ
 TH,ታይላንድ
 TW,ታይዋን
 TJ,ታጃኪስታን
+TA,"ትሪስታን ዲ ኩንሃ"
 TT,"ትሪኒዳድ እና ቶባጎ"
 TO,ቶንጋ
 TK,ቶክላው
@@ -154,13 +135,17 @@ US,አሜሪካ
 AW,አሩባ
 AM,አርሜኒያ
 AR,አርጀንቲና
+AC,"አሴንሽን ደሴት"
 AG,"አንቲጓ እና ባሩዳ"
+AQ,አንታርክቲካ
 AD,አንዶራ
 AI,አንጉኢላ
 AO,አንጐላ
 AU,አውስትሬሊያ
+QO,"አውትላይንግ ኦሽንያ"
 AZ,አዘርባጃን
 IE,አየርላንድ
+IM,"አይል ኦፍ ማን"
 IS,አይስላንድ
 AF,አፍጋኒስታን
 UY,ኡራጓይ
@@ -180,12 +165,15 @@ AT,ኦስትሪያ
 CU,ኩባ
 CK,"ኩክ ደሴቶች"
 KI,ኪሪባቲ
+KG,ኪርጊስታን
 CM,ካሜሩን
 KH,ካምቦዲያ
 CA,ካናዳ
+KZ,ካዛኪስታን
 KY,"ካይማን ደሴቶች"
 KE,ኬንያ
 CV,"ኬፕ ቬርዴ"
+CP,"ክሊፐርቶን ደሴት"
 HR,ክሮኤሽያ
 KW,ክዌት
 CO,ኮሎምቢያ
@@ -194,7 +182,9 @@ CR,"ኮስታ ሪካ"
 CI,"ኮት ዲቯር"
 CD,ኮንጎ
 CG,ኮንጐ
+CC,"ኮኮስ[ኬሊንግ] ደሴቶች"
 QA,ኳታር
+HM,"ኽርድ ደሴቶችና ማክዶናልድ ደሴቶች"
 WF,"ዋሊስ እና ፉቱና ደሴቶች"
 ZW,ዚምቧቤ
 ZM,ዛምቢያ
@@ -204,12 +194,18 @@ MP,"የሰሜናዊ ማሪያና ደሴቶች"
 IO,"የብሪታኒያ ህንድ ውቂያኖስ ግዛት"
 AE,"የተባበሩት አረብ ኤምሬትስ"
 TC,"የቱርኮችና የካኢኮስ ደሴቶች"
+AX,"የአላንድ ደሴቶች"
 AS,"የአሜሪካ ሳሞአ"
 VI,"የአሜሪካ ቨርጂን ደሴቶች"
+EU,"የአውሮፓ ህብረት"
 VG,"የእንግሊዝ ድንግል ደሴቶች"
+IC,"የካናሪ ደሴቶች"
+UM,"የዩ ኤስ ጠረፍ ላይ ያሉ ደሴቶች"
+CX,"የገና ደሴት"
 TF,"የፈረንሳይ ደቡባዊ ግዛቶች"
 GF,"የፈረንሳይ ጉዊአና"
 PF,"የፈረንሳይ ፖሊኔዢያ"
+FO,"የፋሮ ደሴቶች"
 PS,"የፍልስጤም ግዛት"
 FK,"የፎልክላንድ ደሴቶች"
 UA,ዩክሬን
@@ -217,15 +213,19 @@ UZ,ዩዝበኪስታን
 UG,ዩጋንዳ
 ZA,"ደቡብ አፍሪካ"
 KR,"ደቡብ ኮሪያ"
+GS,"ደቡብ ጆርጂያ እና የደቡብ ሳንድዊች ደሴቶች"
+DG,"ዲዬጎ ጋርሺያ"
 DK,ዴንማርክ
 DM,ዶሚኒካ
 DO,"ዶሚኒክ ሪፑብሊክ"
 DE,ጀርመን
+JE,ጀርሲ
 DJ,ጂቡቲ
 JM,ጃማይካ
 JP,ጃፓን
 JO,ጆርዳን
 GE,ጆርጂያ
+GG,ጉርነሲ
 GU,ጉዋም
 GT,ጉዋቲማላ
 GP,ጉዋደሉፕ

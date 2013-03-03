@@ -1,17 +1,14 @@
 AF: Afaganisitani
-AX: 'Åland Islands'
 AL: Alibaniya
 DZ: Aligerya
 US: Amerika
 AD: Andora
 AO: Angola
 AI: Angwila
-AQ: Antarctica
 AG: 'Antigwa ne Barabuda'
 AM: Arameniya
 AR: Arigentina
 AW: Aruba
-AC: 'Ascension Island'
 AU: Awusitureliya
 AT: Awusituriya
 IE: Ayalandi
@@ -42,7 +39,6 @@ KY: 'Bizinga ebya Kayimaani'
 VG: 'Bizinga ebya Virigini ebitwalibwa Bungereza'
 BO: Boliviya
 BW: Botiswana
-BV: 'Bouvet Island'
 BA: 'Boziniya Hezegovina'
 BE: Bubirigi
 DE: Budaaki
@@ -57,16 +53,10 @@ BI: Burundi
 BT: Butaani
 IN: Buyindi
 TD: Caadi
-IC: 'Canary Islands'
 CN: Cayina
-EA: 'Ceuta and Melilla'
-CX: 'Christmas Island'
 CL: Cile
-CP: 'Clipperton Island'
-CC: 'Cocos [Keeling] Islands'
 CU: Cuba
 DK: Denimaaka
-DG: 'Diego Garcia'
 DM: Dominika
 EC: Ekwado
 SV: 'El salivado'
@@ -74,11 +64,8 @@ AE: Emireeti
 ER: Eritureya
 EE: Esitoniya
 ET: Esyopya
-EU: 'European Union'
-FO: 'Faroe Islands'
 FJ: Fiji
 FI: Finilandi
-TF: 'French Southern Territories'
 GA: Gaboni
 GM: Gambya
 GH: Gana
@@ -87,7 +74,6 @@ GQ: 'Gayana ey''oku ekweta'
 GI: Giburalita
 GN: Gini
 GW: Gini-Bisawu
-GG: Guernsey
 GD: Gurenada
 GL: Gurenelandi
 GF: 'Guyana enfalansa'
@@ -97,14 +83,10 @@ GT: Gwatemala
 GE: Gyogya
 HU: Hangare
 HT: Hayiti
-HM: 'Heard Island and McDonald Islands'
 NL: Holandi
-HK: 'Hong Kong SAR China'
 HN: Hundurasi
-IM: 'Isle of Man'
 JM: Jamayika
 JP: Japani
-JE: Jersey
 DJ: Jjibuti
 NC: 'Kaledonya mupya'
 KH: Kambodya
@@ -140,7 +122,6 @@ DO: 'Lipubulika ya Dominika'
 LT: Lisuwenya
 RO: Lomaniya
 LU: Lukisembaaga
-MO: 'Macau SAR China'
 MG: Madagasika
 MW: Malawi
 MY: Malezya
@@ -157,7 +138,6 @@ EG: Misiri
 MD: Molodova
 MC: Monako
 MN: Mongoliya
-ME: Montenegro
 MS: Monteseraati
 MA: Moroko
 MZ: Mozambiiki
@@ -172,7 +152,6 @@ NU: Niyuwe
 NZ: Niyuziirandi
 NO: Nowe
 OM: Omaani
-QO: 'Outlying Oceania'
 PK: Pakisitaani
 PW: Palawu
 PS: Palesitayini
@@ -186,8 +165,6 @@ PF: 'Polinesiya enfalansa'
 PR: Potoriko
 PT: Potugaali
 RW: Rwanda
-BL: 'Saint Barthélemy'
-MF: 'Saint Martin'
 WS: Samowa
 AS: 'Samowa omumerika'
 SM: Sanimarino
@@ -200,7 +177,6 @@ KN: 'Senti Kitisi ne Nevisi'
 LC: 'Senti Luciya'
 PM: 'Senti Piyere ne Mikeloni'
 VC: 'Senti Vinsenti ne Gurendadiini'
-RS: Serbia
 CS: 'Seribya ne Monteneguro'
 SC: Sesere
 SG: Singapowa
@@ -212,10 +188,8 @@ SK: Sirovakya
 SI: Sirovenya
 SL: Siyeralewone
 SO: Somaliya
-GS: 'South Georgia and the South Sandwich Islands'
 SD: Sudaani
 SR: Surinaamu
-SJ: 'Svalbard and Jan Mayen'
 SZ: Swazirandi
 SE: Swideni
 CH: Switizirandi
@@ -228,18 +202,15 @@ TL: Timowa
 TG: Togo
 TK: Tokelawu
 TO: Tonga
-TA: 'Tristan da Cunha'
 TR: Ttake
 TN: Tunisya
 TT: 'Turindaadi ne Tobago'
 TV: Tuvalu
-UM: 'U.S. Minor Outlying Islands'
 VU: Vanawuwatu
 VA: Vatikaani
 VE: Venzwera
 VN: Vyetinaamu
 WF: 'Walisi ne Futuna'
-EH: 'Western Sahara'
 UY: Wurugwayi
 UZ: Wuzibekisitaani
 YE: Yemeni

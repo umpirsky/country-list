@@ -1,10 +1,9 @@
 iso,name
 AF,Afghanistan
-AX,Alandeilanden
+AX,Ålandeilanden
 AL,Albanië
 DZ,Algerije
 AS,"Amerikaans Samoa"
-UM,"Amerikaanse kleinere afgelegen eilanden"
 VI,"Amerikaanse Maagdeneilanden"
 AD,Andorra
 AO,Angola
@@ -50,11 +49,12 @@ CP,Clipperton
 CC,Cocoseilanden
 CO,Colombia
 KM,Comoren
-CG,Congo
+CG,Congo-Brazzaville
 CD,Congo-Kinshasa
 CK,Cookeilanden
 CR,"Costa Rica"
 CU,Cuba
+CW,Curaçao
 CY,Cyprus
 DK,Denemarken
 DG,"Diego Garcia"
@@ -120,6 +120,7 @@ KZ,Kazachstan
 KE,Kenia
 KG,Kirgizië
 KI,Kiribati
+UM,"Kleine afgelegen eilanden van de Verenigde Staten"
 KW,Koeweit
 HR,Kroatië
 LA,Laos
@@ -169,21 +170,21 @@ KP,Noord-Korea
 MP,"Noordelijke Marianeneilanden"
 NO,Noorwegen
 NF,Norfolkeiland
-QO,"Oceanië (overige)"
 UG,Oeganda
 UA,Oekraïne
 UZ,Oezbekistan
 OM,Oman
 TL,Oost-Timor
 AT,Oostenrijk
+QO,"Overig Oceanië"
 PK,Pakistan
 PW,Palau
-PS,"Palestijns Gebied"
+PS,"Palestijnse gebieden"
 PA,Panama
 PG,Papoea-Nieuw-Guinea
 PY,Paraguay
 PE,Peru
-PN,Pitcairn
+PN,Pitcairneilanden
 PL,Polen
 PT,Portugal
 PR,"Puerto Rico"
@@ -208,6 +209,7 @@ CS,"Servië en Montenegro"
 SC,Seychellen
 SL,"Sierra Leone"
 SG,Singapore
+SX,"Sint Maarten"
 SH,Sint-Helena
 MF,Sint-Maarten
 SI,Slovenië

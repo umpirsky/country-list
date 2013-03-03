@@ -3,8 +3,9 @@ CREATE TABLE country (id NVARCHAR(2) NOT NULL, name NVARCHAR(64) NOT NULL, PRIMA
 INSERT INTO [country] ([id], [name]) VALUES ('AW', 'آروبا');
 INSERT INTO [country] ([id], [name]) VALUES ('AZ', 'أذربيجان');
 INSERT INTO [country] ([id], [name]) VALUES ('AM', 'أرمينيا');
-INSERT INTO [country] ([id], [name]) VALUES ('ES', 'أسبانيا');
+INSERT INTO [country] ([id], [name]) VALUES ('ER', 'أريتريا');
 INSERT INTO [country] ([id], [name]) VALUES ('AU', 'أستراليا');
+INSERT INTO [country] ([id], [name]) VALUES ('EE', 'أستونيا');
 INSERT INTO [country] ([id], [name]) VALUES ('AF', 'أفغانستان');
 INSERT INTO [country] ([id], [name]) VALUES ('AL', 'ألبانيا');
 INSERT INTO [country] ([id], [name]) VALUES ('DE', 'ألمانيا');
@@ -19,16 +20,17 @@ INSERT INTO [country] ([id], [name]) VALUES ('QO', 'أوقيانوسيا الن�
 INSERT INTO [country] ([id], [name]) VALUES ('UA', 'أوكرانيا');
 INSERT INTO [country] ([id], [name]) VALUES ('IE', 'أيرلندا');
 INSERT INTO [country] ([id], [name]) VALUES ('IS', 'أيسلندا');
+INSERT INTO [country] ([id], [name]) VALUES ('ET', 'إثيوبيا');
+INSERT INTO [country] ([id], [name]) VALUES ('ES', 'إسبانيا');
 INSERT INTO [country] ([id], [name]) VALUES ('IL', 'إسرائيل');
-INSERT INTO [country] ([id], [name]) VALUES ('ET', 'اثيوبيا');
-INSERT INTO [country] ([id], [name]) VALUES ('ER', 'اريتريا');
-INSERT INTO [country] ([id], [name]) VALUES ('EE', 'استونيا');
+INSERT INTO [country] ([id], [name]) VALUES ('IR', 'إيران');
+INSERT INTO [country] ([id], [name]) VALUES ('IT', 'إيطاليا');
 INSERT INTO [country] ([id], [name]) VALUES ('AR', 'الأرجنتين');
 INSERT INTO [country] ([id], [name]) VALUES ('JO', 'الأردن');
 INSERT INTO [country] ([id], [name]) VALUES ('IO', 'الإقليم البريطاني في المحيط الهندي');
 INSERT INTO [country] ([id], [name]) VALUES ('EC', 'الإكوادور');
-INSERT INTO [country] ([id], [name]) VALUES ('EU', 'الاتحاد الاوروبي');
-INSERT INTO [country] ([id], [name]) VALUES ('AE', 'الامارات العربية المتحدة');
+INSERT INTO [country] ([id], [name]) VALUES ('AE', 'الإمارات العربية المتحدة');
+INSERT INTO [country] ([id], [name]) VALUES ('EU', 'الاتحاد الأوروبي');
 INSERT INTO [country] ([id], [name]) VALUES ('BS', 'الباهاما');
 INSERT INTO [country] ([id], [name]) VALUES ('BH', 'البحرين');
 INSERT INTO [country] ([id], [name]) VALUES ('BR', 'البرازيل');
@@ -52,6 +54,7 @@ INSERT INTO [country] ([id], [name]) VALUES ('PH', 'الفيلبين');
 INSERT INTO [country] ([id], [name]) VALUES ('AQ', 'القطب الجنوبي');
 INSERT INTO [country] ([id], [name]) VALUES ('CM', 'الكاميرون');
 INSERT INTO [country] ([id], [name]) VALUES ('CG', 'الكونغو - برازافيل');
+INSERT INTO [country] ([id], [name]) VALUES ('CD', 'الكونغو - كينشاسا');
 INSERT INTO [country] ([id], [name]) VALUES ('KW', 'الكويت');
 INSERT INTO [country] ([id], [name]) VALUES ('MA', 'المغرب');
 INSERT INTO [country] ([id], [name]) VALUES ('TF', 'المقاطعات الجنوبية الفرنسية');
@@ -67,14 +70,11 @@ INSERT INTO [country] ([id], [name]) VALUES ('JP', 'اليابان');
 INSERT INTO [country] ([id], [name]) VALUES ('YE', 'اليمن');
 INSERT INTO [country] ([id], [name]) VALUES ('GR', 'اليونان');
 INSERT INTO [country] ([id], [name]) VALUES ('ID', 'اندونيسيا');
-INSERT INTO [country] ([id], [name]) VALUES ('IR', 'ايران');
-INSERT INTO [country] ([id], [name]) VALUES ('IT', 'ايطاليا');
 INSERT INTO [country] ([id], [name]) VALUES ('PG', 'بابوا غينيا الجديدة');
 INSERT INTO [country] ([id], [name]) VALUES ('PY', 'باراغواي');
 INSERT INTO [country] ([id], [name]) VALUES ('PK', 'باكستان');
 INSERT INTO [country] ([id], [name]) VALUES ('PW', 'بالاو');
 INSERT INTO [country] ([id], [name]) VALUES ('BW', 'بتسوانا');
-INSERT INTO [country] ([id], [name]) VALUES ('PN', 'بتكايرن');
 INSERT INTO [country] ([id], [name]) VALUES ('BB', 'بربادوس');
 INSERT INTO [country] ([id], [name]) VALUES ('BM', 'برمودا');
 INSERT INTO [country] ([id], [name]) VALUES ('BN', 'بروناي');
@@ -108,7 +108,6 @@ INSERT INTO [country] ([id], [name]) VALUES ('TO', 'تونغا');
 INSERT INTO [country] ([id], [name]) VALUES ('TL', 'تيمور الشرقية');
 INSERT INTO [country] ([id], [name]) VALUES ('JM', 'جامايكا');
 INSERT INTO [country] ([id], [name]) VALUES ('GI', 'جبل طارق');
-INSERT INTO [country] ([id], [name]) VALUES ('GD', 'جرينادا');
 INSERT INTO [country] ([id], [name]) VALUES ('AX', 'جزر أولان');
 INSERT INTO [country] ([id], [name]) VALUES ('AN', 'جزر الأنتيل الهولندية');
 INSERT INTO [country] ([id], [name]) VALUES ('TC', 'جزر الترك وجايكوس');
@@ -116,8 +115,9 @@ INSERT INTO [country] ([id], [name]) VALUES ('KM', 'جزر القمر');
 INSERT INTO [country] ([id], [name]) VALUES ('KY', 'جزر الكايمن');
 INSERT INTO [country] ([id], [name]) VALUES ('IC', 'جزر الكناري');
 INSERT INTO [country] ([id], [name]) VALUES ('MH', 'جزر المارشال');
-INSERT INTO [country] ([id], [name]) VALUES ('MV', 'جزر الملديف');
+INSERT INTO [country] ([id], [name]) VALUES ('MV', 'جزر المالديف');
 INSERT INTO [country] ([id], [name]) VALUES ('UM', 'جزر الولايات المتحدة البعيدة الصغيرة');
+INSERT INTO [country] ([id], [name]) VALUES ('PN', 'جزر بيتكيرن');
 INSERT INTO [country] ([id], [name]) VALUES ('SB', 'جزر سليمان');
 INSERT INTO [country] ([id], [name]) VALUES ('FO', 'جزر فارو');
 INSERT INTO [country] ([id], [name]) VALUES ('VI', 'جزر فرجين الأمريكية');
@@ -133,13 +133,11 @@ INSERT INTO [country] ([id], [name]) VALUES ('BV', 'جزيرة بوفيه');
 INSERT INTO [country] ([id], [name]) VALUES ('CP', 'جزيرة كليبيرتون');
 INSERT INTO [country] ([id], [name]) VALUES ('IM', 'جزيرة مان');
 INSERT INTO [country] ([id], [name]) VALUES ('NF', 'جزيرة نورفوك');
-INSERT INTO [country] ([id], [name]) VALUES ('HM', 'جزيرة هيرد وماكدونالد');
-INSERT INTO [country] ([id], [name]) VALUES ('CF', 'جمهورية افريقيا الوسطى');
+INSERT INTO [country] ([id], [name]) VALUES ('HM', 'جزيرة هيرد وجزر ماكدونالد');
+INSERT INTO [country] ([id], [name]) VALUES ('CF', 'جمهورية أفريقيا الوسطى');
 INSERT INTO [country] ([id], [name]) VALUES ('CZ', 'جمهورية التشيك');
 INSERT INTO [country] ([id], [name]) VALUES ('DO', 'جمهورية الدومينيك');
-INSERT INTO [country] ([id], [name]) VALUES ('CD', 'جمهورية الكونغو الديمقراطية');
-INSERT INTO [country] ([id], [name]) VALUES ('ZA', 'جمهورية جنوب افريقيا');
-INSERT INTO [country] ([id], [name]) VALUES ('GT', 'جواتيمالا');
+INSERT INTO [country] ([id], [name]) VALUES ('ZA', 'جنوب أفريقيا');
 INSERT INTO [country] ([id], [name]) VALUES ('GP', 'جوادلوب');
 INSERT INTO [country] ([id], [name]) VALUES ('GE', 'جورجيا');
 INSERT INTO [country] ([id], [name]) VALUES ('GS', 'جورجيا الجنوبية وجزر ساندويتش الجنوبية');
@@ -185,9 +183,11 @@ INSERT INTO [country] ([id], [name]) VALUES ('TJ', 'طاجكستان');
 INSERT INTO [country] ([id], [name]) VALUES ('OM', 'عُمان');
 INSERT INTO [country] ([id], [name]) VALUES ('GM', 'غامبيا');
 INSERT INTO [country] ([id], [name]) VALUES ('GH', 'غانا');
+INSERT INTO [country] ([id], [name]) VALUES ('GD', 'غرينادا');
 INSERT INTO [country] ([id], [name]) VALUES ('GL', 'غرينلاند');
+INSERT INTO [country] ([id], [name]) VALUES ('GT', 'غواتيمالا');
 INSERT INTO [country] ([id], [name]) VALUES ('GU', 'غوام');
-INSERT INTO [country] ([id], [name]) VALUES ('GF', 'غويانا');
+INSERT INTO [country] ([id], [name]) VALUES ('GF', 'غويانا الفرنسية');
 INSERT INTO [country] ([id], [name]) VALUES ('GY', 'غيانا');
 INSERT INTO [country] ([id], [name]) VALUES ('GG', 'غيرنزي');
 INSERT INTO [country] ([id], [name]) VALUES ('GN', 'غينيا');
@@ -218,14 +218,13 @@ INSERT INTO [country] ([id], [name]) VALUES ('KE', 'كينيا');
 INSERT INTO [country] ([id], [name]) VALUES ('LV', 'لاتفيا');
 INSERT INTO [country] ([id], [name]) VALUES ('LA', 'لاوس');
 INSERT INTO [country] ([id], [name]) VALUES ('LB', 'لبنان');
-INSERT INTO [country] ([id], [name]) VALUES ('LU', 'لوكسمبورج');
+INSERT INTO [country] ([id], [name]) VALUES ('LU', 'لوكسمبورغ');
 INSERT INTO [country] ([id], [name]) VALUES ('LY', 'ليبيا');
 INSERT INTO [country] ([id], [name]) VALUES ('LR', 'ليبيريا');
 INSERT INTO [country] ([id], [name]) VALUES ('LT', 'ليتوانيا');
 INSERT INTO [country] ([id], [name]) VALUES ('LI', 'ليختنشتاين');
 INSERT INTO [country] ([id], [name]) VALUES ('LS', 'ليسوتو');
 INSERT INTO [country] ([id], [name]) VALUES ('MQ', 'مارتينيك');
-INSERT INTO [country] ([id], [name]) VALUES ('MO', 'ماكاو الصينية');
 INSERT INTO [country] ([id], [name]) VALUES ('MT', 'مالطا');
 INSERT INTO [country] ([id], [name]) VALUES ('ML', 'مالي');
 INSERT INTO [country] ([id], [name]) VALUES ('MY', 'ماليزيا');
@@ -233,6 +232,7 @@ INSERT INTO [country] ([id], [name]) VALUES ('YT', 'مايوت');
 INSERT INTO [country] ([id], [name]) VALUES ('MG', 'مدغشقر');
 INSERT INTO [country] ([id], [name]) VALUES ('EG', 'مصر');
 INSERT INTO [country] ([id], [name]) VALUES ('MK', 'مقدونيا');
+INSERT INTO [country] ([id], [name]) VALUES ('MO', 'مكاو الصينية [منطقة إدارية خاصة]');
 INSERT INTO [country] ([id], [name]) VALUES ('MW', 'ملاوي');
 INSERT INTO [country] ([id], [name]) VALUES ('MN', 'منغوليا');
 INSERT INTO [country] ([id], [name]) VALUES ('MR', 'موريتانيا');
@@ -254,4 +254,4 @@ INSERT INTO [country] ([id], [name]) VALUES ('HT', 'هايتي');
 INSERT INTO [country] ([id], [name]) VALUES ('HN', 'هندوراس');
 INSERT INTO [country] ([id], [name]) VALUES ('HU', 'هنغاريا');
 INSERT INTO [country] ([id], [name]) VALUES ('NL', 'هولندا');
-INSERT INTO [country] ([id], [name]) VALUES ('HK', 'هونج كونج الصينية');
+INSERT INTO [country] ([id], [name]) VALUES ('HK', 'هونغ كونغ الصينية');

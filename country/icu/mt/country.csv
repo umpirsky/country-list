@@ -12,7 +12,6 @@ AN,"Antilles Olandiżi"
 AR,Arġentina
 AM,Armenja
 AW,Aruba
-AC,"Ascension Island"
 AU,Awstralja
 AT,Awstrija
 AZ,Ażerbajġan
@@ -41,15 +40,11 @@ TD,Ċad
 CL,Ċili
 CN,Ċina
 CY,Ċipru
-IC,"Canary Islands"
-EA,"Ceuta and Melilla"
 CX,"Christmas Island"
-CP,"Clipperton Island"
 CC,"Cocos (Keeling) Islands"
 CK,"Cook Islands"
 DK,Danimarka
 CD,"Democratic Republic of the Congo"
-DG,"Diego Garcia"
 DM,Dominika
 EG,Eġittu
 EC,Ekwador
@@ -79,7 +74,6 @@ GN,Gineja
 GR,Greċja
 GD,Grenada
 GL,Grinlandja
-GG,Guernsey
 GY,Gujana
 GF,"Gujana Franċiża"
 GP,Gwadelupe
@@ -106,7 +100,6 @@ IM,"Isle of Man"
 IT,Italja
 IL,Iżrael
 YE,Jemen
-JE,Jersey
 KH,Kambodja
 CM,Kamerun
 CA,Kanada
@@ -153,7 +146,6 @@ FM,Mikronesja
 MM,Mjanmar
 MC,Monako
 MN,Mongolja
-ME,Montenegro
 MS,Montserrat
 MZ,Możambik
 NA,Namibja
@@ -169,7 +161,6 @@ NF,"Norfolk Island"
 NO,Norveġja
 NL,Olanda
 OM,Oman
-QO,"Outlying Oceania"
 PK,Pakistan
 PW,Palau
 PS,"Palestinian Territory"
@@ -191,10 +182,8 @@ RO,Rumanija
 RU,Russja
 RW,Rwanda
 EH,"Sahara tal-Punent"
-BL,"Saint Barthélemy"
 SH,"Saint Helena"
 KN,"Saint Kitts and Nevis"
-MF,"Saint Martin"
 PM,"Saint Pierre and Miquelon"
 VC,"Saint Vincent and the Grenadines"
 WS,Samoa
@@ -203,7 +192,6 @@ SM,"San Marino"
 LC,"Santa Luċija"
 ST,"Sao Tome and Principe"
 SN,Senegal
-RS,Serbia
 CS,"Serbja u Montenegro"
 SC,Seychelles
 SL,"Sierra Leone"
@@ -232,7 +220,6 @@ TG,Togo
 TK,Tokelaw
 TO,Tonga
 TT,"Trinidad u Tobago"
-TA,"Tristan da Cunha"
 TN,Tuneż
 TR,Turkija
 TM,Turkmenistan

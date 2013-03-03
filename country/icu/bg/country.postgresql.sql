@@ -97,7 +97,7 @@ INSERT INTO "country" ("id", "name") VALUES ('CY', 'Кипър');
 INSERT INTO "country" ("id", "name") VALUES ('KG', 'Киргизстан');
 INSERT INTO "country" ("id", "name") VALUES ('KI', 'Кирибати');
 INSERT INTO "country" ("id", "name") VALUES ('CN', 'Китай');
-INSERT INTO "country" ("id", "name") VALUES ('CC', 'Кокосови (Кийлинг) острови');
+INSERT INTO "country" ("id", "name") VALUES ('CC', 'Кокосови [Кийлинг] острови');
 INSERT INTO "country" ("id", "name") VALUES ('CO', 'Колумбия');
 INSERT INTO "country" ("id", "name") VALUES ('KM', 'Комори');
 INSERT INTO "country" ("id", "name") VALUES ('CG', 'Конго');
@@ -185,7 +185,7 @@ INSERT INTO "country" ("id", "name") VALUES ('UM', 'САЩ - външни ост
 INSERT INTO "country" ("id", "name") VALUES ('VI', 'САЩ, Вирджински острови');
 INSERT INTO "country" ("id", "name") VALUES ('SJ', 'Свалбард и Ян Майен');
 INSERT INTO "country" ("id", "name") VALUES ('SH', 'Света Елена');
-INSERT INTO "country" ("id", "name") VALUES ('VA', 'Свещено море (Ватиканска държава)');
+INSERT INTO "country" ("id", "name") VALUES ('VA', 'Свещено море [Ватиканска държава]');
 INSERT INTO "country" ("id", "name") VALUES ('KP', 'Северна Корея');
 INSERT INTO "country" ("id", "name") VALUES ('MP', 'Северни Мариански Острови');
 INSERT INTO "country" ("id", "name") VALUES ('BL', 'Сейнт Бартоломей');

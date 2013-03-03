@@ -170,7 +170,7 @@ INSERT INTO "country" ("id", "name") VALUES ('BN', 'ब्रुनेई');
 INSERT INTO "country" ("id", "name") VALUES ('IN', 'भारत');
 INSERT INTO "country" ("id", "name") VALUES ('BT', 'भूतान');
 INSERT INTO "country" ("id", "name") VALUES ('MN', 'मंगोलिया');
-INSERT INTO "country" ("id", "name") VALUES ('MO', 'मकाऊ SAR चीन');
+INSERT INTO "country" ("id", "name") VALUES ('MO', 'मकाओ एसएआर चायना');
 INSERT INTO "country" ("id", "name") VALUES ('MW', 'मलावी');
 INSERT INTO "country" ("id", "name") VALUES ('MY', 'मलेशिया');
 INSERT INTO "country" ("id", "name") VALUES ('MG', 'मादागास्कर');

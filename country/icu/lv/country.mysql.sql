@@ -1,4 +1,4 @@
-CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci ENGINE = InnoDB;
+CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
 
 INSERT INTO `country` (`id`, `name`) VALUES ('AF', 'Afganistāna');
 INSERT INTO `country` (`id`, `name`) VALUES ('AL', 'Albānija');
@@ -120,7 +120,7 @@ INSERT INTO `country` (`id`, `name`) VALUES ('CC', 'Kokosu jeb Kīlinga salas');
 INSERT INTO `country` (`id`, `name`) VALUES ('CO', 'Kolumbija');
 INSERT INTO `country` (`id`, `name`) VALUES ('KM', 'Komoru salas');
 INSERT INTO `country` (`id`, `name`) VALUES ('CG', 'Kongo - Brazavila');
-INSERT INTO `country` (`id`, `name`) VALUES ('CD', 'Kongo Demokrātiskā Republika');
+INSERT INTO `country` (`id`, `name`) VALUES ('CD', 'Kongo-Kinšasa');
 INSERT INTO `country` (`id`, `name`) VALUES ('CR', 'Kostarika');
 INSERT INTO `country` (`id`, `name`) VALUES ('CI', 'Kotdivuāra');
 INSERT INTO `country` (`id`, `name`) VALUES ('RU', 'Krievija');

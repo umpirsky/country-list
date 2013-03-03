@@ -2,20 +2,17 @@ AF: Afaganistan
 ZA: 'Afirka Ta Kudu'
 CI: 'Aibari Kwas'
 IS: Aisalan
-AX: 'Åland Islands'
 AL: Albaniya
 DZ: Aljeriya
 US: Amurka
 AD: Andora
 AI: Angila
 AO: Angola
-AQ: Antarctica
 AG: 'Antigwa da Barbuba'
 AN: 'Antiya Na Holan'
 AR: Arjantiniya
 AM: Armeniya
 AW: Aruba
-AC: 'Ascension Island'
 IE: Ayalan
 AZ: Azarbaijan
 BS: Bahamas
@@ -36,7 +33,6 @@ GB: Birtaniya
 VN: Biyetinam
 BO: Bolibiya
 BA: 'Bosniya Harzagobina'
-BV: 'Bouvet Island'
 BG: Bulgariya
 BF: 'Burkina Faso'
 MM: 'Burma, Miyamar'
@@ -45,27 +41,18 @@ BN: Burune
 BT: Butan
 TD: Cadi
 CN: 'Caina, Sin'
-IC: 'Canary Islands'
 CL: Cayile
-EA: 'Ceuta and Melilla'
-CX: 'Christmas Island'
-CP: 'Clipperton Island'
-CC: 'Cocos [Keeling] Islands'
 DK: Danmark
-DG: 'Diego Garcia'
 DM: Dominika
 EC: Ekwador
 SV: 'El Salbador'
 ER: Eritireya
 EE: Estoniya
-EU: 'European Union'
 FR: Faransa
-FO: 'Faroe Islands'
 FJ: Fiji
 PH: Filipin
 FI: Finlan
 PF: 'Folinesiya Ta Faransa'
-TF: 'French Southern Territories'
 GA: Gabon
 GM: Gambiya
 GH: Gana
@@ -76,7 +63,6 @@ GQ: 'Gini Ta Ikwaita'
 GR: Girka
 GD: Girnada
 GL: Grinlan
-GG: Guernsey
 GY: Guyana
 GP: Gwadaluf
 GU: Gwam
@@ -84,16 +70,13 @@ GT: Gwatamala
 ET: Habasha
 AE: 'Haɗaɗɗiyar Daular Larabawa'
 HT: Haiti
-HM: 'Heard Island and McDonald Islands'
 NL: Holan
 HN: Honduras
-HK: 'Hong Kong SAR China'
 HU: Hungari
 IN: Indiya
 ID: Indunusiya
 IQ: Iraƙi
 IR: Iran
-IM: 'Isle of Man'
 IT: Italiya
 IL: 'Izira''ila'
 JM: Jamaika
@@ -103,7 +86,6 @@ CD: 'Jamhuriyar Dimokuraɗiyyar Kongo'
 DO: 'Jamhuriyar Dominika'
 DE: Jamus
 JP: Japan
-JE: Jersey
 GI: Jibaraltar
 DJ: Jibuti
 GE: Jiwarjiya
@@ -136,7 +118,6 @@ LY: Libiya
 LI: Licansitan
 LT: Lituweniya
 LU: Lukusambur
-MO: 'Macau SAR China'
 MG: Madagaskar
 MX: Makasiko
 MY: Malaisiya
@@ -154,7 +135,6 @@ MK: Masedoniya
 YT: Mayoti
 FM: Mikuronesiya
 MC: Monako
-ME: Montenegro
 MR: Moritaniya
 MU: Moritus
 MZ: Mozambik
@@ -170,7 +150,6 @@ NZ: Nuzilan
 OM: Oman
 AU: Ostareliya
 AT: Ostiriya
-QO: 'Outlying Oceania'
 PK: Pakistan
 PS: Palasɗinu
 PW: Palau
@@ -186,8 +165,6 @@ RU: Rasha
 RE: Rawuniyan
 RO: Romaniya
 RW: Ruwanda
-BL: 'Saint Barthélemy'
-MF: 'Saint Martin'
 SC: Saishal
 SL: Salewo
 WS: Samowa
@@ -200,14 +177,12 @@ SM: 'San Marino'
 PM: 'San Piyar Da Mikelan'
 CS: 'Sarbiya Da Mantanegiro'
 ST: 'Sawo Tome Da Paransip'
-RS: Serbia
 CY: Sifurus
 SG: Singapur
 SN: Sinigal
 ES: Sipen
 LK: 'Siri Lanka'
 SO: Somaliya
-GS: 'South Georgia and the South Sandwich Islands'
 SD: Sudan
 SK: Sulobakiya
 SI: Sulobeniya
@@ -215,7 +190,6 @@ SR: Suriname
 SZ: Suwazilan
 SE: Suwedan
 CH: Suwizalan
-SJ: 'Svalbard and Jan Mayen'
 SY: 'Sham, Siriya'
 TH: Tailan
 TW: Taiwan
@@ -226,7 +200,6 @@ TZ: Tanzaniya
 TL: 'Timor Ta Gabas'
 TT: 'Tirinidad Da Tobago'
 TG: Togo
-TA: 'Tristan da Cunha'
 TV: Tubalu
 TN: Tunisiya
 TC: 'Turkis Da Tsibiran Kaikwas'
@@ -242,10 +215,8 @@ MH: 'Tsibiran Marshal'
 SB: 'Tsibiran Salaman'
 VG: 'Tsibirin Birjin Na Birtaniya'
 NF: 'Tsibirin Narfalk'
-UM: 'U.S. Minor Outlying Islands'
 UZ: Uzubekistan
 WF: 'Walis Da Futuna'
-EH: 'Western Sahara'
 YE: Yamal
 IO: 'Yankin Birtaniya Na Tekun Indiya'
 UG: Yuganda

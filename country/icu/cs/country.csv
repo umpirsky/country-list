@@ -7,13 +7,12 @@ AS,"Americká Samoa"
 VI,"Americké Panenské ostrovy"
 AD,Andorra
 AO,Angola
-AI,Anguila
+AI,Anguilla
 AQ,Antarktida
 AG,"Antigua a Barbuda"
 AR,Argentina
 AM,Arménie
 AW,Aruba
-AC,"Ascension Island"
 AU,Austrálie
 AZ,Ázerbájdžán
 BS,Bahamy
@@ -29,30 +28,28 @@ BT,Bhútán
 BO,Bolívie
 BA,"Bosna a Hercegovina"
 BW,Botswana
+BV,"Bouvetův ostrov"
 BR,Brazílie
+IO,"Britské indickooceánské území"
 VG,"Britské Panenské ostrovy"
-IO,"Britské území v Indickém oceánu"
-BN,"Brunej Darussalam"
+BN,Brunej
 BG,Bulharsko
 BF,"Burkina Faso"
 BI,Burundi
-IC,"Canary Islands"
-EA,"Ceuta and Melilla"
-CP,"Clipperton Island"
+EA,"Ceuta a Melilla"
+CP,"Clippertonův ostrov"
 CK,"Cookovy ostrovy"
 TD,Čad
 ME,"Černá Hora"
 CZ,"Česká republika"
 CN,Čína
 DK,Dánsko
-CD,"Demokratická republika Kongo"
 DG,"Diego Garcia"
 DM,Dominika
 DO,"Dominikánská republika"
-DJ,Džibuti
+DJ,Džibutsko
 EG,Egypt
 EC,Ekvádor
-SV,"El Salvador"
 ER,Eritrea
 EE,Estonsko
 ET,Etiopie
@@ -81,8 +78,9 @@ GN,Guinea
 GW,Guinea-Bissau
 GY,Guyana
 HT,Haiti
+HM,"Heardův ostrov a McDonaldovy ostrovy"
 HN,Honduras
-HK,"Hongkong, zvláštní administrativní oblast Číny"
+HK,"Hongkong - zvláštní administrativní oblast Číny"
 CL,Chile
 HR,Chorvatsko
 IN,Indie
@@ -105,6 +103,7 @@ KY,"Kajmanské ostrovy"
 KH,Kambodža
 CM,Kamerun
 CA,Kanada
+IC,"Kanárské ostrovy"
 CV,Kapverdy
 QA,Katar
 KZ,Kazachstán
@@ -113,27 +112,29 @@ KI,Kiribati
 CC,"Kokosové ostrovy"
 CO,Kolumbie
 KM,Komory
-CG,Kongo
+CG,"Kongo - Brazzaville"
+CD,"Kongo - Kinshasa"
 CR,Kostarika
 CU,Kuba
 KW,Kuvajt
 CY,Kypr
 KG,Kyrgyzstán
+LA,Laos
 LS,Lesotho
 LB,Libanon
 LR,Libérie
 LY,Libye
-LA,"Lidově demokratická republika Laos"
 LI,Lichtenštejnsko
 LT,Litva
 LV,Lotyšsko
 LU,Lucembursko
-MK,Macedonia
+MO,"Macao - zvláštní administrativní oblast Číny"
 MG,Madagaskar
 HU,Maďarsko
-MV,Maladivy
+MK,Makedonie
 MY,Malajsie
 MW,Malawi
+MV,Maledivy
 ML,Mali
 MT,Malta
 MA,Maroko
@@ -144,8 +145,8 @@ MR,Mauritánie
 YT,Mayotte
 UM,"Menší odlehlé ostrovy USA"
 MX,Mexiko
-FM,Mikronézie
-MD,"Moldavsko, republika"
+FM,Mikronésie
+MD,Moldavsko
 MC,Monako
 MN,Mongolsko
 MS,Montserrat
@@ -166,18 +167,17 @@ NO,Norsko
 NC,"Nová Kaledonie"
 NZ,"Nový Zéland"
 OM,Omán
-BV,"Ostrov Bouvet"
+AC,"Ostrov Ascension"
 IM,"Ostrov Man"
-TC,"Ostrovy Caicos a Turks"
-HM,"Ostrovy Heard a McDonald"
+TC,"Ostrovy Turks a Caicos"
 PK,Pákistán
 PW,Palau
-PS,"Palestinian Territory"
+PS,"Palestinská území"
 PA,Panama
 PG,"Papua-Nová Guinea"
 PY,Paraguay
 PE,Peru
-PN,Pitcairn
+PN,"Pitcairnovy ostrovy"
 CI,"Pobřeží slonoviny"
 PL,Polsko
 PR,Portoriko
@@ -189,7 +189,7 @@ RO,Rumunsko
 RU,Rusko
 RW,Rwanda
 GR,Řecko
-BL,"Saint Barthélemy"
+SV,Salvador
 WS,Samoa
 SM,"San Marino"
 SA,"Saúdská Arábie"
@@ -210,19 +210,19 @@ LK,"Srí Lanka"
 CF,"Středoafrická republika"
 SD,Súdán
 SR,Surinam
-SJ,"Svalbard a Jan Mayen"
 SH,"Svatá Helena"
 LC,"Svatá Lucie"
+BL,"Svatý Bartoloměj"
 KN,"Svatý Kitts a Nevis"
 MF,"Svatý Martin"
 PM,"Svatý Pierre a Miquelon"
-VA,"Svatý stolec"
 ST,"Svatý Tomáš"
-VC,"Svatý Vincent a Grenadiny"
+VC,"Svatý Vincenc a Grenadiny"
 SZ,Svazijsko
 SY,Sýrie
 SB,"Šalamounovy ostrovy"
 ES,Španělsko
+SJ,"Špicberky a Jan Mayen"
 SE,Švédsko
 CH,Švýcarsko
 TJ,Tádžikistán
@@ -244,6 +244,7 @@ UY,Uruguay
 UZ,Uzbekistán
 CX,"Vánoční ostrovy"
 VU,Vanuatu
+VA,Vatikán
 GB,"Velká Británie"
 VE,Venezuela
 VN,Vietnam
@@ -253,4 +254,3 @@ WF,"Wallis a Futuna"
 ZM,Zambie
 EH,"Západní Sahara"
 ZW,Zimbabwe
-MO,"Zvláštní administrativní oblast Číny Macao"

@@ -1,8 +1,6 @@
 AF: Afganujo
-AX: 'Åland Islands'
 AL: Albanujo
 DZ: Alĝerio
-AS: 'American Samoa'
 AD: Andoro
 AO: Angolo
 AI: Angvilo
@@ -11,7 +9,6 @@ AG: Antigvo-Barbudo
 AR: Argentino
 AM: Armenujo
 AW: Arubo
-AC: 'Ascension Island'
 AU: Aŭstralio
 AT: Aŭstrujo
 AZ: Azerbajĝano
@@ -28,7 +25,6 @@ BM: Bermudoj
 BW: Bocvano
 BO: Bolivio
 BA: Bosnio-Hercegovino
-BV: 'Bouvet Island'
 BR: Brazilo
 IO: 'Brita Hindoceana Teritorio'
 VG: 'Britaj Virgulininsuloj'
@@ -37,19 +33,12 @@ BG: Bulgarujo
 BF: Burkino
 BI: Burundo
 BT: Butano
-IC: 'Canary Islands'
 CF: 'Centr-Afrika Respubliko'
-EA: 'Ceuta and Melilla'
-CX: 'Christmas Island'
-CP: 'Clipperton Island'
-CC: 'Cocos [Keeling] Islands'
-CD: 'Congo - Kinshasa'
 TD: Ĉado
 CZ: Ĉeĥujo
 CL: Ĉilio
 CN: Ĉinujo
 DK: Danujo
-DG: 'Diego Garcia'
 DO: Domingo
 DM: Dominiko
 CI: Ebur-Bordo
@@ -59,8 +48,6 @@ GQ: 'Ekvatora Gvineo'
 ER: Eritreo
 EE: Estonujo
 ET: Etiopujo
-EU: 'European Union'
-FK: 'Falkland Islands'
 FO: Ferooj
 FJ: Fiĝoj
 PH: Filipinoj
@@ -68,7 +55,6 @@ FI: Finnlando
 GF: 'Franca Gviano'
 PF: 'Franca Polinezio'
 FR: Francujo
-TF: 'French Southern Territories'
 GA: Gabono
 GM: Gambio
 GH: Ganao
@@ -76,7 +62,6 @@ DE: Germanujo
 GR: Grekujo
 GD: Grenado
 GL: Gronlando
-GG: Guernsey
 GY: Gujano
 GP: Gvadelupo
 GU: Gvamo
@@ -90,20 +75,17 @@ HM: 'Herda kaj Makdonaldaj Insuloj'
 IN: Hindujo
 ES: Hispanujo
 HN: Honduro
-HK: 'Hong Kong SAR China'
 HU: Hungarujo
 ID: Indonezio
 IQ: Irako
 IR: Irano
 IE: Irlando
 IS: Islando
-IM: 'Isle of Man'
 IL: Israelo
 IT: Italujo
 JM: Jamajko
 JP: Japanujo
 YE: Jemeno
-JE: Jersey
 JO: Jordanio
 CV: Kabo-Verdo
 KH: Kamboĝo
@@ -134,7 +116,6 @@ LY: Libio
 LI: Liĥtenŝtejno
 LT: Litovujo
 LU: Luksemburgo
-MO: 'Macau SAR China'
 MG: Madagaskaro
 YT: Majoto
 MK: Makedonujo
@@ -154,8 +135,6 @@ MM: Mjanmao
 MD: Moldavujo
 MC: Monako
 MN: Mongolujo
-ME: Montenegro
-MS: Montserrat
 MZ: Mozambiko
 NA: Namibio
 NR: Nauro
@@ -174,9 +153,7 @@ NC: Nov-Kaledonio
 NZ: Nov-Zelando
 EH: 'Okcidenta Saharo'
 OM: Omano
-QO: 'Outlying Oceania'
 PK: Pakistano
-PS: 'Palestinian Territories'
 PA: Panamo
 PG: Papuo-Nov-Gvineo
 PY: Paragvajo
@@ -189,8 +166,6 @@ RE: Reunio
 RW: Ruando
 RO: Rumanujo
 RU: Rusujo
-BL: 'Saint Barthélemy'
-MF: 'Saint Martin'
 SB: Salomonoj
 SV: Salvadoro
 WS: Samoo
@@ -204,8 +179,6 @@ KN: 'Sent-Kristofo kaj Neviso'
 LC: Sent-Lucio
 PM: 'Sent-Piero kaj Mikelono'
 VC: 'Sent-Vincento kaj la Grenadinoj'
-RS: Serbia
-CS: 'Serbia and Montenegro'
 SL: Siera-Leono
 SG: Singapuro
 SY: Sirio
@@ -226,15 +199,11 @@ TJ: Taĝikujo
 TH: Tajlando
 TW: Tajvano
 TZ: Tanzanio
-TL: Timor-Leste
 TG: Togolo
-TK: Tokelau
 TO: Tongo
 TT: 'Trinidado kaj Tobago'
-TA: 'Tristan da Cunha'
 TN: Tunizio
 TM: Turkmenujo
-TC: 'Turks and Caicos Islands'
 TR: Turkujo
 TV: Tuvalo
 UG: Ugando

@@ -1,4 +1,4 @@
-CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci ENGINE = InnoDB;
+CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
 
 INSERT INTO `country` (`id`, `name`) VALUES ('AF', 'Afganistan');
 INSERT INTO `country` (`id`, `name`) VALUES ('AX', 'Ahvenanmaa');
@@ -59,7 +59,6 @@ INSERT INTO `country` (`id`, `name`) VALUES ('ZA', 'Etelä-Afrikka');
 INSERT INTO `country` (`id`, `name`) VALUES ('GS', 'Etelä-Georgia ja Eteläiset Sandwichsaaret');
 INSERT INTO `country` (`id`, `name`) VALUES ('KR', 'Etelä-Korea');
 INSERT INTO `country` (`id`, `name`) VALUES ('ET', 'Etiopia');
-INSERT INTO `country` (`id`, `name`) VALUES ('EU', 'EU');
 INSERT INTO `country` (`id`, `name`) VALUES ('FK', 'Falklandinsaaret');
 INSERT INTO `country` (`id`, `name`) VALUES ('FJ', 'Fidži');
 INSERT INTO `country` (`id`, `name`) VALUES ('PH', 'Filippiinit');
@@ -153,7 +152,7 @@ INSERT INTO `country` (`id`, `name`) VALUES ('MN', 'Mongolia');
 INSERT INTO `country` (`id`, `name`) VALUES ('ME', 'Montenegro');
 INSERT INTO `country` (`id`, `name`) VALUES ('MS', 'Montserrat');
 INSERT INTO `country` (`id`, `name`) VALUES ('MZ', 'Mosambik');
-INSERT INTO `country` (`id`, `name`) VALUES ('MM', 'Myanmar');
+INSERT INTO `country` (`id`, `name`) VALUES ('MM', 'Myanmar [Burma]');
 INSERT INTO `country` (`id`, `name`) VALUES ('NA', 'Namibia');
 INSERT INTO `country` (`id`, `name`) VALUES ('NR', 'Nauru');
 INSERT INTO `country` (`id`, `name`) VALUES ('NP', 'Nepal');

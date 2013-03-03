@@ -1,31 +1,28 @@
 IE: Aelandi
 ZA: 'Afrika ya Southi'
 AF: Afuganistani
-SB: 'Airandi Cia  Solomon'
-VI: 'Aĩrandi cia  Virgin cia Amerika'
 CK: 'Aĩrandi cia Cook'
 FK: 'Aĩrandi cia Falklandi'
 KY: 'Aĩrandi cia Kayman'
 MP: 'Aĩrandi cia Mariana ya nothi'
 MH: 'Aĩrandi cia Marshal'
 NF: 'Aĩrandi cia Norfok'
+SB: 'Airandi Cia Solomon'
 TC: 'Aĩrandi cia Takĩ na Kaiko'
+VI: 'Aĩrandi cia Virgin cia Amerika'
 VG: 'Aĩrandi cia Virgin cia Ngeretha'
 IS: Aisilandi
 AR: Ajentina
-AX: 'Åland Islands'
 AL: Alubania
 US: Amerika
 AD: Andora
 DZ: Angiria
 AO: Angola
 AI: Anguilla
-AQ: Antarctica
 AG: 'Antigua na Barbuda'
 AN: 'Antili cia Holandi'
 AM: Armenia
 AW: Aruba
-AC: 'Ascension Island'
 AT: Austiria
 AU: Austrĩlia
 AZ: Azebaijani
@@ -41,7 +38,6 @@ BE: Beronjiamu
 BO: Bolivia
 BA: 'Bosnia na Hezegovina'
 BW: Botswana
-BV: 'Bouvet Island'
 BR: Brazilu
 BN: Brunei
 BF: Bukinafaso
@@ -49,29 +45,20 @@ BG: Bulgaria
 BI: Burundi
 BT: Butani
 CY: Caipurasi
-IC: 'Canary Islands'
-EA: 'Ceuta and Melilla'
 TD: Chadi
 CL: Chile
 CN: China
-CX: 'Christmas Island'
-CP: 'Clipperton Island'
-CC: 'Cocos [Keeling] Islands'
 DK: Denimaki
-DG: 'Diego Garcia'
 DM: Dominika
 EC: Ekwado
 SV: Elsavado
 ER: Eritrea
 EE: Estonia
-EU: 'European Union'
 AE: 'Falme cia Kiarabu'
-FO: 'Faroe Islands'
 FJ: Fiji
 PH: Filipino
 FI: Finilandi
 FR: Fransi
-TF: 'French Southern Territories'
 GA: Gaboni
 GM: Gambia
 GH: Ghana
@@ -79,7 +66,6 @@ GN: Gine
 GQ: 'Gine ya Iquita'
 GW: Ginebisau
 GD: Grenada
-GG: Guernsey
 GY: Guyana
 GP: Gwadelupe
 GU: Gwam
@@ -87,21 +73,17 @@ GT: Gwatemala
 GF: 'Gwiyana ya Fransi'
 HT: Haiti
 HU: Hangarĩ
-HM: 'Heard Island and McDonald Islands'
 NL: Holandi
 HN: Hondurasi
-HK: 'Hong Kong SAR China'
 IN: India
 ID: Indonesia
 IQ: Iraki
 IR: Irani
 IL: Isiraeli
-IM: 'Isle of Man'
 IT: Italĩ
 ET: Ithiopia
 JM: Jamaika
 JP: Japani
-JE: Jersey
 DJ: Jibuti
 GE: Jojia
 JO: Jorondani
@@ -134,7 +116,6 @@ LY: Lĩbia
 LI: Lishenteni
 LT: Lithuania
 LU: Luxembogu
-MO: 'Macau SAR China'
 MK: Macedonia
 MG: Madagasika
 MW: Malawi
@@ -152,7 +133,6 @@ MV: Modivu
 MD: Moldova
 MC: Monako
 MN: Mongolia
-ME: Montenegro
 MS: Montserrati
 MA: Moroko
 MZ: Mozambiki
@@ -177,7 +157,6 @@ CZ: 'Nthĩ ya Cheki'
 DO: 'Nthĩ ya Dominika'
 CD: 'Nthĩ ya Kidemokrasĩ ya Kongo'
 OM: Omani
-QO: 'Outlying Oceania'
 PK: Pakistani
 PW: Palau
 PA: Panama
@@ -195,8 +174,6 @@ RO: Romania
 PS: 'Rũtere rwa Westi banki na Gaza cia Palestina'
 RW: Rwanda
 CS: 'Sabia na Montenegoro'
-BL: 'Saint Barthélemy'
-MF: 'Saint Martin'
 SM: Samarino
 WS: Samoa
 AS: 'Samoa ya Amerika'
@@ -208,7 +185,6 @@ VC: 'Santavisenti na Grenadini'
 ST: 'Sao Tome na Principe'
 SA: Saudi
 SN: Senego
-RS: Serbia
 SC: Shelisheli
 SL: 'Siera Leoni'
 SG: Singapoo
@@ -217,11 +193,9 @@ LK: Sirilanka
 SK: Slovakia
 SI: Slovenia
 SO: Somalia
-GS: 'South Georgia and the South Sandwich Islands'
 ES: Spĩni
 SD: Sudani
 SR: Surinamu
-SJ: 'Svalbard and Jan Mayen'
 SZ: Swazilandi
 SE: Swideni
 CH: Swizilandi
@@ -235,11 +209,9 @@ TG: Togo
 TK: Tokelau
 TO: Tonga
 TT: 'Trinidad na Tobago'
-TA: 'Tristan da Cunha'
 TM: Tukumenistani
 TN: Tunisia
 TV: Tuvalu
-UM: 'U.S. Minor Outlying Islands'
 UG: Uganda
 UA: Ukirĩni
 UY: Urugwĩ
@@ -249,7 +221,6 @@ VA: Vatikani
 VE: Venezuela
 VN: Vietinamu
 WF: 'Walis na Futuna'
-EH: 'Western Sahara'
 YE: Yemeni
 ZM: Zambia
 ZW: Zimbabwe

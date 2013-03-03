@@ -3,19 +3,16 @@ ZA,"Afɨrɨka ya Saame"
 AF,Afuganisitáani
 IS,Aisiláandi
 AR,Ajentíina
-AX,"Åland Islands"
 DZ,Alijéria
 AL,Alubánia
 US,Amerɨka
 AD,Andóra
 AO,Angóola
 AI,Anguíila
-AQ,Antarctica
 AG,"Antigúua na Baribúuda"
 AN,"Antili ya Ʉholáanzi"
 AM,Ariménia
 AW,Arúuba
-AC,"Ascension Island"
 AU,Ausiteréelia
 AT,Áusitiria
 IE,Ayaláandi
@@ -31,7 +28,6 @@ BM,Berimúuda
 BO,Bolívia
 BA,Bósinia
 BW,Botiswáana
-BV,"Bouvet Island"
 BR,Brasíili
 MG,Bukíini
 BF,Bukinafáaso
@@ -39,24 +35,15 @@ BG,Buligaría
 BN,Burunéei
 BI,Burúundi
 BT,Butáani
-IC,"Canary Islands"
-EA,"Ceuta and Melilla"
 TD,Cháadi
 CL,Chíile
 CN,Chíina
-CX,"Christmas Island"
-CP,"Clipperton Island"
-CC,"Cocos [Keeling] Islands"
 DK,Denimaki
-DG,"Diego Garcia"
 DM,Domínɨka
 SV,Elisalivado
 ER,Eriterea
 EE,Estonía
-EU,"European Union"
-FO,"Faroe Islands"
 FJ,Fíiji
-TF,"French Southern Territories"
 GH,Gáana
 GA,Gabóoni
 GM,Gámbia
@@ -65,24 +52,20 @@ GW,"Gíine Bisáau"
 GQ,"Gíine Ikwéeta"
 GD,Girenáada
 GL,Giriniláandi
-GG,Guernsey
 GY,Guyáana
 GP,Gwadelúupe
 GU,Gwani
 GT,Gwatemáala
 GF,"Gwiyáana yʉ Ʉfaráansa"
 HT,Haíiti
-HM,"Heard Island and McDonald Islands"
 ES,Hisipánia
 HN,Honduráasi
-HK,"Hong Kong SAR China"
 HU,Hungária
 EC,Íkwado
 IN,Índia
 ID,Indonésia
 IQ,Iráaki
 IL,Isiraéeli
-IM,"Isle of Man"
 IT,Itália
 CI,"Ivori Kositi"
 IO,"Ɨsɨ yʉ Ʉɨngeréesa irivii ra Híindi"
@@ -91,7 +74,6 @@ CZ,"Jamuhúuri ya Chéeki"
 DO,"Jamuhúuri ya Dominɨka"
 CD,"Jamuhúuri ya Kɨdemokurasía ya Kóongo"
 JP,Japáani
-JE,Jersey
 GI,Jiburálita
 DJ,Jibúuti
 JO,Jódani
@@ -128,7 +110,6 @@ LR,Liibéria
 LI,Lishentéeni
 LT,Lisuánia
 ML,Máali
-MO,"Macau SAR China"
 MW,Maláawi
 MY,Maleísia
 MT,Málita
@@ -143,7 +124,6 @@ MV,Modíivu
 MD,Molidóova
 MC,Monáako
 MN,Mongólia
-ME,Montenegro
 MS,Monteráati
 MU,Moríisi
 MR,Moritánia
@@ -165,7 +145,6 @@ NU,Niúue
 NO,Norwe
 NZ,Nyuzílandi
 OM,Ómani
-QO,"Outlying Oceania"
 PK,Pakisitáani
 PW,Paláau
 PA,Panáama
@@ -179,8 +158,6 @@ PR,Pwetorɨ́ɨko
 RE,Reyunióoni
 RO,Romaníia
 RW,Rwáanda
-BL,"Saint Barthélemy"
-MF,"Saint Martin"
 SM,Samaríino
 ZM,Sámbia
 WS,Samóoa
@@ -190,19 +167,16 @@ SA,"Saudíia Arabíia"
 CS,"Sebíia na Montégiro"
 SN,Senegáali
 SL,Seraleóoni
-RS,Serbia
 SC,Shelishéeli
 ZW,Simbáabwe
 SG,Singapoo
 SY,Síria
 LK,Siriláanka
 SO,Somália
-GS,"South Georgia and the South Sandwich Islands"
 SD,Sudáani
 SK,Sulováakia
 SI,Sulovénia
 SR,Surináamu
-SJ,"Svalbard and Jan Mayen"
 TZ,Taansanía
 TH,Táilandi
 TW,Taiwáani
@@ -212,10 +186,8 @@ TT,"Tiriníida ya Tobáago"
 TK,Tokeláau
 TG,Tóogo
 TO,Tóonga
-TA,"Tristan da Cunha"
 TN,Tunísia
 TV,Tuváalu
-UM,"U.S. Minor Outlying Islands"
 FI,Ufíini
 PH,Ufilipíino
 GR,Ugiríki
@@ -252,5 +224,4 @@ VI,"Visíiwa vya Vigíini vya Amerɨ́ka"
 VG,"Visíiwa vya Vigíini vya Ʉɨngeréesa"
 MP,"Visiwa vya Mariana vya Kaskazini"
 WF,"Walíisi na Futúuna"
-EH,"Western Sahara"
 YE,Yémeni

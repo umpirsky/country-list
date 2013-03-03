@@ -16,10 +16,10 @@ AW: Aruba
 AC: Ascensão
 AU: Austrália
 AT: Áustria
-AZ: Azerbeijão
-BS: Baamas
+AZ: Azerbaijão
+BS: Bahamas
 BH: Bahrein
-BD: Bangladeche
+BD: Bangladesh
 BB: Barbados
 BE: Bélgica
 BZ: Belize
@@ -28,7 +28,7 @@ BM: Bermudas
 BY: Bielorrússia
 BO: Bolívia
 BA: Bósnia-Herzegovina
-BW: Botsuana
+BW: Botswana
 BR: Brasil
 BN: Brunei
 BG: Bulgária
@@ -36,9 +36,9 @@ BF: Burkina-Faso
 BI: Burundi
 BT: Butão
 CV: 'Cabo Verde'
+CM: Camarões
 KH: Camboja
 CA: Canadá
-QA: Catar
 KZ: Cazaquistão
 EA: 'Ceuta e Melilha'
 TD: Chade
@@ -103,20 +103,20 @@ IM: 'Ilha de Man'
 CX: 'Ilha do Natal'
 HM: 'Ilha Heard e Ilhas McDonald'
 NF: 'Ilha Norfolk'
-AX: 'Ilhas Aland'
+AX: 'Ilhas Åland'
 KY: 'Ilhas Caimão'
 IC: 'Ilhas Canárias'
 CC: 'Ilhas Cocos'
 CK: 'Ilhas Cook'
 FK: 'Ilhas Falkland'
-FO: 'Ilhas Faroe'
+FO: 'Ilhas Faroé'
 MP: 'Ilhas Mariana do Norte'
 MH: 'Ilhas Marshall'
 UM: 'Ilhas Menores Distantes dos Estados Unidos'
 SB: 'Ilhas Salomão'
 TC: 'Ilhas Turcas e Caicos'
 VG: 'Ilhas Virgens Britânicas'
-VI: 'Ilhas Virgin E.U.A.'
+VI: 'Ilhas Virgens E.U.A.'
 IN: Índia
 ID: Indonésia
 IR: Irão
@@ -142,7 +142,7 @@ LU: Luxemburgo
 MK: Macedónia
 MG: Madagáscar
 MY: Malásia
-MW: Malavi
+MW: Malawi
 MV: Maldivas
 ML: Mali
 MT: Malta
@@ -157,8 +157,8 @@ MZ: Moçambique
 MD: 'Moldávia, República da'
 MC: Mónaco
 MN: Mongólia
+MS: Monserrate
 ME: Montenegro
-MS: Montserrat
 NA: Namíbia
 NR: Nauru
 NP: Nepal
@@ -183,6 +183,7 @@ PF: 'Polinésia Francesa'
 PL: Polónia
 PR: 'Porto Rico'
 PT: Portugal
+QA: Qatar
 KE: Quénia
 KG: Quirguizistão
 KI: Quiribati
@@ -192,7 +193,6 @@ GB: 'Reino Unido'
 CF: 'República Centro-Africana'
 CZ: 'República Checa'
 DO: 'República Dominicana'
-CM: 'República dos Camarões'
 RE: Reunião
 RO: Roménia
 RW: Ruanda
@@ -245,7 +245,7 @@ UA: Ucrânia
 UG: Uganda
 EU: 'União Europeia'
 UY: Uruguai
-UZ: Uzbequistão
+UZ: Usbequistão
 VU: Vanuatu
 VA: Vaticano
 VE: Venezuela

@@ -14,7 +14,6 @@ AI,Anguilla
 AT,Áo
 AF,Áp-ga-ni-xtan
 AW,Aruba
-AC,"Ascension Island"
 AO,Ăng-gô-la
 IN,"Ấn Độ"
 PL,"Ba Lan"
@@ -29,7 +28,6 @@ BY,Bê-la-rút
 BZ,Bê-li-xê
 BJ,Bê-nanh
 BE,Bỉ
-BL,BL
 PT,"Bồ Đào Nha"
 BO,Bô-li-vi-a
 BA,"Bô-xni-a Héc-xê-gô-vi-na"
@@ -47,11 +45,9 @@ QA,Ca-ta
 UM,"Các đảo nhỏ xa trung tâm thuộc Mỹ"
 AE,"Các Tiểu Vương quốc A-rập Thống nhất"
 KH,Campuchia
-IC,"Canary Islands"
 CV,Cáp-ve
-EA,"Ceuta and Melilla"
+EA,"Ceuta và Melilla"
 CL,Chi-lê
-CP,"Clipperton Island"
 CO,Cô-lôm-bi-a
 KM,Cô-mô
 KW,Cô-oét
@@ -70,7 +66,9 @@ ZW,Dim-ba-bu-ê
 DM,Dominica
 TW,"Đài Loan"
 DK,"Đan Mạch"
+AC,"Đảo Ascension"
 BV,"Đảo Bouvet (Na Uy)"
+CP,"Đảo Clipperton"
 CX,"Đảo Giáng Sinh"
 GU,"Đảo Gu-am"
 HM,"Đảo Heard và Quần đảo McDonald"
@@ -137,7 +135,6 @@ MK,Ma-xê-đô-ni-a
 MV,Man-đi-vơ
 MT,Man-ta
 MX,Mê-hi-cô
-MF,MF
 MM,Mi-an-ma
 FM,Mi-crô-nê-xi-a
 ME,Montenegro
@@ -148,7 +145,6 @@ MR,Mô-ri-ta-ni
 MU,Mô-ri-xơ
 MD,Môn-đô-va
 MN,"Mông Cổ"
-MQ,MQ
 NO,"Na Uy"
 AQ,"Nam Cực"
 ID,"Nam Dương"
@@ -175,11 +171,11 @@ FR,Pháp
 FI,"Phần Lan"
 FJ,Phi-gi
 PH,Phi-lip-pin
-PN,"Pitcairn Islands"
 PF,"Polynesia thuộc Pháp"
 PR,"Puerto Rico"
 AX,"Quần đảo Aland"
 MP,"Quần Đảo Bắc Mariana"
+IC,"Quần đảo Canary"
 KY,"Quần Đảo Cayman"
 CC,"Quần đảo Cocos"
 CK,"Quần Đảo Cook"
@@ -187,11 +183,11 @@ FK,"Quần Đảo Falkland"
 FO,"Quần Đảo Faroe"
 MH,"Quần đảo Mác-san"
 GS,"Quần đảo Nam Georgia và Nam Sandwich"
+PN,"Quần đảo Pitcairn"
 TC,"Quần Đảo Turk và Caicos"
 VI,"Quần đảo Virgin, Mỹ"
 SB,"Quần đảo Xô-lô-mông"
 GF,"Quiana thuộc Pháp"
-RE,RE
 RW,Ru-an-đa
 RO,Ru-ma-ni
 SH,"Saint Helena"
@@ -253,4 +249,3 @@ SD,Xu-đăng
 SR,Xu-ri-nam
 IT,Ý
 YE,Y-ê-men
-YT,YT

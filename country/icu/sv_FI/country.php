@@ -214,7 +214,7 @@
   'SE' => 'Sverige',
   'SZ' => 'Swaziland',
   'ZA' => 'Sydafrika',
-  'GS' => 'Sydgeorgien och Södra Sandwichöarna',
+  'GS' => 'Sydgeorgien och Sydsandwichöarna',
   'KR' => 'Sydkorea',
   'SY' => 'Syrien',
   'TJ' => 'Tadzjikistan',

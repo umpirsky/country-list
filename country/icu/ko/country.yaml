@@ -1,9 +1,3 @@
-AC: 'Ascension Island'
-IC: 'Canary Islands'
-EA: 'Ceuta and Melilla'
-CP: 'Clipperton Island'
-DG: 'Diego Garcia'
-TA: 'Tristan da Cunha'
 GH: 가나
 GA: 가봉
 GY: 가이아나
@@ -41,6 +35,7 @@ DM: 도미니카
 DO: '도미니카 공화국'
 DE: 독일
 TL: 동티모르
+DG: '디에고 가르시아'
 LA: 라오스
 LR: 라이베리아
 LV: 라트비아
@@ -117,6 +112,7 @@ EH: 서사하라
 SN: 세네갈
 RS: 세르비아
 CS: '세르비아 및 몬테네그로'
+EA: '세우타 및 멜리야'
 LC: 세인트루시아
 VC: 세인트빈센트그레나딘
 KN: '세인트크리스토퍼 네비스'
@@ -154,6 +150,7 @@ AL: 알바니아
 DZ: 알제리
 AO: 앙골라
 AG: '앤티가 바부다'
+AC: '어센션 섬'
 ER: 에리트리아
 EE: 에스토니아
 EC: 에콰도르
@@ -197,6 +194,7 @@ ZW: 짐바브웨
 TD: 차드
 CZ: 체코
 CL: 칠레
+IC: '카나리아 제도'
 CM: 카메룬
 KZ: 카자흐스탄
 QA: 카타르
@@ -210,12 +208,13 @@ CC: 코코스제도
 CI: 코트디부아르
 CO: 콜롬비아
 CG: 콩고
-CD: '콩고 민주공화국'
+CD: 콩고-킨샤사
 CU: 쿠바
 KW: 쿠웨이트
 CK: 쿡제도
 HR: 크로아티아
 CX: 크리스마스섬
+CP: '클립퍼튼 섬'
 KG: 키르기스스탄
 KI: 키리바시
 TJ: 타지키스탄
@@ -230,6 +229,7 @@ TM: 투르크메니스탄
 TV: 투발루
 TN: 튀니지
 TT: '트리니다드 토바고'
+TA: 트리스탄다쿠나
 PA: 파나마
 PY: 파라과이
 PK: 파키스탄

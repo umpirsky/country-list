@@ -1,18 +1,15 @@
 iso,name
 AF,Afghanistan
-AX,"Åland Islands"
 AL,Albania
 DZ,Algeria
 AS,"American Samoa"
 AD,Andorra
 AO,Angola
 AI,Anguilla
-AQ,Antarctica
 AG,"Antigua gi Barbuda"
 AR,Argentina
 AM,Armenia
 AW,Aruba
-AC,"Ascension Island"
 AU,Australia
 AT,Austria
 AZ,Azerbaijan
@@ -29,7 +26,6 @@ BT,Bhutan
 BO,Bolivia
 BA,"Bosnia gi Herzegovina"
 BW,Botswana
-BV,"Bouvet Island"
 BR,Brazil
 IO,"British Indian Ocean Territory"
 VG,"British Virgin Islands"
@@ -40,20 +36,15 @@ BI,Burundi
 KH,Cambodia
 CM,Cameroon
 CA,Canada
-IC,"Canary Islands"
 CV,"Cape Verde Islands"
 KY,"Cayman Islands"
 CF,"Central African Republic"
-EA,"Ceuta and Melilla"
 TD,Chad
 CL,Chile
 CN,China
-CX,"Christmas Island"
 FK,"Chuia mar Falkland"
 MH,"Chuia mar Marshall"
 NF,"Chuia mar Norfolk"
-CP,"Clipperton Island"
-CC,"Cocos [Keeling] Islands"
 CO,Colombia
 KM,Comoros
 CG,Congo
@@ -66,7 +57,6 @@ CY,Cyprus
 CZ,"Czech Republic"
 CD,"Democratic Republic of the Congo"
 DK,Denmark
-DG,"Diego Garcia"
 DJ,Djibouti
 DM,Dominica
 DO,"Dominican Republic"
@@ -78,14 +68,11 @@ GQ,"Equatorial Guinea"
 ER,Eritrea
 EE,Estonia
 ET,Ethiopia
-EU,"European Union"
-FO,"Faroe Islands"
 FJ,Fiji
 FI,Finland
 FR,France
 GF,"French Guiana"
 PF,"French Polynesia"
-TF,"French Southern Territories"
 GA,Gabon
 GM,Gambia
 GE,Georgia
@@ -98,14 +85,11 @@ GD,Grenada
 GP,Guadeloupe
 GU,Guam
 GT,Guatemala
-GG,Guernsey
 GN,Guinea
 GW,Guinea-Bissau
 GY,Guyana
 HT,Haiti
-HM,"Heard Island and McDonald Islands"
 HN,Honduras
-HK,"Hong Kong SAR China"
 HU,Hungary
 IS,Iceland
 IN,India
@@ -113,12 +97,10 @@ ID,Indonesia
 IR,Iran
 IQ,Iraq
 IE,Ireland
-IM,"Isle of Man"
 IL,Israel
 IT,Italy
 JM,Jamaica
 JP,Japan
-JE,Jersey
 JO,Jordan
 KZ,Kazakhstan
 KE,Kenya
@@ -136,7 +118,6 @@ LY,Libya
 LI,Liechtenstein
 LT,Lithuania
 LU,Luxembourg
-MO,"Macau SAR China"
 MK,Macedonia
 MG,Madagascar
 MW,Malawi
@@ -153,7 +134,6 @@ FM,Micronesia
 MD,Moldova
 MC,Monaco
 MN,Mongolia
-ME,Montenegro
 MS,Montserrat
 MA,Morocco
 MZ,Mozambique
@@ -172,7 +152,6 @@ NU,Niue
 MP,"Northern Mariana Islands"
 NO,Norway
 OM,Oman
-QO,"Outlying Oceania"
 PK,Pakistan
 PW,Palau
 PS,"Palestinian West Bank gi Gaza"
@@ -190,11 +169,9 @@ RE,Réunion
 RO,Romania
 RU,Russia
 RW,Rwanda
-BL,"Saint Barthélemy"
 SH,"Saint Helena"
 KN,"Saint Kitts gi Nevis"
 LC,"Saint Lucia"
-MF,"Saint Martin"
 PM,"Saint Pierre gi Miquelon"
 VC,"Saint Vincent gi Grenadines"
 WS,Samoa
@@ -202,7 +179,6 @@ SM,"San Marino"
 ST,"São Tomé gi Príncipe"
 SA,"Saudi Arabia"
 SN,Senegal
-RS,Serbia
 CS,"Serbia gi Montenegro"
 SC,Seychelles
 SL,"Sierra Leone"
@@ -212,12 +188,10 @@ SI,Slovenia
 SB,"Solomon Islands"
 SO,Somalia
 ZA,"South Africa"
-GS,"South Georgia and the South Sandwich Islands"
 ES,Spain
 LK,"Sri Lanka"
 SD,Sudan
 SR,Suriname
-SJ,"Svalbard and Jan Mayen"
 SZ,Swaziland
 SE,Sweden
 CH,Switzerland
@@ -230,13 +204,11 @@ TG,Togo
 TK,Tokelau
 TO,Tonga
 TT,"Trinidad gi Tobago"
-TA,"Tristan da Cunha"
 TN,Tunisia
 TR,Turkey
 TM,Turkmenistan
 TC,"Turks gi Caicos Islands"
 TV,Tuvalu
-UM,"U.S. Minor Outlying Islands"
 VI,"U.S. Virgin Islands"
 UG,Uganda
 UA,Ukraine
@@ -250,7 +222,6 @@ VA,"Vatican State"
 VE,Venezuela
 VN,Vietnam
 WF,"Wallis gi Futuna"
-EH,"Western Sahara"
 YE,Yemen
 ZM,Zambia
 ZW,Zimbabwe

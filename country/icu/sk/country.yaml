@@ -11,7 +11,6 @@ AG: 'Antigua a Barbados'
 AR: Argentína
 AM: Arménsko
 AW: Aruba
-AC: 'Ascension Island'
 AU: Austrália
 AZ: Azerbajdžan
 BS: Bahamy
@@ -35,9 +34,7 @@ BG: Bulharsko
 BF: 'Burkina Faso'
 BI: Burundi
 BT: Bután
-IC: 'Canary Islands'
-EA: 'Ceuta and Melilla'
-CP: 'Clipperton Island'
+EA: 'Ceuta a Melilla'
 CK: 'Cookove ostrovy'
 CY: Cyprus
 TD: Čad
@@ -85,7 +82,7 @@ HM: 'Heardove ostrovy a McDonaldove ostrovy'
 AN: 'Holandské Antily'
 NL: Holandsko
 HN: Honduras
-HK: 'Hong Kong S.A.R. Číny'
+HK: 'Hongkong S.A.R. Číny'
 HR: Chorvátsko
 IN: India
 ID: Indonézia
@@ -105,6 +102,7 @@ KY: 'Kajmanské ostrovy'
 KH: Kambodža
 CM: Kamerun
 CA: Kanada
+IC: 'Kanárske ostrovy'
 CV: Kapverdy
 QA: Katar
 KZ: Kazachstan
@@ -167,6 +165,8 @@ NO: Nórsko
 NC: 'Nová Kaledónia'
 NZ: 'Nový Zéland'
 OM: Omán
+AC: 'Ostrov Ascensión'
+CP: 'Ostrov Clipperton'
 IM: 'Ostrov Man'
 PK: Pakistan
 PW: Palau

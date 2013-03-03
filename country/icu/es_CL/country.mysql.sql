@@ -1,4 +1,4 @@
-CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci ENGINE = InnoDB;
+CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
 
 INSERT INTO `country` (`id`, `name`) VALUES ('AF', 'Afganistán');
 INSERT INTO `country` (`id`, `name`) VALUES ('AL', 'Albania');
@@ -117,6 +117,7 @@ INSERT INTO `country` (`id`, `name`) VALUES ('FK', 'Islas Malvinas');
 INSERT INTO `country` (`id`, `name`) VALUES ('MP', 'Islas Marianas del Norte');
 INSERT INTO `country` (`id`, `name`) VALUES ('MH', 'Islas Marshall');
 INSERT INTO `country` (`id`, `name`) VALUES ('UM', 'Islas menores alejadas de los Estados Unidos');
+INSERT INTO `country` (`id`, `name`) VALUES ('PN', 'Islas Pitcairn');
 INSERT INTO `country` (`id`, `name`) VALUES ('SB', 'Islas Salomón');
 INSERT INTO `country` (`id`, `name`) VALUES ('TC', 'Islas Turcas y Caicos');
 INSERT INTO `country` (`id`, `name`) VALUES ('VG', 'Islas Vírgenes Británicas');
@@ -179,7 +180,6 @@ INSERT INTO `country` (`id`, `name`) VALUES ('PA', 'Panamá');
 INSERT INTO `country` (`id`, `name`) VALUES ('PG', 'Papúa Nueva Guinea');
 INSERT INTO `country` (`id`, `name`) VALUES ('PY', 'Paraguay');
 INSERT INTO `country` (`id`, `name`) VALUES ('PE', 'Perú');
-INSERT INTO `country` (`id`, `name`) VALUES ('PN', 'Pitcairn');
 INSERT INTO `country` (`id`, `name`) VALUES ('PF', 'Polinesia Francesa');
 INSERT INTO `country` (`id`, `name`) VALUES ('PL', 'Polonia');
 INSERT INTO `country` (`id`, `name`) VALUES ('PT', 'Portugal');

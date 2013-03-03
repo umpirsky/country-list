@@ -1,17 +1,14 @@
 iso,name
 AF,Afgaanistaan
-AX,"Åland Islands"
 AL,Albaaniya
 DZ,Aljeeriya
 AD,Andora
 AO,Angoola
 AI,Anguilla
-AQ,Antarctica
 AG,"Antigua iyo Barbuda"
 AR,Arjantiin
 AM,Armeeniya
 AW,Aruba
-AC,"Ascension Island"
 AU,Awstaraaliya
 AT,Awsteriya
 IE,Ayrlaand
@@ -32,7 +29,6 @@ PL,Booland
 PT,Bortuqaal
 BA,"Bosniya Hersigoviina"
 BW,Botuswaana
-BV,"Bouvet Island"
 BR,Braasiil
 IO,"British Indian Ocean Territory"
 VG,"British Virgin Islands"
@@ -40,27 +36,19 @@ BG,Bulgaariya
 BF,"Burkiina Faaso"
 BI,Burundi
 BN,Buruneeya
-IC,"Canary Islands"
 CV,"Cape Verde Islands"
 KY,"Cayman Islands"
-EA,"Ceuta and Melilla"
-CX,"Christmas Island"
 IQ,Ciraaq
-CP,"Clipperton Island"
-CC,"Cocos [Keeling] Islands"
 OM,Cumaan
 DK,Denmark
-DG,"Diego Garcia"
 DM,Domeenika
 SV,"El Salvador"
 GQ,"Equatorial Guinea"
 ER,Eretereeya
 EE,Estooniya
-EU,"European Union"
 VA,Faatikaan
 PS,"Falastiin Daanka galbeed iyo Qasa"
 FR,Faransiis
-FO,"Faroe Islands"
 VE,Fenisuweela
 FJ,Fiji
 PH,Filibiin
@@ -68,7 +56,6 @@ FI,Finland
 VN,Fiyetnaam
 GF,"French Guiana"
 PF,"French Polynesia"
-TF,"French Southern Territories"
 GA,Gaaboon
 GH,Gaana
 GM,Gambiya
@@ -80,22 +67,18 @@ GD,Giriinaada
 GL,Greenland
 GP,Guadeloupe
 GU,Guam
-GG,Guernsey
 GT,Guwaatamaala
 GY,Guyana
 HU,Hangeri
 HT,Hayti
-HM,"Heard Island and McDonald Islands"
 IN,Hindiya
 HN,Honduras
-HK,"Hong Kong SAR China"
 IR,Iiraan
 IS,Iislaand
 EC,Ikuwadoor
 AE,"Imaaraadka Carabta ee Midoobay"
 ID,Indoneesiya
 ES,Isbeyn
-IM,"Isle of Man"
 IL,Israaʼiil
 SZ,Iswaasilaand
 SE,Iswidhan
@@ -105,14 +88,13 @@ TD,Jaad
 JP,Jabaan
 DJ,Jabuuti
 JM,Jameyka
-DO,"Jamhuuriyadda  Domeenika"
 CF,"Jamhuuriyadda Afrikada Dhexe"
 CD,"Jamhuuriyadda Dimuquraadiga Kongo"
+DO,"Jamhuuriyadda Domeenika"
 CZ,"Jamhuuriyadda Jek"
 DE,Jarmal
 FK,"Jaziiradaha Fooklaan"
 CK,"Jaziiradda Cook"
-JE,Jersey
 CL,Jili
 GE,Joorjiya
 CM,Kaameruun
@@ -144,7 +126,6 @@ LU,Luksemboorg
 MT,Maalda
 MV,Maaldiqeen
 ML,Maali
-MO,"Macau SAR China"
 MG,Madagaskar
 MK,Makadooniya
 MW,Malaawi
@@ -159,7 +140,6 @@ MX,Meksiko
 FM,Micronesia
 MD,Moldofa
 MN,Mongooliya
-ME,Montenegro
 MS,Montserrat
 MC,Moonako
 MU,Murishiyoos
@@ -180,7 +160,6 @@ NU,Niue
 NO,Noorweey
 NF,"Norfolk Island"
 MP,"Northern Mariana Islands"
-QO,"Outlying Oceania"
 PW,Palau
 PA,Panama
 PG,"Papua New Guinea"
@@ -196,18 +175,15 @@ RU,Ruush
 RW,Ruwanda
 ZM,Saambiya
 SA,"Sacuudi Carabiya"
-BL,"Saint Barthélemy"
 SH,"Saint Helena"
 KN,"Saint Kitts and Nevis"
 LC,"Saint Lucia"
-MF,"Saint Martin"
 PM,"Saint Pierre and Miquelon"
 VC,"Saint Vincent and the Grenadines"
 WS,Samoa
 AS,"Samowa Ameerika"
 SM,"San Marino"
 ST,"São Tomé and Príncipe"
-RS,Serbia
 CS,"serbiya iyo Monteneegro"
 CN,Shiinaha
 ZW,Simbaabwe
@@ -220,11 +196,9 @@ SK,Slovakia
 SI,Slovenia
 SB,"Solomon Islands"
 SO,Soomaaliya
-GS,"South Georgia and the South Sandwich Islands"
 SR,Suriname
 SD,Suudaan
 SY,Suuriya
-SJ,"Svalbard and Jan Mayen"
 CH,Swiiserlaand
 TJ,Tajikistan
 IT,Talyaani
@@ -236,13 +210,11 @@ TK,Tokelau
 TO,Tonga
 TG,Toogo
 TT,"Trinidad and Tobago"
-TA,"Tristan da Cunha"
 TN,Tuniisiya
 TR,Turki
 TM,Turkmenistan
 TC,"Turks and Caicos Islands"
 TV,Tuvalu
-UM,"U.S. Minor Outlying Islands"
 VI,"U.S. Virgin Islands"
 UG,Ugaanda
 UA,Ukrayn
@@ -252,5 +224,4 @@ UY,Uruguwaay
 UZ,Uusbakistaan
 VU,Vanuatu
 WF,"Wallis and Futuna"
-EH,"Western Sahara"
 YE,Yaman

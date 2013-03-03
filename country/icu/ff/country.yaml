@@ -1,21 +1,18 @@
 AF: Afganistaan
 ZA: 'Afrik bŋ Worgo'
 AZ: Ajerbayjaan
-AX: 'Åland Islands'
 DZ: Alaseri
 AL: Albanii
 DE: Almaañ
 AD: Anndoora
 AI: Anngiyaa
 AO: Anngolaa
-AQ: Antarctica
 AG: 'Antiguwaa e Barbudaa'
 AN: 'Antiiye Nederlanndeeje'
 SA: 'Arabii Sawdit'
 AR: Arjantiin
 AM: Armenii
 AW: Aruuba
-AC: 'Ascension Island'
 BS: Bahamaas
 BH: Bahreyn
 BD: Banglaadees
@@ -27,23 +24,16 @@ BJ: Benee
 BR: Beresiil
 BM: Bermudaa
 BO: Boliwii
-BA: 'Bosnii  Hersegowiin'
+BA: 'Bosnii Hersegowiin'
 BW: Botswaana
-BV: 'Bouvet Island'
 BG: Bulgarii
 BF: 'Burkibaa Faaso'
 BN: Burnaay
 BI: Burunndi
 BT: Butaan
 TD: Caad
-IC: 'Canary Islands'
-EA: 'Ceuta and Melilla'
-CX: 'Christmas Island'
 CL: Cilii
-CP: 'Clipperton Island'
-CC: 'Cocos [Keeling] Islands'
 DK: Danmark
-DG: 'Diego Garcia'
 DM: Dominika
 VA: 'Dowla Waticaan'
 US: 'Dowlaaji Dentuɗi Amerik'
@@ -68,13 +58,10 @@ ID: Enndonesii
 ER: Eriteree
 ES: Espaañ
 EE: Estoni
-EU: 'European Union'
 FR: Farayse
-FO: 'Faroe Islands'
 FI: Fenland
 FJ: Fijji
 PH: Filipiin
-TF: 'French Southern Territories'
 GA: Gaboo
 GM: Gammbi
 GH: Ganaa
@@ -86,23 +73,18 @@ GQ: 'Ginee Ekuwaatoriyaal'
 GY: Giyaan
 GF: 'Giyaan Farayse'
 GL: Gorwendland
-GG: Guernsey
 GU: Guwam
 GP: Gwaadalup
 GT: Gwaatemalaa
 HT: Haytii
-HM: 'Heard Island and McDonald Islands'
-HK: 'Hong Kong SAR China'
 IQ: Iraak
 IR: Iraan
 IE: Irlannda
 IS: Islannda
-IM: 'Isle of Man'
 IL: 'Israa''iila'
 IT: Itali
 JM: Jamayka
 GE: Jeorgii
-JE: Jersey
 GI: Jibraltaar
 DJ: Jibutii
 JO: Jordani
@@ -136,7 +118,6 @@ LU: Liksembuur
 LI: Lincenstayn
 LT: Lituaanii
 ML: Maali
-MO: 'Macau SAR China'
 MG: Madagaskaar
 MW: Malaawi
 MV: Maldiiwe
@@ -153,7 +134,6 @@ MD: Moldawii
 MC: Monaakoo
 MN: Monngolii
 MS: Monseraat
-ME: Montenegro
 MU: Moriis
 MZ: Mosammbik
 MR: Muritani
@@ -177,7 +157,6 @@ HN: Onnduraas
 HU: Onngiri
 AU: Ostaraalii
 AT: Otiriis
-QO: 'Outlying Oceania'
 PK: Pakistaan
 PW: Palawu
 PS: 'Palestiin Sisjordani e Gaasaa'
@@ -194,8 +173,6 @@ RE: Rewiñoo
 RU: Riisii
 RO: Rumanii
 RW: Ruwanndaa
-BL: 'Saint Barthélemy'
-MF: 'Saint Martin'
 ZM: Sammbi
 AS: 'Samowa Amerik'
 WS: Samowaa
@@ -209,7 +186,6 @@ SH: 'Sent Helen'
 KN: 'Sent Kits e Newis'
 LC: 'Sent Lusiyaa'
 SL: 'Seraa liyon'
-RS: Serbia
 CS: 'Serbii e Montenegoroo'
 SC: Seysel
 CN: Siin
@@ -221,12 +197,10 @@ SY: Sirii
 SK: Slowakii
 SI: Slowenii
 SO: Somalii
-GS: 'South Georgia and the South Sandwich Islands'
 SD: Sudaan
 SR: Surinaam
 SE: Suweed
 CH: Suwiis
-SJ: 'Svalbard and Jan Mayen'
 SZ: Swaasilannda
 TJ: Tajikistaan
 TZ: Tansanii
@@ -237,12 +211,10 @@ TT: 'Tirnidaad e Tobaago'
 TG: Togoo
 TK: Tokelaaw
 TO: Tonngaa
-TA: 'Tristan da Cunha'
 TN: Tunisii
 TR: Turkii
 TM: Turkmenistaan
 TV: Tuwaluu
-UM: 'U.S. Minor Outlying Islands'
 UA: Ukereen
 UG: Unganndaa
 UY: Uruguwaay
@@ -250,6 +222,5 @@ UZ: Usbekistaan
 WF: 'Walis e Futuna'
 VU: Wanuwaatuu
 VE: Wenesuwelaa
-EH: 'Western Sahara'
 VN: Wiyetnaam
 YE: Yemen

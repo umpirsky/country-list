@@ -6,7 +6,6 @@ ZA: 'Afrika Anaafo'
 CF: 'Afrika Finimfin Man'
 AR: Agyɛntina
 GB: 'Ahendiman Nkabom'
-AX: 'Åland Islands'
 AL: Albenia
 US: Amɛrika
 AS: 'Amɛrika Samoa'
@@ -15,10 +14,8 @@ KR: 'Anaafo Koria'
 AD: Andora
 AO: Angola
 AI: Anguila
-AQ: Antarctica
 AG: 'Antigua ne Baabuda'
 AW: Aruba
-AC: 'Ascension Island'
 AZ: Azebaegyan
 BB: Baabados
 BS: Bahama
@@ -31,7 +28,6 @@ BM: Bɛmuda
 BJ: Bɛnin
 BO: Bolivia
 BA: 'Bosnia ne Hɛzegovina'
-BV: 'Bouvet Island'
 BF: 'Bɔkina Faso'
 BG: Bɔlgeria
 BW: Bɔtswana
@@ -41,25 +37,16 @@ IO: 'Britenfo Hɔn Man Wɔ India Po No Mu'
 BN: Brunae
 BI: Burundi
 BT: Butan
-IC: 'Canary Islands'
-EA: 'Ceuta and Melilla'
-CX: 'Christmas Island'
-CP: 'Clipperton Island'
-CC: 'Cocos [Keeling] Islands'
 DK: Dɛnmak
-DG: 'Diego Garcia'
 DM: Dɔmeneka
 DO: 'Dɔmeneka Kurokɛse'
 KP: 'Etifi Koria'
-EU: 'European Union'
 SV: 'Ɛl Salvadɔ'
 ER: Ɛritrea
 EE: Ɛstonia
-FO: 'Faroe Islands'
 FJ: Figyi
 FI: Finland
 FK: 'Fɔlkman Aeland'
-TF: 'French Southern Territories'
 GF: 'Frɛnkye Gayana'
 PF: 'Frɛnkye Pɔlenehyia'
 FR: Frɛnkyeman
@@ -74,7 +61,6 @@ GR: Greekman
 GL: Greenman
 GD: Grenada
 GU: Guam
-GG: Guernsey
 GP: Guwadelup
 GT: Guwatemala
 DE: Gyaaman
@@ -85,20 +71,16 @@ DJ: Gyibuti
 JO: Gyɔdan
 GE: Gyɔgyea
 HU: Hangari
-HM: 'Heard Island and McDonald Islands'
 HT: Heiti
-HK: 'Hong Kong SAR China'
 HN: Hɔnduras
 EC: Ikuwadɔ
 IN: India
 ID: Indɔnehyia
 IQ: Irak
 IR: Iran
-IM: 'Isle of Man'
 IL: Israel
 IT: Itali
 ET: Ithiopia
-JE: Jersey
 NC: 'Kaledonia Foforo'
 KH: Kambodia
 CM: Kamɛrun
@@ -133,7 +115,6 @@ LB: Lɛbanɔn
 LS: Lɛsutu
 LY: Libya
 LT: Lituwenia
-MO: 'Macau SAR China'
 MG: Madagaska
 FM: Maekronehyia
 MW: Malawi
@@ -147,7 +128,6 @@ MQ: Matinik
 YT: Mayɔte
 MX: Mɛksiko
 MM: Miyanma
-ME: Montenegro
 MA: Moroko
 MZ: Mozambik
 MD: Mɔldova
@@ -170,7 +150,6 @@ MP: 'Northern Mariana Islands'
 NF: 'Nɔfolk Aeland'
 NO: Nɔɔwe
 OM: Oman
-QO: 'Outlying Oceania'
 DZ: Ɔlgyeria
 AU: Ɔstrelia
 AT: Ɔstria
@@ -191,11 +170,9 @@ RO: Romenia
 RU: Rɔhyea
 RW: Rwanda
 CY: Saeprɔs
-BL: 'Saint Barthélemy'
 SH: 'Saint Helena'
 KN: 'Saint Kitts ne Nɛves'
 LC: 'Saint Lucia'
-MF: 'Saint Martin'
 PM: 'Saint Pierre ne Miquelon'
 VC: 'Saint Vincent ne Grenadines'
 WS: Samoa
@@ -203,7 +180,6 @@ SM: 'San Marino'
 ST: 'São Tomé and Príncipe'
 SA: 'Saudi Arabia'
 SN: Senegal
-RS: Serbia
 SC: Seyhyɛl
 CS: 'Sɛɛbea ne Mɔntenɛgro'
 SL: 'Sierra Leone'
@@ -213,12 +189,10 @@ SK: Slovakia
 SI: Slovinia
 SB: 'Solomon Islands'
 SO: Somalia
-GS: 'South Georgia and the South Sandwich Islands'
 ES: Spain
 LK: 'Sri Lanka'
 SD: Sudan
 SR: Suriname
-SJ: 'Svalbard and Jan Mayen'
 SZ: Swaziland
 SE: Sweden
 CH: Swetzaland
@@ -233,11 +207,9 @@ TG: Togo
 TK: Tokelau
 TO: Tonga
 TT: 'Trinidad ne Tobago'
-TA: 'Tristan da Cunha'
 TN: Tunihyia
 TC: 'Turks ne Caicos Islands'
 TV: Tuvalu
-UM: 'U.S. Minor Outlying Islands'
 UG: Uganda
 UA: Ukren
 AE: 'United Arab Emirates'
@@ -247,7 +219,6 @@ VA: 'Vatican Man'
 VE: Venezuela
 VN: Viɛtnam
 WF: 'Wallis ne Futuna'
-EH: 'Western Sahara'
 YE: Yɛmen
 UY: Yurugwae
 ZM: Zambia

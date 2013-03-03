@@ -1,13 +1,11 @@
 AF: Afeganistãu
 ZA: 'Afrika di Sul'
 HT: Aiti
-AX: 'Åland Islands'
 AL: Albania
 DE: Alimanha
 AD: Andora
 AI: Angila
 AO: Angola
-AQ: Antarctica
 AG: 'Antigua i Barbuda'
 AN: 'Antilhas Olandeza'
 SA: 'Arabia Saudita'
@@ -15,7 +13,6 @@ DZ: Arjelia
 AR: Arjentina
 AM: Armenia
 AW: Aruba
-AC: 'Ascension Island'
 AU: Australia
 AT: Austria
 AZ: Azerbaijãu
@@ -31,19 +28,12 @@ BM: Bermudas
 BO: Bolivia
 BA: Bosnia-Erzegovina
 BW: Botsuana
-BV: 'Bouvet Island'
 BR: Brazil
 BN: Brunei
 BG: Bulgaria
 BF: 'Burkina Fasu'
 BI: Burundi
 BT: Butãu
-IC: 'Canary Islands'
-EA: 'Ceuta and Melilla'
-CX: 'Christmas Island'
-CP: 'Clipperton Island'
-CC: 'Cocos [Keeling] Islands'
-DG: 'Diego Garcia'
 DK: Dinamarka
 DJ: Djibuti
 DM: Dominika
@@ -51,13 +41,10 @@ EG: Ejitu
 EC: Ekuador
 SV: 'El Salvador'
 AE: 'Emiradus Arabi Unidu'
-EU: 'European Union'
-FO: 'Faroe Islands'
 FJ: Fidji
 PH: Filipinas
 FI: Finlandia
 FR: Fransa
-TF: 'French Southern Territories'
 GA: Gabãu
 GM: Gambia
 GH: Gana
@@ -72,9 +59,6 @@ GL: Gronelandia
 GP: Guadalupi
 GU: Guam
 GT: Guatimala
-GG: Guernsey
-HM: 'Heard Island and McDonald Islands'
-HK: 'Hong Kong SAR China'
 YE: Iemen
 IO: 'Ilhas Britanika di Indiku'
 KY: 'Ilhas Kaimãu'
@@ -95,13 +79,11 @@ ER: Iritreia
 IE: Irlanda
 IR: Iron
 IS: Islandia
-IM: 'Isle of Man'
 IL: Israel
 IT: Italia
 ET: Itiopia
 JM: Jamaika
 JP: Japãu
-JE: Jersey
 GI: Jibraltar
 GE: Jiorjia
 JO: Jordania
@@ -133,7 +115,6 @@ LY: Libia
 LT: Lituania
 LI: Lixenstain
 LU: Luxemburgu
-MO: 'Macau SAR China'
 MG: Madagaskar
 YT: Maiote
 MW: Malaui
@@ -152,7 +133,6 @@ MD: Moldavia
 MC: Monaku
 MN: Mongolia
 MS: Monserat
-ME: Montenegro
 MZ: Musambiki
 NA: Namibia
 NR: Nauru
@@ -167,7 +147,7 @@ NZ: 'Nova Zilandia'
 NL: Olanda
 OM: Oman
 HN: Onduras
-QO: 'Outlying Oceania'
+HK: 'Ong Kong'
 PK: Pakistãu
 PW: Palau
 PS: Palistina
@@ -189,8 +169,6 @@ RO: Romenia
 RW: Ruanda
 RE: Runion
 RU: Rúsia
-BL: 'Saint Barthélemy'
-MF: 'Saint Martin'
 WS: Samoa
 AS: 'Samoa Merkanu'
 SM: 'San Marinu'
@@ -203,13 +181,11 @@ ST: 'Sãu Tume i Prinsipi'
 SC: Seixelis
 SN: Senegal
 SL: 'Sera Lioa'
-RS: Serbia
 CS: 'Servia i Montinegru'
 SG: Singapura
 SY: Siria
 SK: Slovakia
 SI: Slovenia
-GS: 'South Georgia and the South Sandwich Islands'
 ES: Spanha
 LK: 'Sri Lanka'
 US: 'Stadus Unidos di Merka'
@@ -220,7 +196,6 @@ SE: Suesia
 CH: Suisa
 SO: Sumalia
 SR: Surinami
-SJ: 'Svalbard and Jan Mayen'
 TJ: Tadjikistãu
 TH: Tailandia
 TW: Taiuan
@@ -230,13 +205,11 @@ TG: Togu
 TK: Tokelau
 TO: Tonga
 TT: 'Trinidad i Tobagu'
-TA: 'Tristan da Cunha'
 TN: Tunizia
 TR: Turkia
 TM: Turkumenistãu
 TV: Tuvalu
 TD: Txadi
-UM: 'U.S. Minor Outlying Islands'
 WF: 'Ualis i Futuna'
 UG: Uganda
 UA: Ukrania
@@ -247,7 +220,6 @@ VU: Vanuatu
 VA: Vatikanu
 VN: Vietnam
 VE: Vinizuea
-EH: 'Western Sahara'
 CL: Xili
 CN: Xina
 CY: Xipri

@@ -1,11 +1,5 @@
 CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
-INSERT INTO "country" ("id", "name") VALUES ('AC', 'Ascension Island');
-INSERT INTO "country" ("id", "name") VALUES ('IC', 'Canary Islands');
-INSERT INTO "country" ("id", "name") VALUES ('EA', 'Ceuta and Melilla');
-INSERT INTO "country" ("id", "name") VALUES ('CP', 'Clipperton Island');
-INSERT INTO "country" ("id", "name") VALUES ('DG', 'Diego Garcia');
-INSERT INTO "country" ("id", "name") VALUES ('TA', 'Tristan da Cunha');
 INSERT INTO "country" ("id", "name") VALUES ('AO', 'अंगोला');
 INSERT INTO "country" ("id", "name") VALUES ('AQ', 'अंटार्कटिका');
 INSERT INTO "country" ("id", "name") VALUES ('AZ', 'अज़रबैजान');
@@ -18,6 +12,7 @@ INSERT INTO "country" ("id", "name") VALUES ('AR', 'अर्जेन्टी�
 INSERT INTO "country" ("id", "name") VALUES ('SV', 'अल साल्वाडोर');
 INSERT INTO "country" ("id", "name") VALUES ('DZ', 'अल्जीरिया');
 INSERT INTO "country" ("id", "name") VALUES ('AL', 'अल्बानिया');
+INSERT INTO "country" ("id", "name") VALUES ('AC', 'असेंशन आइलैंड');
 INSERT INTO "country" ("id", "name") VALUES ('IM', 'आइल ऑफ मैन');
 INSERT INTO "country" ("id", "name") VALUES ('IS', 'आइसलैंड');
 INSERT INTO "country" ("id", "name") VALUES ('CI', 'आईवरी कोस्ट');
@@ -53,6 +48,7 @@ INSERT INTO "country" ("id", "name") VALUES ('CK', 'कुक द्वीपस
 INSERT INTO "country" ("id", "name") VALUES ('KW', 'कुवैत');
 INSERT INTO "country" ("id", "name") VALUES ('KE', 'केन्या');
 INSERT INTO "country" ("id", "name") VALUES ('KY', 'केमैन द्वीपसमूह');
+INSERT INTO "country" ("id", "name") VALUES ('IC', 'कैनेरी द्वीपसमूह');
 INSERT INTO "country" ("id", "name") VALUES ('CV', 'कैप वर्डे');
 INSERT INTO "country" ("id", "name") VALUES ('CM', 'कैमरून');
 INSERT INTO "country" ("id", "name") VALUES ('CD', 'कोंगो जनतांत्रिक गणतंत्र');
@@ -63,6 +59,7 @@ INSERT INTO "country" ("id", "name") VALUES ('CR', 'कोस्टारीक�
 INSERT INTO "country" ("id", "name") VALUES ('CU', 'क्यूबा');
 INSERT INTO "country" ("id", "name") VALUES ('CX', 'क्रिसमस द्वीप');
 INSERT INTO "country" ("id", "name") VALUES ('HR', 'क्रोशिया');
+INSERT INTO "country" ("id", "name") VALUES ('CP', 'क्लिपर्टन आइलैंड');
 INSERT INTO "country" ("id", "name") VALUES ('GM', 'गाम्बिया');
 INSERT INTO "country" ("id", "name") VALUES ('GN', 'गिनी');
 INSERT INTO "country" ("id", "name") VALUES ('GW', 'गीनी-बिसाउ');
@@ -92,6 +89,7 @@ INSERT INTO "country" ("id", "name") VALUES ('GE', 'जॉर्जिया');
 INSERT INTO "country" ("id", "name") VALUES ('JO', 'जोर्डन');
 INSERT INTO "country" ("id", "name") VALUES ('TO', 'टोंगा');
 INSERT INTO "country" ("id", "name") VALUES ('TG', 'टोगो');
+INSERT INTO "country" ("id", "name") VALUES ('DG', 'डिएगो गार्सिया');
 INSERT INTO "country" ("id", "name") VALUES ('DK', 'डेनमार्क');
 INSERT INTO "country" ("id", "name") VALUES ('DM', 'डोमिनिक');
 INSERT INTO "country" ("id", "name") VALUES ('DO', 'डोमिनिकन गणराज्य');
@@ -105,6 +103,7 @@ INSERT INTO "country" ("id", "name") VALUES ('TC', 'तुर्क् और्
 INSERT INTO "country" ("id", "name") VALUES ('TV', 'तुवालु');
 INSERT INTO "country" ("id", "name") VALUES ('TK', 'तोकेलाउ');
 INSERT INTO "country" ("id", "name") VALUES ('TT', 'त्रिनिडाड और टोबैगो');
+INSERT INTO "country" ("id", "name") VALUES ('TA', 'त्रिस्टान डा कुना');
 INSERT INTO "country" ("id", "name") VALUES ('TH', 'थाइलैंड');
 INSERT INTO "country" ("id", "name") VALUES ('ZA', 'दक्षिण अफ्रीका');
 INSERT INTO "country" ("id", "name") VALUES ('KR', 'दक्षिण कोरिया');
@@ -239,6 +238,7 @@ INSERT INTO "country" ("id", "name") VALUES ('LC', 'सेंट लूसिय
 INSERT INTO "country" ("id", "name") VALUES ('VC', 'सेंट विनसेंट एंड ग्रेनाडाइन्स');
 INSERT INTO "country" ("id", "name") VALUES ('SH', 'सेंट हेलेना');
 INSERT INTO "country" ("id", "name") VALUES ('CF', 'सेंट्रल अफ्रीकन रिपब्लिक');
+INSERT INTO "country" ("id", "name") VALUES ('EA', 'सेउटा और मेलिला');
 INSERT INTO "country" ("id", "name") VALUES ('SN', 'सेनेगल');
 INSERT INTO "country" ("id", "name") VALUES ('SC', 'सेशेल्स');
 INSERT INTO "country" ("id", "name") VALUES ('SM', 'सैन मेरीनो');

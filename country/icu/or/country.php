@@ -1,10 +1,4 @@
 <?php return array (
-  'AC' => 'Ascension Island',
-  'IC' => 'Canary Islands',
-  'EA' => 'Ceuta and Melilla',
-  'CP' => 'Clipperton Island',
-  'DG' => 'Diego Garcia',
-  'TA' => 'Tristan da Cunha',
   'AT' => 'ଅଷ୍ଟ୍ରିଆ',
   'AU' => 'ଅଷ୍ଟ୍ରେଲିଆ',
   'CI' => 'ଆଇବରୀ କୋଷ୍ଟ',

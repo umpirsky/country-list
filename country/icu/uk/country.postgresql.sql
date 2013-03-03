@@ -167,6 +167,7 @@ INSERT INTO "country" ("id", "name") VALUES ('BL', 'Острів Святого 
 INSERT INTO "country" ("id", "name") VALUES ('MF', 'Острів Святого Мартіна');
 INSERT INTO "country" ("id", "name") VALUES ('SH', 'Острів Святої Єлени');
 INSERT INTO "country" ("id", "name") VALUES ('CK', 'Острови Кука');
+INSERT INTO "country" ("id", "name") VALUES ('PN', 'Острови Піткерн');
 INSERT INTO "country" ("id", "name") VALUES ('SJ', 'Острови Свальбард та Ян-Маєн');
 INSERT INTO "country" ("id", "name") VALUES ('HM', 'Острови Херд і Мак-Дональд');
 INSERT INTO "country" ("id", "name") VALUES ('PK', 'Пакистан');
@@ -181,7 +182,6 @@ INSERT INTO "country" ("id", "name") VALUES ('GS', 'Південна Джорд�
 INSERT INTO "country" ("id", "name") VALUES ('KR', 'Південна Корея');
 INSERT INTO "country" ("id", "name") VALUES ('KP', 'Північна Корея');
 INSERT INTO "country" ("id", "name") VALUES ('MP', 'Північні Маріанські Острови');
-INSERT INTO "country" ("id", "name") VALUES ('PN', 'Піткерн');
 INSERT INTO "country" ("id", "name") VALUES ('PL', 'Польща');
 INSERT INTO "country" ("id", "name") VALUES ('PT', 'Португалія');
 INSERT INTO "country" ("id", "name") VALUES ('PR', 'Пуерто-Ріко');

@@ -1,11 +1,5 @@
 CREATE TABLE country (id NVARCHAR(2) NOT NULL, name NVARCHAR(64) NOT NULL, PRIMARY KEY (id));
 
-INSERT INTO [country] ([id], [name]) VALUES ('AC', 'Ascension Island');
-INSERT INTO [country] ([id], [name]) VALUES ('IC', 'Canary Islands');
-INSERT INTO [country] ([id], [name]) VALUES ('EA', 'Ceuta and Melilla');
-INSERT INTO [country] ([id], [name]) VALUES ('CP', 'Clipperton Island');
-INSERT INTO [country] ([id], [name]) VALUES ('DG', 'Diego Garcia');
-INSERT INTO [country] ([id], [name]) VALUES ('TA', 'Tristan da Cunha');
 INSERT INTO [country] ([id], [name]) VALUES ('AT', 'ଅଷ୍ଟ୍ରିଆ');
 INSERT INTO [country] ([id], [name]) VALUES ('AU', 'ଅଷ୍ଟ୍ରେଲିଆ');
 INSERT INTO [country] ([id], [name]) VALUES ('CI', 'ଆଇବରୀ କୋଷ୍ଟ');

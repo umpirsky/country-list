@@ -208,7 +208,6 @@ INSERT INTO [country] ([id], [name]) VALUES ('ZM', 'Semipia');
 INSERT INTO [country] ([id], [name]) VALUES ('SM', 'Seni Malino');
 INSERT INTO [country] ([id], [name]) VALUES ('SN', 'Senikalo');
 INSERT INTO [country] ([id], [name]) VALUES ('RS', 'Sēpia');
-INSERT INTO [country] ([id], [name]) VALUES ('CS', 'Serbia and Montenegro');
 INSERT INTO [country] ([id], [name]) VALUES ('TD', 'Seti');
 INSERT INTO [country] ([id], [name]) VALUES ('CN', 'Siaina');
 INSERT INTO [country] ([id], [name]) VALUES ('DE', 'Siamane');

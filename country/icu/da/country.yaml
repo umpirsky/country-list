@@ -42,7 +42,7 @@ CP: Clippertonøen
 CC: Cocosøerne
 CO: Colombia
 KM: Comorerne
-CG: Congo
+CG: 'Congo – Brazzaville'
 CD: Congo-Kinshasa
 CK: Cook-øerne
 CR: 'Costa Rica'
@@ -51,7 +51,6 @@ CY: Cypern
 DK: Danmark
 VI: 'De amerikanske jomfruøer'
 VG: 'De britiske jomfruøer'
-UM: 'De Mindre Amerikanske Oversøiske Øer'
 PS: 'De palæstinensiske områder'
 DO: 'Den Dominikanske Republik'
 IO: 'Det Britiske Territorium i Det Indiske Ocean'
@@ -65,7 +64,6 @@ CI: Elfenbenskysten
 ER: Eritrea
 EE: Estland
 ET: Etiopien
-EU: EU
 FK: Falklandsøerne
 FJ: Fiji-øerne
 PH: Filippinerne
@@ -144,6 +142,7 @@ MU: Mauritius
 YT: Mayotte
 MX: Mexico
 FM: 'Mikronesiens Forenede Stater'
+UM: 'Mindre amerikanske oversøiske øer'
 MC: Monaco
 MN: Mongoliet
 ME: Montenegro

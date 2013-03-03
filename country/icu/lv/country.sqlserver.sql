@@ -120,7 +120,7 @@ INSERT INTO [country] ([id], [name]) VALUES ('CC', 'Kokosu jeb Kīlinga salas');
 INSERT INTO [country] ([id], [name]) VALUES ('CO', 'Kolumbija');
 INSERT INTO [country] ([id], [name]) VALUES ('KM', 'Komoru salas');
 INSERT INTO [country] ([id], [name]) VALUES ('CG', 'Kongo - Brazavila');
-INSERT INTO [country] ([id], [name]) VALUES ('CD', 'Kongo Demokrātiskā Republika');
+INSERT INTO [country] ([id], [name]) VALUES ('CD', 'Kongo-Kinšasa');
 INSERT INTO [country] ([id], [name]) VALUES ('CR', 'Kostarika');
 INSERT INTO [country] ([id], [name]) VALUES ('CI', 'Kotdivuāra');
 INSERT INTO [country] ([id], [name]) VALUES ('RU', 'Krievija');

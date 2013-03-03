@@ -1,25 +1,5 @@
 CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
-INSERT INTO "country" ("id", "name") VALUES ('AC', 'Ascension Island');
-INSERT INTO "country" ("id", "name") VALUES ('VG', 'British Virgin Islands');
-INSERT INTO "country" ("id", "name") VALUES ('IC', 'Canary Islands');
-INSERT INTO "country" ("id", "name") VALUES ('EA', 'Ceuta and Melilla');
-INSERT INTO "country" ("id", "name") VALUES ('CP', 'Clipperton Island');
-INSERT INTO "country" ("id", "name") VALUES ('CC', 'Cocos [Keeling] Islands');
-INSERT INTO "country" ("id", "name") VALUES ('DG', 'Diego Garcia');
-INSERT INTO "country" ("id", "name") VALUES ('GF', 'French Guiana');
-INSERT INTO "country" ("id", "name") VALUES ('GG', 'Guernsey');
-INSERT INTO "country" ("id", "name") VALUES ('YT', 'Mayotte');
-INSERT INTO "country" ("id", "name") VALUES ('NU', 'Niue');
-INSERT INTO "country" ("id", "name") VALUES ('MP', 'Northern Mariana Islands');
-INSERT INTO "country" ("id", "name") VALUES ('PN', 'Pitcairn Islands');
-INSERT INTO "country" ("id", "name") VALUES ('BL', 'Saint Barthélemy');
-INSERT INTO "country" ("id", "name") VALUES ('MF', 'Saint Martin');
-INSERT INTO "country" ("id", "name") VALUES ('SJ', 'Svalbard and Jan Mayen');
-INSERT INTO "country" ("id", "name") VALUES ('TK', 'Tokelau');
-INSERT INTO "country" ("id", "name") VALUES ('TA', 'Tristan da Cunha');
-INSERT INTO "country" ("id", "name") VALUES ('TC', 'Turks and Caicos Islands');
-INSERT INTO "country" ("id", "name") VALUES ('VI', 'U.S. Virgin Islands');
 INSERT INTO "country" ("id", "name") VALUES ('AU', 'ავსტრალია');
 INSERT INTO "country" ("id", "name") VALUES ('AT', 'ავსტრია');
 INSERT INTO "country" ("id", "name") VALUES ('AF', 'ავღანეთი');
