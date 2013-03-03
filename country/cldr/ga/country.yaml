@@ -1,246 +1,246 @@
-AD: Andóra
-AE: 'Aontas na nÉimíríochtaí Arabacha'
-AF: 'An Afganastáin'
 AG: 'Aintíge agus Barbúda'
-AI: Anguilla
-AL: 'An Albáin'
-AM: 'An Airméin'
-AN: 'Antillí na hÍsiltíre'
-AO: Angóla
-AQ: 'An Antartaice'
+ET: 'An Aetóip'
+AF: 'An Afganastáin'
+ZA: 'An Afraic Theas'
+DZ: 'An Ailgéir'
 AR: 'An Airgintín'
-AS: 'Samó Meiriceánach'
-AT: 'An Ostair'
-AU: 'An Astráil'
-AW: Arúba
-AX: 'Oileáin Alaind'
+AM: 'An Airméin'
+AL: 'An Albáin'
+AQ: 'An Antartaice'
+SA: 'An Araib Shádach'
 AZ: 'An Asarbaiseáin'
-BA: 'An Bhoisnia agus Heirseagóvéin'
-BB: Barbadós
+AU: 'An Astráil'
 BD: 'An Bhanglaidéis'
+BY: 'An Bhealarúis'
 BE: 'An Bheilg'
-BF: 'Buircíne Fasó'
+BZ: 'An Bheilís'
+BA: 'An Bhoisnia agus Heirseagóvéin'
+BO: 'An Bholaiv'
+BW: 'An Bhotsuáin'
+BR: 'An Bhrasaíl'
 BG: 'An Bhulgáir'
-BH: Bairéin
 BI: 'An Bhurúin'
+BT: 'An Bhútáin'
+KH: 'An Chambóid'
+KZ: 'An Chasacstáin'
+CY: 'An Chipir'
+KG: 'An Chirgeastáin'
+CO: 'An Cholóim'
+HR: 'An Chróit'
+KE: 'An Chéinia'
+KR: 'An Chóiré Theas'
+KP: 'An Chóiré Thuaidh'
+CG: 'An Congó'
+CI: 'An Cósta Eabhair'
+DK: 'An Danmhairg'
+EE: 'An Eastóin'
+CH: 'An Eilvéis'
+ER: 'An Eiritré'
+FI: 'An Fhionlainn'
+FR: 'An Fhrainc'
+GA: 'An Ghabúin'
+GM: 'An Ghaimbia'
+DE: 'An Ghearmáin'
+GL: 'An Ghraonlainn'
+GR: 'An Ghréig'
+GN: 'An Ghuine'
+GQ: 'An Ghuine Mheánchriosach'
+GW: 'An Ghuine-Bhissau'
+GY: 'An Ghuáin'
+GF: 'An Ghuáin Fhrancach'
+IQ: 'An Iaráic'
+IR: 'An Iaráin'
+IN: 'An India'
+ID: 'An Indinéis'
+IT: 'An Iodáil'
+JO: 'An Iordáin'
+NO: 'An Iorua'
+LV: 'An Laitvia'
+LY: 'An Libia'
+LR: 'An Libéir'
+LB: 'An Liobáin'
+LT: 'An Liotuáin'
+MK: 'An Mhacadóin'
+MY: 'An Mhalaeisia'
+MW: 'An Mhaláiv'
+MR: 'An Mharatáin'
+FM: 'An Mhicrinéis'
+MD: 'An Mholdóiv'
+MN: 'An Mhongóil'
+NA: 'An Namaib'
+NG: 'An Nigéir'
+NC: 'An Nua-Chaladóin'
+NZ: 'An Nua-Shéalainn'
+NE: 'An Nígir'
+AT: 'An Ostair'
+PK: 'An Phacastáin'
+DO: 'An Phoblacht Dhoiminiceach'
+PL: 'An Pholainn'
+PF: 'An Pholainéis Fhrancach'
+PT: 'An Phortaingéil'
+CV: 'An Rinn Ghlas'
+GB: 'An Ríocht Aontaithe'
+RO: 'An Rómáin'
+EH: 'An Sahára Thiar'
+ES: 'An Spáinn'
+TZ: 'An Tansáin'
+TR: 'An Tuirc'
+TM: 'An Tuircméanastáin'
+TJ: 'An Táidsíceastáin'
+TH: 'An Téalainn'
+TW: 'An Téaváin'
+TN: 'An Túinéis'
+HU: 'An Ungáir'
+VA: 'An Vatacáin'
+ZM: 'An tSaimbia'
+SV: 'An tSalvadóir'
+JP: 'An tSeapáin'
+SN: 'An tSeineagáil'
+RS: 'An tSeirbia'
+CS: 'An tSeirbia agus Montainéagró'
+GE: 'An tSeoirsia'
+GS: 'An tSeoirsia Theas agus Oileáin Sandwich Theas'
+CL: 'An tSile'
+ZW: 'An tSiombáib'
+SY: 'An tSiria'
+SK: 'An tSlóvaic'
+SI: 'An tSlóvéin'
+SO: 'An tSomáil'
+SE: 'An tSualainn'
+SZ: 'An tSuasalainn'
+CN: 'An tSín'
+SD: 'An tSúdáin'
+EG: 'An Éigipt'
+IS: 'An Íoslainn'
+NL: 'An Ísiltír'
+UA: 'An Úcráin'
+AD: Andóra
+AI: Anguilla
+AO: Angóla
+AN: 'Antillí na hÍsiltíre'
+AE: 'Aontas na nÉimíríochtaí Arabacha'
+AW: Arúba
+BH: Bairéin
+BB: Barbadós
 BJ: Beinin
 BM: Beirmiúda
 BN: Brúiné
-BO: 'An Bholaiv'
-BR: 'An Bhrasaíl'
-BS: 'Na Bahámaí'
-BT: 'An Bhútáin'
-BV: 'Oileán Bouvet'
-BW: 'An Bhotsuáin'
-BY: 'An Bhealarúis'
-BZ: 'An Bheilís'
-CA: Ceanada
-CC: 'Oileáin na gCócónna'
-CD: 'Poblacht Dhaonlathach an Chongó'
-CF: 'Poblacht na hAfraice Láir'
-CG: 'An Congó'
-CH: 'An Eilvéis'
-CI: 'An Cósta Eabhair'
-CK: 'Oileáin Cook'
-CL: 'An tSile'
+BF: 'Buircíne Fasó'
 CM: Camarún
-CN: 'An tSín'
-CO: 'An Cholóim'
-CR: 'Cósta Ríce'
-CS: 'An tSeirbia agus Montainéagró'
-CU: Cúba
-CV: 'An Rinn Ghlas'
-CX: 'Oileán na Nollag'
-CY: 'An Chipir'
-CZ: 'Poblacht na Seice'
-DE: 'An Ghearmáin'
-DJ: Djibouti
-DK: 'An Danmhairg'
-DM: Doiminice
-DO: 'An Phoblacht Dhoiminiceach'
-DZ: 'An Ailgéir'
-EC: Eacuadór
-EE: 'An Eastóin'
-EG: 'An Éigipt'
-EH: 'An Sahára Thiar'
-ER: 'An Eiritré'
-ES: 'An Spáinn'
-ET: 'An Aetóip'
-FI: 'An Fhionlainn'
-FJ: Fidsí
-FK: 'Oileáin Fháclainne'
-FM: 'An Mhicrinéis'
-FO: 'Oileáin Fharó'
-FR: 'An Fhrainc'
-GA: 'An Ghabúin'
-GB: 'An Ríocht Aontaithe'
-GD: Grenada
-GE: 'An tSeoirsia'
-GF: 'An Ghuáin Fhrancach'
-GG: Geansaí
-GH: Gána
-GI: Giobráltar
-GL: 'An Ghraonlainn'
-GM: 'An Ghaimbia'
-GN: 'An Ghuine'
-GP: Guadalúip
-GQ: 'An Ghuine Mheánchriosach'
-GR: 'An Ghréig'
-GS: 'An tSeoirsia Theas agus Oileáin Sandwich Theas'
-GT: Guatamala
-GU: Guam
-GW: 'An Ghuine-Bhissau'
-GY: 'An Ghuáin'
-HK: 'R.R.S. na Síne Hong Cong'
-HM: 'Oileán Heard agus Oileáin McDonald'
-HN: Hondúras
-HR: 'An Chróit'
-HT: Háití
-HU: 'An Ungáir'
-ID: 'An Indinéis'
-IE: Éire
-IL: Iosrael
-IM: 'Oileán Mhanann'
-IN: 'An India'
-IO: 'Críocha Briotanacha an Aigéin Indiagh'
-IQ: 'An Iaráic'
-IR: 'An Iaráin'
-IS: 'An Íoslainn'
-IT: 'An Iodáil'
-JE: Geirsí
-JM: Iamáice
-JO: 'An Iordáin'
-JP: 'An tSeapáin'
-KE: 'An Chéinia'
-KG: 'An Chirgeastáin'
-KH: 'An Chambóid'
+QA: Catar
+CA: Ceanada
 KI: Ciribeas
-KM: 'Oileáin Chomóra'
-KN: 'Saint Kitts agus Nevis'
-KP: 'An Chóiré Thuaidh'
-KR: 'An Chóiré Theas'
+IO: 'Críocha Briotanacha an Aigéin Indiagh'
+TF: 'Críocha Deisceartacha na Fraince'
 KW: Cuáit
-KY: 'Oileáin na gCadhman'
-KZ: 'An Chasacstáin'
+RU: 'Cónaidhm na Rúise'
+CR: 'Cósta Ríce'
+CU: Cúba
+DJ: Djibouti
+DM: Doiminice
+EC: Eacuadór
+FJ: Fidsí
+GG: Geansaí
+JE: Geirsí
+GI: Giobráltar
+GD: Grenada
+GP: Guadalúip
+GU: Guam
+GT: Guatamala
+GH: Gána
+HN: Hondúras
+HT: Háití
+JM: Iamáice
+IL: Iosrael
 LA: Laos
-LB: 'An Liobáin'
-LC: 'San Lúisia'
-LI: Lichtinstéin
-LK: 'Srí Lanca'
-LR: 'An Libéir'
 LS: Leosóta
-LT: 'An Liotuáin'
+LI: Lichtinstéin
 LU: Lucsamburg
-LV: 'An Laitvia'
-LY: 'An Libia'
-MA: Maracó
-MC: Monacó
-MD: 'An Mholdóiv'
-ME: Montainéagró
 MG: Madagascar
-MH: 'Oileáin Marshall'
-MK: 'An Mhacadóin'
-ML: Mailí
 MM: Maenmar
-MN: 'An Mhongóil'
-MO: 'R.R.S. na Síne Macáó'
-MP: 'Oileáin Mariana Thuaidh'
+ML: Mailí
+MA: Maracó
 MQ: Martainíc
-MR: 'An Mharatáin'
+YT: Mayotte
+MX: Meicsiceo
+UM: 'Mion-Oileáin Imeallacha S.A.M.'
+MC: Monacó
+ME: Montainéagró
 MS: Montsarat
 MT: Málta
-MU: 'Oileán Mhuirís'
-MV: 'Na Maildiví'
-MW: 'An Mhaláiv'
-MX: Meicsiceo
-MY: 'An Mhalaeisia'
 MZ: Mósaimbíc
-NA: 'An Namaib'
-NC: 'An Nua-Chaladóin'
-NE: 'An Nígir'
-NF: 'Oileán Norfolk'
-NG: 'An Nigéir'
-NI: Nicearagua
-NL: 'An Ísiltír'
-NO: 'An Iorua'
+BS: 'Na Bahámaí'
+PS: 'Na Críocha Pailistíneacha'
+MV: 'Na Maildiví'
+SC: 'Na Séiséil'
+PH: 'Na hOileáin Fhilipíneacha'
 NP: Neipeal
+NI: Nicearagua
+PG: 'Nua-Ghuine Phapua'
 NR: Nárú
 NU: Nívé
-NZ: 'An Nua-Shéalainn'
-OM: Óman
-PA: Panama
-PE: Peiriú
-PF: 'An Pholainéis Fhrancach'
-PG: 'Nua-Ghuine Phapua'
-PH: 'Na hOileáin Fhilipíneacha'
-PK: 'An Phacastáin'
-PL: 'An Pholainn'
-PM: 'Saint Pierre agus Miquelon'
-PN: Pitcairn
-PR: 'Portó Ríce'
-PS: 'Na Críocha Pailistíneacha'
-PT: 'An Phortaingéil'
-PW: Palau
-PY: Paragua
-QA: Catar
-RE: Réunion
-RO: 'An Rómáin'
-RS: 'An tSeirbia'
-RU: 'Cónaidhm na Rúise'
-RW: Ruanda
-SA: 'An Araib Shádach'
-SB: 'Oileáin Sholaimh'
-SC: 'Na Séiséil'
-SD: 'An tSúdáin'
-SE: 'An tSualainn'
-SG: Singeapór
-SH: 'San Héilin'
-SI: 'An tSlóvéin'
-SJ: 'Svalbard agus Jan Mayen'
-SK: 'An tSlóvaic'
-SL: 'Siarra Leon'
-SM: 'San Mairíne'
-SN: 'An tSeineagáil'
-SO: 'An tSomáil'
-SR: Suranam
-ST: 'Sao Tome agus Principe'
-SV: 'An tSalvadóir'
-SY: 'An tSiria'
-SZ: 'An tSuasalainn'
-TC: 'Oileáin Turks agus Caicos'
-TD: Sead
-TF: 'Críocha Deisceartacha na Fraince'
-TG: Tóga
-TH: 'An Téalainn'
-TJ: 'An Táidsíceastáin'
-TK: Tócalá
-TL: 'Tíomór Thoir'
-TM: 'An Tuircméanastáin'
-TN: 'An Túinéis'
-TO: Tonga
-TR: 'An Tuirc'
-TT: 'Oileáin na Tríonóide agus Tobága'
-TV: Túválú
-TW: 'An Téaváin'
-TZ: 'An Tansáin'
-UA: 'An Úcráin'
-UG: Úganda
-UM: 'Mion-Oileáin Imeallacha S.A.M.'
-US: 'Stáit Aontaithe Mheiriceá'
-UY: Urugua
-UZ: Úisbéiceastáin
-VA: 'An Vatacáin'
-VC: 'Saint Vincent agus na Grenadines'
-VE: Veiniséala
+AX: 'Oileáin Alaind'
 VG: 'Oileáin Bhriotanacha na Maighdean'
-VI: 'Oileáin na Maighdean S.A.M.'
-VN: 'Vít Neam'
-VU: Vanuatú
+KM: 'Oileáin Chomóra'
+CK: 'Oileáin Cook'
+FO: 'Oileáin Fharó'
+FK: 'Oileáin Fháclainne'
+MP: 'Oileáin Mariana Thuaidh'
+MH: 'Oileáin Marshall'
+SB: 'Oileáin Sholaimh'
+TC: 'Oileáin Turks agus Caicos'
 WF: 'Oileáin Vailís agus Futúna'
-WS: Samó
-YE: Éimin
-YT: Mayotte
-ZA: 'An Afraic Theas'
-ZM: 'An tSaimbia'
-ZW: 'An tSiombáib'
+VI: 'Oileáin na Maighdean S.A.M.'
+TT: 'Oileáin na Tríonóide agus Tobága'
+KY: 'Oileáin na gCadhman'
+CC: 'Oileáin na gCócónna'
+BV: 'Oileán Bouvet'
+HM: 'Oileán Heard agus Oileáin McDonald'
+IM: 'Oileán Mhanann'
+MU: 'Oileán Mhuirís'
+NF: 'Oileán Norfolk'
+CX: 'Oileán na Nollag'
+PW: Palau
+PA: Panama
+PY: Paragua
+PE: Peiriú
+PN: Pitcairn
+CD: 'Poblacht Dhaonlathach an Chongó'
+CZ: 'Poblacht na Seice'
+CF: 'Poblacht na hAfraice Láir'
+PR: 'Portó Ríce'
+HK: 'R.R.S. na Síne Hong Cong'
+MO: 'R.R.S. na Síne Macáó'
+RW: Ruanda
 ZZ: 'Réigiún Anaithnid nó Neamhbhailí'
+RE: Réunion
+KN: 'Saint Kitts agus Nevis'
+PM: 'Saint Pierre agus Miquelon'
+VC: 'Saint Vincent agus na Grenadines'
+WS: Samó
+AS: 'Samó Meiriceánach'
+SH: 'San Héilin'
+LC: 'San Lúisia'
+SM: 'San Mairíne'
+ST: 'Sao Tome agus Principe'
+TD: Sead
+SL: 'Siarra Leon'
+SG: Singeapór
+LK: 'Srí Lanca'
+US: 'Stáit Aontaithe Mheiriceá'
+SR: Suranam
+SJ: 'Svalbard agus Jan Mayen'
+TO: Tonga
+TL: 'Tíomór Thoir'
+TK: Tócalá
+TG: Tóga
+TV: Túválú
+UY: Urugua
+VU: Vanuatú
+VE: Veiniséala
+VN: 'Vít Neam'
+YE: Éimin
+IE: Éire
+OM: Óman
+UG: Úganda
+UZ: Úisbéiceastáin

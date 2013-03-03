@@ -1,14 +1,14 @@
 <?php return array (
   'BR' => 'Brazil',
   'CN' => 'China',
-  'DE' => 'Germany',
-  'ET' => 'Itoophiyaa',
   'FR' => 'France',
-  'GB' => 'United Kingdom',
+  'DE' => 'Germany',
   'IN' => 'India',
   'IT' => 'Italy',
+  'ET' => 'Itoophiyaa',
   'JP' => 'Japan',
   'KE' => 'Keeniyaa',
   'RU' => 'Russia',
+  'GB' => 'United Kingdom',
   'US' => 'United States',
 );

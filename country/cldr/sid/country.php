@@ -1,13 +1,13 @@
 <?php return array (
   'BR' => 'Brazil',
   'CN' => 'China',
-  'DE' => 'Germany',
-  'ET' => 'Itiyoophiya',
   'FR' => 'France',
-  'GB' => 'United Kingdom',
+  'DE' => 'Germany',
   'IN' => 'India',
   'IT' => 'Italy',
+  'ET' => 'Itiyoophiya',
   'JP' => 'Japan',
   'RU' => 'Russia',
+  'GB' => 'United Kingdom',
   'US' => 'United States',
 );

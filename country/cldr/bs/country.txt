@@ -1,5 +1,5 @@
 Bosna i Hercegovina (BA)
 Crna Gora (ME)
+Nepoznata ili nevažeća oblast (ZZ)
 Srbija (RS)
 Tonga (TO)
-Nepoznata ili nevažeća oblast (ZZ)
