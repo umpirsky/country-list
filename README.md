@@ -35,3 +35,20 @@ For now, I have implemented two data importers:
 * CLDR (imports data from [CLDR](http://cldr.unicode.org/))
 
 So, if country list changes in the future, it will be very easy to update our country list.
+
+Getting Started
+---------------
+
+To build all available country-list data, execute the following commands.
+
+On Debian/Ubuntu, execute:
+
+```bash
+$ sudo apt-get -y install php5-intl 
+$ curl -sS https://getcomposer.org/installer | php
+$ ./composer.phar update # to install the runtime dependencies
+$ php console list # to list all available console commands
+$ php console build # to create all the nice country-list data formats
+```
+
+After this, you will get the following files
