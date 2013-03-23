@@ -51,4 +51,5 @@ $ php console list # to list all available console commands
 $ php console build # to create all the nice country-list data formats
 ```
 
-After this, you will get the following files
+After this, you will get all the country-list files in the formats listed above.
+
