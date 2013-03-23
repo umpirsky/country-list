@@ -36,8 +36,8 @@ For now, I have implemented two data importers:
 
 So, if country list changes in the future, it will be very easy to update our country list.
 
-Getting Started
----------------
+Build
+-----
 
 To build all available country-list data, execute the following commands.
 
