@@ -53,7 +53,7 @@ On Debian/Ubuntu, execute:
 ```bash
 $ sudo apt-get -y install php5 php5-intl 
 $ curl -sS https://getcomposer.org/installer | php
-$ php composer.phar update # to install the runtime dependencies
+$ php composer.phar install --dev # to install the runtime dependencies
 $ php console list # to list all available console commands
 $ php console build # to create all the nice country-list data formats
 ```
