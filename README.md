@@ -60,6 +60,14 @@ $ php console build # to create all the nice country-list data formats
 
 After this, you will get all the country-list files in the formats listed above.
 
+This will generate about 110MB of data:
+
+```bash
+$ du -hs country/
+
+country/110M
+```
+
 To list the generated files, execute:
 
 ```bash
