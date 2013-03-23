@@ -41,10 +41,17 @@ Getting Started
 
 To build all available country-list data, execute the following commands.
 
+Checkout the github repo:
+
+```bash
+$ git clone git://github.com/umpirsky/country-list.git
+$ cd country-list
+```
+
 On Debian/Ubuntu, execute:
 
 ```bash
-$ sudo apt-get -y install php5-intl 
+$ sudo apt-get -y install php5 php5-intl 
 $ curl -sS https://getcomposer.org/installer | php
 $ ./composer.phar update # to install the runtime dependencies
 $ php console list # to list all available console commands
@@ -53,3 +60,8 @@ $ php console build # to create all the nice country-list data formats
 
 After this, you will get all the country-list files in the formats listed above.
 
+To list the generated files, execute:
+
+```bash
+$ ls -1 country/*/*
+```
