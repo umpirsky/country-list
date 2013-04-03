@@ -39,37 +39,10 @@ So, if country list changes in the future, it will be very easy to update our co
 Build
 -----
 
-To build all available country-list data, execute the following commands.
-
-Checkout the github repo:
-
-```bash
-$ git clone git://github.com/umpirsky/country-list.git
-$ cd country-list
-```
-
-On Debian/Ubuntu, execute:
+Country list is available out of the box, but if you want to submit patches, add new formats,
+update data source or contribute in any other way, you will probably want to rebuild the list:
 
 ```bash
-$ sudo apt-get -y install php5 php5-intl 
-$ curl -sS https://getcomposer.org/installer | php
-$ php composer.phar install --dev # to install the runtime dependencies
-$ php console list # to list all available console commands
-$ php console build # to create all the nice country-list data formats
-```
-
-After this, you will get all the country-list files in the formats listed above.
-
-This will generate about 110MB of data:
-
-```bash
-$ du -hs country/
-
-country/110M
-```
-
-To list the generated files, execute:
-
-```bash
-$ ls -1 country/*/*
+$ composer install --dev
+$ console build
 ```
