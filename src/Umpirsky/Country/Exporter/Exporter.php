@@ -29,4 +29,14 @@ abstract class Exporter implements ExporterInterface
 
         return strtolower(substr($className, strrpos($className, '\\') + 1));
     }
+    
+    /**
+     * returns the fileName to use
+     *
+     * @return string - the fileName to use for this file
+     */
+    public function getFileName()
+    {
+        return null;
+    }
 }

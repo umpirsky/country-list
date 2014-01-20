@@ -99,7 +99,12 @@ class Build extends Command
                         }
                         foreach ($this->exporterIterator as $exporter) {
                             if (null === $input->getArgument('format') || $input->getArgument('format') === $exporter->getFormat()) {
-                                $file = $exporterDir.'/country.'.$exporter->getFormat();
+                            	$fileName = $exporter->getFileName();
+                            	if (null === $fileName)
+                            	{
+                            		$fileName = 'country.'.$exporter->getFormat();
+                            	}
+                                $file = $exporterDir.'/'.$fileName;
                                 $this->filesystem->touch($file);
                                 file_put_contents($file, $exporter->export($countries));
                                 if ($verbose) {
