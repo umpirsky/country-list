@@ -20,6 +20,8 @@ Formats Available
     * SQLite
     * SQL Server
 - PHP
+- ios .strings 
+- Android .xml ressources 
 
 Multilingual
 ------------
