@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="COUNTRY_NAME_BM">Bemuda</string>
+  <string name="COUNTRY_NAME_BJ">Binin</string>
+  <string name="COUNTRY_NAME_CN">Chaina</string>
+  <string name="COUNTRY_NAME_KM">Comorosu</string>
+  <string name="COUNTRY_NAME_HT">Hati</string>
+  <string name="COUNTRY_NAME_LY">Libyia</string>
+  <string name="COUNTRY_NAME_MV">Maldivesa</string>
+  <string name="COUNTRY_NAME_NG">Nigeria</string>
+</resources>

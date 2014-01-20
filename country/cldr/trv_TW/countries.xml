@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="COUNTRY_NAME_US">alang Amarika</string>
+  <string name="COUNTRY_NAME_HM">alang Htee ni Mayktan</string>
+  <string name="COUNTRY_NAME_GB">alang Inglis</string>
+  <string name="COUNTRY_NAME_IO">alang Inglis niq Intu</string>
+  <string name="COUNTRY_NAME_IN">alang Intu</string>
+  <string name="COUNTRY_NAME_CN">alang Ipaw</string>
+  <string name="COUNTRY_NAME_IT">alang Itariya</string>
+  <string name="COUNTRY_NAME_HR">alang Krowtia</string>
+  <string name="COUNTRY_NAME_ME">alang Mondineygrw</string>
+  <string name="COUNTRY_NAME_AQ">alang Nanci</string>
+  <string name="COUNTRY_NAME_GS">alang Nanjiouya ni Nansanminji</string>
+  <string name="COUNTRY_NAME_JP">alang Nihong</string>
+  <string name="COUNTRY_NAME_BR">alang Pajey</string>
+  <string name="COUNTRY_NAME_FR">alang Posey</string>
+  <string name="COUNTRY_NAME_TF">alang Posey niq Nan</string>
+  <string name="COUNTRY_NAME_BA">alang Posniya</string>
+  <string name="COUNTRY_NAME_BV">alang Puwei</string>
+  <string name="COUNTRY_NAME_RU">alang Ruski</string>
+  <string name="COUNTRY_NAME_SM">alang Snmarinow</string>
+  <string name="COUNTRY_NAME_RS">alang Srbia</string>
+  <string name="COUNTRY_NAME_CH">alang Switjrrant</string>
+  <string name="COUNTRY_NAME_DE">alang Towjih</string>
+  <string name="COUNTRY_NAME_ZZ">ini klayi na alang ni</string>
+</resources>

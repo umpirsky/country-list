@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="COUNTRY_NAME_IT">ইটালি</string>
+  <string name="COUNTRY_NAME_AQ">এন্টাৰ্টিকা</string>
+  <string name="COUNTRY_NAME_CN">চীন</string>
+  <string name="COUNTRY_NAME_JP">জাপান</string>
+  <string name="COUNTRY_NAME_DE">জাৰ্মানি</string>
+  <string name="COUNTRY_NAME_GS">দক্ষিণ জৰ্জিয়া আৰু দক্ষিণ চেণ্ডৱিচ্‌ দ্বীপ</string>
+  <string name="COUNTRY_NAME_TF">দক্ষিণ ফ্ৰান্সৰ অঞ্চল</string>
+  <string name="COUNTRY_NAME_FR">ফ্ৰান্স</string>
+  <string name="COUNTRY_NAME_BV">বভেট দ্বীপ</string>
+  <string name="COUNTRY_NAME_BR">ব্ৰাজিল</string>
+  <string name="COUNTRY_NAME_IO">ব্ৰিটিশ্ব ইণ্ডিয়ান মহাসাগৰৰ অঞ্চল</string>
+  <string name="COUNTRY_NAME_IN">ভাৰত</string>
+  <string name="COUNTRY_NAME_US">যুক্তৰাষ্ট্ৰ</string>
+  <string name="COUNTRY_NAME_RU">ৰুচ</string>
+  <string name="COUNTRY_NAME_GB">সংযুক্ত ৰাজ্য</string>
+  <string name="COUNTRY_NAME_HM">হাৰ্ড দ্বীপ আৰু মেক্‌ডোনাল্ড দ্বীপ</string>
+</resources>
