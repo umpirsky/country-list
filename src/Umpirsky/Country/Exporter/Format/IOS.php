@@ -14,11 +14,11 @@ namespace Umpirsky\Country\Exporter\Format;
 use Umpirsky\Country\Exporter\Exporter;
 
 /**
- * Text exporter.
- *
- * @author Саша Стаменковић <umpirsky@gmail.com>
+ * ios exporter.
+ * This exporter exports a file as read by the NSLocalizedString function
+ * @author Simon Meyer <Simon.Meyer@gmx.de>
  */
-class ios extends Exporter
+class IOS extends Exporter
 {
     /**
      * {@inheritdoc}
@@ -27,14 +27,17 @@ class ios extends Exporter
     {
         $txt = '';
         foreach ($data as $id => $name) {
-            $txt .= sprintf('"COUNTRY_NAME_%s" = "%s";%s', $id, $name,PHP_EOL);
+            $txt .= sprintf('"%s" = "%s";%s', $id, $name,PHP_EOL);
         }
 
         return $txt;
     }
     
-    public function getFileName()
+    /**
+     * {@inheritdoc}
+     */
+    public function getFormat()
     {
-        return 'countries.strings';
+        return 'strings';
     }
 }

@@ -14,9 +14,9 @@ namespace Umpirsky\Country\Exporter\Format;
 use Umpirsky\Country\Exporter\Exporter;
 
 /**
- * XML exporter.
- *
- * @author Саша Стаменковић <umpirsky@gmail.com>
+ * Android Resources xml exporter.
+ * exports the countries an a android resources xml file containing the strings with a 'country_' prefix
+ * @author Simon Meyer <Simon.Meyer@gmx.de>
  */
 class Android extends Exporter
 {
@@ -25,32 +25,34 @@ class Android extends Exporter
      */
     public function export(array $data)
     {
-    	$prettyprint = true;
+        $prettyprint = true;
     	
         $countriesElement = new \SimpleXmlElement('<?xml version="1.0" encoding="utf-8"?><resources xmlns:tools="http://schemas.android.com/tools"/>');
         foreach ($data as $iso => $name) {
             $countryElement = $countriesElement->addChild('string', $name);
-            $countryElement->addAttribute('name', "COUNTRY_NAME_".$iso);
+            $countryElement->addAttribute('name', "country_".$iso);
         }
         $result = '';
         
         // prettyprint
         if ($prettyprint)
         {
-        	$dom = dom_import_simplexml($countriesElement)->ownerDocument;
-			$dom->formatOutput = true;
-			$result =  $dom->saveXML();
+            $dom = dom_import_simplexml($countriesElement)->ownerDocument;
+            $dom->formatOutput = true;
+            $result =  $dom->saveXML();
         }
         else
         {
-        	$result = $countriesElement->asXML();
+            $result = $countriesElement->asXML();
         }
-        
         return $result;
     }
     
-    public function getFileName()
+    /**
+     * {@inheritdoc}
+     */
+    public function getFormat()
     {
-        return 'countries.xml';
+        return 'android.xml';
     }
 }
