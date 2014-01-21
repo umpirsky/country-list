@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="country_BW">BW</string>
+  <string name="country_NG">NG</string>
+  <string name="country_TO">Tonga</string>
+</resources>

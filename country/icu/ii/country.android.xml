@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="country_BR">ꀠꑭ</string>
+  <string name="country_US">ꂰꇩ</string>
+  <string name="country_FR">ꃔꇩ</string>
+  <string name="country_DE">ꄓꇩ</string>
+  <string name="country_RU">ꊉꇆꌦ</string>
+  <string name="country_CN">ꍏꇩ</string>
+  <string name="country_JP">ꏝꀪ</string>
+  <string name="country_GB">ꑱꇩ</string>
+  <string name="country_IT">ꑴꄊꆺ</string>
+  <string name="country_IN">ꑴꄗ</string>
+</resources>

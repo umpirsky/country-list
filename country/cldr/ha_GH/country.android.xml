@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="country_GH">Gaana</string>
+  <string name="country_NE">Nijer</string>
+  <string name="country_NG">Nijeriya</string>
+</resources>

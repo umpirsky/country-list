@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="country_BA">Bosna i Hercegovina</string>
+  <string name="country_ME">Crna Gora</string>
+  <string name="country_ZZ">Nepoznata ili nevažeća oblast</string>
+  <string name="country_RS">Srbija</string>
+  <string name="country_TO">Tonga</string>
+</resources>

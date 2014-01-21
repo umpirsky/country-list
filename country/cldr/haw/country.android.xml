@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="country_NZ">Aotearoa</string>
+  <string name="country_GB">Aupuni Mōʻī Hui Pū ʻIa</string>
+  <string name="country_GR">Helene</string>
+  <string name="country_NL">Hōlani</string>
+  <string name="country_JP">Iāpana</string>
+  <string name="country_CA">Kanakā</string>
+  <string name="country_DE">Kelemānia</string>
+  <string name="country_DK">Kenemaka</string>
+  <string name="country_ES">Kepania</string>
+  <string name="country_CN">Kina</string>
+  <string name="country_RU">Lūkia</string>
+  <string name="country_MX">Mekiko</string>
+  <string name="country_AU">Nūhōlani</string>
+  <string name="country_FR">Palani</string>
+  <string name="country_US">ʻAmelika Hui Pū ʻIa</string>
+  <string name="country_IE">ʻIlelani</string>
+  <string name="country_IL">ʻIseraʻela</string>
+  <string name="country_PH">ʻĀina Pilipino</string>
+  <string name="country_IT">ʻĪkālia</string>
+  <string name="country_IN">ʻĪnia</string>
+</resources>

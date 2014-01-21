@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="country_US">Америкийн Нэгдсэн Улс</string>
+  <string name="country_BR">Бразили</string>
+  <string name="country_DE">Герман</string>
+  <string name="country_IT">Итали</string>
+  <string name="country_MN">Монгол улс</string>
+  <string name="country_RU">Орос</string>
+  <string name="country_TO">Тонга</string>
+  <string name="country_FR">Франц</string>
+  <string name="country_IN">Энэтхэг</string>
+  <string name="country_JP">Япон</string>
+</resources>
