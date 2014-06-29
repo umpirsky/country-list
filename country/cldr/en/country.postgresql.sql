@@ -182,7 +182,7 @@ INSERT INTO "country" ("id", "name") VALUES ('PA', 'Panama');
 INSERT INTO "country" ("id", "name") VALUES ('PZ', 'Panama Canal Zone');
 INSERT INTO "country" ("id", "name") VALUES ('PG', 'Papua New Guinea');
 INSERT INTO "country" ("id", "name") VALUES ('PY', 'Paraguay');
-INSERT INTO "country" ("id", "name") VALUES ('YD', 'People\'s Democratic Republic of Yemen');
+INSERT INTO "country" ("id", "name") VALUES ('YD', 'Peoples Democratic Republic of Yemen');
 INSERT INTO "country" ("id", "name") VALUES ('PE', 'Peru');
 INSERT INTO "country" ("id", "name") VALUES ('PH', 'Philippines');
 INSERT INTO "country" ("id", "name") VALUES ('PN', 'Pitcairn Islands');
