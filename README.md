@@ -44,7 +44,7 @@ update data source or contribute in any other way, you will probably want to reb
 
 ```bash
 $ composer install --dev
-$ console build
+$ ./console build
 ```
 
 Provinces
