@@ -35,13 +35,6 @@ class Build extends Command
     protected $path;
 
     /**
-     * Default Base path to build files.
-     *
-     * @var string
-     */
-    protected $defaultPath;
-
-    /**
      * @var Filesystem
      */
     protected $filesystem;
@@ -66,7 +59,7 @@ class Build extends Command
         parent::__construct('build');
         $this->exporterIterator = new ExporterIterator();
         $this->importerIterator = new ImporterIterator();
-        $this->defaultPath = $path;
+        $this->path = $path;
     }
 
    /**
@@ -78,9 +71,9 @@ class Build extends Command
             ->setDescription('Builds country list files.')
             ->setDefinition(array(
                 new InputArgument('source', InputArgument::OPTIONAL, 'Data source to fetch countries from (cldr, icu)'),
-                new InputArgument('format', InputArgument::OPTIONAL, 'Format in which to export data, no value means ALL FORMATS'),
-                new InputArgument('language', InputArgument::OPTIONAL, 'Language, no value means ALL Languages'),
-                new InputOption('path', 'p', InputOption::VALUE_OPTIONAL, 'full path where the build is going to be exported to, (./country as default)', $this->defaultPath)
+                new InputArgument('format', InputArgument::OPTIONAL, 'Format in which to export data, no value means all formats'),
+                new InputArgument('language', InputArgument::OPTIONAL, 'Language, no value means all languages'),
+                new InputOption('path', 'p', InputOption::VALUE_OPTIONAL, 'Full path where the build is going to be exported to (./country by default)', $this->path)
             ))
             ->setHelp(sprintf(
                 '%sBuilds country list files.%s
@@ -139,6 +132,5 @@ class Build extends Command
                 }
             }
         }
-
     }
 }
