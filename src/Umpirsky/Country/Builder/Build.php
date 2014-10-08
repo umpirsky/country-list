@@ -14,6 +14,7 @@ namespace Umpirsky\Country\Builder;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputInterface;
+use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\Filesystem\Filesystem;
 use Umpirsky\Country\Exporter\Iterator as ExporterIterator;
@@ -32,6 +33,13 @@ class Build extends Command
      * @var string
      */
     protected $path;
+
+    /**
+     * Default Base path to build files.
+     *
+     * @var string
+     */
+    protected $defaultPath;
 
     /**
      * @var Filesystem
@@ -56,10 +64,9 @@ class Build extends Command
     public function __construct($path)
     {
         parent::__construct('build');
-        $this->filesystem = new Filesystem();
-        $this->filesystem->mkdir($this->path = $path);
         $this->exporterIterator = new ExporterIterator();
         $this->importerIterator = new ImporterIterator();
+        $this->defaultPath = $path;
     }
 
    /**
@@ -70,12 +77,25 @@ class Build extends Command
         $this
             ->setDescription('Builds country list files.')
             ->setDefinition(array(
-                new InputArgument('source', InputArgument::OPTIONAL, 'Data source to fetch countries from'),
-                new InputArgument('language', InputArgument::OPTIONAL, 'Language'),
-                new InputArgument('format', InputArgument::OPTIONAL, 'Format in which to export data')
+                new InputArgument('source', InputArgument::OPTIONAL, 'Data source to fetch countries from (cldr, icu)'),
+                new InputArgument('format', InputArgument::OPTIONAL, 'Format in which to export data, no value means ALL FORMATS'),
+                new InputArgument('language', InputArgument::OPTIONAL, 'Language, no value means ALL Languages'),
+                new InputOption('path', 'p', InputOption::VALUE_OPTIONAL, 'full path where the build is going to be exported to, (./country as default)', $this->defaultPath)
             ))
             ->setHelp(sprintf(
-                '%sBuilds country list files.%s',
+                '%sBuilds country list files.%s
+
+ Examples:
+
+    #generate all json files for EN locale
+    php console cldr json EN
+
+    #generate all xml files for ALL LANGS in /full/path/to/destination/folder folder
+    php console cldr xml -p /full/path/to/destination/folder
+
+    #generate all files in ALL FORMATS for ALL LANGS in ./country folder
+    php console icu
+                ',
                 PHP_EOL,
                 PHP_EOL
             ));
@@ -86,6 +106,9 @@ class Build extends Command
     */
     protected function execute(InputInterface $input, OutputInterface $output)
     {
+        $this->filesystem = new Filesystem();
+        $this->filesystem->mkdir($this->path = $input->getOption('path'));
+
         $verbose = $input->getOption('verbose');
         foreach ($this->importerIterator as $importer) {
             if (null === $input->getArgument('source') || $input->getArgument('source') === $importer->getSource()) {
@@ -93,8 +116,13 @@ class Build extends Command
                 foreach ($importer->getLanguages() as $language) {
                     if (null === $input->getArgument('language') || $input->getArgument('language') === $language) {
                         $this->filesystem->mkdir($exporterDir = $importerDir.'/'.$language);
-                        $countries = $importer->getCountries($language);
+                        try {
+                            $countries = $importer->getCountries($language);
+                        } catch (\Zend_Locale_Exception $e) {
+                            $countries = null;
+                        }
                         if (!is_array($countries)) {
+                            $output->writeLn('<info>Country list was not generated for locale ' . $language . '</info>');
                             continue;
                         }
                         foreach ($this->exporterIterator as $exporter) {
@@ -111,5 +139,6 @@ class Build extends Command
                 }
             }
         }
+
     }
 }
