@@ -18,16 +18,16 @@
     "require": {
         "php": ">=5.3.2"
     },
-    "require-dev": {   
-        "symfony/class-loader":         "2.1.*",
-        "symfony/console":              "2.1.*",
-        "symfony/filesystem":           "2.1.*",
-        "symfony/finder":               "2.1.*",
-        "symfony/locale":               "2.1.*",
-        "symfony/yaml":                 "2.1.*",
-        "doctrine/dbal":                "2.*",
-        "zendframework/zendframework1": "1.*",
-        "zendframework/zend-db":        "2.0.*"
+    "require-dev": {
+        "symfony/class-loader":         "~2.5",
+        "symfony/console":              "~2.5",
+        "symfony/filesystem":           "~2.5",
+        "symfony/finder":               "~2.5",
+        "symfony/locale":               "~2.5",
+        "symfony/yaml":                 "~2.5",
+        "doctrine/dbal":                "~2.4",
+        "zendframework/zendframework1": "~1.12",
+        "zendframework/zend-db":        "~2.3"
     },
     "autoload": {
         "psr-0": {

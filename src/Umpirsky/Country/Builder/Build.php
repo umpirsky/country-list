@@ -73,7 +73,7 @@ class Build extends Command
                 new InputArgument('source', InputArgument::OPTIONAL, 'Data source to fetch countries from (cldr, icu)'),
                 new InputArgument('format', InputArgument::OPTIONAL, 'Format in which to export data, no value means all formats'),
                 new InputArgument('language', InputArgument::OPTIONAL, 'Language, no value means all languages'),
-                new InputOption('path', 'p', InputOption::VALUE_OPTIONAL, 'Full path where the build is going to be exported to (./country by default)', $this->path)
+                new InputOption('path', 'p', InputOption::VALUE_OPTIONAL, 'Full path where the build is going to be exported to (./country by default)')
             ))
             ->setHelp(sprintf(
                 '%sBuilds country list files.%s
@@ -99,8 +99,10 @@ class Build extends Command
     */
     protected function execute(InputInterface $input, OutputInterface $output)
     {
+        $this->path = null === $input->getOption('path') ? $this->path : $input->getOption('path');
+
         $this->filesystem = new Filesystem();
-        $this->filesystem->mkdir($this->path = $input->getOption('path'));
+        $this->filesystem->mkdir($this->path);
 
         $verbose = $input->getOption('verbose');
         foreach ($this->importerIterator as $importer) {
