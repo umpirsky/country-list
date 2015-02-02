@@ -29,7 +29,7 @@ class Xml extends Exporter
         foreach ($data as $iso => $name) {
             $countryElement = $countriesElement->addChild('country');
             $countryElement->addChild('iso', $iso);
-            $countryElement->addChild('name', $name);
+            $countryElement->addChild('name', $countryElement->ownerDocument->createCDATASection($name));
         }
 
         return $countriesElement->asXML();
