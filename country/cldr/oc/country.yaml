@@ -10,7 +10,7 @@ SA: 'Arabia Saudita'
 AR: Argentina
 DZ: Argeria
 AM: Armènia
-AU: Austràlia
+AU: 'Austràlia'
 AZ: Azerbaijan
 BS: Bahamas
 BH: Bahrain
@@ -23,7 +23,7 @@ BJ: Benin
 BM: Bermuda
 BY: Bielorussia
 MM: Birmania
-BG: Bolgària
+BG: 'Bolgària'
 BO: Bolívia
 BT: Botan
 BW: Botswana
@@ -34,7 +34,7 @@ BI: Burundi
 BA: 'Bòsnia e Ercegovina'
 KH: Cambòja
 CM: Cameron
-CA: Canadà
+CA: 'Canadà'
 CV: 'Cap Verd'
 KZ: Cazacstan
 TD: Chad
@@ -45,7 +45,7 @@ CO: Colómbia
 KM: Comòros
 KP: 'Corèa del Nòrd'
 KR: 'Corèa del Sud'
-HR: Croàcia
+HR: 'Croàcia'
 CU: Cuba
 CG: 'Còngo - Brazzaville'
 CD: 'Còngo - Kinshasa'
@@ -61,7 +61,7 @@ US: 'Estats Units'
 EE: Estònia
 ET: Etiopia
 FJ: Fiji
-FI: Finlàndia
+FI: 'Finlàndia'
 FR: França
 GA: Gabon
 GF: 'Guiana francesa'
@@ -69,13 +69,13 @@ GQ: 'Guinèa Eqüatoriala'
 BV: 'Isla Bouvet'
 KY: 'Islas Caiman'
 IL: Israèl
-IT: Itàlia
+IT: 'Itàlia'
 JP: Japon
 DJ: Jiboti
 LY: Libia
 SV: 'Lo Salvador'
 MA: Marròc
-MR: Mauritània
+MR: 'Mauritània'
 MZ: Moçambic
 MC: Mónegue
 PE: Peró
@@ -89,7 +89,7 @@ AS: 'Samòa americana'
 CH: Soïssa
 SY: Súria
 TL: 'Timòr Èst'
-UA: Ucràina
+UA: 'Ucràina'
 VE: Veneçuèla
 VN: Vietnam
 AT: Àustria

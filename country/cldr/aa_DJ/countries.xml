@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="COUNTRY_NAME_BR">Brazil</string>
+  <string name="COUNTRY_NAME_CN">China</string>
+  <string name="COUNTRY_NAME_ER">Eretria</string>
+  <string name="COUNTRY_NAME_FR">France</string>
+  <string name="COUNTRY_NAME_DE">Germany</string>
+  <string name="COUNTRY_NAME_IN">India</string>
+  <string name="COUNTRY_NAME_IT">Italy</string>
+  <string name="COUNTRY_NAME_JP">Japan</string>
+  <string name="COUNTRY_NAME_ET">Otobbia</string>
+  <string name="COUNTRY_NAME_RU">Russia</string>
+  <string name="COUNTRY_NAME_GB">United Kingdom</string>
+  <string name="COUNTRY_NAME_US">United States</string>
+  <string name="COUNTRY_NAME_DJ">Yabuuti</string>
+</resources>

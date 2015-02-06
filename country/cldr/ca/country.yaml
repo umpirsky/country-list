@@ -1,5 +1,5 @@
 AF: Afganistan
-AL: Albània
+AL: 'Albània'
 DE: Alemanya
 DZ: Algèria
 AD: Andorra
@@ -7,12 +7,12 @@ AO: Angola
 AI: Anguilla
 AG: 'Antigua i Barbuda'
 AN: 'Antilles Neerlandeses'
-AQ: Antàrtida
+AQ: 'Antàrtida'
 AR: Argentina
 AM: Armènia
 AW: Aruba
 SA: 'Aràbia Saudita'
-AU: Austràlia
+AU: 'Austràlia'
 AZ: Azerbaidjan
 BS: Bahames
 BH: Bahrain
@@ -27,14 +27,14 @@ BO: Bolívia
 BW: Botswana
 BR: Brasil
 BN: Brunei
-BG: Bulgària
+BG: 'Bulgària'
 BF: 'Burkina Faso'
 BI: Burundi
 BE: Bèlgica
 BA: 'Bòsnia i Hercegovina'
 KH: Cambodja
 CM: Camerun
-CA: Canadà
+CA: 'Canadà'
 CV: 'Cap Verd'
 CO: Colòmbia
 KM: Comores
@@ -43,7 +43,7 @@ KP: 'Corea del Nord'
 KR: 'Corea del Sud'
 CR: 'Costa Rica'
 CI: 'Costa d’Ivori'
-HR: Croàcia
+HR: 'Croàcia'
 CU: Cuba
 DK: Dinamarca
 DJ: Djibouti
@@ -52,7 +52,7 @@ EG: Egipte
 SV: 'El Salvador'
 EC: Equador
 ER: Eritrea
-SK: Eslovàquia
+SK: 'Eslovàquia'
 SI: Eslovènia
 ES: Espanya
 US: 'Estats Units'
@@ -60,14 +60,14 @@ EE: Estònia
 ET: Etiòpia
 FJ: Fiji
 PH: Filipines
-FI: Finlàndia
+FI: 'Finlàndia'
 FR: França
 GA: Gabon
 GE: Geòrgia
 GH: Ghana
 GI: Gibraltar
 GD: Grenada
-GL: Grenlàndia
+GL: 'Grenlàndia'
 GR: Grècia
 GP: Guadeloupe
 GF: 'Guaiana Francesa'
@@ -78,7 +78,7 @@ GN: Guinea
 GW: 'Guinea Bissau'
 GQ: 'Guinea Equatorial'
 GY: Guyana
-GM: Gàmbia
+GM: 'Gàmbia'
 HT: Haití
 HN: Hondures
 HU: Hongria
@@ -108,13 +108,13 @@ ID: Indonèsia
 IR: Iran
 IQ: Iraq
 IE: Irlanda
-IS: Islàndia
+IS: 'Islàndia'
 IL: Israel
-IT: Itàlia
+IT: 'Itàlia'
 JM: Jamaica
 JP: Japó
 JE: Jersey
-JO: Jordània
+JO: 'Jordània'
 KZ: Kazakhstan
 KE: Kenya
 KG: Kirguizistan
@@ -125,7 +125,7 @@ LS: Lesotho
 LV: Letònia
 LR: Libèria
 LI: Liechtenstein
-LT: Lituània
+LT: 'Lituània'
 LU: Luxemburg
 LB: Líban
 LY: Líbia
@@ -135,14 +135,14 @@ MW: Malawi
 MV: Maldives
 ML: Mali
 MT: Malta
-MY: Malàisia
+MY: 'Malàisia'
 MA: Marroc
 MQ: Martinica
 MU: Maurici
-MR: Mauritània
+MR: 'Mauritània'
 YT: Mayotte
 FM: Micronèsia
-MD: Moldàvia
+MD: 'Moldàvia'
 MN: Mongòlia
 ME: Montenegro
 MS: Montserrat
@@ -164,7 +164,7 @@ OM: Oman
 PK: Pakistan
 PW: Palau
 PS: Palestina
-PA: Panamà
+PA: 'Panamà'
 PG: 'Papua Nova Guinea'
 PY: Paraguai
 NL: 'Països Baixos'
@@ -200,23 +200,23 @@ SN: Senegal
 SC: Seychelles
 SL: 'Sierra Leone'
 SG: Singapur
-SO: Somàlia
+SO: 'Somàlia'
 LK: 'Sri Lanka'
 SD: Sudan
 SR: Surinam
 SE: Suècia
 CH: Suïssa
 SJ: 'Svalbard i Jan Mayen'
-SZ: Swazilàndia
+SZ: 'Swazilàndia'
 EH: 'Sàhara Occidental'
 ST: 'São Tomé i Príncipe'
 RS: Sèrbia
 CS: 'Sèrbia i Montenegro'
 SY: Síria
 TJ: Tadjikistan
-TH: Tailàndia
+TH: 'Tailàndia'
 TW: Taiwan
-TZ: Tanzània
+TZ: 'Tanzània'
 IO: 'Territori Britànic de l''Oceà Índic'
 TF: 'Territoris Francesos del Sud'
 TL: 'Timor Oriental'
@@ -235,7 +235,7 @@ AE: 'Unió dels Emirats Àrabs'
 UY: Uruguai
 UZ: Uzbekistan
 VU: Vanuatu
-VA: Vaticà
+VA: 'Vaticà'
 VE: Veneçuela
 VN: Vietnam
 WF: 'Wallis i Futuna'
@@ -243,6 +243,6 @@ CL: Xile
 CN: Xina
 CY: Xipre
 ZW: Zimbabwe
-ZM: Zàmbia
+ZM: 'Zàmbia'
 AT: Àustria
 IN: Índia

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="COUNTRY_NAME_UZ">Ўзбекистон</string>
+  <string name="COUNTRY_NAME_GB">Бирлашган Қироллик</string>
+  <string name="COUNTRY_NAME_BR">Бразилия</string>
+  <string name="COUNTRY_NAME_IT">Италия</string>
+  <string name="COUNTRY_NAME_DE">Олмония</string>
+  <string name="COUNTRY_NAME_RU">Россия</string>
+  <string name="COUNTRY_NAME_FR">Франция</string>
+  <string name="COUNTRY_NAME_CN">Хитой</string>
+  <string name="COUNTRY_NAME_JP">Япония</string>
+  <string name="COUNTRY_NAME_US">Қўшма Штатлар</string>
+  <string name="COUNTRY_NAME_IN">Ҳиндистон</string>
+  <string name="COUNTRY_NAME_AF">افغانستان</string>
+</resources>

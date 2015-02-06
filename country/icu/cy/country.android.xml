@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="country_GB">Prydain Fawr</string>
+  <string name="country_CC">Ynysoedd Cocos [Keeling]</string>
+</resources>

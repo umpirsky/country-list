@@ -6,68 +6,13 @@ GF,"Falanise Kuiana"
 PH,Filipaini
 FI,Finilani
 FJ,Fisi
-WS,Haʻamoa
-AS,"Haʻamoa ʻAmelika"
 HT,Haiti
 HU,Hangakalia
+WS,Haʻamoa
+AS,"Haʻamoa ʻAmelika"
 NL,Hōlani
-HK,"Hongi Kongi SAR Siaina"
 HN,Honitulasi
-IE,ʻAealani
-AF,ʻAfikānisitani
-ZA,"ʻAfilika tonga"
-IS,ʻAisilani
-DZ,ʻAisilia
-AE,"ʻAlepea Fakatahataha"
-AL,ʻAlipania
-AW,ʻAlupa
-AM,ʻĀminia
-AQ,ʻAnitātika
-AU,ʻAositelēlia
-AT,ʻAositulia
-AZ,ʻAsapaisani
-AR,ʻAsenitina
-GQ,"ʻEkueta Kini"
-EC,ʻEkuetoa
-SV,"ʻEle Salavatoa"
-ER,ʻElitulia
-AO,ʻEnikola
-AD,ʻEnitola
-EE,ʻEsitōnia
-IN,ʻInitia
-ID,ʻInitonēsia
-IL,ʻIsileli
-EG,ʻIsipite
-IT,ʻĪtali
-ET,ʻItiōpea
-UG,ʻIukanitā
-UA,ʻIukuleini
-IQ,ʻIulaaki
-IR,ʻIulaani
-EU,"ʻIulope fakatahataha"
-OM,ʻOmani
-QO,"ʻOsenia Mamaʻo"
-FO,"ʻOtumotu Felou"
-FK,"ʻOtumotu Fokuleni"
-HM,"ʻOtumotu Heati mo Makitonali"
-AX,"ʻOtumotu ʻAlani"
-IC,"ʻOtumotu Kaneli"
-KY,"ʻOtumotu Keimeni"
-CC,"ʻOtumotu Koko"
-CK,"ʻOtumotu Kuki"
-MP,"ʻOtumotu Maliana tokelau"
-MH,"ʻOtumotu Māsolo"
-PN,"ʻOtumotu Pitikeni"
-SC,"ʻOtumotu Seiseli"
-UM,"ʻOtumotu siʻi ʻo ʻAmelika"
-GS,"ʻOtumotu Siosia-tonga mo Saniuisi-tonga"
-SB,"ʻOtumotu Solomone"
-TC,"ʻOtumotu Teki mo Keikosi"
-VI,"ʻOtumotu Vilikini fakaʻamelika"
-VG,"ʻOtumotu Vilikini fakapilitānia"
-UY,ʻUlukuei
-UZ,ʻUsipekitēni
-WF,"ʻUvea mo Futuna"
+HK,"Hongi Kongi SAR Siaina"
 YE,Iemeni
 GR,Kalisi
 GM,Kamipia
@@ -108,11 +53,11 @@ LI,Lekitenisaini
 LB,Lepanoni
 LS,Lesoto
 LT,Lifiuenia
-RE,Liʻiunioni
-CF,"Lipapilika ʻAfilika Lotoloto"
 CZ,"Lipapilika Seki"
 DO,"Lipapilika Tominika"
+CF,"Lipapilika ʻAfilika Lotoloto"
 LY,Lipia
+RE,Liʻiunioni
 RO,Lomēnia
 RW,Luanitā
 RU,Lūsia
@@ -132,18 +77,18 @@ MU,Maulitiusi
 YT,Meioti
 MX,Mekisikou
 FM,Mikolonisia
-MS,Moʻungaselati
 MA,Molako
 MD,Molotova
-MN,Mongokōlia
 ME,Monitenikalo
+MN,Mongokōlia
 MZ,Mosenipiki
-AC,"Motu ʻAsenisini"
 CP,"Motu Kilipatoni"
 CX,"Motu Kilisimasi"
 IM,"Motu Mani"
 NF,"Motu Nōfoliki"
 BV,"Motu Puveti"
+AC,"Motu ʻAsenisini"
+MS,Moʻungaselati
 CV,"Muiʻi Veti"
 NE,Naisia
 NG,Naisilia
@@ -173,8 +118,8 @@ BZ,Pelise
 PE,Pelū
 MM,Pema
 BM,Pēmuta
-BD,Pengilātesi
 BJ,Penini
+BD,Pengilātesi
 GB,Pilitānia
 BG,Pokalia
 PL,Poleni
@@ -253,3 +198,58 @@ VU,Vanuatu
 VA,Vatikani
 VE,Venisuela
 VN,Vietinemi
+IE,ʻAealani
+AF,ʻAfikānisitani
+ZA,"ʻAfilika tonga"
+IS,ʻAisilani
+DZ,ʻAisilia
+AE,"ʻAlepea Fakatahataha"
+AL,ʻAlipania
+AW,ʻAlupa
+AM,ʻĀminia
+AQ,ʻAnitātika
+AU,ʻAositelēlia
+AT,ʻAositulia
+AZ,ʻAsapaisani
+AR,ʻAsenitina
+GQ,"ʻEkueta Kini"
+EC,ʻEkuetoa
+SV,"ʻEle Salavatoa"
+ER,ʻElitulia
+AO,ʻEnikola
+AD,ʻEnitola
+EE,ʻEsitōnia
+IN,ʻInitia
+ID,ʻInitonēsia
+IL,ʻIsileli
+EG,ʻIsipite
+IT,ʻĪtali
+ET,ʻItiōpea
+UG,ʻIukanitā
+UA,ʻIukuleini
+IQ,ʻIulaaki
+IR,ʻIulaani
+EU,"ʻIulope fakatahataha"
+OM,ʻOmani
+QO,"ʻOsenia Mamaʻo"
+FO,"ʻOtumotu Felou"
+FK,"ʻOtumotu Fokuleni"
+HM,"ʻOtumotu Heati mo Makitonali"
+IC,"ʻOtumotu Kaneli"
+KY,"ʻOtumotu Keimeni"
+CC,"ʻOtumotu Koko"
+CK,"ʻOtumotu Kuki"
+MP,"ʻOtumotu Maliana tokelau"
+MH,"ʻOtumotu Māsolo"
+PN,"ʻOtumotu Pitikeni"
+SC,"ʻOtumotu Seiseli"
+GS,"ʻOtumotu Siosia-tonga mo Saniuisi-tonga"
+UM,"ʻOtumotu siʻi ʻo ʻAmelika"
+SB,"ʻOtumotu Solomone"
+TC,"ʻOtumotu Teki mo Keikosi"
+VG,"ʻOtumotu Vilikini fakapilitānia"
+VI,"ʻOtumotu Vilikini fakaʻamelika"
+AX,"ʻOtumotu ʻAlani"
+UY,ʻUlukuei
+UZ,ʻUsipekitēni
+WF,"ʻUvea mo Futuna"

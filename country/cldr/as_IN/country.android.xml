@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="country_ZZ">অজ্ঞাত বা অবৈধ অঞ্চল</string>
+  <string name="country_IT">ইটালি</string>
+  <string name="country_AQ">এন্টাৰ্টিকা</string>
+  <string name="country_CN">চীন</string>
+  <string name="country_JP">জাপান</string>
+  <string name="country_DE">জাৰ্মানি</string>
+  <string name="country_GS">দক্ষিণ জৰ্জিয়া আৰু দক্ষিণ চেণ্ডৱিচ্‌ দ্বীপ</string>
+  <string name="country_TF">দক্ষিণ ফ্ৰান্সৰ অঞ্চল</string>
+  <string name="country_FR">ফ্ৰান্স</string>
+  <string name="country_BV">বভেট দ্বীপ</string>
+  <string name="country_BR">ব্ৰাজিল</string>
+  <string name="country_IO">ব্ৰিটিশ্ব ইণ্ডিয়ান মহাসাগৰৰ অঞ্চল</string>
+  <string name="country_IN">ভাৰত</string>
+  <string name="country_US">যুক্তৰাষ্ট্ৰ</string>
+  <string name="country_GB">সংযুক্ত ৰাজ্য</string>
+  <string name="country_HM">হাৰ্ড দ্বীপ আৰু মেক্‌ডোনাল্ড দ্বীপ</string>
+  <string name="country_RU">ৰুচ</string>
+</resources>
