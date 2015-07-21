@@ -11,8 +11,6 @@ Formats Available
 - YAML
 - XML
 - HTML
-    * Select ([demo](http://country-list.umpirsky.com/country.html))
-    * Flags ([demo](http://country-list.umpirsky.com/country.flags.html))
 - CSV
 - SQL
     * MySQL
