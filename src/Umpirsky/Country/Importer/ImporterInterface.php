@@ -12,10 +12,10 @@ interface ImporterInterface
     public function getLanguages();
 
     /**
-     * Get list of all countries in given language.
+     * Get data in given language.
      *
      * @param  string   $language
      * @return string[]
      */
-    public function getCountries($language);
+    public function getData($language);
 }

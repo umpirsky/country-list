@@ -28,7 +28,7 @@ class Icu extends Importer
     /**
      * {@inheritdoc}
      */
-    public function getCountries($language)
+    public function getData($language)
     {
         return $this->locale->getDisplayCountries($language);
     }

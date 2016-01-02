@@ -95,13 +95,13 @@ class Build extends Command
                 foreach ($importer->getLanguages() as $language) {
                     if (null === $input->getArgument('language') || $input->getArgument('language') === $language) {
                         $this->filesystem->mkdir($exporterDir = $importerDir.'/'.$language);
-                        $countries = $importer->getCountries($language);
+                        $data = $importer->getData($language);
 
                         foreach ($this->exporterIterator as $exporter) {
                             if (null === $input->getArgument('format') || $input->getArgument('format') === $exporter->getFormat()) {
                                 $file = $exporterDir.'/country.'.$exporter->getFormat();
                                 $this->filesystem->touch($file);
-                                file_put_contents($file, $exporter->export($countries));
+                                file_put_contents($file, $exporter->export($data));
                                 if ($verbose) {
                                     $output->write('<info>[file+]</info> '.$file.PHP_EOL);
                                 }
