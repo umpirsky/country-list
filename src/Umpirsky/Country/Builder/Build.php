@@ -95,15 +95,8 @@ class Build extends Command
                 foreach ($importer->getLanguages() as $language) {
                     if (null === $input->getArgument('language') || $input->getArgument('language') === $language) {
                         $this->filesystem->mkdir($exporterDir = $importerDir.'/'.$language);
-                        try {
-                            $countries = $importer->getCountries($language);
-                        } catch (\Zend_Locale_Exception $e) {
-                            $countries = null;
-                        }
-                        if (!is_array($countries)) {
-                            $output->writeLn('<info>Country list was not generated for locale ' . $language . '</info>');
-                            continue;
-                        }
+                        $countries = $importer->getCountries($language);
+
                         foreach ($this->exporterIterator as $exporter) {
                             if (null === $input->getArgument('format') || $input->getArgument('format') === $exporter->getFormat()) {
                                 $file = $exporterDir.'/country.'.$exporter->getFormat();
