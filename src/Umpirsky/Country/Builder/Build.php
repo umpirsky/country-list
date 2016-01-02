@@ -1,14 +1,5 @@
 <?php
 
-/**
- * This file is part of the Country List project.
- *
- *  (c) Saša Stamenković <umpirsky@gmail.com>
- *
- * For the full copyright and license information, please view the LICENSE
- * file that was distributed with this source code.
- */
-
 namespace Umpirsky\Country\Builder;
 
 use Symfony\Component\Console\Command\Command;
@@ -20,11 +11,6 @@ use Symfony\Component\Filesystem\Filesystem;
 use Umpirsky\Country\Exporter\Iterator as ExporterIterator;
 use Umpirsky\Country\Importer\Iterator as ImporterIterator;
 
-/**
- * Command to build country files.
- *
- * @author Saša Stamenković <umpirsky@gmail.com>
- */
 class Build extends Command
 {
     /**
@@ -50,8 +36,6 @@ class Build extends Command
     protected $importerIterator;
 
     /**
-     * Build command constructor.
-     *
      * @param string $path base path to build files
      */
     public function __construct($path)

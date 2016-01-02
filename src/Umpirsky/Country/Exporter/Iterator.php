@@ -1,22 +1,11 @@
 <?php
 
-/**
- * This file is part of the Country List project.
- *
- *  (c) Saša Stamenković <umpirsky@gmail.com>
- *
- * For the full copyright and license information, please view the LICENSE
- * file that was distributed with this source code.
- */
-
 namespace Umpirsky\Country\Exporter;
 
 use Symfony\Component\Finder\Finder;
 
 /**
  * Iterates through various exporter formats.
- *
- * @author Saša Stamenković <umpirsky@gmail.com>
  */
 class Iterator implements \Iterator
 {

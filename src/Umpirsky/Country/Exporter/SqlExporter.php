@@ -1,14 +1,5 @@
 <?php
 
-/**
- * This file is part of the Country List project.
- *
- *  (c) Saša Stamenković <umpirsky@gmail.com>
- *
- * For the full copyright and license information, please view the LICENSE
- * file that was distributed with this source code.
- */
-
 namespace Umpirsky\Country\Exporter;
 
 use Umpirsky\Country\Exporter\Exporter;
@@ -18,11 +9,6 @@ use Doctrine\DBAL\Schema\Table;
 use Zend\Db\Adapter\Platform;
 use Zend\Db\Sql\Insert;
 
-/**
- * Abstract SQL exporter.
- *
- * @author Saša Stamenković <umpirsky@gmail.com>
- */
 abstract class SqlExporter extends Exporter
 {
     const TABLE_NAME = 'country';
