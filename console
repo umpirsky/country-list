@@ -5,5 +5,5 @@ use Umpirsky\Country\Builder\Builder;
 
 include __DIR__ . '/vendor/autoload.php';
 
-$builder = new Builder(__DIR__.'/country');
+$builder = new Builder(__DIR__.'/data');
 $builder->run();
