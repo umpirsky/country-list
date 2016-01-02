@@ -3,7 +3,7 @@
 /**
  * This file is part of the Country List project.
  *
- *  (c) Саша Стаменковић <umpirsky@gmail.com>
+ *  (c) Saša Stamenković <umpirsky@gmail.com>
  *
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
@@ -16,7 +16,7 @@ use Umpirsky\Country\Exporter\Exporter;
 /**
  * Text exporter.
  *
- * @author Саша Стаменковић <umpirsky@gmail.com>
+ * @author Saša Stamenković <umpirsky@gmail.com>
  */
 class Txt extends Exporter
 {
