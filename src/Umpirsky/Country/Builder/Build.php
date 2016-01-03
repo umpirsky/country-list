@@ -54,7 +54,7 @@ class Build extends Command
         $this
             ->setDescription('Builds country list files.')
             ->setDefinition(array(
-                new InputArgument('source', InputArgument::OPTIONAL, 'Data source to fetch countries from (cldr, icu)'),
+                new InputArgument('source', InputArgument::OPTIONAL, 'Data source (country)'),
                 new InputArgument('format', InputArgument::OPTIONAL, 'Format in which to export data, no value means all formats'),
                 new InputArgument('language', InputArgument::OPTIONAL, 'Language, no value means all languages'),
                 new InputOption('path', 'p', InputOption::VALUE_OPTIONAL, 'Full path where the build is going to be exported to (./country by default)')
@@ -64,14 +64,14 @@ class Build extends Command
 
  Examples:
 
-    #generate all json files for EN locale
-    php console cldr json EN
+    #generate all json files for en locale
+    php console build country json en
 
     #generate all xml files for ALL LANGS in /full/path/to/destination/folder folder
-    php console cldr xml -p /full/path/to/destination/folder
+    php console build cldr xml -p /full/path/to/destination/folder
 
     #generate all files in ALL FORMATS for ALL LANGS in ./country folder
-    php console icu
+    php console build country
                 ',
                 PHP_EOL,
                 PHP_EOL
