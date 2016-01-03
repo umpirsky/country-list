@@ -96,7 +96,7 @@ abstract class SqlExporter extends Exporter
         $insertSql = '';
         $insert = new Insert(self::TABLE_NAME);
         foreach ($data as $iso => $name) {
-            $insertSql .= $insert
+            $insertSql .= @$insert
                 ->values(array('id' => $iso, 'name' => $name))
                 ->getSqlString($this->getPlatform()).';'.PHP_EOL;
         }
