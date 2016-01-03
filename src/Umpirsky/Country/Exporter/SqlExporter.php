@@ -13,6 +13,8 @@ abstract class SqlExporter extends Exporter
 {
     const TABLE_NAME = 'country';
 
+    private $connections = [];
+
     /**
      * {@inheritdoc}
      */
@@ -79,7 +81,7 @@ abstract class SqlExporter extends Exporter
         $table->setPrimaryKey(array('id'));
         $table->addColumn('name', 'string', array('length' => 64));
 
-        return array_pop(DriverManager::getConnection(array('driver' => $this->getDriver()))
+        return array_pop($this->getConnection()
             ->getDatabasePlatform()
             ->getCreateTableSQL($table, AbstractPlatform::CREATE_INDEXES)
         ).';'.PHP_EOL;
@@ -102,5 +104,16 @@ abstract class SqlExporter extends Exporter
         }
 
         return $insertSql;
+    }
+
+    private function getConnection()
+    {
+        if (!isset($this->connections[$this->getDriver()])) {
+            $this->connections[$this->getDriver()] = DriverManager::getConnection(
+                array('driver' => $this->getDriver())
+            );
+        }
+
+        return $this->connections[$this->getDriver()];
     }
 }
