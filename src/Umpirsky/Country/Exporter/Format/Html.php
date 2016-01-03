@@ -14,7 +14,10 @@ class Html extends HtmlExporter
         $selectElement = $this->getDocument()->createElement('select');
         $selectElement->setAttribute('name', 'country');
         foreach ($data as $iso => $name) {
-            $optionElement = $this->getDocument()->createElement('option', $name);
+            $optionElement = $this->getDocument()->createElement(
+                'option',
+                htmlentities($name)
+            );
             $optionElement->setAttribute('value', $iso);
             $selectElement->appendChild($optionElement);
         }
