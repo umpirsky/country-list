@@ -9,7 +9,7 @@ use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\Filesystem\Filesystem;
 use Umpirsky\Country\Exporter\Iterator as ExporterIterator;
-use Umpirsky\Country\Importer\Iterator as ImporterIterator;
+use Umpirsky\Country\Importer\ImporterInterface;
 
 class Build extends Command
 {
@@ -31,18 +31,19 @@ class Build extends Command
     protected $exporterIterator;
 
     /**
-     * @var ImporterIterator
+     * @var ImporterInterface
      */
-    protected $importerIterator;
+    protected $importer;
 
     /**
-     * @param string $path base path to build files
+     * @param ImporterInterface $importer
+     * @param string            $path base path to build files
      */
-    public function __construct($path)
+    public function __construct(ImporterInterface $importer, $path)
     {
         parent::__construct('build');
         $this->exporterIterator = new ExporterIterator();
-        $this->importerIterator = new ImporterIterator();
+        $this->importer = $importer;
         $this->path = $path;
     }
 
@@ -68,22 +69,19 @@ class Build extends Command
         $this->filesystem = new Filesystem();
         $this->filesystem->mkdir($this->path);
 
-        $verbose = $input->getOption('verbose');
-        foreach ($this->importerIterator as $importer) {
-            $this->filesystem->mkdir($importerDir = $this->path.'/'.$importer->getSource());
-            foreach ($importer->getLanguages() as $language) {
-                if (null === $input->getArgument('language') || $input->getArgument('language') === $language) {
-                    $this->filesystem->mkdir($exporterDir = $importerDir.'/'.$language);
-                    $data = $importer->getData($language);
+        $this->filesystem->mkdir($importerDir = $this->path.'/'.$this->importer->getSource());
+        foreach ($this->importer->getLanguages() as $language) {
+            if (null === $input->getArgument('language') || $input->getArgument('language') === $language) {
+                $this->filesystem->mkdir($exporterDir = $importerDir.'/'.$language);
+                $data = $this->importer->getData($language);
 
-                    foreach ($this->exporterIterator as $exporter) {
-                        if (null === $input->getArgument('format') || $input->getArgument('format') === $exporter->getFormat()) {
-                            $file = $exporterDir.'/'.$importer->getSource().'.'.$exporter->getFormat();
-                            $this->filesystem->touch($file);
-                            file_put_contents($file, $exporter->export($data));
-                            if ($verbose) {
-                                $output->write('<info>[file+]</info> '.$file.PHP_EOL);
-                            }
+                foreach ($this->exporterIterator as $exporter) {
+                    if (null === $input->getArgument('format') || $input->getArgument('format') === $exporter->getFormat()) {
+                        $file = $exporterDir.'/'.$this->importer->getSource().'.'.$exporter->getFormat();
+                        $this->filesystem->touch($file);
+                        file_put_contents($file, $exporter->export($data));
+                        if ($input->getOption('verbose')) {
+                            $output->write('<info>[file+]</info> '.$file.PHP_EOL);
                         }
                     }
                 }

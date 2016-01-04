@@ -4,5 +4,6 @@
 include __DIR__ . '/../vendor/autoload.php';
 
 (new Umpirsky\Country\Builder\Builder(
+    new Umpirsky\Country\Importer\Source\Country(),
     __DIR__.'/../data'
 ))->run();
