@@ -1,0 +1,8 @@
+#!/usr/bin/env php
+<?php
+
+include __DIR__ . '/../vendor/autoload.php';
+
+(new Umpirsky\Country\Builder\Builder(
+    __DIR__.'/../data'
+))->run();

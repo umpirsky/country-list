@@ -8,10 +8,9 @@ class Builder extends Application
 {
     public function __construct($path)
     {
-        parent::__construct('Country list', '1.2');
+        parent::__construct('List builder');
 
-        $this->addCommands(array(
-            new Build($path)
-        ));
+        $this->add($build = new Build($path));
+        $this->setDefaultCommand($build->getName());
     }
 }
