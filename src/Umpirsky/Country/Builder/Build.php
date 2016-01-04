@@ -52,30 +52,12 @@ class Build extends Command
     protected function configure()
     {
         $this
-            ->setDescription('Builds country list files.')
-            ->setDefinition(array(
-                new InputArgument('source', InputArgument::OPTIONAL, 'Data source (country)'),
+            ->setDescription('Builds list files.')
+            ->setDefinition([
                 new InputArgument('format', InputArgument::OPTIONAL, 'Format in which to export data, no value means all formats'),
                 new InputArgument('language', InputArgument::OPTIONAL, 'Language, no value means all languages'),
-                new InputOption('path', 'p', InputOption::VALUE_OPTIONAL, 'Full path where the build is going to be exported to (./country by default)')
-            ))
-            ->setHelp(sprintf(
-                '%sBuilds country list files.%s
-
- Examples:
-
-    #generate all json files for en locale
-    php console build country json en
-
-    #generate all xml files for ALL LANGS in /full/path/to/destination/folder folder
-    php console build cldr xml -p /full/path/to/destination/folder
-
-    #generate all files in ALL FORMATS for ALL LANGS in ./country folder
-    php console build country
-                ',
-                PHP_EOL,
-                PHP_EOL
-            ));
+            ])
+        ;
     }
 
    /**
@@ -83,28 +65,24 @@ class Build extends Command
     */
     protected function execute(InputInterface $input, OutputInterface $output)
     {
-        $this->path = null === $input->getOption('path') ? $this->path : $input->getOption('path');
-
         $this->filesystem = new Filesystem();
         $this->filesystem->mkdir($this->path);
 
         $verbose = $input->getOption('verbose');
         foreach ($this->importerIterator as $importer) {
-            if (null === $input->getArgument('source') || $input->getArgument('source') === $importer->getSource()) {
-                $this->filesystem->mkdir($importerDir = $this->path.'/'.$importer->getSource());
-                foreach ($importer->getLanguages() as $language) {
-                    if (null === $input->getArgument('language') || $input->getArgument('language') === $language) {
-                        $this->filesystem->mkdir($exporterDir = $importerDir.'/'.$language);
-                        $data = $importer->getData($language);
+            $this->filesystem->mkdir($importerDir = $this->path.'/'.$importer->getSource());
+            foreach ($importer->getLanguages() as $language) {
+                if (null === $input->getArgument('language') || $input->getArgument('language') === $language) {
+                    $this->filesystem->mkdir($exporterDir = $importerDir.'/'.$language);
+                    $data = $importer->getData($language);
 
-                        foreach ($this->exporterIterator as $exporter) {
-                            if (null === $input->getArgument('format') || $input->getArgument('format') === $exporter->getFormat()) {
-                                $file = $exporterDir.'/'.$importer->getSource().'.'.$exporter->getFormat();
-                                $this->filesystem->touch($file);
-                                file_put_contents($file, $exporter->export($data));
-                                if ($verbose) {
-                                    $output->write('<info>[file+]</info> '.$file.PHP_EOL);
-                                }
+                    foreach ($this->exporterIterator as $exporter) {
+                        if (null === $input->getArgument('format') || $input->getArgument('format') === $exporter->getFormat()) {
+                            $file = $exporterDir.'/'.$importer->getSource().'.'.$exporter->getFormat();
+                            $this->filesystem->touch($file);
+                            file_put_contents($file, $exporter->export($data));
+                            if ($verbose) {
+                                $output->write('<info>[file+]</info> '.$file.PHP_EOL);
                             }
                         }
                     }
