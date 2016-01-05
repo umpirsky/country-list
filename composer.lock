@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "bc3aabfc9a8440578fd2dab3201646d6",
-    "content-hash": "91f28f3df45f51e12e3dec6b705e7279",
+    "hash": "32d61a185f25167c360c5d5f6c4a0574",
+    "content-hash": "7fd04ce6a8dbdb7ee2ac5be3a5ed8f99",
     "packages": [],
     "packages-dev": [
         {
@@ -478,58 +478,6 @@
             "time": "2014-09-09 13:34:57"
         },
         {
-            "name": "symfony/class-loader",
-            "version": "v3.0.1",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/symfony/class-loader.git",
-                "reference": "6294f616bb9888ba2e13c8bfdcc4d306c1c95da7"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/symfony/class-loader/zipball/6294f616bb9888ba2e13c8bfdcc4d306c1c95da7",
-                "reference": "6294f616bb9888ba2e13c8bfdcc4d306c1c95da7",
-                "shasum": ""
-            },
-            "require": {
-                "php": ">=5.5.9"
-            },
-            "require-dev": {
-                "symfony/finder": "~2.8|~3.0"
-            },
-            "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "3.0-dev"
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "Symfony\\Component\\ClassLoader\\": ""
-                },
-                "exclude-from-classmap": [
-                    "/Tests/"
-                ]
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Fabien Potencier",
-                    "email": "fabien@symfony.com"
-                },
-                {
-                    "name": "Symfony Community",
-                    "homepage": "https://symfony.com/contributors"
-                }
-            ],
-            "description": "Symfony ClassLoader Component",
-            "homepage": "https://symfony.com",
-            "time": "2015-12-05 17:45:07"
-        },
-        {
             "name": "symfony/console",
             "version": "v3.0.1",
             "source": {
@@ -976,6 +924,48 @@
             "time": "2015-12-26 13:39:53"
         },
         {
+            "name": "umpirsky/list-generator",
+            "version": "v1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/umpirsky/list-builder.git",
+                "reference": "ab4996410b77d230f60c617e611fcac6250d13d4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/umpirsky/list-builder/zipball/ab4996410b77d230f60c617e611fcac6250d13d4",
+                "reference": "ab4996410b77d230f60c617e611fcac6250d13d4",
+                "shasum": ""
+            },
+            "require": {
+                "doctrine/dbal": "~2.5",
+                "php": "~5.4",
+                "symfony/console": "^2.7|^3.0",
+                "symfony/filesystem": "^2.7|^3.0",
+                "symfony/finder": "^2.7|^3.0",
+                "symfony/yaml": "^2.7|^3.0",
+                "zendframework/zend-db": "^2.6"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Umpirsky\\ListGenerator": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Saša Stamenković",
+                    "email": "umpirsky@gmail.com"
+                }
+            ],
+            "description": "Export data to various formats.",
+            "time": "2016-01-05 16:49:31"
+        },
+        {
             "name": "zendframework/zend-db",
             "version": "2.6.2",
             "source": {
@@ -1150,7 +1140,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": ">=5.3.2"
+        "php": "~5.4"
     },
     "platform-dev": []
 }

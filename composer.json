@@ -13,18 +13,7 @@
         "php": "~5.4"
     },
     "require-dev": {
-        "symfony/class-loader":         "^2.7|^3.0",
-        "symfony/console":              "^2.7|^3.0",
-        "symfony/filesystem":           "^2.7|^3.0",
-        "symfony/finder":               "^2.7|^3.0",
-        "symfony/locale":               "^2.7|^3.0",
-        "symfony/yaml":                 "^2.7|^3.0",
-        "doctrine/dbal":                "~2.5",
-        "zendframework/zend-db":        "~2.6"
-    },
-    "autoload": {
-        "psr-0": {
-            "Umpirsky\\Country": "src/"
-        }
+        "umpirsky/list-generator": "^1.0",
+        "symfony/locale": "^2.7|^3.0"
     }
 }
