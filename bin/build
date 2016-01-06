@@ -1,0 +1,29 @@
+#!/usr/bin/env php
+<?php
+
+include __DIR__ . '/../vendor/autoload.php';
+
+class Country extends Umpirsky\ListGenerator\Importer\Importer
+{
+    private $locale;
+
+    public function __construct()
+    {
+        $this->locale = new Symfony\Component\Locale\Locale();
+    }
+
+    public function getLanguages()
+    {
+        return $this->locale->getLocales();
+    }
+
+    public function getData($language)
+    {
+        return $this->locale->getDisplayCountries($language);
+    }
+}
+
+(new Umpirsky\ListGenerator\Builder\Builder(
+    new Country(),
+    __DIR__.'/../data'
+))->run();

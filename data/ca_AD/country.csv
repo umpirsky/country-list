@@ -1,0 +1,254 @@
+id,value
+AF,Afganistan
+AL,Albània
+DE,Alemanya
+DZ,Algèria
+AD,Andorra
+AO,Angola
+AI,Anguilla
+AQ,Antàrtida
+AG,"Antigua i Barbuda"
+SA,"Aràbia Saudita"
+AR,Argentina
+AM,Armènia
+AW,Aruba
+AU,Austràlia
+AT,Àustria
+AZ,Azerbaidjan
+BS,Bahames
+BH,Bahrain
+BD,"Bangla Desh"
+BB,Barbados
+BE,Bèlgica
+BZ,Belize
+BJ,Benín
+BM,Bermudes
+BT,Bhutan
+BY,Bielorússia
+BO,Bolívia
+BA,"Bòsnia i Hercegovina"
+BW,Botswana
+BR,Brasil
+BN,Brunei
+BG,Bulgària
+BF,"Burkina Faso"
+BI,Burundi
+KH,Cambodja
+CM,Camerun
+CA,Canadà
+CV,"Cap Verd"
+BQ,"Carib Neerlandès"
+EA,"Ceuta i Melilla"
+VA,"Ciutat del Vaticà"
+CO,Colòmbia
+KM,Comores
+CG,"Congo - Brazzaville"
+CD,"Congo - Kinshasa"
+KP,"Corea del Nord"
+KR,"Corea del Sud"
+CI,"Costa d’Ivori"
+CR,"Costa Rica"
+HR,Croàcia
+CU,Cuba
+CW,Curaçao
+DG,"Diego Garcia"
+DK,Dinamarca
+DJ,Djibouti
+DM,Dominica
+EG,Egipte
+SV,"El Salvador"
+AE,"Emirats Àrabs Units"
+EC,Equador
+ER,Eritrea
+SK,Eslovàquia
+SI,Eslovènia
+ES,Espanya
+US,"Estats Units"
+EE,Estònia
+ET,Etiòpia
+FJ,Fiji
+PH,Filipines
+FI,Finlàndia
+FR,França
+GA,Gabon
+GM,Gàmbia
+GE,Geòrgia
+GH,Ghana
+GI,Gibraltar
+GR,Grècia
+GD,Grenada
+GL,Grenlàndia
+GP,Guadeloupe
+GF,"Guaiana Francesa"
+GU,Guam
+GT,Guatemala
+GG,Guernsey
+GN,Guinea
+GW,"Guinea Bissau"
+GQ,"Guinea Equatorial"
+GY,Guyana
+HT,Haití
+HN,Hondures
+HK,"Hong Kong (RAE Xina)"
+HU,Hongria
+YE,Iemen
+CX,"illa Christmas"
+AC,"illa de l’Ascensió"
+RE,"Illa de la Reunió"
+IM,"illa de Man"
+AX,"illes Åland"
+KY,"Illes Caiman"
+IC,"illes Canàries"
+CC,"illes Cocos"
+CK,"illes Cook"
+FO,"illes Fèroe"
+GS,"illes Geòrgia del Sud i Sandwich del Sud"
+FK,"Illes Malvines"
+MP,"illes Mariannes del Nord"
+MH,"illes Marshall"
+UM,"illes Perifèriques Menors dels EUA"
+PN,"illes Pitcairn"
+SB,"illes Salomó"
+TC,"Illes Turks i Caicos"
+VG,"Illes Verges Britàniques"
+VI,"Illes Verges Nord-americanes"
+IN,Índia
+ID,Indonèsia
+IR,Iran
+IQ,Iraq
+IE,Irlanda
+IS,Islàndia
+IL,Israel
+IT,Itàlia
+JM,Jamaica
+JP,Japó
+JE,Jersey
+JO,Jordània
+KZ,Kazakhstan
+KE,Kenya
+KG,Kirguizistan
+KI,Kiribati
+XK,Kosovo
+KW,Kuwait
+LA,Laos
+LS,Lesotho
+LV,Letònia
+LB,Líban
+LR,Libèria
+LY,Líbia
+LI,Liechtenstein
+LT,Lituània
+LU,Luxemburg
+MO,"Macau (RAE Xina)"
+MK,Macedònia
+MG,Madagascar
+MY,Malàisia
+MW,Malawi
+MV,Maldives
+ML,Mali
+MT,Malta
+MA,Marroc
+MQ,Martinica
+MU,Maurici
+MR,Mauritània
+YT,Mayotte
+MX,Mèxic
+FM,Micronèsia
+MZ,Moçambic
+MD,Moldàvia
+MC,Mònaco
+MN,Mongòlia
+ME,Montenegro
+MS,Montserrat
+MM,"Myanmar (Birmània)"
+NA,Namíbia
+NR,Nauru
+NP,Nepal
+NI,Nicaragua
+NE,Níger
+NG,Nigèria
+NU,Niue
+NF,Norfolk
+NO,Noruega
+NC,"Nova Caledònia"
+NZ,"Nova Zelanda"
+OM,Oman
+NL,"Països Baixos"
+PK,Pakistan
+PW,Palau
+PS,Palestina
+PA,Panamà
+PG,"Papua Nova Guinea"
+PY,Paraguai
+PE,Perú
+PF,"Polinèsia Francesa"
+PL,Polònia
+PT,Portugal
+PR,"Puerto Rico"
+QA,Qatar
+GB,"Regne Unit"
+CF,"República Centreafricana"
+ZA,"República de Sud-àfrica"
+DO,"República Dominicana"
+CZ,"República Txeca"
+RO,Romania
+RW,Ruanda
+RU,Rússia
+EH,"Sàhara Occidental"
+BL,"Saint Barthélemy"
+KN,"Saint Christopher i Nevis"
+SH,"Saint Helena"
+LC,"Saint Lucia"
+MF,"Saint Martin"
+VC,"Saint Vincent i les Grenadines"
+PM,Saint-Pierre-et-Miquelon
+WS,Samoa
+AS,"Samoa Nord-americana"
+SM,"San Marino"
+ST,"São Tomé i Príncipe"
+SN,Senegal
+RS,Sèrbia
+SC,Seychelles
+SL,"Sierra Leone"
+SG,Singapur
+SX,"Sint Maarten"
+SY,Síria
+SO,Somàlia
+LK,"Sri Lanka"
+SD,Sudan
+SS,"Sudan del Sud"
+SE,Suècia
+CH,Suïssa
+SR,Surinam
+SJ,"Svalbard i Jan Mayen"
+SZ,Swazilàndia
+TJ,Tadjikistan
+TH,Tailàndia
+TW,Taiwan
+TZ,Tanzània
+IO,"Territori Britànic de l’Oceà Índic"
+TF,"Territoris Francesos del Sud"
+TL,"Timor Oriental"
+TG,Togo
+TK,Tokelau
+TO,Tonga
+TT,"Trinitat i Tobago"
+TA,"Tristão da Cunha"
+TN,Tunísia
+TM,Turkmenistan
+TR,Turquia
+TV,Tuvalu
+TD,Txad
+UA,Ucraïna
+UG,Uganda
+UY,Uruguai
+UZ,Uzbekistan
+VU,Vanuatu
+VE,Veneçuela
+VN,Vietnam
+WF,"Wallis i Futuna"
+CL,Xile
+CN,Xina
+CY,Xipre
+ZM,Zàmbia
+ZW,Zimbàbue

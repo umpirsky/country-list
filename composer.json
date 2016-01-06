@@ -5,33 +5,15 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Саша Стаменковић",
+            "name": "Saša Stamenković",
             "email": "umpirsky@gmail.com"
         }
     ],
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "http://packages.zendframework.com/"
-        }
-    ],
     "require": {
-        "php": ">=5.3.2"
+        "php": "~5.4"
     },
     "require-dev": {
-        "symfony/class-loader":         "~2.5",
-        "symfony/console":              "~2.5",
-        "symfony/filesystem":           "~2.5",
-        "symfony/finder":               "~2.5",
-        "symfony/locale":               "~2.5",
-        "symfony/yaml":                 "~2.5",
-        "doctrine/dbal":                "~2.4",
-        "zendframework/zendframework1": "~1.12",
-        "zendframework/zend-db":        "~2.3"
-    },
-    "autoload": {
-        "psr-0": {
-            "Umpirsky\\Country": "src/"
-        }
+        "umpirsky/list-generator": "^1.1",
+        "symfony/locale": "^2.7|^3.0"
     }
 }
