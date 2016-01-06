@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "32d61a185f25167c360c5d5f6c4a0574",
-    "content-hash": "7fd04ce6a8dbdb7ee2ac5be3a5ed8f99",
+    "hash": "b9414b2191c1be475371e31939e9a43a",
+    "content-hash": "e5acaa175cb86853e8e080690991357a",
     "packages": [],
     "packages-dev": [
         {
@@ -287,16 +287,16 @@
         },
         {
             "name": "doctrine/dbal",
-            "version": "v2.5.3",
+            "version": "v2.5.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/dbal.git",
-                "reference": "2fbcea96eae34a53183377cdbb0b9bec33974648"
+                "reference": "abbdfd1cff43a7b99d027af3be709bc8fc7d4769"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/dbal/zipball/2fbcea96eae34a53183377cdbb0b9bec33974648",
-                "reference": "2fbcea96eae34a53183377cdbb0b9bec33974648",
+                "url": "https://api.github.com/repos/doctrine/dbal/zipball/abbdfd1cff43a7b99d027af3be709bc8fc7d4769",
+                "reference": "abbdfd1cff43a7b99d027af3be709bc8fc7d4769",
                 "shasum": ""
             },
             "require": {
@@ -354,7 +354,7 @@
                 "persistence",
                 "queryobject"
             ],
-            "time": "2015-12-25 16:28:24"
+            "time": "2016-01-05 22:11:12"
         },
         {
             "name": "doctrine/inflector",
@@ -925,16 +925,16 @@
         },
         {
             "name": "umpirsky/list-generator",
-            "version": "v1.0.0",
+            "version": "v1.1.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/umpirsky/list-builder.git",
-                "reference": "ab4996410b77d230f60c617e611fcac6250d13d4"
+                "url": "https://github.com/umpirsky/list-generator.git",
+                "reference": "e51abb5288a9615c8f13842a977bf2171e8f5fab"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/umpirsky/list-builder/zipball/ab4996410b77d230f60c617e611fcac6250d13d4",
-                "reference": "ab4996410b77d230f60c617e611fcac6250d13d4",
+                "url": "https://api.github.com/repos/umpirsky/list-generator/zipball/e51abb5288a9615c8f13842a977bf2171e8f5fab",
+                "reference": "e51abb5288a9615c8f13842a977bf2171e8f5fab",
                 "shasum": ""
             },
             "require": {
@@ -963,7 +963,7 @@
                 }
             ],
             "description": "Export data to various formats.",
-            "time": "2016-01-05 16:49:31"
+            "time": "2016-01-06 11:34:39"
         },
         {
             "name": "zendframework/zend-db",
