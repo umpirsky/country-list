@@ -40,3 +40,4 @@ Other Interesting Lists
 * [Currency List](https://github.com/umpirsky/currency-list)
 * [Language List](https://github.com/umpirsky/language-list)
 * [Locale List](https://github.com/umpirsky/locale-list)
+* [TLD List](https://github.com/umpirsky/tld-list)
