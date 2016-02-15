@@ -17,6 +17,7 @@ Formats Available
     * PostgreSQL
     * SQLite
 - PHP
+- XLIFF
 
 Multilingual
 ------------
