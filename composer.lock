@@ -925,16 +925,16 @@
         },
         {
             "name": "umpirsky/list-generator",
-            "version": "v1.1.0",
+            "version": "v1.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/umpirsky/list-generator.git",
-                "reference": "e51abb5288a9615c8f13842a977bf2171e8f5fab"
+                "reference": "0e29d21f9907f95b00aae0723efd2843a7cbc9b6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/umpirsky/list-generator/zipball/e51abb5288a9615c8f13842a977bf2171e8f5fab",
-                "reference": "e51abb5288a9615c8f13842a977bf2171e8f5fab",
+                "url": "https://api.github.com/repos/umpirsky/list-generator/zipball/0e29d21f9907f95b00aae0723efd2843a7cbc9b6",
+                "reference": "0e29d21f9907f95b00aae0723efd2843a7cbc9b6",
                 "shasum": ""
             },
             "require": {
@@ -963,7 +963,7 @@
                 }
             ],
             "description": "Export data to various formats.",
-            "time": "2016-01-06 11:34:39"
+            "time": "2016-02-15 09:40:33"
         },
         {
             "name": "zendframework/zend-db",
