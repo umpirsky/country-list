@@ -52,6 +52,10 @@ update data source or contribute in any other way, you will probably want to reb
 $ composer install
 $ ./bin/build
 ```
+If you need to install composer, get it from https://getcomposer.org/
+installation instructions can be found here:
+https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx
+
 
 Other Interesting Lists
 -----------------------
