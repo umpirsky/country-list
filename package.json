@@ -4,6 +4,6 @@
   "version": "1.0.0",
   "homepage": "http://github.com/umpirsky/country-list",
   "repository": "git://ggithub.com/umpirsky/country-list.git",
-  "author": "Saša Stamenković <umpirsky@gmail.com>"
+  "author": "Saša Stamenković <umpirsky@gmail.com>",
   "license": "MIT"
 }
