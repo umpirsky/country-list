@@ -4,8 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "b9414b2191c1be475371e31939e9a43a",
-    "content-hash": "e5acaa175cb86853e8e080690991357a",
+    "content-hash": "8ffe8cf5cae4a2b4825da8ae28a5d8d0",
     "packages": [],
     "packages-dev": [
         {
@@ -74,7 +73,7 @@
                 "docblock",
                 "parser"
             ],
-            "time": "2015-08-31 12:32:49"
+            "time": "2015-08-31T12:32:49+00:00"
         },
         {
             "name": "doctrine/cache",
@@ -144,7 +143,7 @@
                 "cache",
                 "caching"
             ],
-            "time": "2015-12-31 16:37:02"
+            "time": "2015-12-31T16:37:02+00:00"
         },
         {
             "name": "doctrine/collections",
@@ -210,7 +209,7 @@
                 "collections",
                 "iterator"
             ],
-            "time": "2015-04-14 22:21:58"
+            "time": "2015-04-14T22:21:58+00:00"
         },
         {
             "name": "doctrine/common",
@@ -283,7 +282,7 @@
                 "persistence",
                 "spl"
             ],
-            "time": "2015-12-25 13:18:31"
+            "time": "2015-12-25T13:18:31+00:00"
         },
         {
             "name": "doctrine/dbal",
@@ -354,7 +353,7 @@
                 "persistence",
                 "queryobject"
             ],
-            "time": "2016-01-05 22:11:12"
+            "time": "2016-01-05T22:11:12+00:00"
         },
         {
             "name": "doctrine/inflector",
@@ -421,7 +420,7 @@
                 "singularize",
                 "string"
             ],
-            "time": "2015-11-06 14:35:42"
+            "time": "2015-11-06T14:35:42+00:00"
         },
         {
             "name": "doctrine/lexer",
@@ -475,7 +474,7 @@
                 "lexer",
                 "parser"
             ],
-            "time": "2014-09-09 13:34:57"
+            "time": "2014-09-09T13:34:57+00:00"
         },
         {
             "name": "symfony/console",
@@ -535,7 +534,7 @@
             ],
             "description": "Symfony Console Component",
             "homepage": "https://symfony.com",
-            "time": "2015-12-22 10:39:06"
+            "time": "2015-12-22T10:39:06+00:00"
         },
         {
             "name": "symfony/filesystem",
@@ -584,7 +583,7 @@
             ],
             "description": "Symfony Filesystem Component",
             "homepage": "https://symfony.com",
-            "time": "2015-12-22 10:39:06"
+            "time": "2015-12-22T10:39:06+00:00"
         },
         {
             "name": "symfony/finder",
@@ -633,7 +632,7 @@
             ],
             "description": "Symfony Finder Component",
             "homepage": "https://symfony.com",
-            "time": "2015-12-05 11:13:14"
+            "time": "2015-12-05T11:13:14+00:00"
         },
         {
             "name": "symfony/intl",
@@ -708,7 +707,7 @@
                 "l10n",
                 "localization"
             ],
-            "time": "2015-12-05 11:13:14"
+            "time": "2015-12-05T11:13:14+00:00"
         },
         {
             "name": "symfony/locale",
@@ -758,7 +757,8 @@
             ],
             "description": "Symfony Locale Component",
             "homepage": "https://symfony.com",
-            "time": "2015-10-30 20:15:42"
+            "abandoned": "symfony/intl",
+            "time": "2015-10-30T20:15:42+00:00"
         },
         {
             "name": "symfony/polyfill-intl-icu",
@@ -813,7 +813,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2015-11-04 20:28:58"
+            "time": "2015-11-04T20:28:58+00:00"
         },
         {
             "name": "symfony/polyfill-mbstring",
@@ -872,7 +872,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2015-11-20 09:19:13"
+            "time": "2015-11-20T09:19:13+00:00"
         },
         {
             "name": "symfony/yaml",
@@ -921,25 +921,25 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
-            "time": "2015-12-26 13:39:53"
+            "time": "2015-12-26T13:39:53+00:00"
         },
         {
             "name": "umpirsky/list-generator",
-            "version": "v1.1.1",
+            "version": "v1.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/umpirsky/list-generator.git",
-                "reference": "0e29d21f9907f95b00aae0723efd2843a7cbc9b6"
+                "reference": "51f6a47729a3221f617c1742a5a0435e98244676"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/umpirsky/list-generator/zipball/0e29d21f9907f95b00aae0723efd2843a7cbc9b6",
-                "reference": "0e29d21f9907f95b00aae0723efd2843a7cbc9b6",
+                "url": "https://api.github.com/repos/umpirsky/list-generator/zipball/51f6a47729a3221f617c1742a5a0435e98244676",
+                "reference": "51f6a47729a3221f617c1742a5a0435e98244676",
                 "shasum": ""
             },
             "require": {
                 "doctrine/dbal": "~2.5",
-                "php": "~5.4",
+                "php": ">=5.4",
                 "symfony/console": "^2.7|^3.0",
                 "symfony/filesystem": "^2.7|^3.0",
                 "symfony/finder": "^2.7|^3.0",
@@ -963,7 +963,7 @@
                 }
             ],
             "description": "Export data to various formats.",
-            "time": "2016-02-15 09:40:33"
+            "time": "2016-07-07T21:39:15+00:00"
         },
         {
             "name": "zendframework/zend-db",
@@ -1017,7 +1017,7 @@
                 "db",
                 "zf2"
             ],
-            "time": "2015-12-09 21:17:32"
+            "time": "2015-12-09T21:17:32+00:00"
         },
         {
             "name": "zendframework/zend-hydrator",
@@ -1073,7 +1073,7 @@
                 "hydrator",
                 "zf2"
             ],
-            "time": "2015-09-17 14:06:43"
+            "time": "2015-09-17T14:06:43+00:00"
         },
         {
             "name": "zendframework/zend-stdlib",
@@ -1131,7 +1131,7 @@
                 "stdlib",
                 "zf2"
             ],
-            "time": "2015-10-15 15:57:32"
+            "time": "2015-10-15T15:57:32+00:00"
         }
     ],
     "aliases": [],
@@ -1140,7 +1140,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": "~5.4"
+        "php": ">=5.4"
     },
     "platform-dev": []
 }
