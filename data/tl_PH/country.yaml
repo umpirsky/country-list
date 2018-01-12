@@ -38,7 +38,7 @@ BI: Burundi
 KH: Cambodia
 CM: Cameroon
 CA: Canada
-IC: 'Canary Island'
+IC: 'Canary Islands'
 CV: 'Cape Verde'
 BQ: 'Caribbean Netherlands'
 KY: 'Cayman Islands'
@@ -60,7 +60,7 @@ HR: Croatia
 CU: Cuba
 CW: Curaçao
 CY: Cyprus
-CZ: 'Czech Republic'
+CZ: Czechia
 DK: Denmark
 DG: 'Diego Garcia'
 DJ: Djibouti
@@ -74,6 +74,7 @@ ER: Eritrea
 US: 'Estados Unidos'
 EE: Estonia
 ET: Ethiopia
+EZ: Eurozone
 FK: 'Falkland Islands'
 FO: 'Faroe Islands'
 FJ: Fiji
@@ -99,6 +100,7 @@ GN: Guinea
 GW: Guinea-Bissau
 GY: Guyana
 HT: Haiti
+KP: 'Hilagang Korea'
 HN: Honduras
 HK: 'Hong Kong SAR China'
 HU: Hungary
@@ -154,6 +156,7 @@ MS: Montserrat
 MA: Morocco
 MZ: Mozambique
 MM: 'Myanmar (Burma)'
+UN: 'Nagkakaisang Bansa'
 NA: Namibia
 NR: Nauru
 NP: Nepal
@@ -165,7 +168,6 @@ NE: Niger
 NG: Nigeria
 NU: Niue
 NF: 'Norfolk Island'
-KP: 'North Korea'
 MP: 'Northern Mariana Islands'
 'NO': Norway
 OM: Oman
@@ -209,7 +211,6 @@ SB: 'Solomon Islands'
 SO: Somalia
 ZA: 'South Africa'
 GS: 'South Georgia and the South Sandwich Islands'
-KR: 'South Korea'
 ES: Spain
 LK: 'Sri Lanka'
 SD: Sudan
@@ -223,6 +224,7 @@ TW: Taiwan
 TJ: Tajikistan
 TZ: Tanzania
 TH: Thailand
+KR: 'Timog Korea'
 SS: 'Timog Sudan'
 TL: Timor-Leste
 TG: Togo

@@ -29,7 +29,7 @@ BO: Bolivie
 BA: Bosnie-Herzégovine
 BW: Botswana
 BR: Brésil
-BN: 'Brunéi Darussalam'
+BN: Brunei
 BG: Bulgarie
 BF: 'Burkina Faso'
 BI: Burundi
@@ -41,6 +41,7 @@ EA: 'Ceuta et Melilla'
 CL: Chili
 CN: Chine
 CY: Chypre
+VA: 'Cité du Vatican'
 CO: Colombie
 KM: Comores
 CG: Congo-Brazzaville
@@ -57,21 +58,22 @@ DG: 'Diego Garcia'
 DJ: Djibouti
 DM: Dominique
 EG: Égypte
+SV: 'El Salvador'
 AE: 'Émirats arabes unis'
 EC: Équateur
 ER: Érythrée
 ES: Espagne
 EE: Estonie
-VA: 'État de la Cité du Vatican'
 US: États-Unis
 ET: Éthiopie
+EZ: Eurozone
 FJ: Fidji
 FI: Finlande
 FR: France
 GA: Gabon
 GM: Gambie
 GE: Géorgie
-GS: 'Géorgie du Sud et les îles Sandwich du Sud'
+GS: 'Géorgie du Sud et îles Sandwich du Sud'
 GH: Ghana
 GI: Gibraltar
 GR: Grèce
@@ -89,24 +91,24 @@ GF: 'Guyane française'
 HT: Haïti
 HN: Honduras
 HU: Hongrie
-CX: 'Île Christmas'
-AC: 'Île de l’Ascension'
-IM: 'Île de Man'
-NF: 'Île Norfolk'
-AX: 'Îles Åland'
+CX: 'île Christmas'
+AC: 'île de l’Ascension'
+IM: 'île de Man'
+NF: 'île Norfolk'
 KY: 'Îles Caïmans'
-IC: 'Îles Canaries'
-CC: 'Îles Cocos (Keeling)'
-CK: 'Îles Cook'
-FO: 'Îles Féroé'
-FK: 'Îles Malouines'
-MP: 'Îles Mariannes du Nord'
+IC: 'îles Canaries'
+CC: 'îles Cocos (Keeling)'
+CK: 'îles Cook'
+AX: 'îles d’Åland'
+FO: 'îles Féroé'
+FK: 'îles Malouines'
 MH: 'Îles Marshall'
-UM: 'Îles mineures éloignées des États-Unis'
+UM: 'îles mineures éloignées des États-Unis'
+PN: 'îles Pitcairn'
 SB: 'Îles Salomon'
 TC: 'Îles Turques-et-Caïques'
-VG: 'Îles Vierges britanniques'
-VI: 'Îles Vierges des États-Unis'
+VI: 'îles Vierges américaines'
+VG: 'îles Vierges britanniques'
 IN: Inde
 ID: Indonésie
 IQ: Irak
@@ -125,7 +127,7 @@ KG: Kirghizistan
 KI: Kiribati
 XK: Kosovo
 KW: Koweït
-RE: 'La Réunion'
+RE: 'la Réunion'
 LA: Laos
 LS: Lesotho
 LV: Lettonie
@@ -142,6 +144,7 @@ MW: Malawi
 MV: Maldives
 ML: Mali
 MT: Malte
+MP: 'Mariannes du Nord'
 MA: Maroc
 MQ: Martinique
 MU: Maurice
@@ -157,6 +160,7 @@ MS: Montserrat
 MZ: Mozambique
 MM: Myanmar
 NA: Namibie
+UN: 'Nations Unies'
 NR: Nauru
 NP: Népal
 NI: Nicaragua
@@ -178,7 +182,6 @@ NL: Pays-Bas
 BQ: 'Pays-Bas caribéens'
 PE: Pérou
 PH: Philippines
-PN: Pitcairn
 PL: Pologne
 PF: 'Polynésie française'
 PR: 'Porto Rico'
@@ -188,7 +191,6 @@ HK: 'R.A.S. chinoise de Hong Kong'
 MO: 'R.A.S. chinoise de Macao'
 CF: 'République centrafricaine'
 DO: 'République dominicaine'
-CZ: 'République tchèque'
 RO: Roumanie
 GB: Royaume-Uni
 RU: Russie
@@ -203,7 +205,6 @@ PM: Saint-Pierre-et-Miquelon
 VC: 'Saint-Vincent-et-les Grenadines'
 SH: Sainte-Hélène
 LC: Sainte-Lucie
-SV: Salvador
 WS: Samoa
 AS: 'Samoa américaines'
 ST: 'Sao Tomé-et-Principe'
@@ -228,11 +229,12 @@ TJ: Tadjikistan
 TW: Taïwan
 TZ: Tanzanie
 TD: Tchad
+CZ: Tchéquie
 TF: 'Terres australes françaises'
 IO: 'Territoire britannique de l’océan Indien'
 PS: 'Territoires palestiniens'
 TH: Thaïlande
-TL: 'Timor oriental'
+TL: Timor-Leste
 TG: Togo
 TK: Tokelau
 TO: Tonga

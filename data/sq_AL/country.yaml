@@ -14,7 +14,7 @@ AU: Australi
 AT: Austri
 AZ: Azerbajxhan
 BS: Bahamas
-BH: Bahrein
+BH: Bahrejn
 BD: Bangladesh
 BB: Barbados
 BE: Belgjikë
@@ -26,30 +26,32 @@ BO: Bolivi
 BA: Bosnjë-Hercegovinë
 BW: Botsvanë
 BR: Brazil
-CI: 'Bregu i Fildishtë'
-BN: Brunej
+BN: Brunei
 BG: Bullgari
-BF: 'Burkina Faso'
-BI: Burund
+BF: Burkina-Faso
+BI: Burundi
 BT: Butan
+CI: 'Côte d’Ivoire'
 TD: Çad
+CZ: Çeki
 DK: Danimarkë
-DG: 'Diego Garsia'
+DG: Diego-Garsia
 DM: Dominikë
 EG: Egjipt
 EC: Ekuador
-SV: 'El Salvador'
 AE: 'Emiratet e Bashkuara Arabe'
 ER: Eritre
 EE: Estoni
 ET: Etiopi
+EZ: Eurozone
 PH: Filipine
 FI: Finlandë
 FJ: Fixhi
 FR: Francë
 GA: Gabon
-GM: Gambi
+GM: Gambia
 GH: Ganë
+GG: Gernsej
 GD: Grenadë
 GL: Grenlandë
 GR: Greqi
@@ -58,7 +60,6 @@ GF: 'Guajana Franceze'
 GY: Guajanë
 GU: Guam
 GT: Guatemalë
-GG: Guernsej
 GN: Guine
 GW: Guine-Bisau
 GQ: 'Guineja Ekuatoriale'
@@ -79,21 +80,21 @@ AX: 'Ishujt Alandë'
 MP: 'Ishujt e Marianës Veriore'
 VI: 'Ishujt e Virgjër Amerikanë'
 VG: 'Ishujt e Virgjër Britanikë'
+FK: 'Ishujt Falkland'
 FO: 'Ishujt Faroe'
-FK: 'Ishujt Folklandë'
-KY: 'Ishujt Kajmanë'
+KY: 'Ishujt Kajman'
 IC: 'Ishujt Kanarie'
 CC: 'Ishujt Kokos'
-CK: 'Ishujt Kukë'
-MH: 'Ishujt Marshallë'
-NF: 'Ishujt Norfolkë'
+CK: 'Ishujt Kuk'
+MH: 'Ishujt Marshall'
 UM: 'Ishujt periferikë të SHBA-së'
-PN: 'Ishujt Pitkernë'
-SB: 'Ishujt Solomonë'
-TC: 'Ishujt Turke dhe Kaike'
+PN: 'Ishujt Pitkern'
+SB: 'Ishujt Solomon'
+TC: 'Ishujt Turks dhe Kaikos'
 AC: 'Ishulli Asenshion'
 CX: 'Ishulli i Krishtlindjes'
 IM: 'Ishulli i Manit'
+NF: 'Ishulli Norfolk'
 IT: Itali
 IL: Izrael
 JP: Japoni
@@ -111,14 +112,16 @@ CV: 'Kepi i Gjelbër'
 CL: Kili
 CN: Kinë
 KG: Kirgistan
+KI: Kiribati
 CO: Kolumbi
+UN: 'kombet e bashkuara'
 KM: Komore
 CG: Kongo-Brazavilë
 CD: Kongo-Kinshasa
 KR: 'Koreja e Jugut'
 KP: 'Koreja e Veriut'
 XK: Kosovë
-CR: 'Kosta Rikë'
+CR: Kosta-Rikë
 HR: Kroaci
 CU: Kubë
 CW: Kuraçao
@@ -129,20 +132,20 @@ LV: Letoni
 LB: Liban
 LR: Liberi
 LY: Libi
-LI: Lihtënshtajn
+LI: Lihtenshtajn
 LT: Lituani
 LU: Luksemburg
 MG: Madagaskar
 YT: Majotë
+ME: 'Mal i Zi'
 MY: Malajzi
 MW: Malavi
 MV: Maldive
 ML: Mali
-ME: 'Mali i Zi'
 MT: Maltë
 MK: Maqedoni
 MA: Marok
-MQ: Martinik
+MQ: Martinikë
 MR: Mauritani
 MU: Mauritius
 GB: 'Mbretëria e Bashkuar'
@@ -171,12 +174,10 @@ PY: Paraguai
 PE: Peru
 PF: 'Polinezia Franceze'
 PL: Poloni
-PR: 'Porto Riko'
+PR: Porto-Riko
 PT: Portugali
 CY: Qipro
-KI: Qiribati
-CF: 'Republika Afrikano-Qendrore'
-CZ: 'Republika Çeke'
+CF: 'Repubika e Afrikës Qendrore'
 DO: 'Republika Dominikane'
 RE: Reunion
 RW: Ruandë
@@ -185,50 +186,51 @@ RU: Rusi
 HK: 'RVAK i Hong Kongut'
 MO: 'RVAK i Makaos'
 EH: 'Saharaja Perëndimore'
+SV: Salvador
 WS: Samoa
 AS: 'Samoa Amerikane'
-SM: 'San Marino'
-ST: 'Sao Tome e Prinsipe'
-SN: Senegali
+SM: San-Marino
+ST: 'Sao-Tome e Prinsipe'
+SC: Sejshelle
+SN: Senegal
 RS: Serbi
-SL: 'Siera Leone'
+SL: Siera-Leone
 SG: Singapor
+SX: 'Sint Marten'
 SY: Siri
-SC: Sishel
 SK: Sllovaki
 SI: Slloveni
 SO: Somali
 ES: Spanjë
-LK: 'Sri Lankë'
+LK: Sri-Lankë
 SD: Sudan
 SS: 'Sudani i Jugut'
 SE: Suedi
 SR: Surinami
-SJ: 'Svalbard e Zhan Majen'
+SJ: 'Svalbard e Jan-Majen'
 SZ: Svazilandë
-BL: 'Shën Bartolemeo'
-SH: 'Shën Helena'
-KN: 'Shën Kits e Nevis'
-LC: 'Shën Luçia'
-MF: 'Shën Martin'
-SX: 'Shën Martin (Sint Maarten-pjesa e Mbretërisë së Holandës)'
-PM: 'Shën Peir dhe Mikuelon'
-VC: 'Shën Vinsent dhe Grenadinet'
+BL: 'Shën Bartolomeu'
+KN: 'Shën Kits dhe Nevis'
+PM: 'Shën Pier dhe Mikelon'
+VC: 'Shën Vincent dhe Grenadine'
+SH: Shën-Helenë
+LC: Shën-Luçia
+MF: Shën-Martin
 AL: Shqipëri
 US: 'Shtetet e Bashkuara të Amerikës'
 TH: Tajlandë
 TW: Tajvan
 TZ: Tanzani
 TJ: Taxhikistan
-TF: 'Territoret Australiane Franceze'
+TF: 'Territoret Jugore Franceze'
 PS: 'Territoret Palestineze'
 IO: 'Territori Britanik i Oqeanit Indian'
-TL: 'Timori Lindor'
+TL: Timor-Leste
 TG: Togo
 TK: Tokelau
 TO: Tonga
 TT: 'Trinidad e Tobago'
-TA: 'Tristan da Kuna'
+TA: Tristan-da-Kuna
 TN: Tunizi
 TM: Turkmenistan
 TR: Turqi
@@ -236,7 +238,7 @@ TV: Tuvalu
 EA: 'Theuta e Melila'
 UG: Ugandë
 UA: Ukrainë
-WF: 'Uollis e Futina'
+WF: 'Uollis e Futuna'
 UY: Uruguai
 UZ: Uzbekistan
 VU: Vanuatu
@@ -245,9 +247,9 @@ VE: Venezuelë
 VN: Vietnam
 JM: Xhamajkë
 JE: Xhersej
-DJ: Xhibut
-GS: 'Xhorxha Jugore dhe Ishujt Senduiç të Jugut'
-ZM: Zambi
-NZ: 'Zelanda e Re'
+DJ: Xhibuti
+GS: 'Xhorxha Jugore dhe Ishujt Senduiçë të Jugut'
+ZM: Zambia
+NZ: 'Zelandë e Re'
 ZW: Zimbabve
 CH: Zvicër

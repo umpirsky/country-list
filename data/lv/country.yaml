@@ -1,7 +1,6 @@
 AF: Afganistāna
 AL: Albānija
 DZ: Alžīrija
-AS: 'Amerikāņu Samoa'
 US: 'Amerikas Savienotās Valstis'
 AD: Andora
 AI: Angilja
@@ -9,10 +8,12 @@ AO: Angola
 AQ: Antarktika
 AG: 'Antigva un Barbuda'
 AE: 'Apvienotie Arābu Emirāti'
+UN: 'Apvienoto Nāciju Organizācija'
 AR: Argentīna
 AM: Armēnija
 AW: Aruba
-UM: 'ASV Aizjūras salas'
+UM: 'ASV Mazās Aizjūras salas'
+AS: 'ASV Samoa'
 VI: 'ASV Virdžīnas'
 AU: Austrālija
 AT: Austrija
@@ -35,7 +36,7 @@ VG: 'Britu Virdžīnas'
 BN: Bruneja
 BG: Bulgārija
 BF: Burkinafaso
-BI: Burundi
+BI: Burundija
 BT: Butāna
 CF: 'Centrālāfrikas Republika'
 TD: Čada
@@ -57,14 +58,15 @@ EC: Ekvadora
 GQ: 'Ekvatoriālā Gvineja'
 ER: Eritreja
 ET: Etiopija
-FO: 'Fēru Salas'
+EZ: Eurozone
+FO: 'Fēru salas'
 FJ: Fidži
 PH: Filipīnas
 FK: 'Folklenda salas'
 FR: Francija
-TF: 'Francijas Dienvidjūru Zemes'
-GF: 'Franču Gviāna'
-PF: 'Franču Polinēzija'
+TF: 'Francijas Dienvidjūru teritorija'
+GF: 'Francijas Gviāna'
+PF: 'Francijas Polinēzija'
 GA: Gabona
 GY: Gajāna
 GM: Gambija
@@ -90,7 +92,7 @@ ID: Indonēzija
 IQ: Irāka
 IR: Irāna
 IE: Īrija
-IS: Īslande
+IS: Islande
 IT: Itālija
 IL: Izraēla
 JM: Jamaika
@@ -112,11 +114,11 @@ CY: Kipra
 CW: Kirasao
 KG: Kirgizstāna
 KI: Kiribati
-CC: 'Kokosu jeb Kīlinga salas'
+CC: 'Kokosu (Kīlinga) salas'
 CO: Kolumbija
 KM: 'Komoru salas'
-CG: 'Kongo - Brazavila'
-CD: Kongo-Kinšasa
+CG: 'Kongo (Brazavila)'
+CD: 'Kongo (Kinšasa)'
 XK: Kosova
 CR: Kostarika
 CI: Kotdivuāra
@@ -180,7 +182,7 @@ PA: Panama
 PG: Papua-Jaungvineja
 PY: Paragvaja
 PE: Peru
-PN: Pitkērna
+PN: 'Pitkērnas salas'
 PL: Polija
 PT: Portugāle
 PR: Puertoriko
@@ -193,6 +195,7 @@ WS: Samoa
 SM: Sanmarīno
 ST: 'Santome un Prinsipi'
 SA: 'Saūda Arābija'
+SC: 'Seišelu salas'
 BL: Senbartelmī
 SN: Senegāla
 MF: Senmartēna
@@ -216,7 +219,6 @@ SR: Surinama
 SH: 'Sv.Helēnas sala'
 SJ: 'Svalbāra un Jana Majena sala'
 SZ: Svazilenda
-SC: 'Šeišelu salas'
 LK: Šrilanka
 CH: Šveice
 TJ: Tadžikistāna
@@ -243,7 +245,7 @@ VU: Vanuatu
 VA: Vatikāns
 VE: Venecuēla
 VN: Vjetnama
-WF: 'Volisa un Futuna'
+WF: 'Volisa un Futunas salas'
 SB: 'Zālamana salas'
 ZM: Zambija
 KP: Ziemeļkoreja

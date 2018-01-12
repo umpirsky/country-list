@@ -1,6 +1,7 @@
 AF: Afghanistan
 AL: Albania
 DZ: Algeria
+UM: 'Altre isole americane del Pacifico'
 AD: Andorra
 AO: Angola
 AI: Anguilla
@@ -24,7 +25,7 @@ BM: Bermuda
 BT: Bhutan
 BY: Bielorussia
 BO: Bolivia
-BA: Bosnia-Erzegovina
+BA: 'Bosnia ed Erzegovina'
 BW: Botswana
 BR: Brasile
 BN: Brunei
@@ -35,7 +36,8 @@ KH: Cambogia
 CM: Camerun
 CA: Canada
 CV: 'Capo Verde'
-BQ: 'Caraibi Olandesi'
+BQ: 'Caraibi olandesi'
+CZ: Cèchia
 EA: 'Ceuta e Melilla'
 TD: Ciad
 CL: Cile
@@ -63,7 +65,7 @@ AE: 'Emirati Arabi Uniti'
 ER: Eritrea
 EE: Estonia
 ET: Etiopia
-RU: 'Federazione Russa'
+EZ: Eurozone
 FJ: Figi
 PH: Filippine
 FI: Finlandia
@@ -71,7 +73,7 @@ FR: Francia
 GA: Gabon
 GM: Gambia
 GE: Georgia
-GS: 'Georgia del Sud e isole Sandwich meridionali'
+GS: 'Georgia del Sud e Sandwich australi'
 DE: Germania
 GH: Ghana
 JM: Giamaica
@@ -86,11 +88,11 @@ GP: Guadalupa
 GU: Guam
 GT: Guatemala
 GG: Guernsey
-GF: 'Guiana Francese'
 GN: Guinea
 GQ: 'Guinea Equatoriale'
 GW: Guinea-Bissau
 GY: Guyana
+GF: 'Guyana francese'
 HT: Haiti
 HN: Honduras
 IN: India
@@ -99,22 +101,21 @@ IR: Iran
 IQ: Iraq
 IE: Irlanda
 IS: Islanda
-AC: 'Isola di Ascensione'
-CX: 'Isola di Christmas'
+AC: 'Isola Ascensione'
+CX: 'Isola Christmas'
 IM: 'Isola di Man'
 NF: 'Isola Norfolk'
-AX: 'Isole Aland'
+AX: 'Isole Åland'
 IC: 'Isole Canarie'
 KY: 'Isole Cayman'
-CC: 'Isole Cocos'
+CC: 'Isole Cocos (Keeling)'
 CK: 'Isole Cook'
+FO: 'Isole Fær Øer'
 FK: 'Isole Falkland'
-FO: 'Isole Faroe'
-MP: 'Isole Marianne Settentrionali'
+MP: 'Isole Marianne settentrionali'
 MH: 'Isole Marshall'
-UM: 'Isole minori lontane dagli USA'
 PN: 'Isole Pitcairn'
-SB: 'Isole Solomon'
+SB: 'Isole Salomone'
 TC: 'Isole Turks e Caicos'
 VI: 'Isole Vergini Americane'
 VG: 'Isole Vergini Britanniche'
@@ -138,8 +139,8 @@ LT: Lituania
 LU: Lussemburgo
 MG: Madagascar
 MW: Malawi
+MY: Malaysia
 MV: Maldive
-MY: Malesia
 ML: Mali
 MT: Malta
 MA: Marocco
@@ -158,6 +159,7 @@ MZ: Mozambico
 MM: 'Myanmar (Birmania)'
 NA: Namibia
 NR: Nauru
+UN: 'nazioni unite'
 NP: Nepal
 NI: Nicaragua
 NE: Niger
@@ -174,7 +176,7 @@ PA: Panamá
 PG: 'Papua Nuova Guinea'
 PY: Paraguay
 PE: Perù
-PF: 'Polinesia Francese'
+PF: 'Polinesia francese'
 PL: Polonia
 PT: Portogallo
 PR: Portorico
@@ -182,14 +184,14 @@ QA: Qatar
 HK: 'RAS di Hong Kong'
 MO: 'RAS di Macao'
 GB: 'Regno Unito'
-CZ: 'Repubblica Ceca'
 CF: 'Repubblica Centrafricana'
 MK: 'Repubblica di Macedonia'
 DO: 'Repubblica Dominicana'
-RE: Réunion
+RE: Riunione
 RO: Romania
 RW: Ruanda
-EH: 'Sahara Occidentale'
+RU: Russia
+EH: 'Sahara occidentale'
 KN: 'Saint Kitts e Nevis'
 LC: 'Saint Lucia'
 MF: 'Saint Martin'
@@ -197,7 +199,7 @@ PM: 'Saint Pierre e Miquelon'
 VC: 'Saint Vincent e Grenadines'
 BL: Saint-Barthélemy
 WS: Samoa
-AS: 'Samoa Americane'
+AS: 'Samoa americane'
 SM: 'San Marino'
 SH: Sant’Elena
 ST: 'São Tomé e Príncipe'
@@ -214,21 +216,21 @@ SO: Somalia
 ES: Spagna
 LK: 'Sri Lanka'
 US: 'Stati Uniti'
+SS: 'Sud Sudan'
 ZA: Sudafrica
 SD: Sudan
-SS: 'Sudan del Sud'
 SR: Suriname
 SJ: 'Svalbard e Jan Mayen'
 SE: Svezia
 CH: Svizzera
 SZ: Swaziland
 TJ: Tagikistan
-TH: Tailandia
 TW: Taiwan
 TZ: Tanzania
-TF: 'Territori australi francesi'
+TF: 'Terre australi francesi'
 PS: 'Territori palestinesi'
-IO: 'Territorio Britannico dell’Oceano Indiano'
+IO: 'Territorio britannico dell’Oceano Indiano'
+TH: Thailandia
 TL: 'Timor Est'
 TG: Togo
 TK: Tokelau

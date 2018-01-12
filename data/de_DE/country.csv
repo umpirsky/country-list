@@ -1,12 +1,12 @@
 id,value
 AF,Afghanistan
 EG,Ägypten
-AX,Åland-Inseln
+AX,Ålandinseln
 AL,Albanien
 DZ,Algerien
-UM,Amerikanisch-Ozeanien
 AS,Amerikanisch-Samoa
 VI,"Amerikanische Jungferninseln"
+UM,"Amerikanische Überseeinseln"
 AD,Andorra
 AO,Angola
 AI,Anguilla
@@ -31,6 +31,7 @@ BJ,Benin
 BM,Bermuda
 BT,Bhutan
 BO,Bolivien
+BQ,"Bonaire, Sint Eustatius und Saba"
 BA,"Bosnien und Herzegowina"
 BW,Botsuana
 BR,Brasilien
@@ -40,6 +41,7 @@ BN,"Brunei Darussalam"
 BG,Bulgarien
 BF,"Burkina Faso"
 BI,Burundi
+CV,"Cabo Verde"
 EA,"Ceuta und Melilla"
 CL,Chile
 CN,China
@@ -48,7 +50,6 @@ CR,"Costa Rica"
 CI,"Côte d’Ivoire"
 CW,Curaçao
 DK,Dänemark
-KP,"Demokratische Volksrepublik Korea"
 DE,Deutschland
 DG,"Diego Garcia"
 DM,Dominica
@@ -58,6 +59,7 @@ EC,Ecuador
 SV,"El Salvador"
 ER,Eritrea
 EE,Estland
+EZ,Eurozone
 FK,Falklandinseln
 FO,Färöer
 FJ,Fidschi
@@ -102,8 +104,6 @@ KH,Kambodscha
 CM,Kamerun
 CA,Kanada
 IC,"Kanarische Inseln"
-CV,"Kap Verde"
-BQ,"Karibische Niederlande"
 KZ,Kasachstan
 QA,Katar
 KE,Kenia
@@ -158,11 +158,13 @@ NL,Niederlande
 NE,Niger
 NG,Nigeria
 NU,Niue
+KP,Nordkorea
 MP,"Nördliche Marianen"
 NF,Norfolkinsel
 NO,Norwegen
 OM,Oman
 AT,Österreich
+TL,Osttimor
 PK,Pakistan
 PS,"Palästinensische Autonomiegebiete"
 PW,Palau
@@ -175,12 +177,11 @@ PN,Pitcairninseln
 PL,Polen
 PT,Portugal
 PR,"Puerto Rico"
-KR,"Republik Korea"
 MD,"Republik Moldau"
 RE,Réunion
 RW,Ruanda
 RO,Rumänien
-RU,"Russische Föderation"
+RU,Russland
 SB,Salomonen
 ZM,Sambia
 WS,Samoa
@@ -202,6 +203,7 @@ SO,Somalia
 MO,"Sonderverwaltungsregion Macau"
 HK,"Sonderverwaltungszone Hongkong"
 ES,Spanien
+SJ,Spitzbergen
 LK,"Sri Lanka"
 BL,"St. Barthélemy"
 SH,"St. Helena"
@@ -213,23 +215,22 @@ VC,"St. Vincent und die Grenadinen"
 ZA,Südafrika
 SD,Sudan
 GS,"Südgeorgien und die Südlichen Sandwichinseln"
+KR,Südkorea
 SS,Südsudan
 SR,Suriname
-SJ,"Svalbard und Jan Mayen"
 SZ,Swasiland
 SY,Syrien
 TJ,Tadschikistan
 TW,Taiwan
 TZ,Tansania
 TH,Thailand
-TL,Timor-Leste
 TG,Togo
 TK,Tokelau
 TO,Tonga
 TT,"Trinidad und Tobago"
 TA,"Tristan da Cunha"
 TD,Tschad
-CZ,"Tschechische Republik"
+CZ,Tschechien
 TN,Tunesien
 TR,Türkei
 TM,Turkmenistan
@@ -246,6 +247,7 @@ VE,Venezuela
 AE,"Vereinigte Arabische Emirate"
 US,"Vereinigte Staaten"
 GB,"Vereinigtes Königreich"
+UN,"Vereinte Nationen"
 VN,Vietnam
 WF,"Wallis und Futuna"
 CX,Weihnachtsinsel

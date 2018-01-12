@@ -49,7 +49,7 @@ HU: مجارستان
 MA: مراکش
 EG: مصر
 MN: مغولستان
-'NO': ناروې
+'NO': ناروۍ
 NG: نایجیریا
 NI: نکاراګوا
 NP: نیپال
@@ -110,7 +110,7 @@ CI: 'Côte d’Ivoire'
 HR: Croatia
 CW: Curaçao
 CY: Cyprus
-CZ: 'Czech Republic'
+CZ: Czechia
 DG: 'Diego Garcia'
 DJ: Djibouti
 DM: Dominica
@@ -119,6 +119,7 @@ EC: Ecuador
 GQ: 'Equatorial Guinea'
 ER: Eritrea
 EE: Estonia
+EZ: Eurozone
 FK: 'Falkland Islands'
 FO: 'Faroe Islands'
 FJ: Fiji
@@ -241,6 +242,7 @@ VI: 'U.S. Virgin Islands'
 UG: Uganda
 UA: Ukraine
 AE: 'United Arab Emirates'
+UN: 'United Nations'
 US: 'United States'
 UZ: Uzbekistan
 VU: Vanuatu

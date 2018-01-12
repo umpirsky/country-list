@@ -12,7 +12,7 @@ AI: Angila
 AO: Angola
 AQ: Antartika
 AG: 'Antigua eta Barbuda'
-AE: 'Arabiar Emirrerri Batuak'
+AE: 'Arabiar Emirerri Batuak'
 AR: Argentina
 AM: Armenia
 AW: Aruba
@@ -44,7 +44,7 @@ BI: Burundi
 CV: 'Cabo Verde'
 EA: 'Ceuta eta Melilla'
 CX: 'Christmas uhartea'
-CC: 'Cocos (Keeling) uharteak'
+CC: 'Cocos uharteak'
 CK: 'Cook uharteak'
 CR: 'Costa Rica'
 CW: Curaçao
@@ -67,6 +67,7 @@ SI: Eslovenia
 ES: Espainia
 EE: Estonia
 ET: Etiopia
+EZ: Eurozone
 FO: 'Faroe uharteak'
 FJ: Fiji
 PH: Filipinak
@@ -85,7 +86,7 @@ GL: Groenlandia
 GP: Guadalupe
 GU: Guam
 GT: Guatemala
-GG: Guernsey
+GG: Guernesey
 GY: Guyana
 GF: 'Guyana Frantsesa'
 HT: Haiti
@@ -166,7 +167,7 @@ MN: Mongolia
 ME: Montenegro
 MS: Montserrat
 MZ: Mozambike
-MM: Myanmar
+MM: 'Myanmar (Birmania)'
 NA: Namibia
 NR: Nauru
 NP: Nepal
@@ -192,15 +193,15 @@ PR: 'Puerto Rico'
 QA: Qatar
 RE: Reunion
 RW: Ruanda
-SH: 'Saint Helena'
+BL: 'Saint Barthélemy'
 KN: 'Saint Kitts eta Nevis'
-MF: 'Saint Martin'
 VC: 'Saint Vincent eta Grenadinak'
 PM: 'Saint-Pierre eta Mikelune'
 SB: 'Salomon uharteak'
 WS: Samoa
-BL: 'San Bartolome'
 SM: 'San Marino'
+MF: 'San Martin'
+SH: 'Santa Helena'
 LC: 'Santa Luzia'
 ST: 'Sao Tome eta Principe'
 SA: 'Saudi Arabia'
@@ -219,8 +220,8 @@ CH: Suitza
 SR: Surinam
 SJ: 'Svalbard eta Jan Mayen uharteak'
 SZ: Swazilandia
-TJ: Tadjikistan
 TW: Taiwan
+TJ: Tajikistan
 TZ: Tanzania
 TH: Thailandia
 TG: Togo
@@ -229,16 +230,17 @@ TO: Tonga
 TT: 'Trinidad eta Tobago'
 TA: 'Tristan da Cunha'
 TN: Tunisia
-TC: 'Turk eta Caicos uharteak'
+TC: 'Turk eta Caico uharteak'
 TR: Turkia
 TM: Turkmenistan
 TV: Tuvalu
 TD: Txad
-CZ: 'Txekiar Errepublika'
+CZ: Txekia
 CL: Txile
 CN: Txina
 UG: Uganda
 UA: Ukraina
+UN: 'United Nations'
 UY: Uruguai
 UZ: Uzbekistan
 VU: Vanuatu

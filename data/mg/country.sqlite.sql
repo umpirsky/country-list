@@ -1,4 +1,4 @@
-CREATE TABLE list (id VARCHAR(2) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+CREATE TABLE list (id VARCHAR(10) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
 INSERT INTO "list" ("id", "value") VALUES ('AF', 'Afghanistan');
 INSERT INTO "list" ("id", "value") VALUES ('ZA', 'Afrika Atsimo');
@@ -58,6 +58,7 @@ INSERT INTO "list" ("id", "value") VALUES ('ES', 'Espaina');
 INSERT INTO "list" ("id", "value") VALUES ('EE', 'Estonia');
 INSERT INTO "list" ("id", "value") VALUES ('US', 'Etazonia');
 INSERT INTO "list" ("id", "value") VALUES ('ET', 'Ethiopia');
+INSERT INTO "list" ("id", "value") VALUES ('EZ', 'Eurozone');
 INSERT INTO "list" ("id", "value") VALUES ('IO', 'Faridranomasina indiana britanika');
 INSERT INTO "list" ("id", "value") VALUES ('FO', 'Faroe Islands');
 INSERT INTO "list" ("id", "value") VALUES ('FJ', 'Fidji');
@@ -243,6 +244,7 @@ INSERT INTO "list" ("id", "value") VALUES ('TT', 'Trinidad sy Tobagô');
 INSERT INTO "list" ("id", "value") VALUES ('TA', 'Tristan da Cunha');
 INSERT INTO "list" ("id", "value") VALUES ('TD', 'Tsady');
 INSERT INTO "list" ("id", "value") VALUES ('UM', 'U.S. Outlying Islands');
+INSERT INTO "list" ("id", "value") VALUES ('UN', 'United Nations');
 INSERT INTO "list" ("id", "value") VALUES ('VU', 'Vanoatò');
 INSERT INTO "list" ("id", "value") VALUES ('VE', 'Venezoelà');
 INSERT INTO "list" ("id", "value") VALUES ('VN', 'Vietnam');

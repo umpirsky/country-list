@@ -24,7 +24,7 @@ BJ: Benín
 BM: Bermudas
 BY: Bielorrusia
 BO: Bolivia
-BA: Bosnia-Herzegovina
+BA: 'Bosnia y Herzegovina'
 BW: Botsuana
 BR: Brasil
 BN: Brunéi
@@ -36,10 +36,12 @@ CV: 'Cabo Verde'
 KH: Camboya
 CM: Camerún
 CA: Canadá
+IC: Canarias
 BQ: 'Caribe neerlandés'
 QA: Catar
 EA: 'Ceuta y Melilla'
 TD: Chad
+CZ: Chequia
 CL: Chile
 CN: China
 CY: Chipre
@@ -48,8 +50,8 @@ CO: Colombia
 KM: Comoras
 KP: 'Corea del Norte'
 KR: 'Corea del Sur'
-CI: 'Costa de Marfil'
 CR: 'Costa Rica'
+CI: 'Côte d’Ivoire'
 HR: Croacia
 CU: Cuba
 CW: Curazao
@@ -67,6 +69,7 @@ ES: España
 US: 'Estados Unidos'
 EE: Estonia
 ET: Etiopía
+EZ: Eurozone
 PH: Filipinas
 FI: Finlandia
 FJ: Fiyi
@@ -93,18 +96,16 @@ HN: Honduras
 HU: Hungría
 IN: India
 ID: Indonesia
+IQ: Irak
 IR: Irán
-IQ: Iraq
 IE: Irlanda
-CX: 'Isla Christmas'
 AC: 'Isla de la Ascensión'
 IM: 'Isla de Man'
-NU: 'Isla Niue'
+CX: 'Isla de Navidad'
 NF: 'Isla Norfolk'
 IS: Islandia
 AX: 'Islas Åland'
 KY: 'Islas Caimán'
-IC: 'islas Canarias'
 CC: 'Islas Cocos'
 CK: 'Islas Cook'
 FO: 'Islas Feroe'
@@ -166,13 +167,14 @@ NP: Nepal
 NI: Nicaragua
 NE: Níger
 NG: Nigeria
+NU: Niue
 'NO': Noruega
 NC: 'Nueva Caledonia'
 NZ: 'Nueva Zelanda'
 OM: Omán
 NL: 'Países Bajos'
 PK: Pakistán
-PW: Palau
+PW: Palaos
 PA: Panamá
 PG: 'Papúa Nueva Guinea'
 PY: Paraguay
@@ -185,7 +187,6 @@ HK: 'RAE de Hong Kong (China)'
 MO: 'RAE de Macao (China)'
 GB: 'Reino Unido'
 CF: 'República Centroafricana'
-CZ: 'República Checa'
 CG: 'República del Congo'
 CD: 'República Democrática del Congo'
 DO: 'República Dominicana'
@@ -229,18 +230,19 @@ TJ: Tayikistán
 IO: 'Territorio Británico del Océano Índico'
 TF: 'Territorios Australes Franceses'
 PS: 'Territorios Palestinos'
-TL: 'Timor Oriental'
+TL: Timor-Leste
 TG: Togo
 TK: Tokelau
 TO: Tonga
 TT: 'Trinidad y Tobago'
-TA: 'Tristán da Cunha'
+TA: 'Tristán de Acuña'
 TN: Túnez
 TM: Turkmenistán
 TR: Turquía
 TV: Tuvalu
 UA: Ucrania
 UG: Uganda
+UN: 'United Nations'
 UY: Uruguay
 UZ: Uzbekistán
 VU: Vanuatu

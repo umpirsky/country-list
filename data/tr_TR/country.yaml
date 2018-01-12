@@ -1,9 +1,9 @@
-US: ABD
 UM: 'ABD Uzak Adaları'
 VI: 'ABD Virjin Adaları'
 AF: Afganistan
 AX: 'Åland Adaları'
 DE: Almanya
+US: 'Amerika Birleşik Devletleri'
 AS: 'Amerikan Samoası'
 AD: Andorra
 AO: Angola
@@ -21,16 +21,17 @@ BS: Bahamalar
 BH: Bahreyn
 BD: Bangladeş
 BB: Barbados
-EH: 'Batı Sahara'
+EH: 'Batı Sahra'
+BY: Belarus
 BE: Belçika
 BZ: Belize
 BJ: Benin
 BM: Bermuda
-BY: 'Beyaz Rusya'
 AE: 'Birleşik Arap Emirlikleri'
 GB: 'Birleşik Krallık'
+UN: 'Birleşmiş Milletler'
 BO: Bolivya
-BA: 'Bosna Hersek'
+BA: Bosna-Hersek
 BW: Botsvana
 BR: Brezilya
 IO: 'Britanya Hint Okyanusu Toprakları'
@@ -50,10 +51,10 @@ CC: 'Cocos (Keeling) Adaları'
 CK: 'Cook Adaları'
 CW: Curaçao
 TD: Çad
-CZ: 'Çek Cumhuriyeti'
+CZ: Çekya
 CN: Çin
-HK: 'Çin Hong Kong ÖYB'
-MO: 'Çin Makao ÖYB'
+HK: 'Çin Hong Kong ÖİB'
+MO: 'Çin Makao ÖİB'
 DK: Danimarka
 DG: 'Diego Garcia'
 DO: 'Dominik Cumhuriyeti'
@@ -66,6 +67,7 @@ ER: Eritre
 AM: Ermenistan
 EE: Estonya
 ET: Etiyopya
+EZ: Eurozone
 FK: 'Falkland Adaları'
 FO: 'Faroe Adaları'
 MA: Fas
@@ -92,7 +94,6 @@ GG: Guernsey
 GY: Guyana
 ZA: 'Güney Afrika'
 GS: 'Güney Georgia ve Güney Sandwich Adaları'
-CY: 'Güney Kıbrıs Rum Kesimi'
 KR: 'Güney Kore'
 SS: 'Güney Sudan'
 GE: Gürcistan
@@ -122,6 +123,7 @@ BQ: 'Karayip Hollanda'
 QA: Katar
 KZ: Kazakistan
 KE: Kenya
+CY: Kıbrıs
 KG: Kırgızistan
 KI: Kiribati
 CO: Kolombiya
@@ -135,7 +137,7 @@ KP: 'Kuzey Kore'
 MP: 'Kuzey Mariana Adaları'
 CU: Küba
 LA: Laos
-LS: Lesoto
+LS: Lesotho
 LV: Letonya
 LR: Liberya
 LY: Libya
@@ -217,7 +219,7 @@ SD: Sudan
 SR: Surinam
 SY: Suriye
 SA: 'Suudi Arabistan'
-SJ: 'Svalbard ve Jan Mayen Adaları'
+SJ: 'Svalbard ve Jan Mayen'
 SZ: Svaziland
 CL: Şili
 TJ: Tacikistan
@@ -244,7 +246,7 @@ VU: Vanuatu
 VA: Vatikan
 VE: Venezuela
 VN: Vietnam
-WF: 'Wallis ve Futuna Adaları'
+WF: 'Wallis ve Futuna'
 YE: Yemen
 NC: 'Yeni Kaledonya'
 NZ: 'Yeni Zelanda'

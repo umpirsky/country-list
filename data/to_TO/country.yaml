@@ -1,5 +1,6 @@
 AI: Anikuila
 AG: 'Anitikua mo Palaputa'
+EZ: Eurozone
 FR: Falanisē
 PH: Filipaini
 FI: Finilani
@@ -56,7 +57,6 @@ LB: Lepanoni
 LS: Lesoto
 RE: Lēunioni
 LI: Likitenisiteini
-CZ: 'Lipapilika Seki'
 DO: 'Lipapilika Tominika'
 CF: 'Lipapilika ʻAfilika Lotoloto'
 LY: Līpia
@@ -129,7 +129,7 @@ IO: 'Potu fonua moana ʻInitia fakapilitānia'
 TF: 'Potu fonua tonga fakafalanisē'
 PS: 'Potu Palesitaine'
 PT: Potukali
-PR: 'Pueto Liko'
+PR: 'Puēto Liko'
 US: 'Puleʻanga fakatahataha ʻAmelika'
 BG: Pulukalia
 BN: Pulunei
@@ -150,6 +150,7 @@ JM: Samaika
 ST: 'Sao Tomē mo Pilinisipe'
 TD: Sāti
 SA: 'Saute ʻAlepea'
+CZ: Sēkia
 JE: Selusī
 ZM: Semipia
 SN: Senekalo
@@ -186,16 +187,17 @@ DK: Tenimaʻake
 TZ: Tenisānia
 DG: 'Tieko Kāsia'
 TT: 'Tilinitati mo Topako'
-TL: 'Timoa Hahake'
+TL: 'Timoa hahake'
 TR: Toake
 TK: Tokelau
 TG: Toko
 DM: Tominika
 TO: Tonga
 TM: Tūkimenisitani
-TA: 'Tulisiteni ta Kunuha'
+TA: 'Tulisitani ta Kunuha'
 TN: Tunīsia
 TV: Tūvalu
+UN: 'United Nations'
 VU: Vanuatu
 VE: Venesuela
 VN: Vietinami

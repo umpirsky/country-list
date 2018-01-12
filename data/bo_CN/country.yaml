@@ -59,7 +59,7 @@ HR: Croatia
 CU: Cuba
 CW: Curaçao
 CY: Cyprus
-CZ: 'Czech Republic'
+CZ: Czechia
 DK: Denmark
 DG: 'Diego Garcia'
 DJ: Djibouti
@@ -72,6 +72,7 @@ GQ: 'Equatorial Guinea'
 ER: Eritrea
 EE: Estonia
 ET: Ethiopia
+EZ: Eurozone
 FK: 'Falkland Islands'
 FO: 'Faroe Islands'
 FJ: Fiji
@@ -193,7 +194,6 @@ SB: 'Solomon Islands'
 SO: Somalia
 ZA: 'South Africa'
 GS: 'South Georgia & South Sandwich Islands'
-KR: 'South Korea'
 SS: 'South Sudan'
 ES: Spain
 LK: 'Sri Lanka'
@@ -231,6 +231,7 @@ VI: 'U.S. Virgin Islands'
 UG: Uganda
 UA: Ukraine
 AE: 'United Arab Emirates'
+UN: 'United Nations'
 UY: Uruguay
 UZ: Uzbekistan
 VU: Vanuatu
@@ -242,12 +243,13 @@ EH: 'Western Sahara'
 YE: Yemen
 ZM: Zambia
 ZW: Zimbabwe
+JP: ཉི་ཧོང་
 GB: དབྱིན་ཇི་
-NP: བར་ཡུལ་
+NP: བལ་ཡུལ་
 DE: འཇར་མན་
 IN: རྒྱ་གར་
 CN: རྒྱ་ནག
-JP: རི་པིན་
+KR: ལྷོ་ཀོ་རི་ཡ།
 US: ཨ་མེ་རི་ཀ།
 IT: ཨི་ཀྲར་ལི་
 RU: ཨུ་རུ་སུ་

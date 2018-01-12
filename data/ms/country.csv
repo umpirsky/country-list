@@ -19,6 +19,7 @@ AZ,Azerbaijan
 BS,Bahamas
 BH,Bahrain
 BD,Bangladesh
+UN,"Bangsa-bangsa Bersatu"
 BB,Barbados
 NL,Belanda
 BQ,"Belanda Caribbean"
@@ -52,6 +53,7 @@ HR,Croatia
 CU,Cuba
 CW,Curacao
 CY,Cyprus
+CZ,Czechia
 DK,Denmark
 DG,"Diego Garcia"
 DJ,Djibouti
@@ -62,6 +64,7 @@ AE,"Emiriah Arab Bersatu"
 ER,Eritrea
 EE,Estonia
 ET,Ethiopia
+EZ,Eurozone
 FJ,Fiji
 PH,Filipina
 FI,Finland
@@ -70,6 +73,7 @@ GM,Gambia
 GE,Georgia
 GH,Ghana
 GI,Gibraltar
+GR,Greece
 GL,Greenland
 GD,Grenada
 GP,Guadeloupe
@@ -185,7 +189,6 @@ CX,"Pulau Krismas"
 NF,"Pulau Norfolk"
 QA,Qatar
 CF,"Republik Afrika Tengah"
-CZ,"Republik Czech"
 DO,"Republik Dominica"
 RE,Reunion
 RO,Romania
@@ -249,6 +252,5 @@ IO,"Wilayah Lautan Hindi British"
 PS,"Wilayah Palestin"
 TF,"Wilayah Selatan Perancis"
 YE,Yaman
-GR,Yunani
 ZM,Zambia
 ZW,Zimbabwe
