@@ -1,5 +1,5 @@
 AF: Afganistan
-AX: Ålandy
+AX: Alandy
 AL: Albánsko
 DZ: Alžírsko
 AS: 'Americká Samoa'
@@ -12,7 +12,7 @@ AG: 'Antigua a Barbuda'
 AR: Argentína
 AM: Arménsko
 AW: Aruba
-AC: Ascensión
+AC: Ascension
 AU: Austrália
 AZ: Azerbajdžan
 BS: Bahamy
@@ -40,12 +40,12 @@ CK: 'Cookove ostrovy'
 CW: Curaçao
 CY: Cyprus
 TD: Čad
-CZ: 'Česká republika'
+CZ: Česko
 ME: 'Čierna Hora'
 CL: Čile
 CN: Čína
 DK: Dánsko
-DG: 'Diego García'
+DG: 'Diego Garcia'
 DM: Dominika
 DO: 'Dominikánska republika'
 DJ: Džibutsko
@@ -54,6 +54,7 @@ EC: Ekvádor
 ER: Eritrea
 EE: Estónsko
 ET: Etiópia
+EZ: Eurozone
 FO: 'Faerské ostrovy'
 FK: Falklandy
 FJ: Fidži
@@ -114,8 +115,8 @@ KI: Kiribati
 CC: 'Kokosové ostrovy'
 CO: Kolumbia
 KM: Komory
-CG: 'Kongo - Brazzaville'
-CD: 'Kongo - Kinshasa'
+CD: 'Konžská demokratická republika'
+CG: 'Konžská republika'
 XK: Kosovo
 CR: Kostarika
 CU: Kuba
@@ -166,6 +167,7 @@ NF: Norfolk
 NC: 'Nová Kaledónia'
 NZ: 'Nový Zéland'
 OM: Omán
+UN: OSN
 IM: 'Ostrov Man'
 PK: Pakistan
 PW: Palau
@@ -196,7 +198,6 @@ MP: 'Severné Mariány'
 SC: Seychely
 SL: 'Sierra Leone'
 SG: Singapur
-SX: 'Sint Maarten'
 SK: Slovensko
 SI: Slovinsko
 SO: Somálsko
@@ -214,7 +215,8 @@ SH: 'Svätá Helena'
 LC: 'Svätá Lucia'
 BL: 'Svätý Bartolomej'
 KN: 'Svätý Krištof a Nevis'
-MF: 'Svätý Martin'
+MF: 'Svätý Martin (fr.)'
+SX: 'Svätý Martin (hol.)'
 ST: 'Svätý Tomáš a Princov ostrov'
 VC: 'Svätý Vincent a Grenadíny'
 SY: Sýria

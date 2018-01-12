@@ -1,4 +1,4 @@
-CREATE TABLE list (id VARCHAR(2) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+CREATE TABLE list (id VARCHAR(10) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
 
 INSERT INTO `list` (`id`, `value`) VALUES ('AF', 'Afghanistan');
 INSERT INTO `list` (`id`, `value`) VALUES ('AX', 'Ålân');
@@ -62,6 +62,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('GQ', 'Equatoriaal-Guinea');
 INSERT INTO `list` (`id`, `value`) VALUES ('ER', 'Eritrea');
 INSERT INTO `list` (`id`, `value`) VALUES ('EE', 'Estlân');
 INSERT INTO `list` (`id`, `value`) VALUES ('ET', 'Ethiopië');
+INSERT INTO `list` (`id`, `value`) VALUES ('EZ', 'Eurozone');
 INSERT INTO `list` (`id`, `value`) VALUES ('FO', 'Faeröer');
 INSERT INTO `list` (`id`, `value`) VALUES ('FK', 'Falklâneilannen');
 INSERT INTO `list` (`id`, `value`) VALUES ('US', 'Ferienigde Staten');
@@ -238,6 +239,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('TR', 'Turkije');
 INSERT INTO `list` (`id`, `value`) VALUES ('TM', 'Turkmenistan');
 INSERT INTO `list` (`id`, `value`) VALUES ('TC', 'Turks- en Caicoseilannen');
 INSERT INTO `list` (`id`, `value`) VALUES ('TV', 'Tuvalu');
+INSERT INTO `list` (`id`, `value`) VALUES ('UN', 'United Nations');
 INSERT INTO `list` (`id`, `value`) VALUES ('UY', 'Uruguay');
 INSERT INTO `list` (`id`, `value`) VALUES ('VU', 'Vanuatu');
 INSERT INTO `list` (`id`, `value`) VALUES ('VA', 'Vaticaanstêd');

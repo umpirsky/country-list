@@ -23,6 +23,7 @@ BY: Belarusi
 BZ: Belize
 BJ: Benin
 BM: Bermuda
+BT: Bhutan
 BO: Bolivia
 BA: 'Bosnia na Hezegovina'
 BW: Botswana
@@ -31,13 +32,13 @@ BN: Brunei
 BF: Bukinafaso
 BG: Bulgaria
 BI: Burundi
-BT: Butani
+CV: 'Cape Verde'
 EA: 'Ceuta na Melilla'
 TD: Chadi
+CZ: Chechia
 CL: Chile
 CN: China
-CI: 'Côte d’Ivoire'
-DK: Denmaki
+DK: Denmark
 DG: 'Diego Garcia'
 DM: Dominika
 EC: Ekwado
@@ -45,10 +46,11 @@ SV: Elsavado
 IO: 'Eneo la Uingereza katika Bahari Hindi'
 ER: Eritrea
 EE: Estonia
+ET: Ethiopia
+EZ: Eurozone
 AE: 'Falme za Kiarabu'
 FJ: Fiji
-PH: Filipino
-GA: Gaboni
+GA: Gabon
 GM: Gambia
 GH: Ghana
 GN: Gine
@@ -56,11 +58,11 @@ GW: Ginebisau
 GQ: Ginekweta
 GD: Grenada
 GL: Grinlandi
+GU: Guam
+GT: Guatemala
 GG: Guernsey
 GY: Guyana
 GP: Gwadelupe
-GU: Gwam
-GT: Gwatemala
 GF: 'Gwiyana ya Ufaransa'
 HT: Haiti
 ES: Hispania
@@ -74,9 +76,9 @@ IR: Iran
 IM: 'Isle of Man'
 IL: Israeli
 IT: Italia
+CI: Ivorikosti
 JM: Jamaika
 CF: 'Jamhuri ya Afrika ya Kati'
-CZ: 'Jamhuri ya Cheki'
 DO: 'Jamhuri ya Dominika'
 CD: 'Jamhuri ya Kidemokrasia ya Kongo'
 JP: Japani
@@ -91,11 +93,10 @@ CA: Kanada
 QA: Katari
 KZ: Kazakistani
 KE: Kenya
-CV: Kepuvede
 KI: Kiribati
 KG: Kirigizistani
 AC: 'Kisiwa cha Ascension'
-CX: 'Kisiwa cha Krismasi'
+CX: 'Kisiwa cha Christmas'
 NF: 'Kisiwa cha Norfolk'
 CO: Kolombia
 KM: Komoro
@@ -107,32 +108,32 @@ XK: Kosovo
 CR: Kostarika
 CU: Kuba
 CW: Kurakao
-KW: Kuwaiti
+KW: Kuwait
 LA: Laosi
 LU: Lasembagi
 LV: Lativia
 LB: Lebanoni
-LS: Lesoto
+LS: Lesotho
 LR: Liberia
 LY: Libya
-LI: Liechtenstein
-LT: Litwania
+LI: Lishtensteni
+LT: Lithuania
 MO: 'Macau SAR China'
+MK: Macedonia
 MG: Madagaska
 TF: 'Maeneo ya Kusini ya Ufaransa'
 PS: 'Maeneo ya Palestina'
 MW: Malawi
+MV: Maldivi
 MY: Malesia
 ML: Mali
 MT: Malta
 US: Marekani
 MQ: Martiniki
-MK: Masedonia
 YT: Mayotte
 MX: Meksiko
 FM: Mikronesia
 EG: Misri
-MV: Modivu
 MD: Moldova
 MC: Monako
 MN: Mongolia
@@ -140,14 +141,14 @@ ME: Montenegro
 MS: Montserrati
 MU: Morisi
 MR: Moritania
-MA: Moroko
+MA: Morocco
 MZ: Msumbiji
 MM: 'Myanmar (Burma)'
 NA: Namibia
 NR: Nauru
 NP: Nepali
-NG: Nigeria
-NE: Nijeri
+NE: Nijer
+NG: Nijeria
 NI: Nikaragwa
 NU: Niue
 'NO': Norwe
@@ -157,50 +158,48 @@ OM: Omani
 PK: Pakistani
 PW: Palau
 PA: Panama
-PG: Papua
+PG: 'Papua New Guinea'
 PY: Paragwai
 PE: Peru
-PN: Pitkairni
 PL: Polandi
 PF: 'Polinesia ya Ufaransa'
-PR: Pwetoriko
+PR: Puetoriko
 RE: Riyunioni
 RO: Romania
 RW: Rwanda
 EH: 'Sahara Magharibi'
 MF: 'Saint Martin'
 CY: Saiprasi
-SM: Samarino
 WS: Samoa
 AS: 'Samoa ya Marekani'
+SM: 'San Marino'
 BL: Santabathelemi
 SH: Santahelena
 KN: 'Santakitzi na Nevis'
 LC: Santalusia
-SX: Santamatini
-PM: 'Santapieri na Mikeloni'
+PM: 'Santapierre na Miquelon'
 VC: 'Santavisenti na Grenadini'
-ST: 'São Tomé na Príncipe'
-SA: Saudi
+ST: 'Sao Tome na Prinsipe'
+SA: Saudia
 SN: Senegali
 RS: Serbia
-SC: Shelisheli
 SL: 'Siera Leoni'
-SG: Singapoo
-SY: Siria
-LK: Sirilanka
+SG: Singapore
+SX: 'Sint Maarten'
 SK: Slovakia
 SI: Slovenia
 SO: Somalia
-SD: Sudani
-SS: 'Sudani Kusini'
-SR: Surinamu
+LK: 'Sri Lanka'
+SD: Sudan
+SS: 'Sudan Kusini'
+SR: Suriname
 SJ: 'Svalbard na Jan Mayen'
+SY: Syria
 TH: Tailandi
-TW: Taiwani
+TW: Taiwan
 TJ: Tajikistani
 TZ: Tanzania
-TL: 'Timor ya Mashariki'
+TL: Timor-Leste
 TG: Togo
 TK: Tokelau
 TO: Tonga
@@ -211,18 +210,20 @@ TM: Turukimenistani
 TV: Tuvalu
 BE: Ubelgiji
 FR: Ufaransa
+PH: Ufilipino
 FI: Ufini
 UG: Uganda
 GR: Ugiriki
-ET: Uhabeshi
 NL: Uholanzi
 BQ: 'Uholanzi ya Karibiani'
 GB: Uingereza
 DE: Ujerumani
-UA: Ukraini
+UA: Ukraine
+UN: 'Umoja wa Mataifa'
 PT: Ureno
 UY: Urugwai
 RU: Urusi
+SC: Ushelisheli
 SZ: Uswazi
 SE: Uswidi
 CH: Uswisi
@@ -231,7 +232,7 @@ UZ: Uzibekistani
 VU: Vanuatu
 VA: Vatikani
 VE: Venezuela
-VN: Vietinamu
+VN: Vietnamu
 UM: 'Visiwa Vidogo vya Nje vya Marekani'
 AX: 'Visiwa vya Alandi'
 CC: 'Visiwa vya Cocos (Keeling)'
@@ -241,7 +242,8 @@ FO: 'Visiwa vya Faroe'
 IC: 'Visiwa vya Kanari'
 KY: 'Visiwa vya Kayman'
 MP: 'Visiwa vya Mariana vya Kaskazini'
-MH: 'Visiwa vya Marshal'
+MH: 'Visiwa vya Marshall'
+PN: 'Visiwa vya Pitcairn'
 SB: 'Visiwa vya Solomon'
 TC: 'Visiwa vya Turki na Kaiko'
 VI: 'Visiwa vya Virgin vya Marekani'

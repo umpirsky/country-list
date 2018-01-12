@@ -27,7 +27,7 @@ BO: Boliwia
 BA: 'Bośnia i Hercegowina'
 BW: Botswana
 BR: Brazylia
-BN: 'Brunei Darussalam'
+BN: Brunei
 IO: 'Brytyjskie Terytorium Oceanu Indyjskiego'
 VG: 'Brytyjskie Wyspy Dziewicze'
 BG: Bułgaria
@@ -55,12 +55,13 @@ EC: Ekwador
 ER: Erytrea
 EE: Estonia
 ET: Etiopia
+EZ: Eurozone
 FK: Falklandy
 FJ: Fidżi
 PH: Filipiny
 FI: Finlandia
 FR: Francja
-TF: 'Francuskie Terytoria Południowe'
+TF: 'Francuskie Terytoria Południowe i Antarktyczne'
 GA: Gabon
 GM: Gambia
 GS: 'Georgia Południowa i Sandwich Południowy'
@@ -71,6 +72,7 @@ GD: Grenada
 GL: Grenlandia
 GE: Gruzja
 GU: Guam
+GG: Guernsey
 GY: Gujana
 GF: 'Gujana Francuska'
 GP: Gwadelupa
@@ -92,6 +94,7 @@ IL: Izrael
 JM: Jamajka
 JP: Japonia
 YE: Jemen
+JE: Jersey
 JO: Jordania
 KY: Kajmany
 KH: Kambodża
@@ -155,6 +158,7 @@ NF: Norfolk
 NC: 'Nowa Kaledonia'
 NZ: 'Nowa Zelandia'
 OM: Oman
+UN: 'Organizacja Narodów Zjednoczonych'
 PK: Pakistan
 PW: Palau
 PA: Panama
@@ -234,8 +238,6 @@ GB: 'Wielka Brytania'
 VN: Wietnam
 IT: Włochy
 CX: 'Wyspa Bożego Narodzenia'
-GG: 'Wyspa Guernsey'
-JE: 'Wyspa Jersey'
 IM: 'Wyspa Man'
 SH: 'Wyspa Świętej Heleny'
 AC: 'Wyspa Wniebowstąpienia'

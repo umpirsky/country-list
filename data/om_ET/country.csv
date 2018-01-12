@@ -57,7 +57,7 @@ HR,Croatia
 CU,Cuba
 CW,Curaçao
 CY,Cyprus
-CZ,"Czech Republic"
+CZ,Czechia
 DK,Denmark
 DG,"Diego Garcia"
 DJ,Djibouti
@@ -69,6 +69,7 @@ SV,"El Salvador"
 GQ,"Equatorial Guinea"
 ER,Eritrea
 EE,Estonia
+EZ,Eurozone
 FK,"Falkland Islands"
 FO,"Faroe Islands"
 FJ,Fiji
@@ -235,6 +236,7 @@ UG,Uganda
 UA,Ukraine
 AE,"United Arab Emirates"
 GB,"United Kingdom"
+UN,"United Nations"
 US,"United States"
 UY,Uruguay
 UZ,Uzbekistan

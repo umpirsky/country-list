@@ -50,7 +50,6 @@ CD: 'Demokratična republika Kongo'
 DG: 'Diego Garcia'
 DM: Dominika
 DO: 'Dominikanska republika'
-UM: 'Druga ameriška ozemlja v Tihem oceanu'
 DJ: Džibuti
 EG: Egipt
 EC: Ekvador
@@ -58,6 +57,7 @@ GQ: 'Ekvatorialna Gvineja'
 ER: Eritreja
 EE: Estonija
 ET: Etiopija
+EZ: Eurozone
 FK: 'Falklandski otoki'
 FO: 'Ferski otoki'
 FJ: Fidži
@@ -167,9 +167,9 @@ NF: 'Norfolški otok'
 NC: 'Nova Kaledonija'
 NZ: 'Nova Zelandija'
 OM: Oman
-TC: 'Otočji Turks in Caicos'
 AC: 'Otok Ascension'
 IM: 'Otok Man'
+TC: 'Otoki Turks in Caicos'
 PK: Pakistan
 PW: Palau
 PS: 'Palestinsko ozemlje'
@@ -181,7 +181,7 @@ PN: Pitcairn
 PL: Poljska
 PR: Portoriko
 PT: Portugalska
-HK: 'Posebno administrativno območje LR Kitajske Hong Kong'
+HK: 'Posebno administrativno območje LR Kitajske Hongkong'
 MO: 'Posebno administrativno območje LR Kitajske Macao'
 RE: Reunion
 RO: Romunija
@@ -212,6 +212,7 @@ SK: Slovaška
 SI: Slovenija
 SO: Somalija
 RS: Srbija
+UM: 'Stranski zunanji otoki Združenih držav'
 SD: Sudan
 SR: Surinam
 SJ: 'Svalbard in Jan Mayen'
@@ -225,6 +226,7 @@ TJ: Tadžikistan
 TH: Tajska
 TW: Tajvan
 TZ: Tanzanija
+TL: Timor-Leste
 TG: Togo
 TK: Tokelau
 TO: Tonga
@@ -240,14 +242,14 @@ UY: Urugvaj
 UZ: Uzbekistan
 VU: Vanuatu
 VA: Vatikan
-GB: 'Velika Britanija'
 VE: Venezuela
 VN: Vietnam
-TL: 'Vzhodni Timor'
 WF: 'Wallis in Futuna'
 EH: 'Zahodna Sahara'
 ZM: Zambija
 US: 'Združene države Amerike'
 AE: 'Združeni arabski emirati'
+UN: 'Združeni narodi'
+GB: 'Združeno kraljestvo'
 CV: 'Zelenortski otoki'
 ZW: Zimbabve

@@ -29,7 +29,7 @@ BO: Bolivië
 BA: 'Bosnië en Herzegowina'
 BW: Botswana
 BR: Brasilië
-IO: 'Britse Indiese Oseaangebied'
+IO: 'Brits-Indiese Oseaangebied'
 VG: 'Britse Maagde-eilande'
 BN: Broenei
 BG: Bulgarye
@@ -37,7 +37,6 @@ BF: 'Burkina Faso'
 BI: Burundi
 EA: 'Ceuta en Melilla'
 CL: Chili
-CC: 'Cocos- (Keeling) eilande'
 CO: Colombië
 KM: Comore
 CK: Cookeilande
@@ -58,6 +57,7 @@ SV: 'El Salvador'
 ER: Eritrea
 EE: Estland
 ET: Ethiopië
+EZ: Eurozone
 FK: Falklandeilande
 FO: Faroëreilande
 FJ: Fidji
@@ -113,6 +113,8 @@ CX: Kerseiland
 KG: Kirgisië
 KI: Kiribati
 KW: Koeweit
+CC: Kokos-eilande
+CG: 'Kongo - Brazzaville'
 XK: Kosovo
 HR: Kroasië
 CU: Kuba
@@ -159,7 +161,7 @@ NE: Niger
 NG: Nigerië
 NU: Niue
 KP: Noord-Korea
-MP: 'Noordelike Mariana-eilande'
+MP: Noord-Mariane-eilande
 'NO': Noorweë
 NF: Norfolkeiland
 UA: Oekraïne
@@ -178,14 +180,14 @@ PN: Pitcairneilande
 PL: Pole
 PT: Portugal
 PR: 'Puerto Rico'
-CG: 'Republiek van die Kongo'
 RE: Réunion
 RO: Roemenië
 RU: Rusland
 RW: Rwanda
+SB: Salomonseilande
 WS: Samoa
 SM: 'San Marino'
-ST: 'Sao Tome en Principe'
+ST: 'São Tomé en Príncipe'
 SA: Saoedi-Arabië
 SN: Senegal
 CF: 'Sentraal-Afrikaanse Republiek'
@@ -195,22 +197,21 @@ SL: 'Sierra Leone'
 SG: Singapoer
 BL: 'Sint Barthélemy'
 SH: 'Sint Helena'
-KN: 'Sint Kitts en Nevis'
-LC: 'Sint Lucia'
 SX: 'Sint Maarten'
-MF: 'Sint Martin'
-PM: 'Sint Pierre en Miquelon'
-VC: 'Sint Vincent en die Grenadine'
 CY: Siprus
 SY: Sirië
 CN: Sjina
 SK: Slowakye
 SI: Slowenië
 SD: Soedan
-SB: Solomoneilande
 SO: Somalië
 ES: Spanje
 LK: 'Sri Lanka'
+KN: 'St. Kitts en Nevis'
+LC: 'St. Lucia'
+MF: 'St. Martin'
+PM: 'St. Pierre en Miquelon'
+VC: 'St. Vincent en die Grenadine'
 ZA: Suid-Afrika
 GS: 'Suid-Georgië en die Suidelike Sandwicheilande'
 KR: Suid-Korea
@@ -224,7 +225,7 @@ TJ: Tadjikistan
 TW: Taiwan
 TZ: Tanzanië
 TH: Thailand
-CZ: 'Tjeggiese Republiek'
+CZ: Tjeggië
 TG: Togo
 TK: Tokelau
 TO: Tonga
@@ -243,6 +244,7 @@ VA: Vatikaanstad
 VE: Venezuela
 AE: 'Verenigde Arabiese Emirate'
 GB: 'Verenigde Koninkryk'
+UN: 'verenigde nasies'
 US: 'Verenigde State van Amerika'
 VN: Viëtnam
 UM: 'VS klein omliggende eilande'

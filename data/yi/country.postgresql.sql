@@ -1,4 +1,4 @@
-CREATE TABLE list (id VARCHAR(2) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+CREATE TABLE list (id VARCHAR(10) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
 INSERT INTO "list" ("id", "value") VALUES (E'UG', E'אוגאַנדע');
 INSERT INTO "list" ("id", "value") VALUES (E'HU', E'אונגערן');
@@ -214,6 +214,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'CC', E'Cocos (Keeling) Islands');
 INSERT INTO "list" ("id", "value") VALUES (E'CG', E'Congo - Brazzaville');
 INSERT INTO "list" ("id", "value") VALUES (E'CY', E'Cyprus');
 INSERT INTO "list" ("id", "value") VALUES (E'DG', E'Diego Garcia');
+INSERT INTO "list" ("id", "value") VALUES (E'EZ', E'Eurozone');
 INSERT INTO "list" ("id", "value") VALUES (E'TF', E'French Southern Territories');
 INSERT INTO "list" ("id", "value") VALUES (E'HK', E'Hong Kong SAR China');
 INSERT INTO "list" ("id", "value") VALUES (E'IQ', E'Iraq');
@@ -250,6 +251,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'TC', E'Turks & Caicos Islands');
 INSERT INTO "list" ("id", "value") VALUES (E'UM', E'U.S. Outlying Islands');
 INSERT INTO "list" ("id", "value") VALUES (E'VI', E'U.S. Virgin Islands');
 INSERT INTO "list" ("id", "value") VALUES (E'AE', E'United Arab Emirates');
+INSERT INTO "list" ("id", "value") VALUES (E'UN', E'United Nations');
 INSERT INTO "list" ("id", "value") VALUES (E'UZ', E'Uzbekistan');
 INSERT INTO "list" ("id", "value") VALUES (E'WF', E'Wallis & Futuna');
 INSERT INTO "list" ("id", "value") VALUES (E'EH', E'Western Sahara');

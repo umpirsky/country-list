@@ -19,6 +19,7 @@ BS: Bahama’s
 BH: Bahrein
 BD: Bangladesh
 BB: Barbados
+BY: Belarus
 BE: België
 BZ: Belize
 BJ: Benin
@@ -38,7 +39,6 @@ KH: Cambodja
 CA: Canada
 IC: 'Canarische Eilanden'
 BQ: 'Caribisch Nederland'
-KY: Caymaneilanden
 CF: 'Centraal-Afrikaanse Republiek'
 EA: 'Ceuta en Melilla'
 CL: Chili
@@ -67,6 +67,7 @@ GQ: Equatoriaal-Guinea
 ER: Eritrea
 EE: Estland
 ET: Ethiopië
+EZ: Eurozone
 FO: Faeröer
 FK: Falklandeilanden
 FJ: Fiji
@@ -110,6 +111,7 @@ JP: Japan
 YE: Jemen
 JE: Jersey
 JO: Jordanië
+KY: Kaaimaneilanden
 CV: Kaapverdië
 CM: Kameroen
 KZ: Kazachstan
@@ -226,7 +228,7 @@ TO: Tonga
 TT: 'Trinidad en Tobago'
 TA: 'Tristan da Cunha'
 TD: Tsjaad
-CZ: Tsjechië
+CZ: 'Tsjechische Republiek'
 TN: Tunesië
 TR: Turkije
 TM: Turkmenistan
@@ -238,11 +240,11 @@ VA: Vaticaanstad
 VE: Venezuela
 GB: 'Verenigd Koninkrijk'
 AE: 'Verenigde Arabische Emiraten'
+UN: 'verenigde naties'
 US: 'Verenigde Staten'
 VN: Vietnam
 WF: 'Wallis en Futuna'
 EH: 'Westelijke Sahara'
-BY: Wit-Rusland
 ZM: Zambia
 ZW: Zimbabwe
 ZA: Zuid-Afrika
