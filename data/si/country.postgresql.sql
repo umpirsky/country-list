@@ -1,4 +1,4 @@
-CREATE TABLE list (id VARCHAR(2) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+CREATE TABLE list (id VARCHAR(10) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
 INSERT INTO "list" ("id", "value") VALUES (E'IE', E'අයර්ලන්තය');
 INSERT INTO "list" ("id", "value") VALUES (E'IM', E'අයිල් ඔෆ් මෑන්');
@@ -35,6 +35,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'UZ', E'උස්බෙකිස්�
 INSERT INTO "list" ("id", "value") VALUES (E'AE', E'එක්සත් අරාබි එමිර් රාජ්‍යය');
 INSERT INTO "list" ("id", "value") VALUES (E'UM', E'එක්සත් ජනපද ඈත දූපත්');
 INSERT INTO "list" ("id", "value") VALUES (E'US', E'එක්සත් ජනපදය');
+INSERT INTO "list" ("id", "value") VALUES (E'UN', E'එක්සත් ජාතීන්');
 INSERT INTO "list" ("id", "value") VALUES (E'GB', E'එක්සත් රාජධානිය');
 INSERT INTO "list" ("id", "value") VALUES (E'ER', E'එරිත්‍රියාව');
 INSERT INTO "list" ("id", "value") VALUES (E'SV', E'එල් සැල්වදෝරය');
@@ -85,7 +86,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'GH', E'ඝානාව');
 INSERT INTO "list" ("id", "value") VALUES (E'TD', E'චැච්');
 INSERT INTO "list" ("id", "value") VALUES (E'CL', E'චිලී');
 INSERT INTO "list" ("id", "value") VALUES (E'CN', E'චීනය');
-INSERT INTO "list" ("id", "value") VALUES (E'CZ', E'චෙක් ජනරජය');
+INSERT INTO "list" ("id", "value") VALUES (E'CZ', E'චෙක්');
 INSERT INTO "list" ("id", "value") VALUES (E'JP', E'ජපානය');
 INSERT INTO "list" ("id", "value") VALUES (E'DE', E'ජර්මනිය');
 INSERT INTO "list" ("id", "value") VALUES (E'JE', E'ජර්සි');
@@ -181,7 +182,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'MK', E'මැසිඩෝනිය�
 INSERT INTO "list" ("id", "value") VALUES (E'MM', E'මියන්මාරය (බුරුමය)');
 INSERT INTO "list" ("id", "value") VALUES (E'MU', E'මුරුසිය');
 INSERT INTO "list" ("id", "value") VALUES (E'MX', E'මෙක්සිකෝව');
-INSERT INTO "list" ("id", "value") VALUES (E'MC', E'මොනැකෝව');
+INSERT INTO "list" ("id", "value") VALUES (E'MC', E'මොනාකෝව');
 INSERT INTO "list" ("id", "value") VALUES (E'MN', E'මොන්ගෝලියාව');
 INSERT INTO "list" ("id", "value") VALUES (E'ME', E'මොන්ටෙනීග්‍රෝ');
 INSERT INTO "list" ("id", "value") VALUES (E'MS', E'මොන්සෙරාට්');
@@ -253,3 +254,4 @@ INSERT INTO "list" ("id", "value") VALUES (E'FO', E'ෆැරෝ දූපත්
 INSERT INTO "list" ("id", "value") VALUES (E'FI', E'ෆින්ලන්තය');
 INSERT INTO "list" ("id", "value") VALUES (E'FJ', E'ෆීජී');
 INSERT INTO "list" ("id", "value") VALUES (E'FK', E'ෆෝක්ලන්ත දූපත්');
+INSERT INTO "list" ("id", "value") VALUES (E'EZ', E'Eurozone');

@@ -41,7 +41,7 @@ CK,"Cookovy ostrovy"
 CW,Curaçao
 TD,Čad
 ME,"Černá Hora"
-CZ,"Česká republika"
+CZ,Česko
 CN,Čína
 DK,Dánsko
 DG,"Diego García"
@@ -53,6 +53,7 @@ EC,Ekvádor
 ER,Eritrea
 EE,Estonsko
 ET,Etiopie
+EZ,Eurozone
 FO,"Faerské ostrovy"
 FK,"Falklandské ostrovy"
 FJ,Fidži
@@ -167,6 +168,7 @@ NO,Norsko
 NC,"Nová Kaledonie"
 NZ,"Nový Zéland"
 OM,Omán
+UN,OSN
 IM,"Ostrov Man"
 PK,Pákistán
 PW,Palau
@@ -202,6 +204,7 @@ SK,Slovensko
 SI,Slovinsko
 SO,Somálsko
 AE,"Spojené arabské emiráty"
+GB,"Spojené království"
 US,"Spojené státy"
 RS,Srbsko
 LK,"Srí Lanka"
@@ -244,7 +247,6 @@ UZ,Uzbekistán
 CX,"Vánoční ostrov"
 VU,Vanuatu
 VA,Vatikán
-GB,"Velká Británie"
 VE,Venezuela
 VN,Vietnam
 TL,"Východní Timor"

@@ -1,4 +1,4 @@
-CREATE TABLE list (id VARCHAR(2) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+CREATE TABLE list (id VARCHAR(10) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
 
 INSERT INTO `list` (`id`, `value`) VALUES ('ET', 'An Aetóip');
 INSERT INTO `list` (`id`, `value`) VALUES ('AF', 'An Afganastáin');
@@ -144,6 +144,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('DM', 'Doiminice');
 INSERT INTO `list` (`id`, `value`) VALUES ('EC', 'Eacuadór');
 INSERT INTO `list` (`id`, `value`) VALUES ('YE', 'Éimin');
 INSERT INTO `list` (`id`, `value`) VALUES ('IE', 'Éire');
+INSERT INTO `list` (`id`, `value`) VALUES ('EZ', 'Eurozone');
 INSERT INTO `list` (`id`, `value`) VALUES ('FJ', 'Fidsí');
 INSERT INTO `list` (`id`, `value`) VALUES ('GH', 'Gána');
 INSERT INTO `list` (`id`, `value`) VALUES ('GG', 'Geansaí');
@@ -181,6 +182,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('IC', 'Na hOileáin Chanáracha');
 INSERT INTO `list` (`id`, `value`) VALUES ('PH', 'Na hOileáin Fhilipíneacha');
 INSERT INTO `list` (`id`, `value`) VALUES ('MP', 'Na hOileáin Mháirianacha Thuaidh');
 INSERT INTO `list` (`id`, `value`) VALUES ('SC', 'Na Séiséil');
+INSERT INTO `list` (`id`, `value`) VALUES ('UN', 'Náisiúin Aontaithe');
 INSERT INTO `list` (`id`, `value`) VALUES ('NR', 'Nárú');
 INSERT INTO `list` (`id`, `value`) VALUES ('NP', 'Neipeal');
 INSERT INTO `list` (`id`, `value`) VALUES ('NI', 'Nicearagua');

@@ -1,253 +1,255 @@
-AF: Afganistan
-ZA: 'Afrika t’Isfel'
-AL: Albanija
-DZ: Alġerija
 AD: Andorra
-AO: Angola
-AI: Angwilla
-AQ: Antartika
-AG: 'Antigua and Barbuda'
-AR: Arġentina
-AM: Armenja
+AI: Anguilla
+AG: 'Antigua u Barbuda'
 AW: Aruba
 AC: 'Ascension Island'
-AU: Awstralja
-AT: Awstrija
-AZ: Ażerbajġan
-BS: Baħamas
-BH: Baħrajn
-BD: Bangladexx
 BB: Barbados
-BE: Belġju
-BZ: Beliże
-BJ: Benin
 BM: Bermuda
-BY: Bjelorussja
-BO: Bolivja
-BW: Botswana
-BA: 'Bożnija Ħerżegovina'
-IO: 'British Indian Ocean Territory'
-VG: 'British Virgin Islands'
-BN: Brunej
-BG: Bulgarija
-BF: 'Burkina Faso'
-BI: Burundi
-BT: Butan
-TD: Ċad
-CL: Ċili
 CY: Ċipru
-IC: 'Canary Islands'
-BQ: 'Caribbean Netherlands'
-EA: 'Ceuta & Melilla'
-CX: 'Christmas Island'
-CC: 'Cocos (Keeling) Islands'
-CK: 'Cook Islands'
+CV: 'Cape Verde'
+EA: 'Ceuta u Melilla'
+CN: CN
+KM: Comoros
 CW: Curaçao
-DK: Danimarka
-CD: 'Democratic Republic of the Congo'
 DG: 'Diego Garcia'
-DM: Dominika
-EG: Eġittu
-EC: Ekwador
+DM: Dominica
 SV: 'El Salvador'
-AE: 'Emirati Għarab Maqgħuda'
-ER: Eritreja
-EE: Estonja
-ET: Etijopja
-FK: 'Falkland Islands'
+EZ: Eurozone
 FJ: Fiġi
-PH: Filippini
-FI: Finlandja
 FR: Franza
-JM: Ġamajka
-DJ: Ġibuti
-JO: Ġordan
-GE: Ġorġja
-GA: Gabon
-GM: Gambja
-GH: Gana
-GI: Gibraltar
-GQ: 'Ginea Ekwatorjali'
-GW: Ginea-Bissaw
-GN: Gineja
-GR: Greċja
+GI: Ġibiltà
+MP: 'Ġżejjer Mariana tat-Tramuntana'
+GL: Greenland
 GD: Grenada
-GL: Grinlandja
+GP: Guadeloupe
+GU: Guam
 GG: Guernsey
-GY: Gujana
-GF: 'Gujana Franċiża'
-GP: Gwadelupe
-GU: Gwam
-GT: Gwatemala
-AX: 'Gżejjer Aland'
-FO: 'Gżejjer Faroe'
-KY: 'Gżejjer Kajmani'
-MP: 'Gżejjer Marjana ta’ Fuq'
-MH: 'Gżejjer ta’ Marshall'
-SA: 'Għarabja Sawdita'
-HT: Ħaiti
-HN: Ħonduras
-HK: 'Ħong Kong S.A.R. Ċina'
-CN: Iċ-Ċina
+CC: 'Gżejjer Cocos (Keeling)'
+CK: 'Gżejjer Cook'
+MH: 'Gżejjer Marshall'
+PN: 'Gżejjer Pitcairn'
+NF: 'Gżira Norfolk'
+CL: iċ-Ċili
+TD: iċ-Chad
+DK: id-Danimarka
+BS: il-Bahamas
+BH: il-Bahrain
+BD: il-Bangladesh
+BY: il-Belarussja
+BE: il-Belġju
+BZ: il-Belize
+BJ: il-Benin
+BT: il-Bhutan
+BO: il-Bolivja
+BW: il-Botswana
+BA: il-Bożnija-Ħerzegovina
 BR: Il-Brażil
-JP: Il-Ġappun
-DE: Il-Ġermanja
-ID: Indoneżja
-RU: Ir-Russja
-IR: Iran
-IQ: Iraq
-IE: Irlanda
-IS: Islanda
+BN: il-Brunei
+BG: il-Bulgarija
+BF: 'il-Burkina Faso'
+BI: il-Burundi
+CR: 'il-Costa Rica'
+DJ: il-Djibouti
+PH: il-Filippini
+FI: il-Finlandja
+JM: il-Ġamajka
+JP: il-Ġappun
+DE: il-Ġermanja
+JO: il-Ġordan
+GA: il-Gabon
+GM: il-Gambja
+GE: il-Georgia
+GS: 'il-Georgia tan-Nofsinhar u l-Gżejjer Sandwich tan-Nofsinhar'
+GH: il-Ghana
+GR: il-Greċja
+GN: il-Guinea
+GQ: 'il-Guinea Ekwatorjali'
+GW: il-Guinea-Bissau
+GY: il-Guyana
+GF: 'il-Guyana Franċiża'
+GT: il-Gwatemala
+AX: 'il-Gżejjer Aland'
+IC: 'il-Gżejjer Canary'
+KY: 'il-Gżejjer Cayman'
+FO: 'il-Gżejjer Faeroe'
+FK: 'il-Gżejjer Falkland'
+UM: 'Il-Gżejjer Minuri Mbiegħda tal-Istati Uniti'
+SB: 'il-Gżejjer Solomon'
+TC: 'il-Gżejjer Turks u Caicos'
+VG: 'il-Gżejjer Verġni Brittaniċi'
+VI: 'il-Gżejjer Verġni tal-Istati Uniti'
+CX: 'il-Gżira Christmas'
+HT: il-Haiti
+HN: il-Honduras
+YE: il-Jemen
+KH: il-Kambodja
+CM: il-Kamerun
+CA: il-Kanada
+KZ: il-Każakistan
+KE: il-Kenja
+KG: il-Kirgiżistan
+CO: il-Kolombja
+CG: 'il-Kongo - Brazzaville'
+KR: 'il-Korea t’Isfel'
+KP: 'il-Korea ta’ Fuq'
+CI: 'il-Kosta tal-Avorju'
+HR: il-Kroazja
+KW: il-Kuwajt
+LA: il-Laos
+LV: il-Latvja
+LS: il-Lesoto
+LB: il-Libanu
+LR: il-Liberja
+LY: il-Libja
+LI: il-Liechtenstein
+LT: il-Litwanja
+LU: il-Lussemburgu
+MY: il-Malasja
+MW: il-Malawi
+MV: il-Maldivi
+ML: il-Mali
+MA: il-Marokk
+MR: il-Mauritania
+MX: il-Messiku
+MD: il-Moldova
+MN: il-Mongolja
+ME: il-Montenegro
+MZ: il-Mozambique
+MM: il-Myanmar/Burma
+PK: il-Pakistan
+PA: il-Panama
+PY: il-Paragwaj
+PE: il-Perù
+PL: il-Polonja
+PT: il-Portugall
+QA: il-Qatar
+VE: il-Venezwela
+VN: il-Vjetnam
+NA: in-Namibja
+NP: in-Nepal
+NL: in-Netherlands
+BQ: 'in-Netherlands tal-Karibew'
+NE: in-Niġer
+NG: in-Niġerja
+NI: in-Nikaragwa
+'NO': in-Norveġja
+HK: 'ir-Reġjun Amministrattiv Speċjali ta’ Hong Kong tar-Repubblika tal-Poplu taċ-Ċina'
+MO: 'ir-Reġjun Amministrattiv Speċjali tal-Macao tar-Repubblika tal-Poplu taċ-Ċina'
+GB: 'ir-Renju Unit'
+CZ: 'ir-Repubblika Ċeka'
+CF: 'ir-Repubblika Ċentru-Afrikana'
+CD: 'ir-Repubblika Demokratika tal-Kongo'
+DO: 'ir-Repubblika Dominicana'
+RO: ir-Rumanija
+RU: ir-Russja
+RW: ir-Rwanda
+EH: 'is-Saħara tal-Punent'
+AS: 'is-Samoa Amerikana'
+SN: is-Senegal
+RS: is-Serbja
+SC: is-Seychelles
+SY: is-Sirja
+SK: is-Slovakkja
+SI: is-Slovenja
+SO: is-Somalja
+LK: 'is-Sri Lanka'
+SD: is-Sudan
+SS: 'is-Sudan t’Isfel'
+SR: is-Suriname
+SZ: is-Swaziland
 IM: 'Isle of Man'
+TJ: it-Taġikistan
+TH: it-Tajlandja
+TW: it-Tajwan
+TZ: it-Tanzanija
+TF: 'It-Territorji Franċiżi tan-Nofsinhar'
+PS: 'it-Territorji Palestinjani'
+TG: it-Togo
+TK: it-Tokelau
+TN: it-Tuneżija
+TR: it-Turkija
+TM: it-Turkmenistan
+ZM: iż-Żambja
+ZW: iż-Żimbabwe
 IL: Iżrael
-YE: Jemen
 JE: Jersey
-KH: Kambodja
-CM: Kamerun
-CA: Kanada
-CV: 'Kape Verde'
-KZ: Każakstan
-KE: Kenja
-KG: Kirgistan
 KI: Kiribati
-CO: Kolumbja
-KM: Komoros
-CG: Kongo
-KR: 'Koreja t’Isfel'
-KP: 'Koreja ta’ Fuq'
 XK: Kosovo
-CR: 'Kosta Rika'
-CI: 'Kosta ta’ l-Avorju'
-HR: Kroazja
 CU: Kuba
-KW: Kuwajt
-IN: L-Indja
-GB: L-Ingilterra
-US: 'L-Istati Uniti'
-IT: L-Italja
-LA: Laos
-LV: Latvja
-LS: Lesoto
-LB: Libanu
-LR: Liberja
-LY: Libja
-LI: Liechtenstein
-LT: Litwanja
-LU: Lussemburgu
-MK: Maċedonja
-MO: 'Macao S.A.R., China'
-MG: Madagaskar
-YT: Majotte
-MY: Malasja
-MW: Malawi
-MV: Maldives
-MD: Maldova
-ML: Mali
+AF: l-Afganistan
+ZA: 'l-Afrika t’Isfel'
+AL: l-Albanija
+DZ: l-Alġerija
+AO: l-Angola
+AQ: l-Antartika
+SA: 'l-Arabia Sawdija'
+AR: l-Arġentina
+AM: l-Armenja
+AU: l-Awstralja
+AT: l-Awstrija
+AZ: l-Ażerbajġan
+EG: l-Eġittu
+MK: 'l-Eks-Repubblika Jugoslava tal-Maċedonia'
+EC: l-Ekwador
+AE: 'l-Emirati Għarab Magħquda'
+ER: l-Eritrea
+EE: l-Estonja
+ET: l-Etjopja
+IN: l-Indja
+ID: l-Indoneżja
+IR: l-Iran
+IQ: l-Iraq
+IE: l-Irlanda
+VA: 'l-Istat tal-Belt tal-Vatikan'
+US: 'l-Istati Uniti'
+IT: l-Italja
+IS: l-iżlanda
+SE: l-Iżvezja
+OM: l-Oman
+UG: l-Uganda
+UA: l-Ukrajna
+HU: l-Ungerija
+UY: l-Urugwaj
+UZ: l-Użbekistan
+MG: Madagascar
 MT: Malta
-MA: Marokk
-MQ: Martinik
-MR: Mawritanja
-MU: Mawrizju
-MX: Messiku
-FM: Mikronesja
-MM: Mjanmar
-MC: Monako
-MN: Mongolja
-ME: Montenegro
+MQ: Martinique
+MU: Mauritius
+YT: Mayotte
+FM: Mikroneżja
+MC: Monaco
 MS: Montserrat
-MZ: Możambik
-NA: Namibja
 NR: Nauru
-NP: Nepal
 NC: 'New Caledonia'
 NZ: 'New Zealand'
-NE: Niġer
-NG: Niġerja
-NI: Nikaragwa
 NU: Niue
-NF: 'Norfolk Island'
-'NO': Norveġja
-NL: Olanda
-OM: Oman
-PK: Pakistan
 PW: Palau
-PA: Panama
-PG: 'Papwa-Ginea Ġdida'
-PY: Paragwaj
-PE: Peru
-PN: Pitcairn
-PF: 'Polinesja Franċiża'
-PL: Polonja
-PT: Portugall
+PG: 'Papua New Guinea'
+PF: 'Polineżja Franċiża'
 PR: 'Puerto Rico'
-QA: Qatar
-CF: 'Repubblika Afrikana Ċentrali'
-CZ: 'Repubblika Ċeka'
-DO: 'Republikka Domenikana'
 RE: Réunion
-RO: Rumanija
-RW: Rwanda
-EH: 'Sahara tal-Punent'
+BL: 'Saint Barthélemy'
 SH: 'Saint Helena'
-KN: 'Saint Kitts and Nevis'
-PM: 'Saint Pierre and Miquelon'
-VC: 'Saint Vincent and the Grenadines'
+KN: 'Saint Kitts u Nevis'
+LC: 'Saint Lucia'
+MF: 'Saint Martin'
+PM: 'Saint Pierre u Miquelon'
+VC: 'Saint Vincent u l-Grenadini'
 WS: Samoa
-AS: 'Samoa Amerikana'
 SM: 'San Marino'
-LC: 'Santa Luċija'
-ST: 'Sao Tome and Principe'
-SN: Senegal
-RS: Serbia
-SC: Seychelles
+ST: 'São Tomé u Príncipe'
 SL: 'Sierra Leone'
-SG: Singapor
+SG: Singapore
 SX: 'Sint Maarten'
-SY: Sirja
-SK: Slovakkja
-SI: Slovenja
-SB: 'Solomon Islands'
-SO: Somalja
-GS: 'South Georgia and the South Sandwich Islands'
-SS: 'South Sudan'
 ES: Spanja
-LK: 'Sri Lanka'
-BL: 'St. Barthélemy'
-MF: 'St. Martin'
-SD: Sudan
-SR: Surinam
-SJ: 'Svalbard and Jan Mayen'
-CH: Svizzera
-SZ: Sważiland
-TJ: Taġikistan
-TH: Tajlandja
-TW: Tajwan
-TZ: Tanżanija
-TF: 'Territorji Franċiżi ta’ Nofsinhar'
-PS: 'Territorju Palestinjan'
-TL: 'Timor tal-Lvant'
-TG: Togo
-TK: Tokelaw
+SJ: 'Svalbard u Jan Mayen'
+IO: 'Territorju Brittaniku tal-Oċean Indjan'
+TL: 'Timor Leste'
 TO: Tonga
 TT: 'Trinidad u Tobago'
 TA: 'Tristan da Cunha'
-TN: Tuneż
-TR: Turkija
-TM: Turkmenistan
-TC: 'Turks and Caicos Islands'
 TV: Tuvalu
-VI: 'U.S. Virgin Islands'
-UG: Uganda
-UA: Ukraina
-HU: Ungerija
-UM: 'United States Minor Outlying Islands'
-UY: Urugwaj
-UZ: Użbekistan
-VU: Vanwatu
-VA: Vatikan
-VE: Venezwela
-VN: Vjetnam
-WF: 'Wallis and Futuna'
-ZM: Żambja
-ZW: Żimbabwe
-SE: Żvezja
+UN: 'United Nations'
+VU: Vanuatu
+WF: 'Wallis u Futuna'
+CH: Żvizzera

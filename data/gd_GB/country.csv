@@ -21,7 +21,7 @@ AF,Afghanastàn
 ZA,"Afraga a Deas"
 DZ,Aildiria
 AG,"Aintìoga is Barbuda"
-AM,Airmeinia
+AM,Airmeinea
 AL,Albàinia
 ME,"Am Monadh Neagrach"
 AQ,"An Antartaig"
@@ -39,14 +39,14 @@ ET,"An Itiop"
 LV,"An Laitbhe"
 LT,"An Liotuain"
 NA,"An Namaib"
-NO,"An Nirribhidh"
 AT,"An Ostair"
 GB,"An Rìoghachd Aonaichte"
 RU,"An Ruis"
 SV,"An Salbhador"
-ES,"An Spàinn"
+ES,"An Spàinnt"
 TD,"An t-Seàd"
 JP,"An t-Seapan"
+CZ,"An t-Seic"
 RS,"An t-Sèirb"
 CL,"An t-Sile"
 CN,"An t-Sìn"
@@ -60,7 +60,7 @@ UA,"An Ucràin"
 HU,"An Ungair"
 AD,Andorra
 AO,Angòla
-AI,Anguilla
+AI,Anguillia
 SA,"Aràibia nan Sabhd"
 AW,Arùba
 AZ,Asarbaideàn
@@ -91,7 +91,7 @@ EA,"Ceuta agus Melilla"
 CY,Cìopras
 KG,Cìorgastan
 KI,Ciribeas
-KR,"Coirèa a Deas"
+KR,Coirèa
 KP,"Coirèa a Tuath"
 CO,Coloimbia
 KM,Comoros
@@ -117,13 +117,14 @@ AC,"Eilean na Deasgabhalach"
 CX,"Eilean na Nollaig"
 SH,"Eilean Naomh Eilidh"
 NF,"Eilean Norfolk"
-PN,"Eilean Peit a’ Chàirn"
-VI,"Eileanan Aimeireagach na Maighdinn"
 VG,"Eileanan Breatannach na Maighdinn"
 CK,"Eileanan Cook"
 MH,"Eileanan Mharshall"
+VI,"Eileanan na Maighdinn aig na SA"
+PN,"Eileanan Peit a’ Chàirn"
 SB,"Eileanan Sholaimh"
 IE,Èirinn
+EZ,Eurozone
 FJ,Fìdi
 GA,Gabon
 GH,Gàna
@@ -162,8 +163,8 @@ MY,Malaidhsea
 MT,Malta
 YT,Mayotte
 MX,Meagsago
-UM,"Meanbh-Eileanan Iomallach nan Stàitean Aonaichte"
-MM,"Miànmar (Burma)"
+UM,"Meanbh-Eileanan Iomallach nan SA"
+MM,Miànmar
 MC,Monaco
 MS,Montsarat
 MR,Moratàinea
@@ -173,7 +174,7 @@ AX,"Na h-Eileanan Åland"
 BS,"Na h-Eileanan Bhathama"
 KY,"Na h-Eileanan Caimean"
 IC,"Na h-Eileanan Canàrach"
-CC,"Na h-Eileanan Cocos (Keeling)"
+CC,"Na h-Eileanan Chocos (Keeling)"
 FK,"Na h-Eileanan Fàclannach"
 FO,"Na h-Eileanan Fàro"
 PH,"Na h-Eileanan Filipineach"
@@ -182,10 +183,10 @@ MV,"Na h-Eileanan Mhaladaibh"
 MU,"Na h-Eileanan Mhoiriseas"
 SC,"Na h-Eileanan Sheiseall"
 TC,"Na h-Eileanan Turcach is Caiceo"
-ID,"Na h-Innd Innse"
+ID,"Na h-Innd-innse"
 IN,"Na h-Innseachan"
 AE,"Na h-Iomaratan Arabach Aonaichte"
-FM,"Na Meanbh-Eileanan"
+FM,"Na Meanbh-eileanan"
 PS,"Na Ranntairean Palastaineach"
 US,"Na Stàitean Aonaichte"
 NL,"Na Tìrean Ìsle"
@@ -199,6 +200,7 @@ NP,Neapàl
 NE,Nìgeir
 NG,Nigèiria
 NI,Niocaragua
+NO,Nirribhidh
 NU,Niue
 OM,Omàn
 PK,Pagastàn
@@ -207,7 +209,6 @@ PA,Panama
 PY,Paraguaidh
 PE,Pearù
 CF,"Poblachd Meadhan Afraga"
-CZ,"Poblachd na Seice"
 PF,"Poilinèis na Frainge"
 PR,"Porto Rìceo"
 IO,"Ranntair Breatannach Cuan nan Innseachan"
@@ -225,7 +226,7 @@ ST,"São Tomé agus Príncipe"
 EH,"Sathara an Iar"
 NZ,"Sealainn Nuadh"
 SN,Seanagal
-GS,"Seòrsea a Deas is na h-Eileanan Sandwich a Deas"
+GS,"Seòirsea a Deas is na h-Eileanan Sandwich a Deas"
 SL,"Siarra Leòmhann"
 SG,Singeapòr
 SX,"Sint Maarten"
@@ -249,6 +250,7 @@ TN,Tuinisea
 TM,Turcmanastàn
 WF,"Uallas agus Futuna"
 UG,Uganda
+UN,"United Nations"
 UY,Uruguaidh
 UZ,Usbagastàn
 VU,Vanuatu

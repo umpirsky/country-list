@@ -1,4 +1,4 @@
-CREATE TABLE list (id VARCHAR(2) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+CREATE TABLE list (id VARCHAR(10) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
 
 INSERT INTO `list` (`id`, `value`) VALUES ('AF', 'Авганистан');
 INSERT INTO `list` (`id`, `value`) VALUES ('AZ', 'Азербејџан');
@@ -10,7 +10,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('AI', 'Ангвила');
 INSERT INTO `list` (`id`, `value`) VALUES ('AO', 'Ангола');
 INSERT INTO `list` (`id`, `value`) VALUES ('AD', 'Андора');
 INSERT INTO `list` (`id`, `value`) VALUES ('AQ', 'Антарктик');
-INSERT INTO `list` (`id`, `value`) VALUES ('AG', 'Антигве и Барбуда');
+INSERT INTO `list` (`id`, `value`) VALUES ('AG', 'Антигва и Барбуда');
 INSERT INTO `list` (`id`, `value`) VALUES ('AR', 'Аргентина');
 INSERT INTO `list` (`id`, `value`) VALUES ('AM', 'Арменија');
 INSERT INTO `list` (`id`, `value`) VALUES ('AW', 'Аруба');
@@ -248,8 +248,10 @@ INSERT INTO `list` (`id`, `value`) VALUES ('CH', 'Швајцарска');
 INSERT INTO `list` (`id`, `value`) VALUES ('SE', 'Шведска');
 INSERT INTO `list` (`id`, `value`) VALUES ('ES', 'Шпанија');
 INSERT INTO `list` (`id`, `value`) VALUES ('LK', 'Шри Ланка');
+INSERT INTO `list` (`id`, `value`) VALUES ('EZ', 'Eurozone');
 INSERT INTO `list` (`id`, `value`) VALUES ('SS', 'Južni Sudan');
 INSERT INTO `list` (`id`, `value`) VALUES ('BQ', 'Karipska Holandija');
 INSERT INTO `list` (`id`, `value`) VALUES ('XK', 'Kosovo');
 INSERT INTO `list` (`id`, `value`) VALUES ('CW', 'Kurasao');
 INSERT INTO `list` (`id`, `value`) VALUES ('SX', 'Sint Marten');
+INSERT INTO `list` (`id`, `value`) VALUES ('UN', 'Ujedinjene Nacije');

@@ -1,4 +1,4 @@
-CREATE TABLE list (id VARCHAR(2) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+CREATE TABLE list (id VARCHAR(10) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
 INSERT INTO "list" ("id", "value") VALUES ('AT', 'ଅଷ୍ଟ୍ରିଆ');
 INSERT INTO "list" ("id", "value") VALUES ('AU', 'ଅଷ୍ଟ୍ରେଲିଆ');
@@ -249,7 +249,9 @@ INSERT INTO "list" ("id", "value") VALUES ('BQ', 'Caribbean Netherlands');
 INSERT INTO "list" ("id", "value") VALUES ('EA', 'Ceuta & Melilla');
 INSERT INTO "list" ("id", "value") VALUES ('CW', 'Curaçao');
 INSERT INTO "list" ("id", "value") VALUES ('DG', 'Diego Garcia');
+INSERT INTO "list" ("id", "value") VALUES ('EZ', 'Eurozone');
 INSERT INTO "list" ("id", "value") VALUES ('XK', 'Kosovo');
 INSERT INTO "list" ("id", "value") VALUES ('SX', 'Sint Maarten');
 INSERT INTO "list" ("id", "value") VALUES ('SS', 'South Sudan');
 INSERT INTO "list" ("id", "value") VALUES ('TA', 'Tristan da Cunha');
+INSERT INTO "list" ("id", "value") VALUES ('UN', 'United Nations');

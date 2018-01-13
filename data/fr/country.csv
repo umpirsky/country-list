@@ -68,12 +68,14 @@ VA,"État de la Cité du Vatican"
 FM,"États fédérés de Micronésie"
 US,États-Unis
 ET,Éthiopie
+EZ,Eurozone
 FJ,Fidji
 FI,Finlande
 FR,France
 GA,Gabon
 GM,Gambie
 GE,Géorgie
+GS,"Géorgie du Sud et îles Sandwich du Sud"
 GH,Ghana
 GI,Gibraltar
 GR,Grèce
@@ -101,11 +103,11 @@ IC,"Îles Canaries"
 CC,"Îles Cocos"
 CK,"Îles Cook"
 FO,"Îles Féroé"
-GS,"Îles Géorgie du Sud et Sandwich du Sud"
 FK,"Îles Malouines"
 MP,"Îles Mariannes du Nord"
 MH,"Îles Marshall"
 UM,"Îles mineures éloignées des États-Unis"
+PN,"Îles Pitcairn"
 SB,"Îles Salomon"
 TC,"Îles Turques-et-Caïques"
 VG,"Îles Vierges britanniques"
@@ -157,8 +159,9 @@ MN,Mongolie
 ME,Monténégro
 MS,Montserrat
 MZ,Mozambique
-MM,Myanmar
+MM,"Myanmar (Birmanie)"
 NA,Namibie
+UN,"Nations Unies"
 NR,Nauru
 NP,Népal
 NI,Nicaragua
@@ -180,7 +183,6 @@ NL,Pays-Bas
 BQ,"Pays-Bas caribéens"
 PE,Pérou
 PH,Philippines
-PN,Pitcairn
 PL,Pologne
 PF,"Polynésie française"
 PR,"Porto Rico"
@@ -190,7 +192,6 @@ HK,"R.A.S. chinoise de Hong Kong"
 MO,"R.A.S. chinoise de Macao"
 CF,"République centrafricaine"
 DO,"République dominicaine"
-CZ,"République tchèque"
 RO,Roumanie
 GB,Royaume-Uni
 RU,Russie
@@ -199,7 +200,7 @@ EH,"Sahara occidental"
 BL,Saint-Barthélemy
 KN,Saint-Christophe-et-Niévès
 SM,Saint-Marin
-MF,"Saint-Martin (partie française)"
+MF,Saint-Martin
 SX,"Saint-Martin (partie néerlandaise)"
 PM,Saint-Pierre-et-Miquelon
 VC,Saint-Vincent-et-les-Grenadines
@@ -229,13 +230,14 @@ TJ,Tadjikistan
 TW,Taïwan
 TZ,Tanzanie
 TD,Tchad
+CZ,Tchéquie
 TF,"Terres australes françaises"
 IO,"Territoire britannique de l’océan Indien"
 PS,"Territoires palestiniens"
 TH,Thaïlande
 TL,"Timor oriental"
 TG,Togo
-TK,Tokelau
+TK,Tokélaou
 TO,Tonga
 TT,Trinité-et-Tobago
 TA,"Tristan da Cunha"

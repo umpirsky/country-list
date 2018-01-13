@@ -1,6 +1,8 @@
-CREATE TABLE list (id VARCHAR(2) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+CREATE TABLE list (id VARCHAR(10) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
 
+INSERT INTO `list` (`id`, `value`) VALUES ('EZ', 'Eurozone');
 INSERT INTO `list` (`id`, `value`) VALUES ('XK', 'Kosovo');
+INSERT INTO `list` (`id`, `value`) VALUES ('UN', 'United Nations');
 INSERT INTO `list` (`id`, `value`) VALUES ('QA', 'ཀ་ཊར');
 INSERT INTO `list` (`id`, `value`) VALUES ('IC', 'ཀ་ནེ་རི་གླིང་ཚོམ');
 INSERT INTO `list` (`id`, `value`) VALUES ('KZ', 'ཀ་ཛགས་སཏཱན');

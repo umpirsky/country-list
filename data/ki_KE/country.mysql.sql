@@ -1,4 +1,4 @@
-CREATE TABLE list (id VARCHAR(2) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+CREATE TABLE list (id VARCHAR(10) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
 
 INSERT INTO `list` (`id`, `value`) VALUES ('ZA', 'Afrika Kusini');
 INSERT INTO `list` (`id`, `value`) VALUES ('AF', 'Afuganistani');
@@ -54,6 +54,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('SV', 'Elsavado');
 INSERT INTO `list` (`id`, `value`) VALUES ('IO', 'Eneo la Uingereza katika Bahari Hindi');
 INSERT INTO `list` (`id`, `value`) VALUES ('ER', 'Eritrea');
 INSERT INTO `list` (`id`, `value`) VALUES ('EE', 'Estonia');
+INSERT INTO `list` (`id`, `value`) VALUES ('EZ', 'Eurozone');
 INSERT INTO `list` (`id`, `value`) VALUES ('AE', 'Falme za Kiarabu');
 INSERT INTO `list` (`id`, `value`) VALUES ('FO', 'Faroe Islands');
 INSERT INTO `list` (`id`, `value`) VALUES ('FJ', 'Fiji');
@@ -227,6 +228,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('ET', 'Uhabeshi');
 INSERT INTO `list` (`id`, `value`) VALUES ('NL', 'Uholanzi');
 INSERT INTO `list` (`id`, `value`) VALUES ('PS', 'Ukingo wa Magharibi na Ukanda wa Gaza wa Palestina');
 INSERT INTO `list` (`id`, `value`) VALUES ('UA', 'Ukraini');
+INSERT INTO `list` (`id`, `value`) VALUES ('UN', 'United Nations');
 INSERT INTO `list` (`id`, `value`) VALUES ('PT', 'Ureno');
 INSERT INTO `list` (`id`, `value`) VALUES ('UY', 'Urugwai');
 INSERT INTO `list` (`id`, `value`) VALUES ('RU', 'Urusi');

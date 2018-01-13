@@ -1,15 +1,17 @@
 id,value
 AF,Afganistan
-AX,"Alandska Ostrva"
 AL,Albanija
 DZ,Alžir
+VI,"Američka Djevičanska Ostrva"
 AS,"Američka Samoa"
+UM,"Američka Vanjska Ostrva"
 AD,Andora
 AO,Angola
 AI,Angvila
 AQ,Antarktika
 AG,"Antigva i Barbuda"
 AR,Argentina
+AM,Armenija
 AW,Aruba
 AU,Australija
 AT,Austrija
@@ -29,7 +31,7 @@ BA,"Bosna i Hercegovina"
 CX,"Božićna Ostrva"
 BR,Brazil
 VG,"Britanska Djevičanska Ostrva"
-IO,"Britanska Territorija u Indijskom Okeanu"
+IO,"Britanska Teritorija u Indijskom Okeanu"
 BN,Brunej
 BG,Bugarska
 BF,"Burkina Faso"
@@ -43,10 +45,9 @@ CL,Čile
 DK,Danska
 CD,"Demokratska Republika Kongo"
 DG,"Dijego Garsija"
-VI,"Djevičanska Ostrva SAD"
 DM,Dominika
 DO,"Dominikanska Republika"
-JE,Džersi
+JE,Džerzi
 DJ,Džibuti
 EG,Egipat
 EC,Ekvador
@@ -54,6 +55,7 @@ GQ,"Ekvatorijalna Gvineja"
 ER,Eritreja
 EE,Estonija
 ET,Etiopija
+EZ,Eurozone
 FO,"Farska Ostrva"
 FJ,Fidži
 PH,Filipini
@@ -73,7 +75,7 @@ GD,Grenada
 GL,Grenland
 GE,Gruzija
 GU,Guam
-GP,Gvadelupe
+GP,Gvadalupe
 GY,Gvajana
 GT,Gvatemala
 GN,Gvineja
@@ -81,7 +83,7 @@ GW,Gvineja-Bisao
 HT,Haiti
 NL,Holandija
 HN,Honduras
-HK,"Hong Kong (S. A. R. Kina)"
+HK,"Hong Kong (SAR Kina)"
 HR,Hrvatska
 IN,Indija
 ID,Indonezija
@@ -89,14 +91,14 @@ IQ,Irak
 IR,Iran
 IE,Irska
 IS,Island
+TL,"Istočni Timor"
 IT,Italija
 IL,Izrael
 JM,Jamajka
 JP,Japan
 YE,Jemen
-AM,Jermenija
 JO,Jordan
-GS,"Južna Džordžija i Južna Sendvič Ostrva"
+GS,"Južna Džordžija i Južna Sendvička Ostrva"
 KR,"Južna Koreja"
 SS,"Južni Sudan"
 ZA,"Južnoafrička Republika"
@@ -104,7 +106,7 @@ KY,"Kajmanska Ostrva"
 KH,Kambodža
 CM,Kamerun
 CA,Kanada
-IC,"Kanarska ostrva"
+IC,"Kanarska Ostrva"
 CV,"Kape Verde"
 BQ,"Karipska Holandija"
 QA,Katar
@@ -112,9 +114,9 @@ KZ,Kazahstan
 KE,Kenija
 CN,Kina
 CY,Kipar
-KG,Kirgizstan
+KG,Kirgistan
 KI,Kiribati
-CC,"Kokos (Keling) Ostrva"
+CC,"Kokosova (Kilingova) Ostrva"
 CO,Kolumbija
 KM,"Komorska Ostrva"
 CG,Kongo
@@ -125,8 +127,8 @@ CK,"Kukova Ostrva"
 CW,Kurasao
 KW,Kuvajt
 LA,Laos
+LV,Latvija
 LS,Lesoto
-LV,Letonija
 LB,Liban
 LR,Liberija
 LY,Libija
@@ -136,18 +138,17 @@ LU,Luksemburg
 MG,Madagaskar
 HU,Mađarska
 YT,Majote
-MO,"Makao (S. A. R. Kina)"
+MO,"Makao (SAR Kina)"
 MK,Makedonija
 MW,Malavi
 MV,Maldivi
 MY,Malezija
 ML,Mali
 MT,Malta
-UM,"Manja Udaljena Ostrva SAD"
 MA,Maroko
-MH,"Maršalska Ostrva"
+MH,"Maršalova Ostrva"
 MQ,Martinik
-MU,Mauricius
+MU,Mauricijus
 MR,Mauritanija
 MX,Meksiko
 MM,Mijanmar
@@ -164,15 +165,18 @@ NE,Niger
 NG,Nigerija
 NI,Nikaragva
 NU,Niue
-NF,"Norfolk Ostrvo"
 NO,Norveška
 NC,"Nova Kaledonija"
 NZ,"Novi Zeland"
 DE,Njemačka
 CI,"Obala Slonovače"
+AX,"Olandska Ostrva"
 OM,Oman
+TC,"Ostrva Turks i Kaikos"
+WF,"Ostrva Valis i Futuna"
 AC,"Ostrvo Asension"
 IM,"Ostrvo Man"
+NF,"Ostrvo Norfolk"
 PK,Pakistan
 PW,Palau
 PS,"Palestinska Teritorija"
@@ -180,11 +184,11 @@ PA,Panama
 PG,"Papua Nova Gvineja"
 PY,Paragvaj
 PE,Peru
-PN,Pitkern
+PN,"Pitkernska Ostrva"
 PL,Poljska
 PR,"Porto Riko"
 PT,Portugal
-RE,Rejunion
+RE,Reunion
 RW,Ruanda
 RO,Rumunija
 RU,Rusija
@@ -194,11 +198,7 @@ SM,"San Marino"
 ST,"Sao Tome i Principe"
 SA,"Saudijska Arabija"
 SC,Sejšeli
-PM,"Sen Pjer i Mikelon"
 SN,Senegal
-KN,"Sent Kits i Nevis"
-LC,"Sent Lucija"
-VC,"Sent Vinsent i Grenadini"
 EA,"Seuta i Melilja"
 SL,"Sijera Leone"
 SG,Singapur
@@ -214,11 +214,15 @@ SO,Somalija
 RS,Srbija
 SD,Sudan
 SR,Surinam
-BL,"Sv. Bartolomej"
 MF,"Sv. Martin"
-SJ,"Svalbard i Janmajen Ostrva"
+SJ,"Svalbard i Jan Majen"
 SZ,Svazilend
 SH,"Sveta Helena"
+LC,"Sveta Lucija"
+BL,"Sveti Bartolomej"
+KN,"Sveti Kits i Nevis"
+PM,"Sveti Petar i Mikelon"
+VC,"Sveti Vinsent i Grenadin"
 ES,Španija
 LK,"Šri Lanka"
 SE,Švedska
@@ -227,7 +231,6 @@ TJ,Tadžikistan
 TH,Tajland
 TW,Tajvan
 TZ,Tanzanija
-TL,"Timor Leste"
 TG,Togo
 TK,Tokelau
 TO,Tonga
@@ -235,15 +238,14 @@ TT,"Trinidad i Tobago"
 TA,"Tristan da Kunja"
 TN,Tunis
 TM,Turkmenistan
-TC,"Turks i Kajkos Ostrva"
 TR,Turska
 TV,Tuvalu
 UG,Uganda
+UN,"Ujedinjene Nacije"
 AE,"Ujedinjeni Arapski Emirati"
 UA,Ukrajina
 UY,Urugvaj
 UZ,Uzbekistan
-WF,"Valis i Futuna Ostrva"
 VU,Vanuatu
 VA,Vatikan
 GB,"Velika Britanija"
