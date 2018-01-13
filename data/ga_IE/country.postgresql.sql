@@ -1,4 +1,4 @@
-CREATE TABLE list (id VARCHAR(2) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+CREATE TABLE list (id VARCHAR(10) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
 INSERT INTO "list" ("id", "value") VALUES (E'ET', E'An Aetóip');
 INSERT INTO "list" ("id", "value") VALUES (E'AF', E'An Afganastáin');
@@ -144,6 +144,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'DM', E'Doiminice');
 INSERT INTO "list" ("id", "value") VALUES (E'EC', E'Eacuadór');
 INSERT INTO "list" ("id", "value") VALUES (E'YE', E'Éimin');
 INSERT INTO "list" ("id", "value") VALUES (E'IE', E'Éire');
+INSERT INTO "list" ("id", "value") VALUES (E'EZ', E'Eurozone');
 INSERT INTO "list" ("id", "value") VALUES (E'FJ', E'Fidsí');
 INSERT INTO "list" ("id", "value") VALUES (E'GH', E'Gána');
 INSERT INTO "list" ("id", "value") VALUES (E'GG', E'Geansaí');
@@ -181,6 +182,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'IC', E'Na hOileáin Chanáracha');
 INSERT INTO "list" ("id", "value") VALUES (E'PH', E'Na hOileáin Fhilipíneacha');
 INSERT INTO "list" ("id", "value") VALUES (E'MP', E'Na hOileáin Mháirianacha Thuaidh');
 INSERT INTO "list" ("id", "value") VALUES (E'SC', E'Na Séiséil');
+INSERT INTO "list" ("id", "value") VALUES (E'UN', E'Náisiúin Aontaithe');
 INSERT INTO "list" ("id", "value") VALUES (E'NR', E'Nárú');
 INSERT INTO "list" ("id", "value") VALUES (E'NP', E'Neipeal');
 INSERT INTO "list" ("id", "value") VALUES (E'NI', E'Nicearagua');

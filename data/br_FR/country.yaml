@@ -10,6 +10,7 @@ AG: 'Antigua ha Barbuda'
 CI: 'Aod an Olifant'
 AU: Aostralia
 AT: Aostria
+RE: 'Ar Reünion'
 SA: 'Arabia Saoudat'
 AR: Arcʼhantina
 AM: Armenia
@@ -53,6 +54,7 @@ IM: 'Enez Vanav'
 ER: Eritrea
 EE: Estonia
 ET: Etiopia
+EZ: Eurozone
 FJ: Fidji
 PH: Filipinez
 FI: Finland
@@ -91,6 +93,7 @@ IC: 'Inizi Kanariez'
 CC: 'Inizi Kokoz'
 MP: 'Inizi Mariana an Norzh'
 MH: 'Inizi Marshall'
+SB: 'Inizi Salomon'
 TC: 'Inizi Turks ha Caicos'
 IR: Iran
 IQ: Iraq
@@ -105,11 +108,12 @@ JE: Jerzenez
 GI: Jibraltar
 JO: Jordania
 GE: Jorjia
-CV: 'Kab Glas'
+CV: Kab-Glas
 NC: 'Kaledonia Nevez'
 KH: Kambodja
 CM: Kameroun
 CA: Kanada
+BQ: 'Karib Nederlandat'
 KZ: Kazakstan
 KE: Kenya
 CY: Kiprenez
@@ -158,7 +162,6 @@ MZ: Mozambik
 MM: 'Myanmar (Birmania)'
 NA: Namibia
 NR: Nauru
-BQ: 'Nederlandat Karib'
 NP: Nepal
 NI: Nicaragua
 NE: Niger
@@ -182,7 +185,6 @@ QA: Qatar
 DO: 'Republik Dominikan'
 CF: 'Republik Kreizafrikan'
 CZ: 'Republik Tchek'
-RE: Reünion
 GB: Rouantelezh-Unanet
 RO: Roumania
 RU: Rusia
@@ -193,7 +195,6 @@ KN: 'Saint Kitts ha Nevis'
 LC: 'Saint Lucia'
 MF: 'Saint Martin'
 SH: Saint-Helena
-SB: Salomon
 SV: Salvador
 WS: Samoa
 AS: 'Samoa Amerikan'
@@ -241,6 +242,7 @@ TR: Turkia
 TM: Turkmenistan
 TV: Tuvalu
 UA: Ukraina
+UN: 'United Nations'
 UY: Uruguay
 VU: Vanuatu
 VA: Vatikan

@@ -1,7 +1,7 @@
 id,value
 AL,Albanija
 DZ,Alžir
-VI,"Američka Devičanska Ostrva"
+VI,"Američka Djevičanska Ostrva"
 AS,"Američka Samoa"
 AD,Andora
 AO,Angola
@@ -20,16 +20,16 @@ BD,Bangladeš
 BB,Barbados
 BE,Belgija
 BZ,Belize
-BY,Belorusija
 BJ,Benin
 BM,Bermuda
+BY,Bjelorusija
 BW,Bocvana
 BO,Bolivija
 BA,"Bosna i Hercegovina"
-CX,"Božićno ostrvo"
+CX,"Božićno Ostrvo"
 BR,Brazil
-VG,"Britanska Devičanska Ostrva"
-IO,"Britanska teritorija u Indijskom okeanu"
+VG,"Britanska Djevičanska Ostrva"
+IO,"Britanska teritorija Indijskog okeana"
 BN,Brunej
 BG,Bugarska
 BF,"Burkina Faso"
@@ -38,13 +38,13 @@ BT,Butan
 CF,"Centralnoafrička Republika"
 ME,"Crna Gora"
 TD,Čad
-CZ,Češka
+CZ,"Češka Republika"
 CL,Čile
 DK,Danska
 DG,"Dijego Garsija"
 DM,Dominika
 DO,"Dominikanska Republika"
-JE,Džersi
+JE,Džerzi
 DJ,Džibuti
 EG,Egipat
 EC,Ekvador
@@ -52,11 +52,12 @@ GQ,"Ekvatorijalna Gvineja"
 ER,Eritreja
 EE,Estonija
 ET,Etiopija
+EZ,Eurozone
 FO,"Farska Ostrva"
 FJ,Fidži
 PH,Filipini
 FI,Finska
-FK,"Foklandska ostrva"
+FK,"Foklandska Ostrva"
 FR,Francuska
 GF,"Francuska Gvajana"
 PF,"Francuska Polinezija"
@@ -64,14 +65,14 @@ TF,"Francuske Južne Teritorije"
 GA,Gabon
 GM,Gambija
 GH,Gana
+GG,Gernzi
 GI,Gibraltar
 GR,Grčka
 GD,Grenada
 GL,Grenland
 GE,Gruzija
 GU,Guam
-GG,Gurnsi
-GP,Gvadelupe
+GP,Gvadelup
 GY,Gvajana
 GT,Gvatemala
 GN,Gvineja
@@ -79,7 +80,6 @@ GW,Gvineja-Bisao
 HT,Haiti
 NL,Holandija
 HN,Honduras
-HK,"Hong Kong S. A. R. Kina"
 HR,Hrvatska
 IN,Indija
 ID,Indonezija
@@ -87,7 +87,6 @@ IQ,Irak
 IR,Iran
 IE,Irska
 IS,Island
-TL,"Istočni Timor"
 IT,Italija
 IL,Izrael
 JM,Jamajka
@@ -95,7 +94,7 @@ JP,Japan
 YE,Jemen
 AM,Jermenija
 JO,Jordan
-GS,"Južna Džordžija i Južna Sendvič Ostrva"
+GS,"Južna Džordžija i Južna Sendvička Ostrva"
 KR,"Južna Koreja"
 SS,"Južni Sudan"
 ZA,"Južnoafrička Republika"
@@ -103,7 +102,7 @@ KY,"Kajmanska Ostrva"
 KH,Kambodža
 CM,Kamerun
 CA,Kanada
-IC,"Kanarska ostrva"
+IC,"Kanarska Ostrva"
 BQ,"Karipska Holandija"
 QA,Katar
 KZ,Kazahstan
@@ -112,10 +111,10 @@ CN,Kina
 CY,Kipar
 KG,Kirgistan
 KI,Kiribati
-CC,"Kokos (Keling) Ostrva"
+CC,"Kokosova (Kilingova) Ostrva"
 CO,Kolumbija
 KM,"Komorska Ostrva"
-CG,"Kongo - Brazavil"
+CG,Kongo
 CD,"Kongo - Kinšasa"
 XK,Kosovo
 CR,Kostarika
@@ -141,6 +140,7 @@ MV,Maldivi
 MY,Malezija
 ML,Mali
 MT,Malta
+UM,"Manja udaljena ostrva SAD"
 MA,Maroko
 MH,"Maršalska Ostrva"
 MQ,Martinik
@@ -156,22 +156,22 @@ MS,Monserat
 MZ,Mozambik
 NA,Namibija
 NR,Nauru
-DE,Nemačka
 NP,Nepal
 NE,Niger
 NG,Nigerija
 NI,Nikaragva
 NU,Niue
-NF,"Norfolk Ostrvo"
 NO,Norveška
 NC,"Nova Kaledonija"
 NZ,"Novi Zeland"
-CI,"Obala Slonovače"
-AX,"Olandska ostrva"
+DE,Njemačka
+CI,"Obala Slonovače (Kot d’Ivoar)"
+AX,"Olandska Ostrva"
 OM,Oman
 TC,"Ostrva Turks i Kaikos"
 AC,"Ostrvo Asension"
 IM,"Ostrvo Man"
+NF,"Ostrvo Norfok"
 PK,Pakistan
 PW,Palau
 PS,"Palestinske teritorije"
@@ -182,8 +182,8 @@ PE,Peru
 PN,Pitkern
 PL,Poljska
 PR,Portoriko
-PT,Portugal
-RE,Reinion
+PT,Portugalija
+RE,Reunion
 RW,Ruanda
 RO,Rumunija
 RU,Rusija
@@ -191,21 +191,19 @@ SV,Salvador
 WS,Samoa
 SM,"San Marino"
 ST,"Sao Tome i Principe"
+HK,"SAR Hongkong (Kina)"
 MO,"SAR Makao (Kina)"
 SA,"Saudijska Arabija"
 SC,Sejšeli
-PM,"Sen Pjer i Mikelon"
+BL,"Sen Bartelemi"
 SN,Senegal
-KN,"Sent Kits i Nevis"
-MF,"Sent Martin"
-VC,"Sent Vinsent i Grenadini"
 EA,"Seuta i Melilja"
 KP,"Severna Koreja"
 MP,"Severna Marijanska Ostrva"
 SL,"Sijera Leone"
 SG,Singapur
 SY,Sirija
-US,"Sjedinjene Američke Države"
+US,"Sjedinjene Države"
 SK,Slovačka
 SI,Slovenija
 SB,"Solomonska Ostrva"
@@ -217,8 +215,11 @@ SJ,"Svalbard i Jan Majen"
 SZ,Svazilend
 SH,"Sveta Jelena"
 LC,"Sveta Lucija"
-BL,"Sveti Bartolomej"
-SX,"Sveti Martin"
+KN,"Sveti Kits i Nevis"
+MF,"Sveti Martin (Francuska)"
+SX,"Sveti Martin (Holandija)"
+PM,"Sveti Pjer i Mikelon"
+VC,"Sveti Vinsent i Grenadini"
 ES,Španija
 LK,"Šri Lanka"
 CH,Švajcarska
@@ -227,6 +228,7 @@ TJ,Tadžikistan
 TH,Tajland
 TW,Tajvan
 TZ,Tanzanija
+TL,"Timor-Leste (Istočni Timor)"
 TG,Togo
 TK,Tokelau
 TO,Tonga
@@ -236,16 +238,16 @@ TN,Tunis
 TM,Turkmenistan
 TR,Turska
 TV,Tuvalu
-UM,"Udaljena ostrva SAD"
 UG,Uganda
+UN,"Ujedinjene nacije"
 AE,"Ujedinjeni Arapski Emirati"
+GB,"Ujedinjeno Kraljevstvo"
 UA,Ukrajina
 UY,Urugvaj
 UZ,Uzbekistan
 WF,"Valis i Futuna"
 VU,Vanuatu
 VA,Vatikan
-GB,"Velika Britanija"
 VE,Venecuela
 VN,Vijetnam
 ZM,Zambija

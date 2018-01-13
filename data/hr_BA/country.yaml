@@ -1,13 +1,14 @@
 AF: Afganistan
+AX: 'Ålandski otoci'
 AL: Albanija
 DZ: Alžir
 AS: 'Američka Samoa'
-VI: 'Američki Djevičanski Otoci'
+VI: 'Američki Djevičanski otoci'
 AD: Andora
 AO: Angola
 AI: Angvila
 AQ: Antarktika
-AG: 'Antigua i Barbuda'
+AG: 'Antigva i Barbuda'
 AR: Argentina
 AM: Armenija
 AW: Aruba
@@ -21,15 +22,15 @@ BB: Barbados
 BE: Belgija
 BZ: Belize
 BJ: Benin
-BM: Bermuda
+BM: Bermudi
 BY: Bjelorusija
 BW: Bocvana
 BO: Bolivija
 BA: 'Bosna i Hercegovina'
-CX: 'Božićni Otok'
+CX: 'Božićni otok'
 BR: Brazil
-VG: 'Britanski Djevičanski Otoci'
-IO: 'Britanski Indijskooceanski Teritorij'
+VG: 'Britanski Djevičanski otoci'
+IO: 'Britanski Indijskooceanski teritorij'
 BN: Brunej
 BG: Bugarska
 BF: 'Burkina Faso'
@@ -41,7 +42,7 @@ CK: 'Cookovi Otoci'
 ME: 'Crna Gora'
 CW: Curaçao
 TD: Čad
-CZ: 'Češka Republika'
+CZ: Češka
 CL: Čile
 DK: Danska
 DG: 'Diego Garcia'
@@ -54,15 +55,16 @@ GQ: 'Ekvatorska Gvineja'
 ER: Eritreja
 EE: Estonija
 ET: Etiopija
-FK: 'Falklandski Otoci'
-FO: 'Farski Otoci'
+EZ: Eurozone
+FK: 'Falklandski otoci'
+FO: 'Farski otoci'
 FJ: Fidži
 PH: Filipini
 FI: Finska
 FR: Francuska
-GF: 'Francuska Gvajana'
+GF: 'Francuska Gijana'
 PF: 'Francuska Polinezija'
-TF: 'Francuske Južne i Antarktičke Zemlje'
+TF: 'Francuski južni i antarktički teritoriji'
 GA: Gabon
 GM: Gambija
 GH: Gana
@@ -71,7 +73,7 @@ GR: Grčka
 GD: Grenada
 GL: Grenland
 GE: Gruzija
-GP: Guadalupa
+GP: Guadalupe
 GU: Guam
 GG: Guernsey
 GY: Gvajana
@@ -80,7 +82,6 @@ GN: Gvineja
 GW: 'Gvineja Bisau'
 HT: Haiti
 HN: Honduras
-HK: 'Hong Kong PUP Kina'
 HR: Hrvatska
 IN: Indija
 ID: Indonezija
@@ -88,7 +89,6 @@ IQ: Irak
 IR: Iran
 IE: Irska
 IS: Island
-TL: 'Istočni Timor'
 IT: Italija
 IL: Izrael
 JM: Jamajka
@@ -100,11 +100,11 @@ GS: 'Južna Georgija i Južni Sendvički Otoci'
 KR: 'Južna Koreja'
 SS: 'Južni Sudan'
 ZA: 'Južnoafrička Republika'
-KY: 'Kajmanski Otoci'
+KY: 'Kajmanski otoci'
 KH: Kambodža
 CM: Kamerun
 CA: Kanada
-IC: 'Kanarski Otoci'
+IC: 'Kanarski otoci'
 BQ: 'Karipski otoci Nizozemske'
 QA: Katar
 KZ: Kazahstan
@@ -112,7 +112,7 @@ KE: Kenija
 CN: Kina
 KG: Kirgistan
 KI: Kiribati
-CC: 'Kokosovi (Keeling) Otoci'
+CC: 'Kokosovi (Keelingovi) otoci'
 CO: Kolumbija
 KM: Komori
 CG: 'Kongo - Brazzaville'
@@ -132,7 +132,6 @@ LT: Litva
 LU: Luksemburg
 MG: Madagaskar
 HU: Mađarska
-MO: 'Makao PUP Kina'
 MK: Makedonija
 MW: Malavi
 MV: Maldivi
@@ -143,12 +142,12 @@ MT: Malta
 MA: Maroko
 MH: 'Maršalovi Otoci'
 MQ: Martinique
+MR: Mauretanija
 MU: Mauricijus
-MR: Mauritanija
 YT: Mayotte
 MX: Meksiko
-MM: 'Mijanmar (Burma)'
 FM: Mikronezija
+MM: 'Mjanmar (Burma)'
 MD: Moldavija
 MC: Monako
 MN: Mongolija
@@ -168,7 +167,6 @@ NZ: 'Novi Zeland'
 DE: Njemačka
 CI: 'Obala Bjelokosti'
 OM: Oman
-AX: 'Otoci Aland'
 PN: 'Otoci Pitcairn'
 TC: 'Otoci Turks i Caicos'
 AC: 'Otok Ascension'
@@ -184,10 +182,15 @@ PE: Peru
 PL: Poljska
 PR: Portoriko
 PT: Portugal
-RE: Reunion
+HK: 'PUP Hong Kong Kina'
+MO: 'PUP Makao Kina'
+RE: Réunion
 RW: Ruanda
 RO: Rumunjska
 RU: Rusija
+BL: 'Saint Barthélemy'
+MF: 'Saint Martin'
+PM: Saint-Pierre-et-Miquelon
 SB: 'Salomonski Otoci'
 SV: Salvador
 WS: Samoa
@@ -201,7 +204,7 @@ SX: 'Sint Maarten'
 SY: Sirija
 US: 'Sjedinjene Američke Države'
 KP: 'Sjeverna Koreja'
-MP: 'Sjeverni Marijanski Otoci'
+MP: 'Sjevernomarijanski otoci'
 SK: Slovačka
 SI: Slovenija
 SO: Somalija
@@ -213,11 +216,7 @@ SJ: 'Svalbard i Jan Mayen'
 SZ: Svazi
 SH: 'Sveta Helena'
 LC: 'Sveta Lucija'
-VA: 'Sveta Stolica'
-BL: 'Sveti Bartolomej'
 KN: 'Sveti Kristofor i Nevis'
-MF: 'Sveti Martin'
-PM: 'Sveti Petar i Mikelon'
 ST: 'Sveti Toma i Princip'
 VC: 'Sveti Vincent i Grenadini'
 ES: Španjolska
@@ -228,6 +227,7 @@ TJ: Tadžikistan
 TH: Tajland
 TW: Tajvan
 TZ: Tanzanija
+TL: Timor-Leste
 TG: Togo
 TK: Tokelau
 TO: Tonga
@@ -239,11 +239,13 @@ TR: Turska
 TV: Tuvalu
 UG: Uganda
 AE: 'Ujedinjeni Arapski Emirati'
+UN: 'Ujedinjeni narodi'
+GB: 'Ujedinjeno Kraljevstvo'
 UA: Ukrajina
 UY: Urugvaj
 UZ: Uzbekistan
 VU: Vanuatu
-GB: 'Velika Britanija'
+VA: 'Vatikanski Grad'
 VE: Venezuela
 VN: Vijetnam
 WF: 'Wallis i Futuna'

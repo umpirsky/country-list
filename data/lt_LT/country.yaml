@@ -40,7 +40,6 @@ CZ: Čekija
 CL: Čilė
 AC: 'Dangun Žengimo sala'
 DK: Danija
-GB: 'Didžioji Britanija'
 VG: 'Didžiosios Britanijos Mergelių Salos'
 DG: 'Diego Garsija'
 DM: Dominika
@@ -53,6 +52,7 @@ EC: Ekvadoras
 ER: Eritrėja
 EE: Estija
 ET: Etiopija
+EZ: Eurozone
 FO: 'Farerų Salos'
 FJ: Fidžis
 PH: Filipinai
@@ -88,6 +88,8 @@ JM: Jamaika
 JP: Japonija
 YE: Jemenas
 JO: Jordanija
+GB: 'Jungtinė Karalystė'
+UN: 'Jungtinės Tautos'
 US: 'Jungtinės Valstijos'
 AE: 'Jungtiniai Arabų Emyratai'
 UM: 'Jungtinių Valstijų Mažosios Tolimosios Salos'
@@ -176,12 +178,12 @@ ZA: 'Pietų Afrika'
 GS: 'Pietų Džordžija ir Pietų Sandvičo salos'
 KR: 'Pietų Korėja'
 SS: 'Pietų Sudanas'
-PN: Pitkernas
+PN: 'Pitkerno salos'
 PT: Portugalija
 FR: Prancūzija
 GF: 'Prancūzijos Gviana'
 TF: 'Prancūzijos Pietų sritys'
-PF: 'Prancūzų Polinezija'
+PF: 'Prancūzijos Polinezija'
 PR: 'Puerto Rikas'
 GQ: 'Pusiaujo Gvinėja'
 RE: Reunjonas
@@ -201,6 +203,7 @@ MF: 'Sen Martenas'
 PM: 'Sen Pjeras ir Mikelonas'
 SN: Senegalas
 KN: 'Sent Kitsas ir Nevis'
+LC: 'Sent Lusija'
 RS: Serbija
 EA: 'Seuta ir Melila'
 SL: 'Siera Leonė'
@@ -221,7 +224,6 @@ SH: 'Šv. Elenos Sala'
 SE: Švedija
 CH: Šveicarija
 VC: 'Šventasis Vincentas ir Grenadinai'
-LC: 'Šventoji Liucija'
 TJ: Tadžikija
 TH: Tailandas
 TW: Taivanas
@@ -247,7 +249,7 @@ VE: Venesuela
 HU: Vengrija
 VN: Vietnamas
 DE: Vokietija
-WF: 'Volisas ir Futuna'
+WF: 'Volisas ir Futūna'
 ZM: Zambija
 ZW: Zimbabvė
 CV: 'Žaliasis Kyšulys'

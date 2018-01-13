@@ -1,8 +1,8 @@
-CREATE TABLE list (id VARCHAR(2) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+CREATE TABLE list (id VARCHAR(10) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
 INSERT INTO "list" ("id", "value") VALUES (E'AO', E'अङ्गोला');
 INSERT INTO "list" ("id", "value") VALUES (E'AZ', E'अजरबैजान');
-INSERT INTO "list" ("id", "value") VALUES (E'AQ', E'अन्टारतिका');
+INSERT INTO "list" ("id", "value") VALUES (E'AQ', E'अन्टारटिका');
 INSERT INTO "list" ("id", "value") VALUES (E'AD', E'अन्डोर्रा');
 INSERT INTO "list" ("id", "value") VALUES (E'AF', E'अफगानिस्तान');
 INSERT INTO "list" ("id", "value") VALUES (E'AS', E'अमेरिकी समोआ');
@@ -13,7 +13,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'AL', E'अल्बानिया'
 INSERT INTO "list" ("id", "value") VALUES (E'AT', E'अष्ट्रिया');
 INSERT INTO "list" ("id", "value") VALUES (E'AU', E'अष्ट्रेलिया');
 INSERT INTO "list" ("id", "value") VALUES (E'IM', E'आइज्ले अफ् म्यान');
-INSERT INTO "list" ("id", "value") VALUES (E'CI', E'आइभरी कोस्ट');
+INSERT INTO "list" ("id", "value") VALUES (E'CI', E'आइभोरी कोस्ट');
 INSERT INTO "list" ("id", "value") VALUES (E'IS', E'आइस्ल्याण्ड');
 INSERT INTO "list" ("id", "value") VALUES (E'AI', E'आङ्गुइला');
 INSERT INTO "list" ("id", "value") VALUES (E'IE', E'आयरल्याण्ड');
@@ -79,7 +79,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'GH', E'घाना');
 INSERT INTO "list" ("id", "value") VALUES (E'TD', E'चाड');
 INSERT INTO "list" ("id", "value") VALUES (E'CL', E'चिली');
 INSERT INTO "list" ("id", "value") VALUES (E'CN', E'चीन');
-INSERT INTO "list" ("id", "value") VALUES (E'CZ', E'चेक गणतन्त्र');
+INSERT INTO "list" ("id", "value") VALUES (E'CZ', E'चेचिया');
 INSERT INTO "list" ("id", "value") VALUES (E'JM', E'जमाइका');
 INSERT INTO "list" ("id", "value") VALUES (E'GE', E'जर्जिया');
 INSERT INTO "list" ("id", "value") VALUES (E'DE', E'जर्मनी');
@@ -138,7 +138,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'PL', E'पोल्याण्ड'
 INSERT INTO "list" ("id", "value") VALUES (E'PY', E'प्याराग्वे');
 INSERT INTO "list" ("id", "value") VALUES (E'PS', E'प्यालेस्टनी भू-भागहरु');
 INSERT INTO "list" ("id", "value") VALUES (E'FK', E'फकल्याण्ड टापुहरु');
-INSERT INTO "list" ("id", "value") VALUES (E'FO', E'फारोर टापुहरु');
+INSERT INTO "list" ("id", "value") VALUES (E'FO', E'फारो टापुहरू');
 INSERT INTO "list" ("id", "value") VALUES (E'FJ', E'फिजी');
 INSERT INTO "list" ("id", "value") VALUES (E'FI', E'फिन्ल्याण्ड');
 INSERT INTO "list" ("id", "value") VALUES (E'PH', E'फिलिपिन्स');
@@ -217,8 +217,9 @@ INSERT INTO "list" ("id", "value") VALUES (E'LK', E'श्रीलङ्का'
 INSERT INTO "list" ("id", "value") VALUES (E'SJ', E'सभाल्बार्ड र जान मायेन');
 INSERT INTO "list" ("id", "value") VALUES (E'AE', E'संयुक्त अरब इमिराट्स');
 INSERT INTO "list" ("id", "value") VALUES (E'US', E'संयुक्त राज्य');
-INSERT INTO "list" ("id", "value") VALUES (E'UM', E'संयुक्त राज्य बाह्य टापुहरु');
 INSERT INTO "list" ("id", "value") VALUES (E'VI', E'संयुक्त राज्य भर्जिन टापुहरु');
+INSERT INTO "list" ("id", "value") VALUES (E'UM', E'संयुक्त राज्यका बाह्य टापुहरु');
+INSERT INTO "list" ("id", "value") VALUES (E'UN', E'संयुक्त राष्ट्र संघ');
 INSERT INTO "list" ("id", "value") VALUES (E'RS', E'सर्बिया');
 INSERT INTO "list" ("id", "value") VALUES (E'CY', E'साइप्रस');
 INSERT INTO "list" ("id", "value") VALUES (E'SA', E'साउदी अरब');
@@ -253,3 +254,4 @@ INSERT INTO "list" ("id", "value") VALUES (E'HK', E'हङकङ चिनिय
 INSERT INTO "list" ("id", "value") VALUES (E'HU', E'हङ्गेरी');
 INSERT INTO "list" ("id", "value") VALUES (E'HN', E'हन्डुरास');
 INSERT INTO "list" ("id", "value") VALUES (E'HT', E'हैटी');
+INSERT INTO "list" ("id", "value") VALUES (E'EZ', E'Eurozone');

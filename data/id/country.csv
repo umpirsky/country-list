@@ -7,7 +7,7 @@ US,"Amerika Serikat"
 AD,Andorra
 AO,Angola
 AI,Anguilla
-AQ,Antarktika
+AQ,Antartika
 AG,"Antigua dan Barbuda"
 SA,"Arab Saudi"
 AR,Argentina
@@ -37,7 +37,7 @@ BF,"Burkina Faso"
 BI,Burundi
 TD,Cad
 EA,"Ceuta dan Melilla"
-CN,China
+CZ,Cheska
 CL,Cile
 CI,"Cote d’Ivoire"
 CW,Curaçao
@@ -49,13 +49,14 @@ SV,"El Salvador"
 ER,Eritrea
 EE,Estonia
 ET,Etiopia
+EZ,Eurozone
 FJ,Fiji
 PH,Filipina
 FI,Finlandia
 GA,Gabon
 GM,Gambia
 GE,Georgia
-GS,"Georgia Selatan dan Kepulauan Sandwich Selatan"
+GS,"Georgia Selatan & Kep. Sandwich Selatan"
 GH,Ghana
 GI,Gibraltar
 GD,Grenada
@@ -71,11 +72,11 @@ GY,Guyana
 GF,"Guyana Prancis"
 HT,Haiti
 HN,Honduras
-HK,"Hong Kong SAR China"
+HK,"Hong Kong SAR Tiongkok"
 HU,Hungaria
 IN,India
 ID,Indonesia
-GB,Inggris
+GB,"Inggris Raya"
 IQ,Irak
 IR,Iran
 IE,Irlandia
@@ -97,7 +98,7 @@ KE,Kenya
 AX,"Kepulauan Aland"
 IC,"Kepulauan Canary"
 KY,"Kepulauan Cayman"
-CC,"Kepulauan Cocos"
+CC,"Kepulauan Cocos (Keeling)"
 CK,"Kepulauan Cook"
 FO,"Kepulauan Faroe"
 FK,"Kepulauan Malvinas"
@@ -135,7 +136,7 @@ LI,Liechtenstein
 LT,Lituania
 LU,Luksemburg
 MG,Madagaskar
-MO,"Makau SAR China"
+MO,"Makau SAR Tiongkok"
 MK,Makedonia
 MV,Maladewa
 MW,Malawi
@@ -171,6 +172,7 @@ PW,Palau
 PA,Panama
 PG,"Papua Nugini"
 PY,Paraguay
+UN,"Perserikatan Bangsa-Bangsa"
 PE,Peru
 PL,Polandia
 PF,"Polinesia Prancis"
@@ -182,14 +184,13 @@ CX,"Pulau Christmas"
 IM,"Pulau Man"
 QA,Qatar
 CF,"Republik Afrika Tengah"
-CZ,"Republik Cheska"
 DO,"Republik Dominika"
 RE,Réunion
 RO,Rumania
 RU,Rusia
 RW,Rwanda
 EH,"Sahara Barat"
-BL,"Saint Barthelemy"
+BL,"Saint Barthélemy"
 SH,"Saint Helena"
 KN,"Saint Kitts dan Nevis"
 LC,"Saint Lucia"
@@ -226,6 +227,7 @@ CV,"Tanjung Verde"
 TZ,Tanzania
 TH,Thailand
 TL,"Timor Leste"
+CN,Tiongkok
 TG,Togo
 TK,Tokelau
 TO,Tonga

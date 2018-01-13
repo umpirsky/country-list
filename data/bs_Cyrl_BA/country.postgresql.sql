@@ -1,4 +1,4 @@
-CREATE TABLE list (id VARCHAR(2) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+CREATE TABLE list (id VARCHAR(10) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
 INSERT INTO "list" ("id", "value") VALUES (E'AF', E'Авганистан');
 INSERT INTO "list" ("id", "value") VALUES (E'AZ', E'Азербејџан');
@@ -10,7 +10,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'AI', E'Ангвила');
 INSERT INTO "list" ("id", "value") VALUES (E'AO', E'Ангола');
 INSERT INTO "list" ("id", "value") VALUES (E'AD', E'Андора');
 INSERT INTO "list" ("id", "value") VALUES (E'AQ', E'Антарктик');
-INSERT INTO "list" ("id", "value") VALUES (E'AG', E'Антигве и Барбуда');
+INSERT INTO "list" ("id", "value") VALUES (E'AG', E'Антигва и Барбуда');
 INSERT INTO "list" ("id", "value") VALUES (E'AR', E'Аргентина');
 INSERT INTO "list" ("id", "value") VALUES (E'AM', E'Арменија');
 INSERT INTO "list" ("id", "value") VALUES (E'AW', E'Аруба');
@@ -248,8 +248,10 @@ INSERT INTO "list" ("id", "value") VALUES (E'CH', E'Швајцарска');
 INSERT INTO "list" ("id", "value") VALUES (E'SE', E'Шведска');
 INSERT INTO "list" ("id", "value") VALUES (E'ES', E'Шпанија');
 INSERT INTO "list" ("id", "value") VALUES (E'LK', E'Шри Ланка');
+INSERT INTO "list" ("id", "value") VALUES (E'EZ', E'Eurozone');
 INSERT INTO "list" ("id", "value") VALUES (E'SS', E'Južni Sudan');
 INSERT INTO "list" ("id", "value") VALUES (E'BQ', E'Karipska Holandija');
 INSERT INTO "list" ("id", "value") VALUES (E'XK', E'Kosovo');
 INSERT INTO "list" ("id", "value") VALUES (E'CW', E'Kurasao');
 INSERT INTO "list" ("id", "value") VALUES (E'SX', E'Sint Marten');
+INSERT INTO "list" ("id", "value") VALUES (E'UN', E'Ujedinjene Nacije');

@@ -24,7 +24,6 @@ BJ: Benin
 BM: Bermuda
 BT: Bhutan
 BO: Bolivia
-BQ: 'Bonaire, S:t Eustatius och Saba'
 BA: 'Bosnien och Hercegovina'
 BW: Botswana
 BR: Brasilien
@@ -33,7 +32,6 @@ IO: 'Brittiska territoriet i Indiska oceanen'
 BN: Brunei
 BG: Bulgarien
 BF: 'Burkina Faso'
-MM: Burma
 BI: Burundi
 KY: Caymanöarna
 CF: 'Centralafrikanska republiken'
@@ -45,7 +43,6 @@ CR: 'Costa Rica'
 CW: Curaçao
 CY: Cypern
 DK: Danmark
-CD: 'Demokratiska republiken Kongo'
 DG: 'Diego Garcia'
 DJ: Djibouti
 DM: Dominica
@@ -58,6 +55,7 @@ CI: Elfenbenskusten
 ER: Eritrea
 EE: Estland
 ET: Etiopien
+EZ: Eurozone
 FK: Falklandsöarna
 FJ: Fiji
 PH: Filippinerna
@@ -68,8 +66,7 @@ PF: 'Franska Polynesien'
 TF: 'Franska sydterritorierna'
 FO: Färöarna
 AE: 'Förenade Arabemiraten'
-GB: 'Förenade kungariket'
-US: 'Förenta staterna'
+UN: 'Förenta Nationerna'
 GA: Gabon
 GM: Gambia
 GE: Georgien
@@ -87,7 +84,7 @@ GW: Guinea-Bissau
 GY: Guyana
 HT: Haiti
 HN: Honduras
-HK: 'Hongkong (S.A.R. Kina)'
+HK: 'Hongkong, S.A.R. Kina'
 IN: Indien
 ID: Indonesien
 IQ: Irak
@@ -108,6 +105,7 @@ CM: Kamerun
 CA: Kanada
 IC: Kanarieöarna
 CV: 'Kap Verde'
+BQ: 'Karibiska Nederländerna'
 KZ: Kazakstan
 KE: Kenya
 CN: Kina
@@ -115,7 +113,8 @@ KG: Kirgizistan
 KI: Kiribati
 CC: Kokosöarna
 KM: Komorerna
-CG: Kongo
+CG: Kongo-Brazzaville
+CD: Kongo-Kinshasa
 XK: Kosovo
 HR: Kroatien
 CU: Kuba
@@ -129,7 +128,7 @@ LY: Libyen
 LI: Liechtenstein
 LT: Litauen
 LU: Luxemburg
-MO: 'Macao (S.A.R. Kina)'
+MO: 'Macao, S.A.R. Kina'
 MG: Madagaskar
 MK: Makedonien
 MW: Malawi
@@ -151,6 +150,7 @@ MC: Monaco
 MN: Mongoliet
 ME: Montenegro
 MS: Montserrat
+MM: 'Myanmar (Burma)'
 NA: Namibia
 NR: Nauru
 NL: Nederländerna
@@ -161,7 +161,6 @@ NG: Nigeria
 NU: Niue
 KP: Nordkorea
 MP: Nordmarianerna
-SD: Nordsudan
 NF: Norfolkön
 'NO': Norge
 NC: 'Nya Kaledonien'
@@ -169,12 +168,12 @@ NZ: 'Nya Zeeland'
 OM: Oman
 PK: Pakistan
 PW: Palau
-PS: 'Palestinska området'
+PS: 'Palestinska territorierna'
 PA: Panama
 PG: 'Papua Nya Guinea'
 PY: Paraguay
 PE: Peru
-PN: Pitcairn
+PN: Pitcairnöarna
 PL: Polen
 PT: Portugal
 PR: 'Puerto Rico'
@@ -183,13 +182,13 @@ RE: Réunion
 RO: Rumänien
 RW: Rwanda
 RU: Ryssland
-MF: 'S:t Martin (franska delen)'
-SH: 'Saint Helena'
-KN: 'Saint Kitts och Nevis'
-LC: 'Saint Lucia'
-PM: 'Saint Pierre och Miquelon'
-VC: 'Saint Vincent och Grenadinerna'
-BL: Saint-Barthélemy
+BL: 'S:t Barthélemy'
+SH: 'S:t Helena'
+KN: 'S:t Kitts och Nevis'
+LC: 'S:t Lucia'
+PM: 'S:t Pierre och Miquelon'
+VC: 'S:t Vincent och Grenadinerna'
+MF: Saint-Martin
 SB: Salomonöarna
 WS: Samoa
 SM: 'San Marino'
@@ -201,12 +200,14 @@ RS: Serbien
 SC: Seychellerna
 SL: 'Sierra Leone'
 SG: Singapore
-SX: 'Sint Martin'
+SX: 'Sint Maarten'
 SK: Slovakien
 SI: Slovenien
 SO: Somalia
 ES: Spanien
 LK: 'Sri Lanka'
+GB: Storbritannien
+SD: Sudan
 SR: Surinam
 SJ: 'Svalbard och Jan Mayen'
 SE: Sverige
@@ -223,7 +224,7 @@ TD: Tchad
 TH: Thailand
 CZ: Tjeckien
 TG: Togo
-TK: Tokelauöarna
+TK: Tokelau
 TO: Tonga
 TT: 'Trinidad och Tobago'
 TA: 'Tristan da Cunha'
@@ -237,15 +238,16 @@ UG: Uganda
 UA: Ukraina
 HU: Ungern
 UY: Uruguay
+US: USA
 UM: 'USA:s yttre öar'
 UZ: Uzbekistan
 VU: Vanuatu
-VA: Vatikanen
+VA: Vatikanstaten
 VE: Venezuela
 VN: Vietnam
 BY: Vitryssland
 EH: Västsahara
-WF: 'Wallis- och Futuna'
+WF: 'Wallis- och Futunaöarna'
 ZM: Zambia
 ZW: Zimbabwe
 AX: Åland

@@ -1,4 +1,4 @@
-CREATE TABLE list (id VARCHAR(2) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+CREATE TABLE list (id VARCHAR(10) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
 INSERT INTO "list" ("id", "value") VALUES (E'AO', E'अंगोला');
 INSERT INTO "list" ("id", "value") VALUES (E'AQ', E'अंटार्कटिका');
@@ -18,11 +18,11 @@ INSERT INTO "list" ("id", "value") VALUES (E'AM', E'आर्मेनिया'
 INSERT INTO "list" ("id", "value") VALUES (E'ID', E'इंडोनेशिया');
 INSERT INTO "list" ("id", "value") VALUES (E'EC', E'इक्वाडोर');
 INSERT INTO "list" ("id", "value") VALUES (E'GQ', E'इक्वेटोरियल गिनी');
+INSERT INTO "list" ("id", "value") VALUES (E'IL', E'इज़राइल');
 INSERT INTO "list" ("id", "value") VALUES (E'IT', E'इटली');
 INSERT INTO "list" ("id", "value") VALUES (E'ET', E'इथियोपिया');
 INSERT INTO "list" ("id", "value") VALUES (E'IQ', E'इराक');
 INSERT INTO "list" ("id", "value") VALUES (E'ER', E'इरिट्रिया');
-INSERT INTO "list" ("id", "value") VALUES (E'IL', E'इसराइल');
 INSERT INTO "list" ("id", "value") VALUES (E'IR', E'ईरान');
 INSERT INTO "list" ("id", "value") VALUES (E'UZ', E'उज़्बेकिस्तान');
 INSERT INTO "list" ("id", "value") VALUES (E'KP', E'उत्तर कोरिया');
@@ -77,7 +77,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'GH', E'घाना');
 INSERT INTO "list" ("id", "value") VALUES (E'TD', E'चाड');
 INSERT INTO "list" ("id", "value") VALUES (E'CL', E'चिली');
 INSERT INTO "list" ("id", "value") VALUES (E'CN', E'चीन');
-INSERT INTO "list" ("id", "value") VALUES (E'CZ', E'चेक गणराज्य');
+INSERT INTO "list" ("id", "value") VALUES (E'CZ', E'चेकिया');
 INSERT INTO "list" ("id", "value") VALUES (E'JM', E'जमैका');
 INSERT INTO "list" ("id", "value") VALUES (E'DE', E'जर्मनी');
 INSERT INTO "list" ("id", "value") VALUES (E'JE', E'जर्सी');
@@ -97,7 +97,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'DO', E'डोमिनिकन ग
 INSERT INTO "list" ("id", "value") VALUES (E'DM', E'डोमिनिका');
 INSERT INTO "list" ("id", "value") VALUES (E'TZ', E'तंज़ानिया');
 INSERT INTO "list" ("id", "value") VALUES (E'TW', E'ताइवान');
-INSERT INTO "list" ("id", "value") VALUES (E'TJ', E'ताजिकिस्तान');
+INSERT INTO "list" ("id", "value") VALUES (E'TJ', E'ताज़िकिस्तान');
 INSERT INTO "list" ("id", "value") VALUES (E'TL', E'तिमोर-लेस्त');
 INSERT INTO "list" ("id", "value") VALUES (E'TC', E'तुर्क और कैकोज़ द्वीपसमूह');
 INSERT INTO "list" ("id", "value") VALUES (E'TM', E'तुर्कमेनिस्तान');
@@ -218,6 +218,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'VE', E'वेनेज़ुएल�
 INSERT INTO "list" ("id", "value") VALUES (E'LK', E'श्रीलंका');
 INSERT INTO "list" ("id", "value") VALUES (E'AE', E'संयुक्त अरब अमीरात');
 INSERT INTO "list" ("id", "value") VALUES (E'US', E'संयुक्त राज्य');
+INSERT INTO "list" ("id", "value") VALUES (E'UN', E'संयुक्त राष्ट्र');
 INSERT INTO "list" ("id", "value") VALUES (E'SA', E'सऊदी अरब');
 INSERT INTO "list" ("id", "value") VALUES (E'WS', E'समोआ');
 INSERT INTO "list" ("id", "value") VALUES (E'RS', E'सर्बिया');
@@ -253,3 +254,4 @@ INSERT INTO "list" ("id", "value") VALUES (E'HU', E'हंगरी');
 INSERT INTO "list" ("id", "value") VALUES (E'HK', E'हाँग काँग (चीन विशेष प्रशासनिक क्षेत्र)');
 INSERT INTO "list" ("id", "value") VALUES (E'HT', E'हैती');
 INSERT INTO "list" ("id", "value") VALUES (E'HN', E'होंडूरास');
+INSERT INTO "list" ("id", "value") VALUES (E'EZ', E'Eurozone');

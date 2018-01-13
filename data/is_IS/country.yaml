@@ -50,11 +50,12 @@ EE: Eistland
 EC: Ekvador
 SV: 'El Salvador'
 ER: Erítrea
+EZ: Eurozone
 ET: Eþíópía
 FK: Falklandseyjar
 PH: Filippseyjar
 FI: Finnland
-FJ: Fídjieyjar
+FJ: Fídjíeyjar
 CI: Fílabeinsströndin
 FR: Frakkland
 GF: 'Franska Gvæjana'
@@ -179,16 +180,17 @@ RE: Réunion
 RW: Rúanda
 RO: Rúmenía
 RU: Rússland
-BL: 'Saint Barthélemy'
-MF: 'Saint Martin'
 SB: Salómonseyjar
 ZM: Sambía
 AE: 'Sameinuðu arabísku furstadæmin'
+UN: 'Sameinuðu þjóðirnar'
 WS: Samóa
 SM: 'San Marínó'
+BL: 'Sankti Bartólómeusareyjar'
 SH: 'Sankti Helena'
 KN: 'Sankti Kitts og Nevis'
 LC: 'Sankti Lúsía'
+SX: 'Sankti Martin'
 PM: 'Sankti Pierre og Miquelon'
 VC: 'Sankti Vinsent og Grenadíneyjar'
 ST: 'Saó Tóme og Prinsípe'
@@ -198,7 +200,6 @@ RS: Serbía
 SC: Seychelles-eyjar
 ZW: Simbabve
 SG: Singapúr
-SX: 'Sint Maarten'
 SL: 'Síerra Leóne'
 CL: Síle
 HK: 'Sjálfstjórnarsvæðið Hong Kong'
@@ -209,6 +210,7 @@ UM: 'Smáeyjar Bandaríkjanna'
 SO: Sómalía
 ES: Spánn
 LK: 'Srí Lanka'
+MF: 'St. Martin'
 ZA: Suður-Afríka
 GS: 'Suður-Georgía og Suður-Sandvíkureyjar'
 KR: Suður-Kórea

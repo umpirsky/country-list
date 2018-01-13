@@ -1,4 +1,4 @@
-CREATE TABLE list (id VARCHAR(2) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+CREATE TABLE list (id VARCHAR(10) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
 INSERT INTO "list" ("id", "value") VALUES (E'AU', E'Австралия');
 INSERT INTO "list" ("id", "value") VALUES (E'AT', E'Австрия');
@@ -38,6 +38,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'BW', E'Ботсвана');
 INSERT INTO "list" ("id", "value") VALUES (E'BR', E'Бразилия');
 INSERT INTO "list" ("id", "value") VALUES (E'IO', E'Британиянын Индия океанындагы аймагы');
 INSERT INTO "list" ("id", "value") VALUES (E'BN', E'Бруней');
+INSERT INTO "list" ("id", "value") VALUES (E'UN', E'БУ');
 INSERT INTO "list" ("id", "value") VALUES (E'BF', E'Буркина-Фасо');
 INSERT INTO "list" ("id", "value") VALUES (E'BI', E'Бурунди');
 INSERT INTO "list" ("id", "value") VALUES (E'BT', E'Бутан');
@@ -253,3 +254,4 @@ INSERT INTO "list" ("id", "value") VALUES (E'EE', E'Эстония');
 INSERT INTO "list" ("id", "value") VALUES (E'ET', E'Эфиопия');
 INSERT INTO "list" ("id", "value") VALUES (E'JM', E'Ямайка');
 INSERT INTO "list" ("id", "value") VALUES (E'JP', E'Япония');
+INSERT INTO "list" ("id", "value") VALUES (E'EZ', E'Eurozone');

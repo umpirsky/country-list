@@ -55,6 +55,7 @@ GS: 'Etelä-Georgia ja Eteläiset Sandwichsaaret'
 KR: Etelä-Korea
 SS: Etelä-Sudan
 ET: Etiopia
+EZ: Eurozone
 FK: Falklandinsaaret
 FJ: Fidži
 PH: Filippiinit
@@ -83,6 +84,7 @@ IQ: Irak
 IR: Iran
 IE: Irlanti
 IS: Islanti
+GB: Iso-Britannia
 IL: Israel
 IT: Italia
 TL: Itä-Timor
@@ -177,9 +179,9 @@ PL: Puola
 GQ: 'Päiväntasaajan Guinea'
 QA: Qatar
 FR: Ranska
+TF: 'Ranskan eteläiset alueet'
 GF: 'Ranskan Guayana'
 PF: 'Ranskan Polynesia'
-TF: 'Ranskan ulkopuoliset eteläiset alueet'
 RE: Réunion
 RO: Romania
 RW: Ruanda
@@ -210,7 +212,7 @@ SO: Somalia
 LK: 'Sri Lanka'
 SD: Sudan
 FI: Suomi
-SR: Surinam
+SR: Suriname
 CH: Sveitsi
 SZ: Swazimaa
 SY: Syyria
@@ -225,7 +227,7 @@ TO: Tonga
 TT: 'Trinidad ja Tobago'
 TA: 'Tristan da Cunha'
 TD: Tšad
-CZ: Tšekki
+CZ: Tšekinmaa
 TN: Tunisia
 TR: Turkki
 TM: Turkmenistan
@@ -246,7 +248,7 @@ RU: Venäjä
 VN: Vietnam
 EE: Viro
 WF: 'Wallis ja Futuna'
-GB: 'Yhdistynyt kuningaskunta'
+UN: 'Yhdistyneet kansakunnat'
 US: Yhdysvallat
 UM: 'Yhdysvaltain erillissaaret'
 VI: 'Yhdysvaltain Neitsytsaaret'

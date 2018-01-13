@@ -16,7 +16,7 @@ AU,Australia
 AT,Austria
 AZ,Azerbaiyán
 BS,Bahamas
-BD,Bangladesh
+BD,Bangladés
 BB,Barbados
 BH,Baréin
 BE,Bélgica
@@ -25,7 +25,7 @@ BJ,Benín
 BM,Bermudas
 BY,Bielorrusia
 BO,Bolivia
-BA,Bosnia-Herzegovina
+BA,"Bosnia y Herzegovina"
 BW,Botsuana
 BR,Brasil
 BN,Brunéi
@@ -37,20 +37,22 @@ CV,"Cabo Verde"
 KH,Camboya
 CM,Camerún
 CA,Canadá
+IC,Canarias
 BQ,"Caribe neerlandés"
+QA,Catar
 EA,"Ceuta y Melilla"
 TD,Chad
+CZ,Chequia
 CL,Chile
 CN,China
 CY,Chipre
 VA,"Ciudad del Vaticano"
 CO,Colombia
 KM,Comoras
-CG,"Congo Brazzaville"
 KP,"Corea del Norte"
 KR,"Corea del Sur"
-CI,"Costa de Marfil"
 CR,"Costa Rica"
+CI,"Côte d’Ivoire"
 HR,Croacia
 CU,Cuba
 CW,Curazao
@@ -68,6 +70,7 @@ ES,España
 US,"Estados Unidos"
 EE,Estonia
 ET,Etiopía
+EZ,Eurozone
 PH,Filipinas
 FI,Finlandia
 FJ,Fiyi
@@ -84,41 +87,39 @@ GP,Guadalupe
 GU,Guam
 GT,Guatemala
 GF,"Guayana Francesa"
-GG,Guernsey
+GG,Guernesey
 GN,Guinea
 GQ,"Guinea Ecuatorial"
-GW,Guinea-Bissau
+GW,Guinea-Bisáu
 GY,Guyana
 HT,Haití
 HN,Honduras
 HU,Hungría
 IN,India
 ID,Indonesia
+IQ,Irak
 IR,Irán
-IQ,Iraq
 IE,Irlanda
 AC,"Isla de la Ascensión"
 IM,"Isla de Man"
 CX,"Isla de Navidad"
-NU,"Isla Niue"
 NF,"Isla Norfolk"
 IS,Islandia
 AX,"Islas Åland"
 KY,"Islas Caimán"
-IC,"Islas Canarias"
-CC,"Islas Cocos (Keeling)"
+CC,"Islas Cocos"
 CK,"Islas Cook"
 FO,"Islas Feroe"
-GS,"Islas Georgias del Sur y Sandwich del Sur"
+GS,"Islas Georgia del Sur y Sandwich del Sur"
 FK,"Islas Malvinas"
 MP,"Islas Marianas del Norte"
 MH,"Islas Marshall"
 PN,"Islas Pitcairn"
 SB,"Islas Salomón"
 TC,"Islas Turcas y Caicos"
-UM,"Islas UltramarinasMenores de Estados Unidos"
+UM,"Islas Ultramarinas Menores de Estados Unidos"
 VG,"Islas Vírgenes Británicas"
-VI,"Islas Vírgenes de los Estados Unidos"
+VI,"Islas Vírgenes de EE. UU."
 IL,Israel
 IT,Italia
 JM,Jamaica
@@ -167,6 +168,7 @@ NP,Nepal
 NI,Nicaragua
 NE,Níger
 NG,Nigeria
+NU,Niue
 NO,Noruega
 NC,"Nueva Caledonia"
 NZ,"Nueva Zelanda"
@@ -182,12 +184,11 @@ PF,"Polinesia Francesa"
 PL,Polonia
 PT,Portugal
 PR,"Puerto Rico"
-QA,Qatar
-HK,"Región Administrativa Especial de Hong Kong de la República Popular China"
-MO,"Región Administrativa Especial de Macao de la República Popular China"
+HK,"RAE de Hong Kong (China)"
+MO,"RAE de Macao (China)"
 GB,"Reino Unido"
 CF,"República Centroafricana"
-CZ,"República Checa"
+CG,"República del Congo"
 CD,"República Democrática del Congo"
 DO,"República Dominicana"
 RE,Reunión
@@ -230,7 +231,7 @@ TJ,Tayikistán
 IO,"Territorio Británico del Océano Índico"
 TF,"Territorios Australes Franceses"
 PS,"Territorios Palestinos"
-TL,"Timor Oriental"
+TL,Timor-Leste
 TG,Togo
 TK,Tokelau
 TO,Tonga
@@ -242,6 +243,7 @@ TR,Turquía
 TV,Tuvalu
 UA,Ucrania
 UG,Uganda
+UN,"United Nations"
 UY,Uruguay
 UZ,Uzbekistán
 VU,Vanuatu

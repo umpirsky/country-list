@@ -36,6 +36,7 @@ KH: Cambodgia
 CM: Camerun
 CA: Canada
 CV: 'Capul Verde'
+CZ: Cehia
 EA: 'Ceuta și Melilla'
 CL: Chile
 CN: China
@@ -64,6 +65,7 @@ AE: 'Emiratele Arabe Unite'
 ER: Eritreea
 EE: Estonia
 ET: Etiopia
+EZ: Eurozone
 FJ: Fiji
 PH: Filipine
 FI: Finlanda
@@ -94,6 +96,7 @@ ID: Indonezia
 AC: 'Insula Ascension'
 CX: 'Insula Christmas'
 IM: 'Insula Man'
+NF: 'Insula Norfolk'
 AX: 'Insulele Åland'
 IC: 'Insulele Canare'
 BQ: 'Insulele Caraibe Olandeze'
@@ -105,12 +108,11 @@ FO: 'Insulele Feroe'
 UM: 'Insulele Îndepărtate ale S.U.A.'
 MP: 'Insulele Mariane de Nord'
 MH: 'Insulele Marshall'
-NF: 'Insulele Norfolk'
 PN: 'Insulele Pitcairn'
 SB: 'Insulele Solomon'
 TC: 'Insulele Turks și Caicos'
+VI: 'Insulele Virgine Americane'
 VG: 'Insulele Virgine Britanice'
-VI: 'Insulele Virgine S.U.A.'
 JO: Iordania
 IQ: Irak
 IR: Iran
@@ -136,10 +138,9 @@ LY: Libia
 LI: Liechtenstein
 LT: Lituania
 LU: Luxemburg
-MK: Macedonia
 MG: Madagascar
-MY: Malaezia
 MW: Malawi
+MY: Malaysia
 MV: Maldive
 ML: Mali
 MT: Malta
@@ -155,8 +156,9 @@ MN: Mongolia
 MS: Montserrat
 MZ: Mozambic
 ME: Muntenegru
-MM: 'Myanmar (Birmania)'
+MM: Myanmar
 NA: Namibia
+UN: 'Națiunile Unite'
 NR: Nauru
 NP: Nepal
 NI: Nicaragua
@@ -181,9 +183,9 @@ QA: Qatar
 HK: 'R.A.S. Hong Kong a Chinei'
 MO: 'R.A.S. Macao a Chinei'
 GB: 'Regatul Unit'
-CZ: 'Republica Cehă'
 CF: 'Republica Centrafricană'
 DO: 'Republica Dominicană'
+MK: 'Republica Macedonia'
 MD: 'Republica Moldova'
 RE: Réunion
 RO: România
@@ -191,12 +193,12 @@ RU: Rusia
 RW: Rwanda
 EH: 'Sahara Occidentală'
 KN: 'Saint Kitts și Nevis'
-VC: 'Saint Vincent și Grenadine'
+VC: 'Saint Vincent și Grenadinele'
 PM: 'Saint-Pierre și Miquelon'
 WS: Samoa
 AS: 'Samoa Americană'
 SM: 'San Marino'
-ST: 'Sao Tome și Principe'
+ST: 'Sao Tomé și Príncipe'
 SN: Senegal
 RS: Serbia
 SC: Seychelles
@@ -218,7 +220,7 @@ VA: 'Statul Cetății Vaticanului'
 SD: Sudan
 SS: 'Sudanul de Sud'
 SE: Suedia
-SR: Surinam
+SR: Suriname
 SJ: 'Svalbard și Jan Mayen'
 SZ: Swaziland
 TJ: Tadjikistan

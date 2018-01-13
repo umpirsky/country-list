@@ -1,4 +1,4 @@
-CREATE TABLE list (id VARCHAR(2) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+CREATE TABLE list (id VARCHAR(10) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
 
 INSERT INTO `list` (`id`, `value`) VALUES ('AU', 'Австралия');
 INSERT INTO `list` (`id`, `value`) VALUES ('AT', 'Австрия');
@@ -38,6 +38,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('BW', 'Ботсвана');
 INSERT INTO `list` (`id`, `value`) VALUES ('BR', 'Бразилия');
 INSERT INTO `list` (`id`, `value`) VALUES ('IO', 'Британиянын Индия океанындагы аймагы');
 INSERT INTO `list` (`id`, `value`) VALUES ('BN', 'Бруней');
+INSERT INTO `list` (`id`, `value`) VALUES ('UN', 'БУ');
 INSERT INTO `list` (`id`, `value`) VALUES ('BF', 'Буркина-Фасо');
 INSERT INTO `list` (`id`, `value`) VALUES ('BI', 'Бурунди');
 INSERT INTO `list` (`id`, `value`) VALUES ('BT', 'Бутан');
@@ -253,3 +254,4 @@ INSERT INTO `list` (`id`, `value`) VALUES ('EE', 'Эстония');
 INSERT INTO `list` (`id`, `value`) VALUES ('ET', 'Эфиопия');
 INSERT INTO `list` (`id`, `value`) VALUES ('JM', 'Ямайка');
 INSERT INTO `list` (`id`, `value`) VALUES ('JP', 'Япония');
+INSERT INTO `list` (`id`, `value`) VALUES ('EZ', 'Eurozone');

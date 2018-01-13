@@ -18,12 +18,12 @@ BS: Bahames
 BH: Bahrain
 BD: 'Bangla Desh'
 BB: Barbados
+BY: Belarús
 BE: Bèlgica
 BZ: Belize
 BJ: Benín
 BM: Bermudes
 BT: Bhutan
-BY: Bielorússia
 BO: Bolívia
 BA: 'Bòsnia i Hercegovina'
 BW: Botswana
@@ -65,6 +65,7 @@ ES: Espanya
 US: 'Estats Units'
 EE: Estònia
 ET: Etiòpia
+EZ: Eurozone
 FJ: Fiji
 PH: Filipines
 FI: Finlàndia
@@ -91,23 +92,23 @@ HN: Hondures
 HK: 'Hong Kong (RAE Xina)'
 HU: Hongria
 YE: Iemen
-CX: 'illa Christmas'
-AC: 'illa de l’Ascensió'
+CX: 'Illa Christmas'
+AC: 'Illa de l’Ascensió'
 RE: 'Illa de la Reunió'
-IM: 'illa de Man'
-AX: 'illes Åland'
+IM: 'Illa de Man'
+AX: 'Illes Åland'
 KY: 'Illes Caiman'
-IC: 'illes Canàries'
-CC: 'illes Cocos'
-CK: 'illes Cook'
-FO: 'illes Fèroe'
-GS: 'illes Geòrgia del Sud i Sandwich del Sud'
+IC: 'Illes Canàries'
+CC: 'Illes Cocos'
+CK: 'Illes Cook'
+FO: 'Illes Fèroe'
+GS: 'Illes Geòrgia del Sud i Sandwich del Sud'
 FK: 'Illes Malvines'
-MP: 'illes Mariannes del Nord'
-MH: 'illes Marshall'
-UM: 'illes Perifèriques Menors dels EUA'
-PN: 'illes Pitcairn'
-SB: 'illes Salomó'
+MP: 'Illes Mariannes del Nord'
+MH: 'Illes Marshall'
+UM: 'Illes Perifèriques Menors dels EUA'
+PN: 'Illes Pitcairn'
+SB: 'Illes Salomó'
 TC: 'Illes Turks i Caicos'
 VG: 'Illes Verges Britàniques'
 VI: 'Illes Verges Nord-americanes'
@@ -160,6 +161,7 @@ MN: Mongòlia
 ME: Montenegro
 MS: Montserrat
 MM: 'Myanmar (Birmània)'
+UN: 'Nacions Unides'
 NA: Namíbia
 NR: Nauru
 NP: Nepal
@@ -175,7 +177,6 @@ OM: Oman
 NL: 'Països Baixos'
 PK: Pakistan
 PW: Palau
-PS: Palestina
 PA: Panamà
 PG: 'Papua Nova Guinea'
 PY: Paraguai
@@ -189,7 +190,6 @@ GB: 'Regne Unit'
 CF: 'República Centreafricana'
 ZA: 'República de Sud-àfrica'
 DO: 'República Dominicana'
-CZ: 'República Txeca'
 RO: Romania
 RW: Ruanda
 RU: Rússia
@@ -227,6 +227,7 @@ TW: Taiwan
 TZ: Tanzània
 IO: 'Territori Britànic de l’Oceà Índic'
 TF: 'Territoris Francesos del Sud'
+PS: 'territoris palestins'
 TL: 'Timor Oriental'
 TG: Togo
 TK: Tokelau
@@ -238,6 +239,7 @@ TM: Turkmenistan
 TR: Turquia
 TV: Tuvalu
 TD: Txad
+CZ: Txèquia
 UA: Ucraïna
 UG: Uganda
 UY: Uruguai

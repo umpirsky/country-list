@@ -1,4 +1,4 @@
-CREATE TABLE list (id VARCHAR(2) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+CREATE TABLE list (id VARCHAR(10) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
 INSERT INTO "list" ("id", "value") VALUES (E'ZA', E'Afrika ya Súdi');
 INSERT INTO "list" ("id", "value") VALUES (E'AF', E'Afuganisita');
@@ -52,6 +52,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'EC', E'Ekwatele');
 INSERT INTO "list" ("id", "value") VALUES (E'ER', E'Elitele');
 INSERT INTO "list" ("id", "value") VALUES (E'EE', E'Esitoni');
 INSERT INTO "list" ("id", "value") VALUES (E'ET', E'Etshiopi');
+INSERT INTO "list" ("id", "value") VALUES (E'EZ', E'Eurozone');
 INSERT INTO "list" ("id", "value") VALUES (E'FO', E'Faroe Islands');
 INSERT INTO "list" ("id", "value") VALUES (E'FI', E'Filande');
 INSERT INTO "list" ("id", "value") VALUES (E'TF', E'French Southern Territories');
@@ -243,6 +244,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'TV', E'Tuvalu');
 INSERT INTO "list" ("id", "value") VALUES (E'UM', E'U.S. Outlying Islands');
 INSERT INTO "list" ("id", "value") VALUES (E'UG', E'Uganda');
 INSERT INTO "list" ("id", "value") VALUES (E'UA', E'Ukreni');
+INSERT INTO "list" ("id", "value") VALUES (E'UN', E'United Nations');
 INSERT INTO "list" ("id", "value") VALUES (E'UZ', E'Uzibekisita');
 INSERT INTO "list" ("id", "value") VALUES (E'VU', E'Vanuatu');
 INSERT INTO "list" ("id", "value") VALUES (E'VE', E'Venezuela');

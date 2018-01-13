@@ -1,4 +1,4 @@
-CREATE TABLE list (id VARCHAR(2) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+CREATE TABLE list (id VARCHAR(10) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
 INSERT INTO "list" ("id", "value") VALUES (E'SH', E'Αγία Ελένη');
 INSERT INTO "list" ("id", "value") VALUES (E'LC', E'Αγία Λουκία');
@@ -22,7 +22,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'AI', E'Ανγκουίλα');
 INSERT INTO "list" ("id", "value") VALUES (E'AD', E'Ανδόρα');
 INSERT INTO "list" ("id", "value") VALUES (E'AQ', E'Ανταρκτική');
 INSERT INTO "list" ("id", "value") VALUES (E'AG', E'Αντίγκουα και Μπαρμπούντα');
-INSERT INTO "list" ("id", "value") VALUES (E'UM', E'Απομακρυσμένες Νησίδες Η.Π.Α.');
+INSERT INTO "list" ("id", "value") VALUES (E'UM', E'Απομακρυσμένες Νησίδες ΗΠΑ');
 INSERT INTO "list" ("id", "value") VALUES (E'AR', E'Αργεντινή');
 INSERT INTO "list" ("id", "value") VALUES (E'AM', E'Αρμενία');
 INSERT INTO "list" ("id", "value") VALUES (E'AW', E'Αρούμπα');
@@ -73,6 +73,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'EE', E'Εσθονία');
 INSERT INTO "list" ("id", "value") VALUES (E'ZM', E'Ζάμπια');
 INSERT INTO "list" ("id", "value") VALUES (E'ZW', E'Ζιμπάμπουε');
 INSERT INTO "list" ("id", "value") VALUES (E'AE', E'Ηνωμένα Αραβικά Εμιράτα');
+INSERT INTO "list" ("id", "value") VALUES (E'UN', E'Ηνωμένα Έθνη');
 INSERT INTO "list" ("id", "value") VALUES (E'US', E'Ηνωμένες Πολιτείες');
 INSERT INTO "list" ("id", "value") VALUES (E'GB', E'Ηνωμένο Βασίλειο');
 INSERT INTO "list" ("id", "value") VALUES (E'EA', E'Θεούτα και Μελίλα');
@@ -245,7 +246,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'TM', E'Τουρκμενιστάν')
 INSERT INTO "list" ("id", "value") VALUES (E'TT', E'Τρινιντάντ και Τομπάγκο');
 INSERT INTO "list" ("id", "value") VALUES (E'TA', E'Τριστάν ντα Κούνια');
 INSERT INTO "list" ("id", "value") VALUES (E'TD', E'Τσαντ');
-INSERT INTO "list" ("id", "value") VALUES (E'CZ', E'Τσεχική Δημοκρατία');
+INSERT INTO "list" ("id", "value") VALUES (E'CZ', E'Τσεχία');
 INSERT INTO "list" ("id", "value") VALUES (E'TN', E'Τυνησία');
 INSERT INTO "list" ("id", "value") VALUES (E'YE', E'Υεμένη');
 INSERT INTO "list" ("id", "value") VALUES (E'PH', E'Φιλιππίνες');
@@ -253,3 +254,4 @@ INSERT INTO "list" ("id", "value") VALUES (E'FI', E'Φινλανδία');
 INSERT INTO "list" ("id", "value") VALUES (E'FJ', E'Φίτζι');
 INSERT INTO "list" ("id", "value") VALUES (E'CL', E'Χιλή');
 INSERT INTO "list" ("id", "value") VALUES (E'HK', E'Χονγκ Κονγκ ΕΔΠ Κίνας');
+INSERT INTO "list" ("id", "value") VALUES (E'EZ', E'Eurozone');

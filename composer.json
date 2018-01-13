@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "php": ">=5.4"
+        "php": "^7.1"
     },
     "require-dev": {
         "umpirsky/list-generator": "^1.1",

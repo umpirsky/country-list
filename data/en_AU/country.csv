@@ -61,7 +61,7 @@ HR,Croatia
 CU,Cuba
 CW,Curaçao
 CY,Cyprus
-CZ,"Czech Republic"
+CZ,Czechia
 DK,Denmark
 DG,"Diego Garcia"
 DJ,Djibouti
@@ -74,6 +74,7 @@ GQ,"Equatorial Guinea"
 ER,Eritrea
 EE,Estonia
 ET,Ethiopia
+EZ,Eurozone
 FK,"Falkland Islands"
 FO,"Faroe Islands"
 FJ,Fiji
@@ -185,7 +186,6 @@ RE,Réunion
 RO,Romania
 RU,Russia
 RW,Rwanda
-VC,"Saint Vincent and the Grenadines"
 WS,Samoa
 SM,"San Marino"
 ST,"São Tomé & Príncipe"
@@ -201,7 +201,7 @@ SI,Slovenia
 SB,"Solomon Islands"
 SO,Somalia
 ZA,"South Africa"
-GS,"South Georgia and the South Sandwich Islands"
+GS,"South Georgia & South Sandwich Islands"
 KR,"South Korea"
 SS,"South Sudan"
 ES,Spain
@@ -212,6 +212,7 @@ KN,"St. Kitts & Nevis"
 LC,"St. Lucia"
 MF,"St. Martin"
 PM,"St. Pierre & Miquelon"
+VC,"St. Vincent & Grenadines"
 SD,Sudan
 SR,Suriname
 SJ,"Svalbard & Jan Mayen"
@@ -234,12 +235,13 @@ TR,Turkey
 TM,Turkmenistan
 TC,"Turks & Caicos Islands"
 TV,Tuvalu
-UM,"U.S. Minor Outlying Islands"
+UM,"U.S. Outlying Islands"
 VI,"U.S. Virgin Islands"
 UG,Uganda
 UA,Ukraine
 AE,"United Arab Emirates"
 GB,"United Kingdom"
+UN,"United Nations"
 US,"United States"
 UY,Uruguay
 UZ,Uzbekistan

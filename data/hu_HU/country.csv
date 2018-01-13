@@ -3,7 +3,6 @@ AF,Afganisztán
 AX,Åland-szigetek
 AL,Albánia
 DZ,Algéria
-UM,"Amerikai Csendes-óceáni Szigetek"
 AS,"Amerikai Szamoa"
 VI,"Amerikai Virgin-szigetek"
 AD,Andorra
@@ -16,16 +15,19 @@ AW,Aruba
 AC,Ascension-sziget
 AU,Ausztrália
 AT,Ausztria
+UM,"Az Amerikai Egyesült Államok lakatlan külbirtokai"
 AZ,Azerbajdzsán
 BS,Bahama-szigetek
 BH,Bahrein
 BD,Banglades
 BB,Barbados
+BY,Belarusz
 BE,Belgium
 BZ,Belize
 BJ,Benin
 BM,Bermuda
 BT,Bhután
+GW,Bissau-Guinea
 BO,Bolívia
 BA,Bosznia-Hercegovina
 BW,Botswana
@@ -57,19 +59,20 @@ DJ,Dzsibuti
 EC,Ecuador
 GQ,Egyenlítői-Guinea
 US,"Egyesült Államok"
-AE,"Egyesült Arab Emirátus"
+AE,"Egyesült Arab Emírségek"
 GB,"Egyesült Királyság"
 EG,Egyiptom
 CI,Elefántcsontpart
+UN,ENSZ
 ER,Eritrea
 KP,Észak-Korea
 MP,"Északi Mariana-szigetek"
 EE,Észtország
 ET,Etiópia
+EZ,Eurozone
 FK,Falkland-szigetek
-BY,Fehéroroszország
 FO,Feröer-szigetek
-FJ,Fidzsi-szigetek
+FJ,Fidzsi
 FI,Finnország
 TF,"Francia Déli Területek"
 GF,"Francia Guyana"
@@ -89,13 +92,12 @@ GU,Guam
 GT,Guatemala
 GG,Guernsey
 GN,Guinea
-GW,Guinea-Bissau
 GY,Guyana
 HT,Haiti
 BQ,"Holland Karib-térség"
 NL,Hollandia
 HN,Honduras
-HK,"Hongkong SAR Kína"
+HK,"Hongkong KKT"
 HR,Horvátország
 IN,India
 ID,Indonézia
@@ -122,7 +124,7 @@ KE,Kenya
 CN,Kína
 KG,Kirgizisztán
 KI,Kiribati
-CC,Kókusz-szigetek
+CC,"Kókusz (Keeling)-szigetek"
 CO,Kolumbia
 CG,"Kongó - Brazzaville"
 CD,"Kongó - Kinshasa"
@@ -143,7 +145,7 @@ LU,Luxemburg
 MK,Macedónia
 MG,Madagaszkár
 HU,Magyarország
-MO,"Makaó SAR Kína"
+MO,"Makaó KKT"
 MY,Malajzia
 MW,Malawi
 MV,Maldív-szigetek
@@ -190,27 +192,27 @@ PE,Peru
 PN,Pitcairn-szigetek
 PT,Portugália
 PR,"Puerto Rico"
-RE,Reunion
+RE,Réunion
 RO,Románia
 RW,Ruanda
 KN,"Saint Kitts és Nevis"
+LC,"Saint Lucia"
 MF,"Saint Martin"
-PM,"Saint Pierre és Miquelon"
 VC,"Saint Vincent és a Grenadine-szigetek"
 BL,Saint-Barthélemy
+PM,"Saint-Pierre és Miquelon"
 SB,Salamon-szigetek
 SV,Salvador
 SM,"San Marino"
-LC,"Santa Lucia"
 ST,"Sao Tomé és Príncipe"
 SC,Seychelle-szigetek
 SL,"Sierra Leone"
 SX,"Sint Maarten"
 ES,Spanyolország
-SJ,"Spitzbergák és Jan Mayen-szigetek"
 LK,"Srí Lanka"
 SR,Suriname
 CH,Svájc
+SJ,"Svalbard és Jan Mayen"
 SE,Svédország
 WS,Szamoa
 SA,Szaúd-Arábia
@@ -248,7 +250,7 @@ VU,Vanuatu
 VA,Vatikán
 VE,Venezuela
 VN,Vietnam
-WF,"Wallis- és Futuna-szigetek"
+WF,"Wallis és Futuna"
 ZM,Zambia
 ZW,Zimbabwe
 CV,"Zöld-foki Köztársaság"

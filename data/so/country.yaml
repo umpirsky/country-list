@@ -55,6 +55,7 @@ SV: 'El Salvador'
 GQ: 'Equatorial Guinea'
 ER: Eretereeya
 EE: Estooniya
+EZ: Eurozone
 VA: Faatikaan
 PS: 'Falastiin Daanka galbeed iyo Qasa'
 FR: Faransiis
@@ -155,6 +156,7 @@ EG: Masar
 YT: Mayotte
 MX: Meksiko
 FM: Micronesia
+MM: Miyanmar
 MD: Moldofa
 MN: Mongooliya
 ME: Montenegro
@@ -163,7 +165,6 @@ MC: Moonako
 MU: Murishiyoos
 MR: Muritaaniya
 MZ: Musambiig
-MM: Myanmar
 NA: Namiibiya
 NR: Nauru
 NG: Nayjeeriya
@@ -244,6 +245,7 @@ VI: 'U.S. Virgin Islands'
 UG: Ugaanda
 UA: Ukrayn
 GB: 'United Kingdom'
+UN: 'United Nations'
 JO: Urdun
 UY: Uruguwaay
 UZ: Uusbakistaan
