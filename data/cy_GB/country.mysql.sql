@@ -216,7 +216,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('VU', 'Vanuatu');
 INSERT INTO `list` (`id`, `value`) VALUES ('VE', 'Venezuela');
 INSERT INTO `list` (`id`, `value`) VALUES ('WF', 'Wallis a Futuna');
 INSERT INTO `list` (`id`, `value`) VALUES ('UA', 'Wcráin');
-INSERT INTO `list` (`id`, `value`) VALUES ('BS', 'Y Bahamas');
+INSERT INTO `list` (`id`, `value`) VALUES ('BS', 'Y The Bahamas');
 INSERT INTO `list` (`id`, `value`) VALUES ('CG', 'Y Congo - Brazzaville');
 INSERT INTO `list` (`id`, `value`) VALUES ('CD', 'Y Congo - Kinshasa');
 INSERT INTO `list` (`id`, `value`) VALUES ('GB', 'Y Deyrnas Unedig');

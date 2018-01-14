@@ -19,7 +19,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('AW', 'Aruba');
 INSERT INTO `list` (`id`, `value`) VALUES ('AC', 'Ascension Island');
 INSERT INTO `list` (`id`, `value`) VALUES ('IE', 'Ayalan');
 INSERT INTO `list` (`id`, `value`) VALUES ('AZ', 'Azarbaijan');
-INSERT INTO `list` (`id`, `value`) VALUES ('BS', 'Bahamas');
+INSERT INTO `list` (`id`, `value`) VALUES ('BS', 'The Bahamas');
 INSERT INTO `list` (`id`, `value`) VALUES ('BH', 'Baharan');
 INSERT INTO `list` (`id`, `value`) VALUES ('BD', 'Bangiladas');
 INSERT INTO `list` (`id`, `value`) VALUES ('VU', 'Banuwatu');

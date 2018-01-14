@@ -19,7 +19,7 @@
   'AR' => 'Arzantina',
   'AC' => 'Ascension Island',
   'AZ' => 'Azerbaidjan',
-  'BS' => 'Bahamas',
+  'BS' => 'The Bahamas',
   'BH' => 'Bahrain',
   'BD' => 'Bangladesy',
   'BB' => 'Barbady',

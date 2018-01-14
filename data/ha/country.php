@@ -18,7 +18,7 @@
   'AC' => 'Ascension Island',
   'IE' => 'Ayalan',
   'AZ' => 'Azarbaijan',
-  'BS' => 'Bahamas',
+  'BS' => 'The Bahamas',
   'BH' => 'Baharan',
   'BD' => 'Bangiladas',
   'VU' => 'Banuwatu',

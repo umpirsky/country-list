@@ -22,7 +22,7 @@
   'AC' => 'Ascension Island',
   'HT' => 'Ayiti',
   'AZ' => 'Azɛrbayjaŋ',
-  'BS' => 'Bahamasi',
+  'BS' => 'The Bahamasi',
   'KY' => 'Bama Gun',
   'BB' => 'Barbadi',
   'BH' => 'Bareyini',

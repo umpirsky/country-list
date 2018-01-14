@@ -73,7 +73,7 @@
   'AC' => 'Ascension Island',
   'AU' => 'Australia',
   'AZ' => 'Azerbaijan',
-  'BS' => 'Bahamas',
+  'BS' => 'The Bahamas',
   'BH' => 'Bahrain',
   'BB' => 'Barbados',
   'BY' => 'Belarus',

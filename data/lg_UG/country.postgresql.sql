@@ -20,7 +20,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'IE', E'Ayalandi');
 INSERT INTO "list" ("id", "value") VALUES (E'IS', E'Ayisirandi');
 INSERT INTO "list" ("id", "value") VALUES (E'AZ', E'Azerebayijaani');
 INSERT INTO "list" ("id", "value") VALUES (E'BH', E'Baareeni');
-INSERT INTO "list" ("id", "value") VALUES (E'BS', E'Bahamasi');
+INSERT INTO "list" ("id", "value") VALUES (E'BS', E'The Bahamasi');
 INSERT INTO "list" ("id", "value") VALUES (E'BD', E'Bangaladesi');
 INSERT INTO "list" ("id", "value") VALUES (E'BB', E'Barabadosi');
 INSERT INTO "list" ("id", "value") VALUES (E'BY', E'Belarusi');

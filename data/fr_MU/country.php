@@ -16,7 +16,7 @@
   'AU' => 'Australie',
   'AT' => 'Autriche',
   'AZ' => 'Azerbaïdjan',
-  'BS' => 'Bahamas',
+  'BS' => 'The Bahamas',
   'BH' => 'Bahreïn',
   'BD' => 'Bangladesh',
   'BB' => 'Barbade',

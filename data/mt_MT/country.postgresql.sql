@@ -34,7 +34,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'NF', E'Gżira Norfolk');
 INSERT INTO "list" ("id", "value") VALUES (E'CL', E'iċ-Ċili');
 INSERT INTO "list" ("id", "value") VALUES (E'TD', E'iċ-Chad');
 INSERT INTO "list" ("id", "value") VALUES (E'DK', E'id-Danimarka');
-INSERT INTO "list" ("id", "value") VALUES (E'BS', E'il-Bahamas');
+INSERT INTO "list" ("id", "value") VALUES (E'BS', E'il-The Bahamas');
 INSERT INTO "list" ("id", "value") VALUES (E'BH', E'il-Bahrain');
 INSERT INTO "list" ("id", "value") VALUES (E'BD', E'il-Bangladesh');
 INSERT INTO "list" ("id", "value") VALUES (E'BY', E'il-Belarussja');

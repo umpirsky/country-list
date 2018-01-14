@@ -33,7 +33,7 @@
   'CL' => 'iċ-Ċili',
   'TD' => 'iċ-Chad',
   'DK' => 'id-Danimarka',
-  'BS' => 'il-Bahamas',
+  'BS' => 'il-The Bahamas',
   'BH' => 'il-Bahrain',
   'BD' => 'il-Bangladesh',
   'BY' => 'il-Belarussja',

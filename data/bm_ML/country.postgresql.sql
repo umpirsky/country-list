@@ -23,7 +23,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'AW', E'Aruba');
 INSERT INTO "list" ("id", "value") VALUES (E'AC', E'Ascension Island');
 INSERT INTO "list" ("id", "value") VALUES (E'HT', E'Ayiti');
 INSERT INTO "list" ("id", "value") VALUES (E'AZ', E'Azɛrbayjaŋ');
-INSERT INTO "list" ("id", "value") VALUES (E'BS', E'Bahamasi');
+INSERT INTO "list" ("id", "value") VALUES (E'BS', E'The Bahamasi');
 INSERT INTO "list" ("id", "value") VALUES (E'KY', E'Bama Gun');
 INSERT INTO "list" ("id", "value") VALUES (E'BB', E'Barbadi');
 INSERT INTO "list" ("id", "value") VALUES (E'BH', E'Bareyini');

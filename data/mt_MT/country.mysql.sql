@@ -34,7 +34,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('NF', 'Gżira Norfolk');
 INSERT INTO `list` (`id`, `value`) VALUES ('CL', 'iċ-Ċili');
 INSERT INTO `list` (`id`, `value`) VALUES ('TD', 'iċ-Chad');
 INSERT INTO `list` (`id`, `value`) VALUES ('DK', 'id-Danimarka');
-INSERT INTO `list` (`id`, `value`) VALUES ('BS', 'il-Bahamas');
+INSERT INTO `list` (`id`, `value`) VALUES ('BS', 'il-The Bahamas');
 INSERT INTO `list` (`id`, `value`) VALUES ('BH', 'il-Bahrain');
 INSERT INTO `list` (`id`, `value`) VALUES ('BD', 'il-Bangladesh');
 INSERT INTO `list` (`id`, `value`) VALUES ('BY', 'il-Belarussja');

@@ -215,7 +215,7 @@
   'VE' => 'Venezuela',
   'WF' => 'Wallis a Futuna',
   'UA' => 'Wcráin',
-  'BS' => 'Y Bahamas',
+  'BS' => 'Y The Bahamas',
   'CG' => 'Y Congo - Brazzaville',
   'CD' => 'Y Congo - Kinshasa',
   'GB' => 'Y Deyrnas Unedig',
