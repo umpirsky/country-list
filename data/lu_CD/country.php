@@ -19,7 +19,7 @@
   'AW' => 'Aruba',
   'AC' => 'Ascension Island',
   'HT' => 'Ayiti',
-  'BS' => 'Bahamase',
+  'BS' => 'The Bahamase',
   'BH' => 'Bahrene',
   'BB' => 'Barebade',
   'BE' => 'Belejiki',

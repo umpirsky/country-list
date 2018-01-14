@@ -16,7 +16,7 @@
   'AZ' => 'Azerbaijan',
   'IN' => 'Ấn Độ',
   'PL' => 'Ba Lan',
-  'BS' => 'Bahamas',
+  'BS' => 'The Bahamas',
   'BH' => 'Bahrain',
   'BD' => 'Bangladesh',
   'BB' => 'Barbados',

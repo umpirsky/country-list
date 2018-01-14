@@ -74,7 +74,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'AW', E'Aruba');
 INSERT INTO "list" ("id", "value") VALUES (E'AC', E'Ascension Island');
 INSERT INTO "list" ("id", "value") VALUES (E'AU', E'Australia');
 INSERT INTO "list" ("id", "value") VALUES (E'AZ', E'Azerbaijan');
-INSERT INTO "list" ("id", "value") VALUES (E'BS', E'Bahamas');
+INSERT INTO "list" ("id", "value") VALUES (E'BS', E'The Bahamas');
 INSERT INTO "list" ("id", "value") VALUES (E'BH', E'Bahrain');
 INSERT INTO "list" ("id", "value") VALUES (E'BB', E'Barbados');
 INSERT INTO "list" ("id", "value") VALUES (E'BY', E'Belarus');

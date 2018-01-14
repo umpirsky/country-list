@@ -19,7 +19,7 @@
   'AC' => 'Ascension Island',
   'HT' => 'Ayiti',
   'AZ' => 'Azɛlɛbaizá',
-  'BS' => 'Bahamasɛ',
+  'BS' => 'The Bahamasɛ',
   'BH' => 'Bahrɛnɛ',
   'BB' => 'Barɛbadɛ',
   'BE' => 'Beleziki',

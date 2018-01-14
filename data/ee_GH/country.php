@@ -22,7 +22,7 @@
   'AU' => 'Australia nutome',
   'AT' => 'Austria nutome',
   'AZ' => 'Azerbaijan nutome',
-  'BS' => 'Bahamas nutome',
+  'BS' => 'The Bahamas nutome',
   'BH' => 'Bahrain nutome',
   'BD' => 'Bangladesh nutome',
   'BB' => 'Barbados nutome',

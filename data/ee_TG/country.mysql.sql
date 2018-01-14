@@ -23,7 +23,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('AC', 'Ascension ƒudomekpo nutome');
 INSERT INTO `list` (`id`, `value`) VALUES ('AU', 'Australia nutome');
 INSERT INTO `list` (`id`, `value`) VALUES ('AT', 'Austria nutome');
 INSERT INTO `list` (`id`, `value`) VALUES ('AZ', 'Azerbaijan nutome');
-INSERT INTO `list` (`id`, `value`) VALUES ('BS', 'Bahamas nutome');
+INSERT INTO `list` (`id`, `value`) VALUES ('BS', 'The Bahamas nutome');
 INSERT INTO `list` (`id`, `value`) VALUES ('BH', 'Bahrain nutome');
 INSERT INTO `list` (`id`, `value`) VALUES ('BD', 'Bangladesh nutome');
 INSERT INTO `list` (`id`, `value`) VALUES ('BB', 'Barbados nutome');

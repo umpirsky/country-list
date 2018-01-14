@@ -19,7 +19,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'AW', E'Aruba');
 INSERT INTO "list" ("id", "value") VALUES (E'AC', E'Ascension Island');
 INSERT INTO "list" ("id", "value") VALUES (E'IE', E'Ayalan');
 INSERT INTO "list" ("id", "value") VALUES (E'AZ', E'Azarbaijan');
-INSERT INTO "list" ("id", "value") VALUES (E'BS', E'Bahamas');
+INSERT INTO "list" ("id", "value") VALUES (E'BS', E'The Bahamas');
 INSERT INTO "list" ("id", "value") VALUES (E'BH', E'Baharan');
 INSERT INTO "list" ("id", "value") VALUES (E'BD', E'Bangiladas');
 INSERT INTO "list" ("id", "value") VALUES (E'VU', E'Banuwatu');

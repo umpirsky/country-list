@@ -23,7 +23,7 @@
   'AC' => 'Ascension Island',
   'IS' => 'Ayisilandi',
   'AZ' => 'Azerubayijani',
-  'BS' => 'Bahamasi',
+  'BS' => 'The Bahamasi',
   'BH' => 'Bahareyini',
   'BD' => 'Bangaladeshi',
   'BB' => 'Barubadosi',

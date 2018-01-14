@@ -19,7 +19,7 @@
   'IS' => 'Ayisirandi',
   'AZ' => 'Azerebayijaani',
   'BH' => 'Baareeni',
-  'BS' => 'Bahamasi',
+  'BS' => 'The Bahamasi',
   'BD' => 'Bangaladesi',
   'BB' => 'Barabadosi',
   'BY' => 'Belarusi',

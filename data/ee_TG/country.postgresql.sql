@@ -23,7 +23,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'AC', E'Ascension ƒudomekpo nutome'
 INSERT INTO "list" ("id", "value") VALUES (E'AU', E'Australia nutome');
 INSERT INTO "list" ("id", "value") VALUES (E'AT', E'Austria nutome');
 INSERT INTO "list" ("id", "value") VALUES (E'AZ', E'Azerbaijan nutome');
-INSERT INTO "list" ("id", "value") VALUES (E'BS', E'Bahamas nutome');
+INSERT INTO "list" ("id", "value") VALUES (E'BS', E'The Bahamas nutome');
 INSERT INTO "list" ("id", "value") VALUES (E'BH', E'Bahrain nutome');
 INSERT INTO "list" ("id", "value") VALUES (E'BD', E'Bangladesh nutome');
 INSERT INTO "list" ("id", "value") VALUES (E'BB', E'Barbados nutome');

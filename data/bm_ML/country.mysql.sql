@@ -23,7 +23,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('AW', 'Aruba');
 INSERT INTO `list` (`id`, `value`) VALUES ('AC', 'Ascension Island');
 INSERT INTO `list` (`id`, `value`) VALUES ('HT', 'Ayiti');
 INSERT INTO `list` (`id`, `value`) VALUES ('AZ', 'Azɛrbayjaŋ');
-INSERT INTO `list` (`id`, `value`) VALUES ('BS', 'Bahamasi');
+INSERT INTO `list` (`id`, `value`) VALUES ('BS', 'The Bahamasi');
 INSERT INTO `list` (`id`, `value`) VALUES ('KY', 'Bama Gun');
 INSERT INTO `list` (`id`, `value`) VALUES ('BB', 'Barbadi');
 INSERT INTO `list` (`id`, `value`) VALUES ('BH', 'Bareyini');

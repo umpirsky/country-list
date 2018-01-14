@@ -14,7 +14,7 @@
   'AC' => 'Ascension',
   'AZ' => 'Aserbajdsjan',
   'AU' => 'Australia',
-  'BS' => 'Bahamas',
+  'BS' => 'The Bahamas',
   'BH' => 'Bahrain',
   'BD' => 'Bangladesh',
   'BB' => 'Barbados',

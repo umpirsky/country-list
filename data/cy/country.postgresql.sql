@@ -216,7 +216,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'VU', E'Vanuatu');
 INSERT INTO "list" ("id", "value") VALUES (E'VE', E'Venezuela');
 INSERT INTO "list" ("id", "value") VALUES (E'WF', E'Wallis a Futuna');
 INSERT INTO "list" ("id", "value") VALUES (E'UA', E'Wcráin');
-INSERT INTO "list" ("id", "value") VALUES (E'BS', E'Y Bahamas');
+INSERT INTO "list" ("id", "value") VALUES (E'BS', E'Y The Bahamas');
 INSERT INTO "list" ("id", "value") VALUES (E'CG', E'Y Congo - Brazzaville');
 INSERT INTO "list" ("id", "value") VALUES (E'CD', E'Y Congo - Kinshasa');
 INSERT INTO "list" ("id", "value") VALUES (E'GB', E'Y Deyrnas Unedig');

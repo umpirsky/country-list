@@ -17,7 +17,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('AW', 'Aruba');
 INSERT INTO `list` (`id`, `value`) VALUES ('AU', 'Australie');
 INSERT INTO `list` (`id`, `value`) VALUES ('AT', 'Autriche');
 INSERT INTO `list` (`id`, `value`) VALUES ('AZ', 'Azerbaïdjan');
-INSERT INTO `list` (`id`, `value`) VALUES ('BS', 'Bahamas');
+INSERT INTO `list` (`id`, `value`) VALUES ('BS', 'The Bahamas');
 INSERT INTO `list` (`id`, `value`) VALUES ('BH', 'Bahreïn');
 INSERT INTO `list` (`id`, `value`) VALUES ('BD', 'Bangladesh');
 INSERT INTO `list` (`id`, `value`) VALUES ('BB', 'Barbade');

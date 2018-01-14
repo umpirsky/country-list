@@ -24,7 +24,7 @@ INSERT INTO "list" ("id", "value") VALUES ('AM', 'Arumeniya');
 INSERT INTO "list" ("id", "value") VALUES ('AC', 'Ascension Island');
 INSERT INTO "list" ("id", "value") VALUES ('IS', 'Ayisilandi');
 INSERT INTO "list" ("id", "value") VALUES ('AZ', 'Azerubayijani');
-INSERT INTO "list" ("id", "value") VALUES ('BS', 'Bahamasi');
+INSERT INTO "list" ("id", "value") VALUES ('BS', 'The Bahamasi');
 INSERT INTO "list" ("id", "value") VALUES ('BH', 'Bahareyini');
 INSERT INTO "list" ("id", "value") VALUES ('BD', 'Bangaladeshi');
 INSERT INTO "list" ("id", "value") VALUES ('BB', 'Barubadosi');
