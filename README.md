@@ -49,8 +49,7 @@ Country list is available out of the box, but if you want to submit patches, add
 update data source or contribute in any other way, you will probably want to rebuild the list:
 
 ```bash
-$ composer install
-$ ./bin/build
+$ docker-compose run php /var/www/html/bin/build -v
 ```
 
 Other Interesting Lists

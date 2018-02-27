@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "4d0a557bc35fef1533bf1a5d296487d2",
+    "content-hash": "9d39faa08254e24f43ef06a3313b6adb",
     "packages": [],
     "packages-dev": [
         {
@@ -529,6 +529,53 @@
                 "psr-3"
             ],
             "time": "2016-10-10T12:19:37+00:00"
+        },
+        {
+            "name": "slowprog/composer-copy-file",
+            "version": "0.2.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/slowprog/CopyFile.git",
+                "reference": "400c2b7c9f9f8ed8195217ae143ffbf3fec84c31"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/slowprog/CopyFile/zipball/400c2b7c9f9f8ed8195217ae143ffbf3fec84c31",
+                "reference": "400c2b7c9f9f8ed8195217ae143ffbf3fec84c31",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.3"
+            },
+            "require-dev": {
+                "composer/composer": "1.0.*@dev",
+                "mikey179/vfsstream": "~1",
+                "phpunit/phpunit": "~5.0",
+                "symfony/filesystem": "~2.7",
+                "symfony/finder": "~2.7"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "SlowProg\\CopyFile\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Andrey Tyshev",
+                    "email": "slowprog@gmail.com"
+                }
+            ],
+            "description": "Composer script copying your files after install",
+            "homepage": "https://github.com/SlowProg/composer-copy-file",
+            "keywords": [
+                "copy file"
+            ],
+            "time": "2017-12-07T13:18:47+00:00"
         },
         {
             "name": "symfony/console",
@@ -1056,21 +1103,21 @@
         },
         {
             "name": "umpirsky/list-generator",
-            "version": "v1.1.4",
+            "version": "v1.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/umpirsky/list-generator.git",
-                "reference": "78f9f2db5399b3a581b99995cdfba534b887824e"
+                "reference": "9acffae8232a7957a08b545a2f26d1488731a625"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/umpirsky/list-generator/zipball/78f9f2db5399b3a581b99995cdfba534b887824e",
-                "reference": "78f9f2db5399b3a581b99995cdfba534b887824e",
+                "url": "https://api.github.com/repos/umpirsky/list-generator/zipball/9acffae8232a7957a08b545a2f26d1488731a625",
+                "reference": "9acffae8232a7957a08b545a2f26d1488731a625",
                 "shasum": ""
             },
             "require": {
                 "doctrine/dbal": "~2.5",
-                "php": ">=5.4",
+                "php": "^7.1",
                 "symfony/console": "^2.7|^3.0",
                 "symfony/filesystem": "^2.7|^3.0",
                 "symfony/finder": "^2.7|^3.0",
@@ -1094,7 +1141,7 @@
                 }
             ],
             "description": "Export data to various formats.",
-            "time": "2017-11-08T16:24:05+00:00"
+            "time": "2018-02-27T18:18:11+00:00"
         },
         {
             "name": "zendframework/zend-db",
@@ -1206,7 +1253,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": "^7.1"
+        "php": "^7.0"
     },
     "platform-dev": []
 }
