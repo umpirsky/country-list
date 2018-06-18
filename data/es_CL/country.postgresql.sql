@@ -53,7 +53,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'KM', E'Comoras');
 INSERT INTO "list" ("id", "value") VALUES (E'KP', E'Corea del Norte');
 INSERT INTO "list" ("id", "value") VALUES (E'KR', E'Corea del Sur');
 INSERT INTO "list" ("id", "value") VALUES (E'CR', E'Costa Rica');
-INSERT INTO "list" ("id", "value") VALUES (E'CI', E'Côte d’Ivoire');
+INSERT INTO "list" ("id", "value") VALUES (E'CI', E'Costa de Marfil');
 INSERT INTO "list" ("id", "value") VALUES (E'HR', E'Croacia');
 INSERT INTO "list" ("id", "value") VALUES (E'CU', E'Cuba');
 INSERT INTO "list" ("id", "value") VALUES (E'CW', E'Curazao');
