@@ -54,13 +54,12 @@ EC: Ekvádor
 ER: Eritrea
 EE: Estónsko
 ET: Etiópia
-EZ: Eurozone
 FO: 'Faerské ostrovy'
 FK: Falklandy
 FJ: Fidži
 PH: Filipíny
 FI: Fínsko
-GF: 'Francúzska Guayana'
+GF: 'Francúzska Guyana'
 PF: 'Francúzska Polynézia'
 TF: 'Francúzske južné a antarktické územia'
 FR: Francúzsko
@@ -75,10 +74,10 @@ GE: Gruzínsko
 GP: Guadeloupe
 GU: Guam
 GT: Guatemala
-GY: Guayana
 GG: Guernsey
 GN: Guinea
 GW: Guinea-Bissau
+GY: Guyana
 HT: Haiti
 NL: Holandsko
 HN: Honduras
@@ -131,7 +130,6 @@ LT: Litva
 LV: Lotyšsko
 LU: Luxembursko
 MO: 'Macao – OAO Číny'
-MK: Macedónsko
 MG: Madagaskar
 HU: Maďarsko
 MY: Malajzia
@@ -167,13 +165,12 @@ NF: Norfolk
 NC: 'Nová Kaledónia'
 NZ: 'Nový Zéland'
 OM: Omán
-UN: OSN
 IM: 'Ostrov Man'
 PK: Pakistan
 PW: Palau
 PS: 'Palestínske územia'
 PA: Panama
-PG: 'Papua Nová Guinea'
+PG: 'Papua-Nová Guinea'
 PY: Paraguaj
 PE: Peru
 PN: 'Pitcairnove ostrovy'
@@ -181,6 +178,8 @@ CI: 'Pobrežie Slonoviny'
 PL: Poľsko
 PR: Portoriko
 PT: Portugalsko
+XA: Pseudo-Accents
+XB: Pseudo-Bidi
 AT: Rakúsko
 RE: Réunion
 GQ: 'Rovníková Guinea'
@@ -194,6 +193,7 @@ SM: 'San Maríno'
 SA: 'Saudská Arábia'
 SN: Senegal
 KP: 'Severná Kórea'
+MK: 'Severné Macedónsko'
 MP: 'Severné Mariány'
 SC: Seychely
 SL: 'Sierra Leone'

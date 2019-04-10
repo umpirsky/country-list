@@ -50,7 +50,6 @@ EE: Eistland
 EC: Ekvador
 SV: 'El Salvador'
 ER: Erítrea
-EZ: Eurozone
 ET: Eþíópía
 FK: Falklandseyjar
 PH: Filippseyjar
@@ -175,6 +174,8 @@ PE: Perú
 PN: Pitcairn-eyjar
 PT: Portúgal
 PL: Pólland
+XA: Pseudo-Accents
+XB: Pseudo-Bidi
 PR: 'Púertó Ríkó'
 RE: Réunion
 RW: Rúanda
@@ -183,7 +184,6 @@ RU: Rússland
 SB: Salómonseyjar
 ZM: Sambía
 AE: 'Sameinuðu arabísku furstadæmin'
-UN: 'Sameinuðu þjóðirnar'
 WS: Samóa
 SM: 'San Marínó'
 BL: 'Sankti Bartólómeusareyjar'
@@ -198,12 +198,12 @@ SA: Sádi-Arabía
 SN: Senegal
 RS: Serbía
 SC: Seychelles-eyjar
+HK: 'sérstjórnarsvæðið Hong Kong'
+MO: 'sérstjórnarsvæðið Makaó'
 ZW: Simbabve
 SG: Singapúr
 SL: 'Síerra Leóne'
 CL: Síle
-HK: 'Sjálfstjórnarsvæðið Hong Kong'
-MO: 'Sjálfstjórnarsvæðið Makaó'
 SK: Slóvakía
 SI: Slóvenía
 UM: 'Smáeyjar Bandaríkjanna'

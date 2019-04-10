@@ -72,8 +72,8 @@ SV: 'El Salvador'
 GQ: 'Equatorial Guinea'
 ER: Eritrea
 EE: Estonia
+SZ: Eswatini
 ET: Ethiopia
-EZ: Eurozone
 FK: 'Falkland Islands'
 FO: 'Faroe Islands'
 FJ: Fiji
@@ -130,8 +130,7 @@ LY: Libya
 LI: Liechtenstein
 LT: Lithuania
 LU: Luxembourg
-MO: 'Macau SAR China'
-MK: Macedonia
+MO: 'Macao SAR China'
 MG: Madagascar
 MW: Malawi
 MY: Malaysia
@@ -165,6 +164,7 @@ NG: Nigeria
 NU: Niue
 NF: 'Norfolk Island'
 KP: 'North Korea'
+MK: 'North Macedonia'
 MP: 'Northern Mariana Islands'
 'NO': Norway
 OM: Oman
@@ -179,6 +179,8 @@ PH: Philippines
 PN: 'Pitcairn Islands'
 PL: Poland
 PT: Portugal
+XA: Pseudo-Accents
+XB: Pseudo-Bidi
 PR: 'Puerto Rico'
 QA: Qatar
 RE: Réunion
@@ -215,7 +217,6 @@ VC: 'St. Vincent & Grenadines'
 SD: Sudan
 SR: Suriname
 SJ: 'Svalbard & Jan Mayen'
-SZ: Swaziland
 SE: Sweden
 CH: Switzerland
 SY: Syria
@@ -240,7 +241,6 @@ UG: Uganda
 UA: Ukraine
 AE: 'United Arab Emirates'
 GB: 'United Kingdom'
-UN: 'United Nations'
 US: 'United States'
 UY: Uruguay
 UZ: Uzbekistan

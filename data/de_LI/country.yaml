@@ -58,7 +58,6 @@ EC: Ecuador
 SV: 'El Salvador'
 ER: Eritrea
 EE: Estland
-EZ: Eurozone
 FK: Falklandinseln
 FO: Färöer
 FJ: Fidschi
@@ -138,7 +137,6 @@ MQ: Martinique
 MR: Mauretanien
 MU: Mauritius
 YT: Mayotte
-MK: Mazedonien
 MX: Mexiko
 FM: Mikronesien
 MC: Monaco
@@ -159,11 +157,11 @@ NG: Nigeria
 NU: Niue
 KP: Nordkorea
 MP: 'Nördliche Marianen'
+MK: Nordmazedonien
 NF: Norfolkinsel
 'NO': Norwegen
 OM: Oman
 AT: Österreich
-TL: Osttimor
 PK: Pakistan
 PS: 'Palästinensische Autonomiegebiete'
 PW: Palau
@@ -175,6 +173,8 @@ PH: Philippinen
 PN: Pitcairninseln
 PL: Polen
 PT: Portugal
+XA: Pseudo-Accents
+XB: Pseudo-Bidi
 PR: 'Puerto Rico'
 MD: 'Republik Moldau'
 RE: Réunion
@@ -199,10 +199,10 @@ SX: 'Sint Maarten'
 SK: Slowakei
 SI: Slowenien
 SO: Somalia
+HK: 'Sonderverwaltungsregion Hongkong'
 MO: 'Sonderverwaltungsregion Macau'
-HK: 'Sonderverwaltungszone Hongkong'
 ES: Spanien
-SJ: Spitzbergen
+SJ: 'Spitzbergen und Jan Mayen'
 LK: 'Sri Lanka'
 BL: 'St. Barthélemy'
 SH: 'St. Helena'
@@ -223,6 +223,7 @@ TJ: Tadschikistan
 TW: Taiwan
 TZ: Tansania
 TH: Thailand
+TL: Timor-Leste
 TG: Togo
 TK: Tokelau
 TO: Tonga
@@ -246,7 +247,6 @@ VE: Venezuela
 AE: 'Vereinigte Arabische Emirate'
 US: 'Vereinigte Staaten'
 GB: 'Vereinigtes Königreich'
-UN: 'Vereinte Nationen'
 VN: Vietnam
 WF: 'Wallis und Futuna'
 CX: Weihnachtsinsel

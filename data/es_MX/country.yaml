@@ -6,7 +6,7 @@ AO: Angola
 AI: Anguila
 AQ: Antártida
 AG: 'Antigua y Barbuda'
-SA: 'Arabia Saudí'
+SA: 'Arabia Saudita'
 DZ: Argelia
 AR: Argentina
 AM: Armenia
@@ -48,6 +48,7 @@ CY: Chipre
 VA: 'Ciudad del Vaticano'
 CO: Colombia
 KM: Comoras
+CG: Congo
 KP: 'Corea del Norte'
 KR: 'Corea del Sur'
 CR: 'Costa Rica'
@@ -68,8 +69,8 @@ SI: Eslovenia
 ES: España
 US: 'Estados Unidos'
 EE: Estonia
+SZ: Eswatini
 ET: Etiopía
-EZ: Eurozone
 PH: Filipinas
 FI: Finlandia
 FJ: Fiyi
@@ -86,7 +87,7 @@ GP: Guadalupe
 GU: Guam
 GT: Guatemala
 GF: 'Guayana Francesa'
-GG: Guernesey
+GG: Guernsey
 GN: Guinea
 GQ: 'Guinea Ecuatorial'
 GW: Guinea-Bisáu
@@ -113,10 +114,10 @@ GS: 'Islas Georgia del Sur y Sandwich del Sur'
 FK: 'Islas Malvinas'
 MP: 'Islas Marianas del Norte'
 MH: 'Islas Marshall'
+UM: 'Islas menores alejadas de EE. UU.'
 PN: 'Islas Pitcairn'
 SB: 'Islas Salomón'
 TC: 'Islas Turcas y Caicos'
-UM: 'Islas Ultramarinas Menores de Estados Unidos'
 VG: 'Islas Vírgenes Británicas'
 VI: 'Islas Vírgenes de EE. UU.'
 IL: Israel
@@ -182,12 +183,13 @@ PE: Perú
 PF: 'Polinesia Francesa'
 PL: Polonia
 PT: Portugal
+XA: Pseudo-Accents
+XB: Pseudo-Bidi
 PR: 'Puerto Rico'
 HK: 'RAE de Hong Kong (China)'
 MO: 'RAE de Macao (China)'
 GB: 'Reino Unido'
 CF: 'República Centroafricana'
-CG: 'República del Congo'
 CD: 'República Democrática del Congo'
 DO: 'República Dominicana'
 RE: Reunión
@@ -215,7 +217,6 @@ SX: 'Sint Maarten'
 SY: Siria
 SO: Somalia
 LK: 'Sri Lanka'
-SZ: Suazilandia
 ZA: Sudáfrica
 SD: Sudán
 SS: 'Sudán del Sur'
@@ -242,7 +243,6 @@ TR: Turquía
 TV: Tuvalu
 UA: Ucrania
 UG: Uganda
-UN: 'United Nations'
 UY: Uruguay
 UZ: Uzbekistán
 VU: Vanuatu

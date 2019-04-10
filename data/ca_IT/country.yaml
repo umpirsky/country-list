@@ -64,8 +64,8 @@ SI: Eslovènia
 ES: Espanya
 US: 'Estats Units'
 EE: Estònia
+SZ: eSwatini
 ET: Etiòpia
-EZ: Eurozone
 FJ: Fiji
 PH: Filipines
 FI: Finlàndia
@@ -140,7 +140,7 @@ LI: Liechtenstein
 LT: Lituània
 LU: Luxemburg
 MO: 'Macau (RAE Xina)'
-MK: Macedònia
+MK: 'Macedònia del Nord'
 MG: Madagascar
 MY: Malàisia
 MW: Malawi
@@ -161,7 +161,6 @@ MN: Mongòlia
 ME: Montenegro
 MS: Montserrat
 MM: 'Myanmar (Birmània)'
-UN: 'Nacions Unides'
 NA: Namíbia
 NR: Nauru
 NP: Nepal
@@ -184,6 +183,8 @@ PE: Perú
 PF: 'Polinèsia Francesa'
 PL: Polònia
 PT: Portugal
+XA: Pseudo-Accents
+XB: Pseudo-Bidi
 PR: 'Puerto Rico'
 QA: Qatar
 GB: 'Regne Unit'
@@ -220,13 +221,12 @@ SE: Suècia
 CH: Suïssa
 SR: Surinam
 SJ: 'Svalbard i Jan Mayen'
-SZ: Swazilàndia
 TJ: Tadjikistan
 TH: Tailàndia
 TW: Taiwan
 TZ: Tanzània
 IO: 'Territori Britànic de l’Oceà Índic'
-TF: 'Territoris Francesos del Sud'
+TF: 'Territoris Australs Francesos'
 PS: 'territoris palestins'
 TL: 'Timor Oriental'
 TG: Togo

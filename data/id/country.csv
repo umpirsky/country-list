@@ -1,6 +1,7 @@
 id,value
 AF,Afganistan
 ZA,"Afrika Selatan"
+XA,"Aksen Asing"
 AL,Albania
 DZ,Aljazair
 US,"Amerika Serikat"
@@ -21,6 +22,7 @@ BH,Bahrain
 BD,Bangladesh
 BB,Barbados
 NL,Belanda
+BQ,"Belanda Karibia"
 BY,Belarus
 BE,Belgia
 BZ,Belize
@@ -36,10 +38,9 @@ BG,Bulgaria
 BF,"Burkina Faso"
 BI,Burundi
 TD,Cad
+CZ,Ceko
 EA,"Ceuta dan Melilla"
-CZ,Cheska
 CL,Cile
-CI,"Cote d’Ivoire"
 CW,Curaçao
 DK,Denmark
 DG,"Diego Garcia"
@@ -48,8 +49,8 @@ EC,Ekuador
 SV,"El Salvador"
 ER,Eritrea
 EE,Estonia
+SZ,eSwatini
 ET,Etiopia
-EZ,Eurozone
 FJ,Fiji
 PH,Filipina
 FI,Finlandia
@@ -92,7 +93,6 @@ NC,"Kaledonia Baru"
 KH,Kamboja
 CM,Kamerun
 CA,Kanada
-BQ,"Karibia Belanda"
 KZ,Kazakstan
 KE,Kenya
 AX,"Kepulauan Aland"
@@ -137,7 +137,7 @@ LT,Lituania
 LU,Luksemburg
 MG,Madagaskar
 MO,"Makau SAR Tiongkok"
-MK,Makedonia
+MK,"Makedonia Utara"
 MV,Maladewa
 MW,Malawi
 MY,Malaysia
@@ -170,14 +170,15 @@ OM,Oman
 PK,Pakistan
 PW,Palau
 PA,Panama
+CI,"Pantai Gading"
 PG,"Papua Nugini"
 PY,Paraguay
-UN,"Perserikatan Bangsa-Bangsa"
 PE,Peru
 PL,Polandia
 PF,"Polinesia Prancis"
 PT,Portugal
 FR,Prancis
+XB,Pseudo-Bidi
 PR,"Puerto Riko"
 AC,"Pulau Ascension"
 CX,"Pulau Christmas"
@@ -218,7 +219,6 @@ SD,Sudan
 SS,"Sudan Selatan"
 SY,Suriah
 SR,Suriname
-SZ,Swaziland
 SE,Swedia
 CH,Swiss
 TW,Taiwan

@@ -73,7 +73,6 @@ AE: Emireeti
 ER: Eritureya
 EE: Esitoniya
 ET: Esyopya
-EZ: Eurozone
 FO: 'Faroe Islands'
 FJ: Fiji
 FI: Finilandi
@@ -139,7 +138,7 @@ DO: 'Lipubulika ya Dominika'
 LT: Lisuwenya
 RO: Lomaniya
 LU: Lukisembaaga
-MO: 'Macau SAR China'
+MO: 'Macao SAR China'
 MG: Madagasika
 MW: Malawi
 MY: Malezya
@@ -183,6 +182,8 @@ PL: Polandi
 PF: 'Polinesiya enfalansa'
 PR: Potoriko
 PT: Potugaali
+XA: Pseudo-Accents
+XB: Pseudo-Bidi
 RW: Rwanda
 WS: Samowa
 AS: 'Samowa omumerika'
@@ -233,7 +234,6 @@ TN: Tunisya
 TT: 'Turindaadi ne Tobago'
 TV: Tuvalu
 UM: 'U.S. Outlying Islands'
-UN: 'United Nations'
 VU: Vanawuwatu
 VA: Vatikaani
 VE: Venzwera

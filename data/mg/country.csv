@@ -57,7 +57,6 @@ ES,Espaina
 EE,Estonia
 US,Etazonia
 ET,Ethiopia
-EZ,Eurozone
 IO,"Faridranomasina indiana britanika"
 FO,"Faroe Islands"
 FJ,Fidji
@@ -127,7 +126,7 @@ LY,Libya
 LU,Lioksamboro
 LI,Listenstein
 LT,Litoania
-MO,"Macau SAR China"
+MO,"Macao SAR China"
 MG,Madagasikara
 MK,Makedonia
 MY,Malaizia
@@ -187,6 +186,8 @@ PL,Pôlôna
 PF,"Polynezia frantsay"
 PT,Pôrtiogala
 PR,"Pôrtô Rikô"
+XA,Pseudo-Accents
+XB,Pseudo-Bidi
 DO,"Repoblika Dominikanina"
 CF,"Repoblika Ivon’Afrika"
 CD,"Repoblikan’i Kongo"
@@ -243,7 +244,6 @@ TT,"Trinidad sy Tobagô"
 TA,"Tristan da Cunha"
 TD,Tsady
 UM,"U.S. Outlying Islands"
-UN,"United Nations"
 VU,Vanoatò
 VE,Venezoelà
 VN,Vietnam

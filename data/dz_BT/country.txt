@@ -1,6 +1,6 @@
-Eurozone (EZ)
 Kosovo (XK)
-United Nations (UN)
+Pseudo-Accents (XA)
+Pseudo-Bidi (XB)
 ཀ་ཊར (QA)
 ཀ་ནེ་རི་གླིང་ཚོམ (IC)
 ཀ་ཛགས་སཏཱན (KZ)

@@ -251,5 +251,5 @@
 يېشىل تۇمشۇق (CV)
 يېڭى زېلاندىيە (NZ)
 يېڭى كالېدونىيە (NC)
-Eurozone (EZ)
-United Nations (UN)
+Pseudo-Accents (XA)
+Pseudo-Bidi (XB)

@@ -1,12 +1,12 @@
-CREATE TABLE list (id VARCHAR(10) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+CREATE TABLE list (id VARCHAR(64) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
-INSERT INTO "list" ("id", "value") VALUES (E'UN', E'Birləşmiş Millətlər Təşkilatı');
-INSERT INTO "list" ("id", "value") VALUES (E'EZ', E'Eurozone');
 INSERT INTO "list" ("id", "value") VALUES (E'PS', E'Fələstin Əraziləri');
 INSERT INTO "list" ("id", "value") VALUES (E'BQ', E'Karib Niderlandı');
 INSERT INTO "list" ("id", "value") VALUES (E'CI', E'Kотд’ивуар');
 INSERT INTO "list" ("id", "value") VALUES (E'EH', E'Qərbi Saxara');
 INSERT INTO "list" ("id", "value") VALUES (E'MK', E'Makedoniya');
+INSERT INTO "list" ("id", "value") VALUES (E'XA', E'Psevdo-Aksent');
+INSERT INTO "list" ("id", "value") VALUES (E'XB', E'Psevdo-Bidi');
 INSERT INTO "list" ("id", "value") VALUES (E'VI', E'АБШ Вирҝин адалары');
 INSERT INTO "list" ("id", "value") VALUES (E'UM', E'АБШ-а бағлы кичик адаҹыглар');
 INSERT INTO "list" ("id", "value") VALUES (E'AU', E'Австралија');

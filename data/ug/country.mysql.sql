@@ -1,4 +1,4 @@
-CREATE TABLE list (id VARCHAR(10) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+CREATE TABLE list (id VARCHAR(64) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
 
 INSERT INTO `list` (`id`, `value`) VALUES ('UM', 'ئا ق ش تاشقى ئاراللىرى');
 INSERT INTO `list` (`id`, `value`) VALUES ('VI', 'ئا ق ش ۋىرگىن ئاراللىرى');
@@ -253,5 +253,5 @@ INSERT INTO `list` (`id`, `value`) VALUES ('YE', 'يەمەن');
 INSERT INTO `list` (`id`, `value`) VALUES ('CV', 'يېشىل تۇمشۇق');
 INSERT INTO `list` (`id`, `value`) VALUES ('NZ', 'يېڭى زېلاندىيە');
 INSERT INTO `list` (`id`, `value`) VALUES ('NC', 'يېڭى كالېدونىيە');
-INSERT INTO `list` (`id`, `value`) VALUES ('EZ', 'Eurozone');
-INSERT INTO `list` (`id`, `value`) VALUES ('UN', 'United Nations');
+INSERT INTO `list` (`id`, `value`) VALUES ('XA', 'Pseudo-Accents');
+INSERT INTO `list` (`id`, `value`) VALUES ('XB', 'Pseudo-Bidi');

@@ -20,6 +20,7 @@ BS,Bahamas
 BH,Bahrain
 BD,Bangladesh
 BB,Barbados
+MK,"Bắc Macedonia"
 BY,Belarus
 BZ,Belize
 BJ,Benin
@@ -36,7 +37,7 @@ BG,Bulgaria
 BF,"Burkina Faso"
 BI,Burundi
 BQ,"Ca-ri-bê Hà Lan"
-UM,"Các đảo xa thuộc Hoa Kỳ"
+UM,"Các tiểu đảo xa của Hoa Kỳ"
 AE,"Các Tiểu Vương quốc Ả Rập Thống nhất"
 CM,Cameroon
 KH,Campuchia
@@ -56,7 +57,6 @@ CI,"Côte d’Ivoire"
 HR,Croatia
 CU,Cuba
 CW,Curaçao
-CZ,Czechia
 DG,"Diego Garcia"
 DJ,Djibouti
 DM,Dominica
@@ -66,14 +66,12 @@ AC,"Đảo Ascension"
 CX,"Đảo Giáng Sinh"
 IM,"Đảo Man"
 NF,"Đảo Norfolk"
-AS,"Đảo Somoa thuộc Mỹ"
 DE,Đức
 EC,Ecuador
 SV,"El Salvador"
 ER,Eritrea
 EE,Estonia
 ET,Ethiopia
-EZ,Eurozone
 FJ,Fiji
 GA,Gabon
 GM,Gambia
@@ -105,6 +103,7 @@ IR,Iran
 IQ,Iraq
 IE,Ireland
 IL,Israel
+IT,Italy
 JM,Jamaica
 JE,Jersey
 JO,Jordan
@@ -114,7 +113,7 @@ KI,Kiribati
 XK,Kosovo
 KW,Kuwait
 KG,Kyrgyzstan
-IO,"Lãnh thổ Anh tại Ấn Độ Dương"
+IO,"Lãnh thổ Ấn Độ Dương thuộc Anh"
 PS,"Lãnh thổ Palestine"
 TF,"Lãnh thổ phía Nam Thuộc Pháp"
 LA,Lào
@@ -124,12 +123,10 @@ LB,Li-băng
 LR,Liberia
 LY,Libya
 LI,Liechtenstein
-UN,"Liên hiệp quốc"
 LT,Litva
 LU,Luxembourg
 MA,Ma-rốc
 MO,"Macao, Trung Quốc"
-MK,Macedonia
 MG,Madagascar
 MW,Malawi
 MY,Malaysia
@@ -151,6 +148,7 @@ MN,"Mông Cổ"
 MM,"Myanmar (Miến Điện)"
 NO,"Na Uy"
 AQ,"Nam Cực"
+GS,"Nam Georgia & Quần đảo Nam Sandwich"
 ZA,"Nam Phi"
 SS,"Nam Sudan"
 NA,Namibia
@@ -186,10 +184,9 @@ CK,"Quần đảo Cook"
 FK,"Quần đảo Falkland"
 FO,"Quần đảo Faroe"
 MH,"Quần đảo Marshall"
-GS,"Quần đảo Nam Georgia và Nam Sandwich"
 PN,"Quần đảo Pitcairn"
 SB,"Quần đảo Solomon"
-TC,"Quần đảo Turk và Caicos"
+TC,"Quần đảo Turks và Caicos"
 VG,"Quần đảo Virgin thuộc Anh"
 VI,"Quần đảo Virgin thuộc Mỹ"
 RE,Réunion
@@ -197,8 +194,10 @@ RO,Romania
 RW,Rwanda
 PM,"Saint Pierre và Miquelon"
 WS,Samoa
+AS,"Samoa thuộc Mỹ"
 SM,"San Marino"
 ST,"São Tomé và Príncipe"
+CZ,Séc
 SN,Senegal
 RS,Serbia
 SC,Seychelles
@@ -250,7 +249,8 @@ VE,Venezuela
 VN,"Việt Nam"
 GB,"Vương quốc Anh"
 WF,"Wallis và Futuna"
-IT,Ý
+XA,XA
+XB,XB
 YE,Yemen
 ZM,Zambia
 ZW,Zimbabwe

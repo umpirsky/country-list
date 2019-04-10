@@ -1,14 +1,13 @@
 AF: Afganistan
 CF: 'Afrika Erdiko Errepublika'
-AX: 'Aland uharteak'
+AI: Aingira
+AX: Åland
 AL: Albania
 DE: Alemania
 DZ: Aljeria
-AS: 'Amerikar Samoa'
 US: 'Ameriketako Estatu Batuak'
 UM: 'Ameriketako Estatu Batuetako Kanpoaldeko Uharte Txikiak'
 AD: Andorra
-AI: Angila
 AO: Angola
 AQ: Antartika
 AG: 'Antigua eta Barbuda'
@@ -44,12 +43,12 @@ BI: Burundi
 CV: 'Cabo Verde'
 EA: 'Ceuta eta Melilla'
 CX: 'Christmas uhartea'
-CC: 'Cocos uharteak'
+CC: 'Cocos (Keeling) uharteak'
 CK: 'Cook uharteak'
 CR: 'Costa Rica'
 CW: Curaçao
 DK: Danimarka
-DG: 'Diego Garcia'
+DG: 'Diego García'
 DJ: Djibuti
 DM: Dominika
 DO: 'Dominikar Errepublika'
@@ -67,7 +66,7 @@ SI: Eslovenia
 ES: Espainia
 EE: Estonia
 ET: Etiopia
-EZ: Eurozone
+FK: Falklandak
 FO: 'Faroe uharteak'
 FJ: Fiji
 PH: Filipinak
@@ -79,7 +78,7 @@ GE: Georgia
 GH: Ghana
 GI: Gibraltar
 GN: Ginea
-GW: Ginea-Bissau
+GW: 'Ginea Bissau'
 GD: Grenada
 GR: Grezia
 GL: Groenlandia
@@ -97,13 +96,13 @@ GS: 'Hegoaldeko Georgia eta Hegoaldeko Sandwich uharteak'
 TF: 'Hegoaldeko lurralde frantsesak'
 NL: Herbehereak
 HN: Honduras
-HK: 'Hong Kong AEB Txina'
+HK: 'Hong Kong Txinako AEB'
 HU: Hungaria
 IN: India
 IO: 'Indiako Ozeanoko lurralde britainiarra'
 ID: Indonesia
 KP: 'Ipar Korea'
-MP: 'Iparraldeko Mariana uharteak'
+MP: 'Ipar Mariana uharteak'
 IQ: Irak
 IR: Iran
 IE: Irlanda
@@ -127,7 +126,7 @@ KG: Kirgizistan
 KI: Kiribati
 CO: Kolonbia
 KM: Komoreak
-CG: 'Kongo (Brazzaville)'
+CG: Kongo
 CD: 'Kongoko Errepublika Demokratikoa'
 XK: Kosovo
 HR: Kroazia
@@ -142,17 +141,16 @@ LY: Libia
 LI: Liechtenstein
 LT: Lituania
 LU: Luxenburgo
-MO: 'Macau AEB Txina'
+MO: 'Macau Txinako AEB'
 MG: Madagaskar
 MW: Malawi
 MY: Malaysia
 MV: Maldivak
 ML: Mali
 MT: Malta
-FK: Malvinak
 IM: 'Man uhartea'
 MA: Maroko
-MH: 'Marshall uharteak'
+MH: 'Marshall Uharteak'
 MQ: Martinika
 MR: Mauritania
 MU: Maurizio
@@ -180,7 +178,7 @@ NF: 'Norfolk uhartea'
 OM: Oman
 PK: Pakistan
 PW: Palau
-PS: 'Palestinako Lurraldeak'
+PS: 'Palestinar Lurralde Okupatuak'
 PA: Panama
 PG: 'Papua Ginea Berria'
 PY: Paraguai
@@ -189,6 +187,8 @@ PN: 'Pitcairn uharteak'
 PF: 'Polinesia Frantsesa'
 PL: Polonia
 PT: Portugal
+XA: Pseudo-Accents
+XB: Pseudo-Bidi
 PR: 'Puerto Rico'
 QA: Qatar
 RE: Reunion
@@ -197,8 +197,9 @@ BL: 'Saint Barthélemy'
 KN: 'Saint Kitts eta Nevis'
 VC: 'Saint Vincent eta Grenadinak'
 PM: 'Saint-Pierre eta Mikelune'
-SB: 'Salomon uharteak'
+SB: 'Salomon Uharteak'
 WS: Samoa
+AS: 'Samoa Estatubatuarra'
 SM: 'San Marino'
 MF: 'San Martin'
 SH: 'Santa Helena'
@@ -240,7 +241,6 @@ CL: Txile
 CN: Txina
 UG: Uganda
 UA: Ukraina
-UN: 'United Nations'
 UY: Uruguai
 UZ: Uzbekistan
 VU: Vanuatu

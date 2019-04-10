@@ -1,7 +1,6 @@
 id,value
 AI,Anikuila
 AG,"Anitikua mo Palaputa"
-EZ,Eurozone
 FR,Falanisē
 PH,Filipaini
 FI,Finilani
@@ -55,11 +54,11 @@ LU,Lakisimipeki
 LV,Lativia
 LA,Lau
 LB,Lepanoni
+DO,"Lepupelika Tominika"
+CF,"Lepupelika ʻAfilika Lotoloto"
 LS,Lesoto
 RE,Lēunioni
 LI,Likitenisiteini
-DO,"Lipapilika Tominika"
-CF,"Lipapilika ʻAfilika Lotoloto"
 LY,Līpia
 LT,Lituania
 RO,Lomēnia
@@ -75,10 +74,11 @@ MT,Malita
 MK,Masetōnia
 CI,"Matafonua ʻAivolī"
 MG,Matakasika
-MQ,Māteniki
+MQ,Mātiniki
 MR,Maulitenia
 MU,Maulitiusi
 MX,Mekisikou
+MM,"Mianimā (Pema)"
 FM,Mikolonīsia
 MA,Moloko
 MD,Molotova
@@ -116,7 +116,6 @@ BY,Pelalusi
 BE,Pelesiume
 BZ,Pelise
 PE,Pelū
-MM,Pema
 BM,Pēmuta
 BJ,Penini
 BD,Pengilātesi
@@ -130,6 +129,8 @@ IO,"Potu fonua moana ʻInitia fakapilitānia"
 TF,"Potu fonua tonga fakafalanisē"
 PS,"Potu Palesitaine"
 PT,Potukali
+XA,Pseudo-Accents
+XB,Pseudo-Bidi
 PR,"Puēto Liko"
 US,"Puleʻanga fakatahataha ʻAmelika"
 BG,Pulukalia
@@ -198,7 +199,6 @@ TM,Tūkimenisitani
 TA,"Tulisitani ta Kunuha"
 TN,Tunīsia
 TV,Tūvalu
-UN,"United Nations"
 VU,Vanuatu
 VE,Venesuela
 VN,Vietinami
@@ -206,9 +206,9 @@ IE,ʻAealani
 AF,ʻAfikānisitani
 ZA,"ʻAfilika tonga"
 IS,ʻAisilani
-DZ,ʻAisilia
 AE,"ʻAlepea Fakatahataha"
 AL,ʻAlipania
+DZ,ʻAlisilia
 AW,ʻAlupa
 AM,ʻĀmenia
 AQ,ʻAnitātika

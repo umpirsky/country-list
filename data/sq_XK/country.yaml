@@ -6,21 +6,21 @@ AO: Angolë
 AI: Anguilë
 AQ: Antarktikë
 AG: 'Antigua e Barbuda'
-SA: 'Arabia Saudite'
+SA: 'Arabi Saudite'
 AR: Argjentinë
 AM: Armeni
 AW: Arubë
 AU: Australi
 AT: Austri
 AZ: Azerbajxhan
-BS: Bahamas
+BS: Bahama
 BH: Bahrejn
 BD: Bangladesh
 BB: Barbados
 BE: Belgjikë
 BZ: Belizë
 BJ: Benin
-BM: Bermudë
+BM: Bermude
 BY: Bjellorusi
 BO: Bolivi
 BA: Bosnjë-Hercegovinë
@@ -42,26 +42,27 @@ EC: Ekuador
 AE: 'Emiratet e Bashkuara Arabe'
 ER: Eritre
 EE: Estoni
+SZ: Esvatini
 ET: Etiopi
-EZ: Eurozone
 PH: Filipine
 FI: Finlandë
 FJ: Fixhi
 FR: Francë
 GA: Gabon
-GM: Gambia
+GM: Gambi
 GH: Ganë
 GG: Gernsej
-GD: Grenadë
-GL: Grenlandë
+GD: Granadë
 GR: Greqi
-GP: Guadalupe
+GL: Grënlandë
+GP: Guadelupë
 GF: 'Guajana Franceze'
 GY: Guajanë
 GU: Guam
 GT: Guatemalë
 GN: Guine
 GW: Guine-Bisau
+PG: 'Guineja e Re-Papua'
 GQ: 'Guineja Ekuatoriale'
 GE: Gjeorgji
 DE: Gjermani
@@ -78,8 +79,8 @@ IE: Irlandë
 IS: Islandë
 AX: 'Ishujt Alandë'
 MP: 'Ishujt e Marianës Veriore'
-VI: 'Ishujt e Virgjër Amerikanë'
 VG: 'Ishujt e Virgjër Britanikë'
+VI: 'Ishujt e Virgjër të SHBA-së'
 FK: 'Ishujt Falkland'
 FO: 'Ishujt Faroe'
 KY: 'Ishujt Kajman'
@@ -87,7 +88,7 @@ IC: 'Ishujt Kanarie'
 CC: 'Ishujt Kokos'
 CK: 'Ishujt Kuk'
 MH: 'Ishujt Marshall'
-UM: 'Ishujt periferikë të SHBA-së'
+UM: 'Ishujt Periferikë të SHBA-së'
 PN: 'Ishujt Pitkern'
 SB: 'Ishujt Solomon'
 TC: 'Ishujt Turks dhe Kaikos'
@@ -100,7 +101,7 @@ IL: Izrael
 JP: Japoni
 YE: Jemen
 JO: Jordani
-NC: 'Kaledonia e Re'
+NC: 'Kaledoni e Re'
 KH: Kamboxhia
 CM: Kamerun
 CA: Kanada
@@ -111,20 +112,19 @@ KE: Kenia
 CV: 'Kepi i Gjelbër'
 CL: Kili
 CN: Kinë
-KG: Kirgistan
+KG: Kirgizi
 KI: Kiribati
 CO: Kolumbi
-UN: 'kombet e bashkuara'
 KM: Komore
 CG: Kongo-Brazavilë
 CD: Kongo-Kinshasa
-KR: 'Koreja e Jugut'
-KP: 'Koreja e Veriut'
+KR: 'Kore e Jugut'
+KP: 'Kore e Veriut'
 XK: Kosovë
 CR: Kosta-Rikë
 HR: Kroaci
 CU: Kubë
-CW: Kuraçao
+CW: Kurasao
 KW: Kuvajt
 LA: Laos
 LS: Lesoto
@@ -143,14 +143,14 @@ MW: Malavi
 MV: Maldive
 ML: Mali
 MT: Maltë
-MK: Maqedoni
+MK: 'Maqedonia e Veriut'
 MA: Marok
 MQ: Martinikë
 MR: Mauritani
 MU: Mauritius
 GB: 'Mbretëria e Bashkuar'
 MX: Meksikë
-MM: 'Mianmar (Burma)'
+MM: 'Mianmar (Burmë)'
 FM: Mikronezi
 MD: Moldavi
 MC: Monako
@@ -169,34 +169,37 @@ OM: Oman
 PK: Pakistan
 PW: Palau
 PA: Panama
-PG: 'Papua Guineja e Re'
 PY: Paraguai
 PE: Peru
 PF: 'Polinezia Franceze'
 PL: Poloni
 PR: Porto-Riko
 PT: Portugali
+XB: Pseudo-bidi
+XA: Pseudo-thekse
 CY: Qipro
-CF: 'Repubika e Afrikës Qendrore'
 DO: 'Republika Dominikane'
+CF: 'Republika e Afrikës Qendrore'
 RE: Reunion
+HK: 'RPA i Hong-Kongut'
+MO: 'RPA i Makaos'
 RW: Ruandë
 RO: Rumani
 RU: Rusi
-HK: 'RVAK i Hong Kongut'
-MO: 'RVAK i Makaos'
 EH: 'Saharaja Perëndimore'
 SV: Salvador
 WS: Samoa
 AS: 'Samoa Amerikane'
 SM: San-Marino
-ST: 'Sao-Tome e Prinsipe'
+ST: 'Sao-Tome e Principe'
 SC: Sejshelle
+BL: Sen-Bartelemi
+MF: Sen-Marten
 SN: Senegal
 RS: Serbi
-SL: Siera-Leone
+SL: Sierra-Leone
 SG: Singapor
-SX: 'Sint Marten'
+SX: Sint-Marten
 SY: Siri
 SK: Sllovaki
 SI: Slloveni
@@ -208,16 +211,13 @@ SS: 'Sudani i Jugut'
 SE: Suedi
 SR: Surinami
 SJ: 'Svalbard e Jan-Majen'
-SZ: Svazilandë
-BL: 'Shën Bartolomeu'
-KN: 'Shën Kits dhe Nevis'
-PM: 'Shën Pier dhe Mikelon'
-VC: 'Shën Vincent dhe Grenadine'
-SH: Shën-Helenë
+US: SHBA
+SH: Shën-Elenë
+KN: 'Shën-Kits dhe Nevis'
 LC: Shën-Luçia
-MF: Shën-Martin
+PM: 'Shën-Pier dhe Mikelon'
+VC: 'Shën-Vincent dhe Grenadine'
 AL: Shqipëri
-US: 'Shtetet e Bashkuara të Amerikës'
 TH: Tajlandë
 TW: Tajvan
 TZ: Tanzani
@@ -249,7 +249,7 @@ JM: Xhamajkë
 JE: Xhersej
 DJ: Xhibuti
 GS: 'Xhorxha Jugore dhe Ishujt Senduiçë të Jugut'
-ZM: Zambia
+ZM: Zambi
 NZ: 'Zelandë e Re'
 ZW: Zimbabve
 CH: Zvicër

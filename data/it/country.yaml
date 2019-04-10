@@ -37,7 +37,7 @@ CM: Camerun
 CA: Canada
 CV: 'Capo Verde'
 BQ: 'Caraibi olandesi'
-CZ: Cèchia
+CZ: Cechia
 EA: 'Ceuta e Melilla'
 TD: Ciad
 CL: Cile
@@ -65,7 +65,6 @@ AE: 'Emirati Arabi Uniti'
 ER: Eritrea
 EE: Estonia
 ET: Etiopia
-EZ: Eurozone
 FJ: Figi
 PH: Filippine
 FI: Finlandia
@@ -137,6 +136,7 @@ LY: Libia
 LI: Liechtenstein
 LT: Lituania
 LU: Lussemburgo
+MK: 'Macedonia del Nord'
 MG: Madagascar
 MW: Malawi
 MY: Malaysia
@@ -159,7 +159,6 @@ MZ: Mozambico
 MM: 'Myanmar (Birmania)'
 NA: Namibia
 NR: Nauru
-UN: 'nazioni unite'
 NP: Nepal
 NI: Nicaragua
 NE: Niger
@@ -180,12 +179,13 @@ PF: 'Polinesia francese'
 PL: Polonia
 PT: Portogallo
 PR: Portorico
+XA: pseudo-accenti
+XB: pseudo-bidi
 QA: Qatar
 HK: 'RAS di Hong Kong'
 MO: 'RAS di Macao'
 GB: 'Regno Unito'
 CF: 'Repubblica Centrafricana'
-MK: 'Repubblica di Macedonia'
 DO: 'Repubblica Dominicana'
 RE: Riunione
 RO: Romania
@@ -195,9 +195,9 @@ EH: 'Sahara occidentale'
 KN: 'Saint Kitts e Nevis'
 LC: 'Saint Lucia'
 MF: 'Saint Martin'
-PM: 'Saint Pierre e Miquelon'
-VC: 'Saint Vincent e Grenadines'
+VC: 'Saint Vincent e Grenadine'
 BL: Saint-Barthélemy
+PM: 'Saint-Pierre e Miquelon'
 WS: Samoa
 AS: 'Samoa americane'
 SM: 'San Marino'

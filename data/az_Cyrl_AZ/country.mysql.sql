@@ -1,12 +1,12 @@
-CREATE TABLE list (id VARCHAR(10) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+CREATE TABLE list (id VARCHAR(64) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
 
-INSERT INTO `list` (`id`, `value`) VALUES ('UN', 'Birləşmiş Millətlər Təşkilatı');
-INSERT INTO `list` (`id`, `value`) VALUES ('EZ', 'Eurozone');
 INSERT INTO `list` (`id`, `value`) VALUES ('PS', 'Fələstin Əraziləri');
 INSERT INTO `list` (`id`, `value`) VALUES ('BQ', 'Karib Niderlandı');
 INSERT INTO `list` (`id`, `value`) VALUES ('CI', 'Kотд’ивуар');
 INSERT INTO `list` (`id`, `value`) VALUES ('EH', 'Qərbi Saxara');
 INSERT INTO `list` (`id`, `value`) VALUES ('MK', 'Makedoniya');
+INSERT INTO `list` (`id`, `value`) VALUES ('XA', 'Psevdo-Aksent');
+INSERT INTO `list` (`id`, `value`) VALUES ('XB', 'Psevdo-Bidi');
 INSERT INTO `list` (`id`, `value`) VALUES ('VI', 'АБШ Вирҝин адалары');
 INSERT INTO `list` (`id`, `value`) VALUES ('UM', 'АБШ-а бағлы кичик адаҹыглар');
 INSERT INTO `list` (`id`, `value`) VALUES ('AU', 'Австралија');

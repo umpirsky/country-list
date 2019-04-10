@@ -58,15 +58,14 @@ DG: 'Diego Garcia'
 DJ: Djibouti
 DM: Dominique
 EG: Égypte
-SV: 'El Salvador'
 AE: 'Émirats arabes unis'
 EC: Équateur
 ER: Érythrée
 ES: Espagne
 EE: Estonie
+SZ: Eswatini
 US: États-Unis
 ET: Éthiopie
-EZ: Eurozone
 FJ: Fidji
 FI: Finlande
 FR: France
@@ -160,7 +159,6 @@ MS: Montserrat
 MZ: Mozambique
 MM: Myanmar
 NA: Namibie
-UN: 'Nations Unies'
 NR: Nauru
 NP: Népal
 NI: Nicaragua
@@ -186,6 +184,8 @@ PL: Pologne
 PF: 'Polynésie française'
 PR: 'Porto Rico'
 PT: Portugal
+XA: pseudo-accents
+XB: pseudo-bidi
 QA: Qatar
 HK: 'R.A.S. chinoise de Hong Kong'
 MO: 'R.A.S. chinoise de Macao'
@@ -205,6 +205,7 @@ PM: Saint-Pierre-et-Miquelon
 VC: 'Saint-Vincent-et-les Grenadines'
 SH: Sainte-Hélène
 LC: Sainte-Lucie
+SV: Salvador
 WS: Samoa
 AS: 'Samoa américaines'
 ST: 'Sao Tomé-et-Principe'
@@ -223,7 +224,6 @@ SE: Suède
 CH: Suisse
 SR: Suriname
 SJ: 'Svalbard et Jan Mayen'
-SZ: Swaziland
 SY: Syrie
 TJ: Tadjikistan
 TW: Taïwan
@@ -231,7 +231,7 @@ TZ: Tanzanie
 TD: Tchad
 CZ: Tchéquie
 TF: 'Terres australes françaises'
-IO: 'Territoire britannique de l’océan Indien'
+IO: 'territoire britannique de l’océan Indien'
 PS: 'Territoires palestiniens'
 TH: Thaïlande
 TL: Timor-Leste

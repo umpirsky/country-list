@@ -1,9 +1,9 @@
-CREATE TABLE list (id VARCHAR(10) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+CREATE TABLE list (id VARCHAR(64) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
 
 INSERT INTO `list` (`id`, `value`) VALUES ('IE', 'අයර්ලන්තය');
 INSERT INTO `list` (`id`, `value`) VALUES ('IM', 'අයිල් ඔෆ් මෑන්');
 INSERT INTO `list` (`id`, `value`) VALUES ('IS', 'අයිස්ලන්තය');
-INSERT INTO `list` (`id`, `value`) VALUES ('AW', 'අරුබාව');
+INSERT INTO `list` (`id`, `value`) VALUES ('AW', 'අරූබා');
 INSERT INTO `list` (`id`, `value`) VALUES ('AZ', 'අසර්බයිජානය');
 INSERT INTO `list` (`id`, `value`) VALUES ('AR', 'ආර්ජෙන්ටිනාව');
 INSERT INTO `list` (`id`, `value`) VALUES ('AM', 'ආර්මේනියාව');
@@ -13,7 +13,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('AQ', 'ඇන්ටාක්ටික
 INSERT INTO `list` (`id`, `value`) VALUES ('AG', 'ඇන්ටිගුවා සහ බාබියුඩාව');
 INSERT INTO `list` (`id`, `value`) VALUES ('AD', 'ඇන්ඩෝරාව');
 INSERT INTO `list` (`id`, `value`) VALUES ('VI', 'ඇමරිකානු වර්ජින් දූපත්');
-INSERT INTO `list` (`id`, `value`) VALUES ('AS', 'ඇමරිකානු සැමෝවාව');
+INSERT INTO `list` (`id`, `value`) VALUES ('AS', 'ඇමරිකානු සැමෝවා');
 INSERT INTO `list` (`id`, `value`) VALUES ('DZ', 'ඇල්ජීරියාව');
 INSERT INTO `list` (`id`, `value`) VALUES ('AL', 'ඇල්බේනියාව');
 INSERT INTO `list` (`id`, `value`) VALUES ('AC', 'ඇසෙන්ෂන් දිවයින');
@@ -35,7 +35,6 @@ INSERT INTO `list` (`id`, `value`) VALUES ('UZ', 'උස්බෙකිස්ථ
 INSERT INTO `list` (`id`, `value`) VALUES ('AE', 'එක්සත් අරාබි එමිර් රාජ්‍යය');
 INSERT INTO `list` (`id`, `value`) VALUES ('UM', 'එක්සත් ජනපද ඈත දූපත්');
 INSERT INTO `list` (`id`, `value`) VALUES ('US', 'එක්සත් ජනපදය');
-INSERT INTO `list` (`id`, `value`) VALUES ('UN', 'එක්සත් ජාතීන්');
 INSERT INTO `list` (`id`, `value`) VALUES ('GB', 'එක්සත් රාජධානිය');
 INSERT INTO `list` (`id`, `value`) VALUES ('ER', 'එරිත්‍රියාව');
 INSERT INTO `list` (`id`, `value`) VALUES ('SV', 'එල් සැල්වදෝරය');
@@ -86,7 +85,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('GH', 'ඝානාව');
 INSERT INTO `list` (`id`, `value`) VALUES ('TD', 'චැච්');
 INSERT INTO `list` (`id`, `value`) VALUES ('CL', 'චිලී');
 INSERT INTO `list` (`id`, `value`) VALUES ('CN', 'චීනය');
-INSERT INTO `list` (`id`, `value`) VALUES ('CZ', 'චෙක්');
+INSERT INTO `list` (`id`, `value`) VALUES ('CZ', 'චෙචියාව');
 INSERT INTO `list` (`id`, `value`) VALUES ('JP', 'ජපානය');
 INSERT INTO `list` (`id`, `value`) VALUES ('DE', 'ජර්මනිය');
 INSERT INTO `list` (`id`, `value`) VALUES ('JE', 'ජර්සි');
@@ -153,7 +152,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('BM', 'බර්මියුඩා');
 INSERT INTO `list` (`id`, `value`) VALUES ('BG', 'බල්ගේරියාව');
 INSERT INTO `list` (`id`, `value`) VALUES ('BS', 'බහමාස්');
 INSERT INTO `list` (`id`, `value`) VALUES ('BH', 'බහරේන්');
-INSERT INTO `list` (`id`, `value`) VALUES ('BB', 'බාර්බඩෝස්');
+INSERT INTO `list` (`id`, `value`) VALUES ('BB', 'බාබඩෝස්');
 INSERT INTO `list` (`id`, `value`) VALUES ('BI', 'බුරුන්දි');
 INSERT INTO `list` (`id`, `value`) VALUES ('BN', 'බෲනායි');
 INSERT INTO `list` (`id`, `value`) VALUES ('BJ', 'බෙනින්');
@@ -254,4 +253,5 @@ INSERT INTO `list` (`id`, `value`) VALUES ('FO', 'ෆැරෝ දූපත්')
 INSERT INTO `list` (`id`, `value`) VALUES ('FI', 'ෆින්ලන්තය');
 INSERT INTO `list` (`id`, `value`) VALUES ('FJ', 'ෆීජී');
 INSERT INTO `list` (`id`, `value`) VALUES ('FK', 'ෆෝක්ලන්ත දූපත්');
-INSERT INTO `list` (`id`, `value`) VALUES ('EZ', 'Eurozone');
+INSERT INTO `list` (`id`, `value`) VALUES ('XA', 'Pseudo-Accents');
+INSERT INTO `list` (`id`, `value`) VALUES ('XB', 'Pseudo-Bidi');

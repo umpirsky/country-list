@@ -60,7 +60,6 @@ GQ: Equatoriaal-Guinea
 ER: Eritrea
 EE: Estlân
 ET: Ethiopië
-EZ: Eurozone
 FO: Faeröer
 FK: Falklâneilannen
 US: 'Ferienigde Staten'
@@ -179,6 +178,8 @@ PE: Peru
 PN: Pitcairneilannen
 PL: Polen
 PT: Portugal
+XA: Pseudo-Accents
+XB: Pseudo-Bidi
 PR: 'Puerto Rico'
 QA: Qatar
 RE: Réunion
@@ -237,7 +238,6 @@ TR: Turkije
 TM: Turkmenistan
 TC: 'Turks- en Caicoseilannen'
 TV: Tuvalu
-UN: 'United Nations'
 UY: Uruguay
 VU: Vanuatu
 VA: Vaticaanstêd

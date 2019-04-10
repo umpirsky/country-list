@@ -33,7 +33,7 @@ BF,"Burkina Faso"
 BI,Burundi
 BT,Butan
 KY,Caymanoyggjar
-EA,"Ceuta og Melilla"
+EA,"Ceuta & Melilla"
 CK,Cooksoyggjar
 CW,Curaçao
 DK,Danmark
@@ -48,7 +48,6 @@ SV,"El Salvador"
 ER,Eritrea
 EE,Estland
 ET,Etiopia
-EZ,Eurozone
 AT,Eysturríki
 TL,Eysturtimor
 FK,Falklandsoyggjar
@@ -179,12 +178,14 @@ PE,Peru
 PN,Pitcairnoyggjar
 PL,Pólland
 PT,Portugal
+XA,Pseudo-Accents
+XB,Pseudo-Bidi
 PR,"Puerto Riko"
 RE,Réunion
 RW,Ruanda
 RO,Rumenia
 RU,Russland
-PM,"Saint Pierre og Miquelon"
+PM,"Saint Pierre & Miquelon"
 SB,Salomonoyggjar
 US,"Sambandsríki Amerika"
 UM,"Sambandsríki Amerikas fjarskotnu oyggjar"
@@ -207,8 +208,8 @@ SI,Slovenia
 SO,Somalia
 ES,Spania
 LK,"Sri Lanka"
-BL,St-Barthélemy
 MF,St-Martin
+BL,"St. Barthélemy"
 SH,"St. Helena"
 KN,"St. Kitts & Nevis"
 LC,"St. Lusia"
@@ -245,7 +246,6 @@ DE,Týskland
 UG,Uganda
 UA,Ukraina
 HU,Ungarn
-UN,"United Nations"
 UY,Uruguai
 UZ,Usbekistan
 VU,Vanuatu

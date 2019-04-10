@@ -1,4 +1,4 @@
-CREATE TABLE list (id VARCHAR(10) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+CREATE TABLE list (id VARCHAR(64) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
 
 INSERT INTO `list` (`id`, `value`) VALUES ('AR', 'آرژانتین');
 INSERT INTO `list` (`id`, `value`) VALUES ('AW', 'آروبا');
@@ -21,6 +21,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('EE', 'استونی');
 INSERT INTO `list` (`id`, `value`) VALUES ('IL', 'اسرائیل');
 INSERT INTO `list` (`id`, `value`) VALUES ('SK', 'اسلواکی');
 INSERT INTO `list` (`id`, `value`) VALUES ('SI', 'اسلوونی');
+INSERT INTO `list` (`id`, `value`) VALUES ('SZ', 'اسواتینی');
 INSERT INTO `list` (`id`, `value`) VALUES ('SJ', 'اسوالبارد و جان‌ماین');
 INSERT INTO `list` (`id`, `value`) VALUES ('ZA', 'افریقای جنوبی');
 INSERT INTO `list` (`id`, `value`) VALUES ('AF', 'افغانستان');
@@ -122,11 +123,11 @@ INSERT INTO `list` (`id`, `value`) VALUES ('ZW', 'زیمبابوه');
 INSERT INTO `list` (`id`, `value`) VALUES ('JP', 'ژاپن');
 INSERT INTO `list` (`id`, `value`) VALUES ('ST', 'سائوتومه و پرینسیپ');
 INSERT INTO `list` (`id`, `value`) VALUES ('CI', 'ساحل عاج');
-INSERT INTO `list` (`id`, `value`) VALUES ('UN', 'سازمان ملل متحد');
 INSERT INTO `list` (`id`, `value`) VALUES ('WS', 'ساموآ');
 INSERT INTO `list` (`id`, `value`) VALUES ('AS', 'ساموآی امریکا');
 INSERT INTO `list` (`id`, `value`) VALUES ('SM', 'سان‌مارینو');
 INSERT INTO `list` (`id`, `value`) VALUES ('EA', 'سبته و ملیله');
+INSERT INTO `list` (`id`, `value`) VALUES ('TF', 'سرزمین‌های جنوب فرانسه');
 INSERT INTO `list` (`id`, `value`) VALUES ('PS', 'سرزمین‌های فلسطینی');
 INSERT INTO `list` (`id`, `value`) VALUES ('LK', 'سری‌لانکا');
 INSERT INTO `list` (`id`, `value`) VALUES ('BL', 'سن بارتلمی');
@@ -139,7 +140,6 @@ INSERT INTO `list` (`id`, `value`) VALUES ('VC', 'سنت وینسنت و گرن�
 INSERT INTO `list` (`id`, `value`) VALUES ('SH', 'سنت هلن');
 INSERT INTO `list` (`id`, `value`) VALUES ('SG', 'سنگاپور');
 INSERT INTO `list` (`id`, `value`) VALUES ('SN', 'سنگال');
-INSERT INTO `list` (`id`, `value`) VALUES ('SZ', 'سوازیلند');
 INSERT INTO `list` (`id`, `value`) VALUES ('SE', 'سوئد');
 INSERT INTO `list` (`id`, `value`) VALUES ('CH', 'سوئیس');
 INSERT INTO `list` (`id`, `value`) VALUES ('SD', 'سودان');
@@ -165,7 +165,6 @@ INSERT INTO `list` (`id`, `value`) VALUES ('KG', 'قرقیزستان');
 INSERT INTO `list` (`id`, `value`) VALUES ('KZ', 'قزاقستان');
 INSERT INTO `list` (`id`, `value`) VALUES ('QA', 'قطر');
 INSERT INTO `list` (`id`, `value`) VALUES ('IO', 'قلمرو بریتانیا در اقیانوس هند');
-INSERT INTO `list` (`id`, `value`) VALUES ('TF', 'قلمروهای جنوبی فرانسه');
 INSERT INTO `list` (`id`, `value`) VALUES ('CR', 'کاستاریکا');
 INSERT INTO `list` (`id`, `value`) VALUES ('NC', 'کالدونیای جدید');
 INSERT INTO `list` (`id`, `value`) VALUES ('KH', 'کامبوج');
@@ -181,7 +180,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('KE', 'کنیا');
 INSERT INTO `list` (`id`, `value`) VALUES ('CU', 'کوبا');
 INSERT INTO `list` (`id`, `value`) VALUES ('CW', 'کوراسائو');
 INSERT INTO `list` (`id`, `value`) VALUES ('XK', 'کوزوو');
-INSERT INTO `list` (`id`, `value`) VALUES ('KM', 'کومورو');
+INSERT INTO `list` (`id`, `value`) VALUES ('KM', 'کومور');
 INSERT INTO `list` (`id`, `value`) VALUES ('KW', 'کویت');
 INSERT INTO `list` (`id`, `value`) VALUES ('CV', 'کیپ‌ورد');
 INSERT INTO `list` (`id`, `value`) VALUES ('KI', 'کیریباتی');
@@ -211,7 +210,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('LT', 'لیتوانی');
 INSERT INTO `list` (`id`, `value`) VALUES ('LI', 'لیختن‌اشتاین');
 INSERT INTO `list` (`id`, `value`) VALUES ('MG', 'ماداگاسکار');
 INSERT INTO `list` (`id`, `value`) VALUES ('MQ', 'مارتینیک');
-INSERT INTO `list` (`id`, `value`) VALUES ('MO', 'ماکائو، ناحیهٔ ویژهٔ حکومتی چین');
+INSERT INTO `list` (`id`, `value`) VALUES ('MO', 'ماکائو، منطقۀ ویژۀ اداری چین');
 INSERT INTO `list` (`id`, `value`) VALUES ('MW', 'مالاوی');
 INSERT INTO `list` (`id`, `value`) VALUES ('MT', 'مالت');
 INSERT INTO `list` (`id`, `value`) VALUES ('MV', 'مالدیو');
@@ -222,7 +221,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('HU', 'مجارستان');
 INSERT INTO `list` (`id`, `value`) VALUES ('MA', 'مراکش');
 INSERT INTO `list` (`id`, `value`) VALUES ('EG', 'مصر');
 INSERT INTO `list` (`id`, `value`) VALUES ('MN', 'مغولستان');
-INSERT INTO `list` (`id`, `value`) VALUES ('MK', 'مقدونیه');
+INSERT INTO `list` (`id`, `value`) VALUES ('MK', 'مقدونیهٔ شمالی');
 INSERT INTO `list` (`id`, `value`) VALUES ('MX', 'مکزیک');
 INSERT INTO `list` (`id`, `value`) VALUES ('MR', 'موریتانی');
 INSERT INTO `list` (`id`, `value`) VALUES ('MU', 'موریس');
@@ -251,7 +250,8 @@ INSERT INTO `list` (`id`, `value`) VALUES ('HT', 'هائیتی');
 INSERT INTO `list` (`id`, `value`) VALUES ('NL', 'هلند');
 INSERT INTO `list` (`id`, `value`) VALUES ('IN', 'هند');
 INSERT INTO `list` (`id`, `value`) VALUES ('HN', 'هندوراس');
-INSERT INTO `list` (`id`, `value`) VALUES ('HK', 'هنگ‌کنگ، ناحیهٔ ویژهٔ حکومتی چین');
+INSERT INTO `list` (`id`, `value`) VALUES ('HK', 'هنگ‌کنگ، منطقۀ ویژۀ اداری چین');
 INSERT INTO `list` (`id`, `value`) VALUES ('YE', 'یمن');
 INSERT INTO `list` (`id`, `value`) VALUES ('GR', 'یونان');
-INSERT INTO `list` (`id`, `value`) VALUES ('EZ', 'Eurozone');
+INSERT INTO `list` (`id`, `value`) VALUES ('XA', 'Pseudo-Accents');
+INSERT INTO `list` (`id`, `value`) VALUES ('XB', 'Pseudo-Bidi');

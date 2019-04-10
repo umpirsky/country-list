@@ -1,7 +1,7 @@
-CREATE TABLE list (id VARCHAR(10) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+CREATE TABLE list (id VARCHAR(64) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
 
-INSERT INTO `list` (`id`, `value`) VALUES ('UN', 'Birlashgan Millatlar Tashkiloti');
-INSERT INTO `list` (`id`, `value`) VALUES ('EZ', 'Eurozone');
+INSERT INTO `list` (`id`, `value`) VALUES ('XA', 'Pseudo-Accents');
+INSERT INTO `list` (`id`, `value`) VALUES ('XB', 'Pseudo-Bidi');
 INSERT INTO `list` (`id`, `value`) VALUES ('AU', 'Австралия');
 INSERT INTO `list` (`id`, `value`) VALUES ('AT', 'Австрия');
 INSERT INTO `list` (`id`, `value`) VALUES ('VI', 'АҚШ Виргин ороллари');
@@ -10,7 +10,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('AX', 'Аланд ороллари');
 INSERT INTO `list` (`id`, `value`) VALUES ('AL', 'Албания');
 INSERT INTO `list` (`id`, `value`) VALUES ('US', 'Америка Қўшма Штатлари');
 INSERT INTO `list` (`id`, `value`) VALUES ('AS', 'Америка Самоаси');
-INSERT INTO `list` (`id`, `value`) VALUES ('AI', 'Ангиля');
+INSERT INTO `list` (`id`, `value`) VALUES ('AI', 'Ангилья');
 INSERT INTO `list` (`id`, `value`) VALUES ('AO', 'Ангола');
 INSERT INTO `list` (`id`, `value`) VALUES ('AD', 'Андорра');
 INSERT INTO `list` (`id`, `value`) VALUES ('AQ', 'Антарктида');
@@ -23,8 +23,8 @@ INSERT INTO `list` (`id`, `value`) VALUES ('BS', 'Багама ороллари'
 INSERT INTO `list` (`id`, `value`) VALUES ('BD', 'Бангладеш');
 INSERT INTO `list` (`id`, `value`) VALUES ('BB', 'Барбадос');
 INSERT INTO `list` (`id`, `value`) VALUES ('BH', 'Баҳрайн');
+INSERT INTO `list` (`id`, `value`) VALUES ('BY', 'Беларус');
 INSERT INTO `list` (`id`, `value`) VALUES ('BZ', 'Белиз');
-INSERT INTO `list` (`id`, `value`) VALUES ('BY', 'Белорусия');
 INSERT INTO `list` (`id`, `value`) VALUES ('BE', 'Бельгия');
 INSERT INTO `list` (`id`, `value`) VALUES ('BJ', 'Бенин');
 INSERT INTO `list` (`id`, `value`) VALUES ('BM', 'Бермуда');
@@ -35,8 +35,8 @@ INSERT INTO `list` (`id`, `value`) VALUES ('BQ', 'Бонейр, Синт-Эст�
 INSERT INTO `list` (`id`, `value`) VALUES ('BA', 'Босния ва Герцеговина');
 INSERT INTO `list` (`id`, `value`) VALUES ('BW', 'Ботсванна');
 INSERT INTO `list` (`id`, `value`) VALUES ('BR', 'Бразилия');
+INSERT INTO `list` (`id`, `value`) VALUES ('VG', 'Британия Виргин ороллари');
 INSERT INTO `list` (`id`, `value`) VALUES ('IO', 'Британиянинг Ҳинд океанидаги ҳудуди');
-INSERT INTO `list` (`id`, `value`) VALUES ('VG', 'Бртания Виргин ороллари');
 INSERT INTO `list` (`id`, `value`) VALUES ('BN', 'Бруней');
 INSERT INTO `list` (`id`, `value`) VALUES ('BF', 'Буркина-Фасо');
 INSERT INTO `list` (`id`, `value`) VALUES ('BI', 'Бурунди');
@@ -230,7 +230,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('FI', 'Финляндия');
 INSERT INTO `list` (`id`, `value`) VALUES ('FK', 'Фолкленд ороллари');
 INSERT INTO `list` (`id`, `value`) VALUES ('FR', 'Франция');
 INSERT INTO `list` (`id`, `value`) VALUES ('GF', 'Француз Гвианаси');
-INSERT INTO `list` (`id`, `value`) VALUES ('TF', 'Француз жанубий худудлари');
+INSERT INTO `list` (`id`, `value`) VALUES ('TF', 'Француз жанубий ҳудудлари');
 INSERT INTO `list` (`id`, `value`) VALUES ('PF', 'Француз Полинезияси');
 INSERT INTO `list` (`id`, `value`) VALUES ('CN', 'Хитой');
 INSERT INTO `list` (`id`, `value`) VALUES ('HR', 'Хорватия');

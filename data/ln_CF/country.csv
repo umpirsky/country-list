@@ -64,7 +64,6 @@ NF,"Esanga Norfokɛ"
 ES,Esipanye
 EE,Esitoni
 ET,Etsíopi
-EZ,Eurozone
 EG,Ezípite
 FR,Falánsɛ
 FO,"Faroe Islands"
@@ -132,7 +131,7 @@ LU,Likisambulu
 LI,Lishɛteni
 LT,Litwani
 IO,"Mabelé ya Angɛlɛtɛ́lɛ na mbú ya Indiya"
-MO,"Macau SAR China"
+MO,"Macao SAR China"
 MG,Madagasikari
 MV,Madívɛ
 MW,Malawi
@@ -178,6 +177,8 @@ PN,Pikairni
 PF,"Polinezi ya Falánsɛ"
 PL,Poloni
 PR,Pɔtoriko
+XA,Pseudo-Accents
+XB,Pseudo-Bidi
 PT,Putúlugɛsi
 CF,"Repibiki ya Afríka ya Káti"
 DO,"Repibiki ya Domínikɛ"
@@ -237,7 +238,6 @@ TD,Tsádi
 TV,Tuvalu
 UM,"U.S. Outlying Islands"
 UG,Uganda
-UN,"United Nations"
 UZ,Uzibɛkisitá
 VU,Vanuatu
 VA,Vatiká

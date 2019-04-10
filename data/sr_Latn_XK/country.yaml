@@ -51,7 +51,6 @@ GQ: 'Ekvatorijalna Gvineja'
 ER: Eritreja
 EE: Estonija
 ET: Etiopija
-EZ: Eurozone
 FO: 'Farska Ostrva'
 FJ: Fidži
 PH: Filipini
@@ -134,7 +133,6 @@ LU: Luksemburg
 MG: Madagaskar
 HU: Mađarska
 YT: Majot
-MK: Makedonija
 MW: Malavi
 MV: Maldivi
 MY: Malezija
@@ -195,10 +193,10 @@ HK: 'SAR Hongkong'
 MO: 'SAR Makao'
 SA: 'Saudijska Arabija'
 SC: Sejšeli
-BL: 'Sen Bartelemi'
 SN: Senegal
 EA: 'Seuta i Melilja'
 KP: 'Severna Koreja'
+MK: 'Severna Makedonija'
 MP: 'Severna Marijanska Ostrva'
 SL: 'Sijera Leone'
 SG: Singapur
@@ -215,6 +213,7 @@ SJ: 'Svalbard i Jan Majen'
 SZ: Svazilend
 SH: 'Sveta Jelena'
 LC: 'Sveta Lucija'
+BL: 'Sveti Bartolomej'
 KN: 'Sveti Kits i Nevis'
 MF: 'Sveti Martin (Francuska)'
 SX: 'Sveti Martin (Holandija)'
@@ -239,7 +238,6 @@ TM: Turkmenistan
 TR: Turska
 TV: Tuvalu
 UG: Uganda
-UN: 'Ujedinjene nacije'
 AE: 'Ujedinjeni Arapski Emirati'
 GB: 'Ujedinjeno Kraljevstvo'
 UA: Ukrajina
@@ -250,6 +248,8 @@ VU: Vanuatu
 VA: Vatikan
 VE: Venecuela
 VN: Vijetnam
+XA: XA
+XB: XB
 ZM: Zambija
 EH: 'Zapadna Sahara'
 ZW: Zimbabve

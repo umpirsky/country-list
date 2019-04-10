@@ -59,7 +59,6 @@ GQ: 'Ekvatora Gvineo'
 ER: Eritreo
 EE: Estonujo
 ET: Etiopujo
-EZ: Eurozone
 FK: 'Falkland Islands'
 FO: Ferooj
 FJ: Fiĝoj
@@ -134,7 +133,7 @@ LY: Libio
 LI: Liĥtenŝtejno
 LT: Litovujo
 LU: Luksemburgo
-MO: 'Macau SAR China'
+MO: 'Macao SAR China'
 MG: Madagaskaro
 YT: Majoto
 MK: Makedonujo
@@ -182,6 +181,8 @@ PE: Peruo
 PN: 'Pitkarna Insulo'
 PL: Pollando
 PT: Portugalujo
+XA: Pseudo-Accents
+XB: Pseudo-Bidi
 PR: Puerto-Riko
 RE: Reunio
 RW: Ruando
@@ -238,7 +239,6 @@ TR: Turkujo
 TV: Tuvalo
 UG: Ugando
 UA: Ukrajno
-UN: 'United Nations'
 GB: 'Unuiĝinta Reĝlando'
 AE: 'Unuiĝintaj Arabaj Emirlandoj'
 UY: Urugvajo

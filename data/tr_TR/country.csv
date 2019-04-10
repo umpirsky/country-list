@@ -1,5 +1,5 @@
 id,value
-UM,"ABD Uzak Adaları"
+UM,"ABD Küçük Harici Adaları"
 VI,"ABD Virjin Adaları"
 AF,Afganistan
 AX,"Åland Adaları"
@@ -30,7 +30,6 @@ BJ,Benin
 BM,Bermuda
 AE,"Birleşik Arap Emirlikleri"
 GB,"Birleşik Krallık"
-UN,"Birleşmiş Milletler"
 BO,Bolivya
 BA,Bosna-Hersek
 BW,Botsvana
@@ -45,6 +44,7 @@ BT,Butan
 CV,"Cape Verde"
 KY,"Cayman Adaları"
 GI,Cebelitarık
+EA,"Ceuta ve Melilla"
 DZ,Cezayir
 CX,"Christmas Adası"
 DJ,Cibuti
@@ -67,8 +67,8 @@ ID,Endonezya
 ER,Eritre
 AM,Ermenistan
 EE,Estonya
+SZ,Esvatini
 ET,Etiyopya
-EZ,Eurozone
 FK,"Falkland Adaları"
 FO,"Faroe Adaları"
 MA,Fas
@@ -88,7 +88,7 @@ GN,Gine
 GW,Gine-Bissau
 GD,Grenada
 GL,Grönland
-GP,Guadalupe
+GP,Guadeloupe
 GU,Guam
 GT,Guatemala
 GG,Guernsey
@@ -120,7 +120,7 @@ CM,Kamerun
 CA,Kanada
 IC,"Kanarya Adaları"
 ME,Karadağ
-BQ,"Karayip Hollanda"
+BQ,"Karayip Hollandası"
 QA,Katar
 KZ,Kazakistan
 KE,Kenya
@@ -135,6 +135,7 @@ XK,Kosova
 CR,"Kosta Rika"
 KW,Kuveyt
 KP,"Kuzey Kore"
+MK,"Kuzey Makedonya"
 MP,"Kuzey Mariana Adaları"
 CU,Küba
 LA,Laos
@@ -148,7 +149,6 @@ LB,Lübnan
 LU,Lüksemburg
 HU,Macaristan
 MG,Madagaskar
-MK,Makedonya
 MW,Malavi
 MV,Maldivler
 MY,Malezya
@@ -190,6 +190,8 @@ PN,"Pitcairn Adaları"
 PL,Polonya
 PT,Portekiz
 PR,"Porto Riko"
+XA,Pseudo-Accents
+XB,Pseudo-Bidi
 RE,Réunion
 RO,Romanya
 RW,Ruanda
@@ -205,7 +207,6 @@ WS,Samoa
 SM,"San Marino"
 ST,"São Tomé ve Príncipe"
 SN,Senegal
-EA,"Septe ve Melilla"
 SC,Seyşeller
 RS,Sırbistan
 SL,"Sierra Leone"
@@ -221,7 +222,6 @@ SR,Surinam
 SY,Suriye
 SA,"Suudi Arabistan"
 SJ,"Svalbard ve Jan Mayen"
-SZ,Svaziland
 CL,Şili
 TJ,Tacikistan
 TZ,Tanzanya

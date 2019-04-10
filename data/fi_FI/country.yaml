@@ -55,7 +55,6 @@ GS: 'Etelä-Georgia ja Eteläiset Sandwichsaaret'
 KR: Etelä-Korea
 SS: Etelä-Sudan
 ET: Etiopia
-EZ: Eurozone
 FK: Falklandinsaaret
 FJ: Fidži
 PH: Filippiinit
@@ -130,7 +129,6 @@ LU: Luxemburg
 EH: Länsi-Sahara
 MO: 'Macao – Kiinan e.h.a.'
 MG: Madagaskar
-MK: Makedonia
 MW: Malawi
 MV: Malediivit
 MY: Malesia
@@ -172,8 +170,11 @@ PY: Paraguay
 PE: Peru
 PN: Pitcairn
 KP: Pohjois-Korea
+MK: Pohjois-Makedonia
 MP: Pohjois-Mariaanit
 PT: Portugali
+XA: Pseudo-Accents
+XB: Pseudo-Bidi
 PR: 'Puerto Rico'
 PL: Puola
 GQ: 'Päiväntasaajan Guinea'
@@ -227,7 +228,7 @@ TO: Tonga
 TT: 'Trinidad ja Tobago'
 TA: 'Tristan da Cunha'
 TD: Tšad
-CZ: Tšekinmaa
+CZ: Tšekki
 TN: Tunisia
 TR: Turkki
 TM: Turkmenistan
@@ -248,7 +249,6 @@ RU: Venäjä
 VN: Vietnam
 EE: Viro
 WF: 'Wallis ja Futuna'
-UN: 'Yhdistyneet kansakunnat'
 US: Yhdysvallat
 UM: 'Yhdysvaltain erillissaaret'
 VI: 'Yhdysvaltain Neitsytsaaret'

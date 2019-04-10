@@ -54,7 +54,6 @@ IM: 'Enez Vanav'
 ER: Eritrea
 EE: Estonia
 ET: Etiopia
-EZ: Eurozone
 FJ: Fidji
 PH: Filipinez
 FI: Finland
@@ -180,11 +179,12 @@ PE: Perou
 PF: 'Polinezia Cʼhall'
 PL: Polonia
 PT: Portugal
+XA: Pseudo-Accents
+XB: Pseudo-Bidi
 PR: 'Puerto Rico'
 QA: Qatar
 DO: 'Republik Dominikan'
 CF: 'Republik Kreizafrikan'
-CZ: 'Republik Tchek'
 GB: Rouantelezh-Unanet
 RO: Roumania
 RU: Rusia
@@ -228,6 +228,7 @@ TJ: Tadjikistan
 TW: Taiwan
 TZ: Tanzania
 TD: Tchad
+CZ: Tchekia
 TH: Thailand
 TL: Timor-Leste
 IO: 'Tiriad breizhveurat Meurvor Indez'
@@ -242,7 +243,6 @@ TR: Turkia
 TM: Turkmenistan
 TV: Tuvalu
 UA: Ukraina
-UN: 'United Nations'
 UY: Uruguay
 VU: Vanuatu
 VA: Vatikan

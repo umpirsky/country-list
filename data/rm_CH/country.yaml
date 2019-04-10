@@ -28,7 +28,7 @@ BY: Bielorussia
 BO: Bolivia
 BA: 'Bosnia ed Erzegovina'
 BW: Botswana
-BR: Brasila
+BR: Brasilia
 BN: Brunei
 BG: Bulgaria
 BF: 'Burkina Faso'
@@ -65,7 +65,6 @@ AE: 'Emirats Arabs Unids'
 ER: Eritrea
 EE: Estonia
 ET: Etiopia
-EZ: Eurozone
 FJ: Fidschi
 PH: Filippinas
 FI: Finlanda
@@ -108,8 +107,8 @@ FO: 'Inslas Feroe'
 MP: 'Inslas Mariannas dal Nord'
 UM: 'Inslas pitschnas perifericas dals Stadis Unids da l’America'
 TC: 'Inslas Turks e Caicos'
-VI: 'Inslas Verginas Americanas'
-VG: 'Inslas Verginas Britannicas'
+VI: 'Inslas Virginas Americanas'
+VG: 'Inslas Virginas Britannicas'
 IQ: Irac
 IR: Iran
 IE: Irlanda
@@ -178,6 +177,8 @@ PN: Pitcairn
 PF: 'Polinesia Franzosa'
 PL: Pologna
 PT: Portugal
+XA: Pseudo-Accents
+XB: Pseudo-Bidi
 PR: 'Puerto Rico'
 GB: 'Reginavel Unì'
 HK: 'Regiun d’administraziun speziala da Hongkong, China'
@@ -246,7 +247,6 @@ TV: Tuvalu
 UA: Ucraina
 UG: Uganda
 HU: Ungaria
-UN: 'United Nations'
 UY: Uruguay
 UZ: Usbekistan
 VU: Vanuatu

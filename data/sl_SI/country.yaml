@@ -57,7 +57,6 @@ GQ: 'Ekvatorialna Gvineja'
 ER: Eritreja
 EE: Estonija
 ET: Etiopija
-EZ: Eurozone
 FK: 'Falklandski otoki'
 FO: 'Ferski otoki'
 FJ: Fidži
@@ -75,9 +74,9 @@ GR: Grčija
 GD: Grenada
 GL: Grenlandija
 GE: Gruzija
+GP: Guadeloupe
 GU: Guam
 GG: Guernsey
-GP: Gvadalupe
 GY: Gvajana
 GT: Gvatemala
 GN: Gvineja
@@ -132,7 +131,6 @@ LT: Litva
 LU: Luksemburg
 MG: Madagaskar
 HU: Madžarska
-MK: Makedonija
 MW: Malavi
 MV: Maldivi
 MY: Malezija
@@ -183,6 +181,8 @@ PR: Portoriko
 PT: Portugalska
 HK: 'Posebno administrativno območje LR Kitajske Hongkong'
 MO: 'Posebno administrativno območje LR Kitajske Macao'
+XB: psevdobidi
+XA: psevdonaglasi
 RE: Reunion
 RO: Romunija
 RW: Ruanda
@@ -202,6 +202,7 @@ SA: 'Saudova Arabija'
 SC: Sejšeli
 SN: Senegal
 KP: 'Severna Koreja'
+MK: 'Severna Makedonija'
 MP: 'Severni Marianski otoki'
 SL: 'Sierra Leone'
 SG: Singapur
@@ -249,7 +250,6 @@ EH: 'Zahodna Sahara'
 ZM: Zambija
 US: 'Združene države Amerike'
 AE: 'Združeni arabski emirati'
-UN: 'Združeni narodi'
 GB: 'Združeno kraljestvo'
 CV: 'Zelenortski otoki'
 ZW: Zimbabve

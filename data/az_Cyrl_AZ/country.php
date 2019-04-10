@@ -1,11 +1,11 @@
 <?php return array (
-  'UN' => 'Birləşmiş Millətlər Təşkilatı',
-  'EZ' => 'Eurozone',
   'PS' => 'Fələstin Əraziləri',
   'BQ' => 'Karib Niderlandı',
   'CI' => 'Kотд’ивуар',
   'EH' => 'Qərbi Saxara',
   'MK' => 'Makedoniya',
+  'XA' => 'Psevdo-Aksent',
+  'XB' => 'Psevdo-Bidi',
   'VI' => 'АБШ Вирҝин адалары',
   'UM' => 'АБШ-а бағлы кичик адаҹыглар',
   'AU' => 'Австралија',

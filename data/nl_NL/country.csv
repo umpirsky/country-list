@@ -30,7 +30,7 @@ BO,Bolivia
 BA,"Bosnië en Herzegovina"
 BW,Botswana
 BR,Brazilië
-IO,"Britse Gebieden in de Indische Oceaan"
+IO,"Brits Indische Oceaanterritorium"
 VG,"Britse Maagdeneilanden"
 BN,Brunei
 BG,Bulgarije
@@ -67,8 +67,8 @@ SV,"El Salvador"
 GQ,Equatoriaal-Guinea
 ER,Eritrea
 EE,Estland
+SZ,eSwatini
 ET,Ethiopië
-EZ,Eurozone
 FO,Faeröer
 FK,Falklandeilanden
 FJ,Fiji
@@ -133,7 +133,6 @@ LI,Liechtenstein
 LT,Litouwen
 LU,Luxemburg
 MO,"Macau SAR van China"
-MK,Macedonië
 MG,Madagaskar
 MW,Malawi
 MV,Maldiven
@@ -166,6 +165,7 @@ NE,Niger
 NG,Nigeria
 NU,Niue
 KP,Noord-Korea
+MK,Noord-Macedonië
 MP,"Noordelijke Marianen"
 NO,Noorwegen
 NF,Norfolk
@@ -185,6 +185,8 @@ PE,Peru
 PN,Pitcairneilanden
 PL,Polen
 PT,Portugal
+XA,Pseudo-Accenten
+XB,Pseudo-Bidi
 PR,"Puerto Rico"
 QA,Qatar
 RE,Réunion
@@ -217,7 +219,6 @@ ES,Spanje
 SJ,"Spitsbergen en Jan Mayen"
 LK,"Sri Lanka"
 SR,Suriname
-SZ,Swaziland
 SY,Syrië
 TJ,Tadzjikistan
 TW,Taiwan
@@ -229,7 +230,7 @@ TO,Tonga
 TT,"Trinidad en Tobago"
 TA,"Tristan da Cunha"
 TD,Tsjaad
-CZ,"Tsjechische Republiek"
+CZ,Tsjechië
 TN,Tunesië
 TR,Turkije
 TM,Turkmenistan
@@ -241,7 +242,6 @@ VA,Vaticaanstad
 VE,Venezuela
 GB,"Verenigd Koninkrijk"
 AE,"Verenigde Arabische Emiraten"
-UN,"verenigde naties"
 US,"Verenigde Staten"
 VN,Vietnam
 WF,"Wallis en Futuna"

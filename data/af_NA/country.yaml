@@ -2,8 +2,7 @@ AF: Afganistan
 AX: Ålandeilande
 AL: Albanië
 DZ: Algerië
-AS: Amerikaans-Samoa
-VI: 'Amerikaanse Maagde-eilande'
+AS: 'Amerikaanse Samoa'
 AD: Andorra
 AO: Angola
 AI: Anguilla
@@ -57,7 +56,6 @@ SV: 'El Salvador'
 ER: Eritrea
 EE: Estland
 ET: Ethiopië
-EZ: Eurozone
 FK: Falklandeilande
 FO: Faroëreilande
 FJ: Fidji
@@ -110,10 +108,11 @@ QA: Katar
 KZ: Kazakstan
 KE: Kenia
 CX: Kerseiland
-KG: Kirgisië
+KG: Kirgistan
 KI: Kiribati
+UM: 'Klein afgeleë eilande van die VSA'
 KW: Koeweit
-CC: Kokos-eilande
+CC: Kokoseilande
 CG: 'Kongo - Brazzaville'
 XK: Kosovo
 HR: Kroasië
@@ -179,6 +178,8 @@ PE: Peru
 PN: Pitcairneilande
 PL: Pole
 PT: Portugal
+XA: Pseudo-Accents
+XB: Pseudo-Bidi
 PR: 'Puerto Rico'
 RE: Réunion
 RO: Roemenië
@@ -197,7 +198,12 @@ SL: 'Sierra Leone'
 SG: Singapoer
 BL: 'Sint Barthélemy'
 SH: 'Sint Helena'
+KN: 'Sint Kitts en Nevis'
+LC: 'Sint Lucia'
 SX: 'Sint Maarten'
+MF: 'Sint Martin'
+PM: 'Sint Pierre en Miquelon'
+VC: 'Sint Vincent en die Grenadine'
 CY: Siprus
 SY: Sirië
 CN: Sjina
@@ -207,11 +213,6 @@ SD: Soedan
 SO: Somalië
 ES: Spanje
 LK: 'Sri Lanka'
-KN: 'St. Kitts en Nevis'
-LC: 'St. Lucia'
-MF: 'St. Martin'
-PM: 'St. Pierre en Miquelon'
-VC: 'St. Vincent en die Grenadine'
 ZA: Suid-Afrika
 GS: 'Suid-Georgië en die Suidelike Sandwicheilande'
 KR: Suid-Korea
@@ -225,15 +226,15 @@ TJ: Tadjikistan
 TW: Taiwan
 TZ: Tanzanië
 TH: Thailand
-CZ: Tjeggië
 TG: Togo
 TK: Tokelau
 TO: Tonga
 TT: 'Trinidad en Tobago'
 TA: 'Tristan da Cunha'
 TD: Tsjad
+CZ: Tsjeggië
 TN: Tunisië
-TM: Turkmenië
+TM: Turkmenistan
 TC: 'Turks- en Caicoseilande'
 TR: Turkye
 TV: Tuvalu
@@ -244,10 +245,9 @@ VA: Vatikaanstad
 VE: Venezuela
 AE: 'Verenigde Arabiese Emirate'
 GB: 'Verenigde Koninkryk'
-UN: 'verenigde nasies'
 US: 'Verenigde State van Amerika'
 VN: Viëtnam
-UM: 'VS klein omliggende eilande'
+VI: 'VSA se Maagde-eilande'
 WF: 'Wallis en Futuna'
 EH: Wes-Sahara
 IS: Ysland

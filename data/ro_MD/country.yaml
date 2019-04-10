@@ -64,8 +64,8 @@ CH: Elveția
 AE: 'Emiratele Arabe Unite'
 ER: Eritreea
 EE: Estonia
+SZ: eSwatini
 ET: Etiopia
-EZ: Eurozone
 FJ: Fiji
 PH: Filipine
 FI: Finlanda
@@ -158,7 +158,6 @@ MZ: Mozambic
 ME: Muntenegru
 MM: Myanmar
 NA: Namibia
-UN: 'Națiunile Unite'
 NR: Nauru
 NP: Nepal
 NI: Nicaragua
@@ -178,10 +177,12 @@ PE: Peru
 PF: 'Polinezia Franceză'
 PL: Polonia
 PT: Portugalia
+XA: Pseudo-accente
+XB: Pseudo-Bidi
 PR: 'Puerto Rico'
 QA: Qatar
 HK: 'R.A.S. Hong Kong a Chinei'
-MO: 'R.A.S. Macao a Chinei'
+MO: 'R.A.S. Macao, China'
 GB: 'Regatul Unit'
 CF: 'Republica Centrafricană'
 DO: 'Republica Dominicană'
@@ -194,17 +195,17 @@ RW: Rwanda
 EH: 'Sahara Occidentală'
 KN: 'Saint Kitts și Nevis'
 VC: 'Saint Vincent și Grenadinele'
+BL: Saint-Barthélemy
 PM: 'Saint-Pierre și Miquelon'
 WS: Samoa
 AS: 'Samoa Americană'
 SM: 'San Marino'
-ST: 'Sao Tomé și Príncipe'
+ST: 'Sao Tome și Principe'
 SN: Senegal
 RS: Serbia
 SC: Seychelles
 SH: 'Sfânta Elena'
 LC: 'Sfânta Lucia'
-BL: 'Sfântul Bartolomeu'
 MF: 'Sfântul Martin'
 SL: 'Sierra Leone'
 SG: Singapore
@@ -222,7 +223,6 @@ SS: 'Sudanul de Sud'
 SE: Suedia
 SR: Suriname
 SJ: 'Svalbard și Jan Mayen'
-SZ: Swaziland
 TJ: Tadjikistan
 TW: Taiwan
 TZ: Tanzania
@@ -230,7 +230,7 @@ TF: 'Teritoriile Australe și Antarctice Franceze'
 PS: 'Teritoriile Palestiniene'
 IO: 'Teritoriul Britanic din Oceanul Indian'
 TH: Thailanda
-TL: 'Timorul de Est'
+TL: Timor-Leste
 TG: Togo
 TK: Tokelau
 TO: Tonga
