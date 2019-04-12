@@ -5,7 +5,7 @@ DZ,Algieria
 AD,Andora
 AO,Angola
 AI,Anguilla
-AQ,Antarktyka
+AQ,Antarktyda
 AG,"Antigua i Barbuda"
 SA,"Arabia Saudyjska"
 AR,Argentyna
@@ -55,8 +55,8 @@ EG,Egipt
 EC,Ekwador
 ER,Erytrea
 EE,Estonia
+SZ,Eswatini
 ET,Etiopia
-EZ,Eurozone
 FK,Falklandy
 FJ,Fidżi
 PH,Filipiny
@@ -124,7 +124,7 @@ LI,Liechtenstein
 LT,Litwa
 LU,Luksemburg
 LV,Łotwa
-MK,Macedonia
+MK,"Macedonia Północna"
 MG,Madagaskar
 YT,Majotta
 MW,Malawi
@@ -159,7 +159,6 @@ NO,Norwegia
 NC,"Nowa Kaledonia"
 NZ,"Nowa Zelandia"
 OM,Oman
-UN,"Organizacja Narodów Zjednoczonych"
 PK,Pakistan
 PW,Palau
 PA,Panama
@@ -171,6 +170,8 @@ PF,"Polinezja Francuska"
 PL,Polska
 PR,Portoryko
 PT,Portugalia
+XA,Pseudoakcenty
+XB,Pseudodwukierunkowe
 ZA,"Republika Południowej Afryki"
 CF,"Republika Środkowoafrykańska"
 CV,"Republika Zielonego Przylądka"
@@ -202,7 +203,6 @@ HK,"SRA Hongkong (Chiny)"
 MO,"SRA Makau (Chiny)"
 LK,"Sri Lanka"
 US,"Stany Zjednoczone"
-SZ,Suazi
 SD,Sudan
 SS,"Sudan Południowy"
 SR,Surinam

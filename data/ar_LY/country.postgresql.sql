@@ -1,5 +1,6 @@
-CREATE TABLE list (id VARCHAR(10) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+CREATE TABLE list (id VARCHAR(64) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
+INSERT INTO "list" ("id", "value") VALUES (E'IS', E'آيسلندا');
 INSERT INTO "list" ("id", "value") VALUES (E'ET', E'إثيوبيا');
 INSERT INTO "list" ("id", "value") VALUES (E'AZ', E'أذربيجان');
 INSERT INTO "list" ("id", "value") VALUES (E'AM', E'أرمينيا');
@@ -9,6 +10,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'ES', E'إسبانيا');
 INSERT INTO "list" ("id", "value") VALUES (E'AU', E'أستراليا');
 INSERT INTO "list" ("id", "value") VALUES (E'EE', E'إستونيا');
 INSERT INTO "list" ("id", "value") VALUES (E'IL', E'إسرائيل');
+INSERT INTO "list" ("id", "value") VALUES (E'SZ', E'إسواتيني');
 INSERT INTO "list" ("id", "value") VALUES (E'AF', E'أفغانستان');
 INSERT INTO "list" ("id", "value") VALUES (E'PS', E'الأراضي الفلسطينية');
 INSERT INTO "list" ("id", "value") VALUES (E'AR', E'الأرجنتين');
@@ -17,7 +19,6 @@ INSERT INTO "list" ("id", "value") VALUES (E'TF', E'الأقاليم الجنو�
 INSERT INTO "list" ("id", "value") VALUES (E'IO', E'الإقليم البريطاني في المحيط الهندي');
 INSERT INTO "list" ("id", "value") VALUES (E'EC', E'الإكوادور');
 INSERT INTO "list" ("id", "value") VALUES (E'AE', E'الإمارات العربية المتحدة');
-INSERT INTO "list" ("id", "value") VALUES (E'UN', E'الأمم المتحدة');
 INSERT INTO "list" ("id", "value") VALUES (E'AL', E'ألبانيا');
 INSERT INTO "list" ("id", "value") VALUES (E'BH', E'البحرين');
 INSERT INTO "list" ("id", "value") VALUES (E'BR', E'البرازيل');
@@ -69,13 +70,11 @@ INSERT INTO "list" ("id", "value") VALUES (E'UG', E'أوغندا');
 INSERT INTO "list" ("id", "value") VALUES (E'UA', E'أوكرانيا');
 INSERT INTO "list" ("id", "value") VALUES (E'IR', E'إيران');
 INSERT INTO "list" ("id", "value") VALUES (E'IE', E'أيرلندا');
-INSERT INTO "list" ("id", "value") VALUES (E'IS', E'أيسلندا');
 INSERT INTO "list" ("id", "value") VALUES (E'IT', E'إيطاليا');
 INSERT INTO "list" ("id", "value") VALUES (E'PG', E'بابوا غينيا الجديدة');
 INSERT INTO "list" ("id", "value") VALUES (E'PY', E'باراغواي');
 INSERT INTO "list" ("id", "value") VALUES (E'PK', E'باكستان');
 INSERT INTO "list" ("id", "value") VALUES (E'PW', E'بالاو');
-INSERT INTO "list" ("id", "value") VALUES (E'BW', E'بتسوانا');
 INSERT INTO "list" ("id", "value") VALUES (E'BB', E'بربادوس');
 INSERT INTO "list" ("id", "value") VALUES (E'BM', E'برمودا');
 INSERT INTO "list" ("id", "value") VALUES (E'BN', E'بروناي');
@@ -86,6 +85,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'BD', E'بنغلاديش');
 INSERT INTO "list" ("id", "value") VALUES (E'PA', E'بنما');
 INSERT INTO "list" ("id", "value") VALUES (E'BJ', E'بنين');
 INSERT INTO "list" ("id", "value") VALUES (E'BT', E'بوتان');
+INSERT INTO "list" ("id", "value") VALUES (E'BW', E'بوتسوانا');
 INSERT INTO "list" ("id", "value") VALUES (E'PR', E'بورتوريكو');
 INSERT INTO "list" ("id", "value") VALUES (E'BF', E'بوركينا فاسو');
 INSERT INTO "list" ("id", "value") VALUES (E'BI', E'بوروندي');
@@ -98,7 +98,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'TH', E'تايلاند');
 INSERT INTO "list" ("id", "value") VALUES (E'TW', E'تايوان');
 INSERT INTO "list" ("id", "value") VALUES (E'TM', E'تركمانستان');
 INSERT INTO "list" ("id", "value") VALUES (E'TR', E'تركيا');
-INSERT INTO "list" ("id", "value") VALUES (E'TA', E'تريستان دي كونها');
+INSERT INTO "list" ("id", "value") VALUES (E'TA', E'تريستان دا كونا');
 INSERT INTO "list" ("id", "value") VALUES (E'TT', E'ترينيداد وتوباغو');
 INSERT INTO "list" ("id", "value") VALUES (E'TD', E'تشاد');
 INSERT INTO "list" ("id", "value") VALUES (E'CL', E'تشيلي');
@@ -108,7 +108,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'TV', E'توفالو');
 INSERT INTO "list" ("id", "value") VALUES (E'TK', E'توكيلو');
 INSERT INTO "list" ("id", "value") VALUES (E'TN', E'تونس');
 INSERT INTO "list" ("id", "value") VALUES (E'TO', E'تونغا');
-INSERT INTO "list" ("id", "value") VALUES (E'TL', E'تيمور- ليشتي');
+INSERT INTO "list" ("id", "value") VALUES (E'TL', E'تيمور - ليشتي');
 INSERT INTO "list" ("id", "value") VALUES (E'JM', E'جامايكا');
 INSERT INTO "list" ("id", "value") VALUES (E'GI', E'جبل طارق');
 INSERT INTO "list" ("id", "value") VALUES (E'AX', E'جزر آلاند');
@@ -131,7 +131,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'MH', E'جزر مارشال');
 INSERT INTO "list" ("id", "value") VALUES (E'MP', E'جزر ماريانا الشمالية');
 INSERT INTO "list" ("id", "value") VALUES (E'WF', E'جزر والس وفوتونا');
 INSERT INTO "list" ("id", "value") VALUES (E'AC', E'جزيرة أسينشيون');
-INSERT INTO "list" ("id", "value") VALUES (E'CX', E'جزيرة الكريسماس');
+INSERT INTO "list" ("id", "value") VALUES (E'CX', E'جزيرة كريسماس');
 INSERT INTO "list" ("id", "value") VALUES (E'IM', E'جزيرة مان');
 INSERT INTO "list" ("id", "value") VALUES (E'NF', E'جزيرة نورفولك');
 INSERT INTO "list" ("id", "value") VALUES (E'CF', E'جمهورية أفريقيا الوسطى');
@@ -154,27 +154,26 @@ INSERT INTO "list" ("id", "value") VALUES (E'CI', E'ساحل العاج');
 INSERT INTO "list" ("id", "value") VALUES (E'WS', E'ساموا');
 INSERT INTO "list" ("id", "value") VALUES (E'AS', E'ساموا الأمريكية');
 INSERT INTO "list" ("id", "value") VALUES (E'BL', E'سان بارتليمي');
+INSERT INTO "list" ("id", "value") VALUES (E'PM', E'سان بيير ومكويلون');
+INSERT INTO "list" ("id", "value") VALUES (E'MF', E'سان مارتن');
 INSERT INTO "list" ("id", "value") VALUES (E'SM', E'سان مارينو');
-INSERT INTO "list" ("id", "value") VALUES (E'PM', E'سانت بيير وميكولون');
 INSERT INTO "list" ("id", "value") VALUES (E'VC', E'سانت فنسنت وجزر غرينادين');
 INSERT INTO "list" ("id", "value") VALUES (E'KN', E'سانت كيتس ونيفيس');
 INSERT INTO "list" ("id", "value") VALUES (E'LC', E'سانت لوسيا');
-INSERT INTO "list" ("id", "value") VALUES (E'MF', E'سانت مارتن');
-INSERT INTO "list" ("id", "value") VALUES (E'SH', E'سانت هيلانة');
+INSERT INTO "list" ("id", "value") VALUES (E'SX', E'سانت مارتن');
+INSERT INTO "list" ("id", "value") VALUES (E'SH', E'سانت هيلينا');
 INSERT INTO "list" ("id", "value") VALUES (E'ST', E'ساو تومي وبرينسيبي');
 INSERT INTO "list" ("id", "value") VALUES (E'EA', E'سبتة ومليلية');
 INSERT INTO "list" ("id", "value") VALUES (E'LK', E'سريلانكا');
-INSERT INTO "list" ("id", "value") VALUES (E'SJ', E'سفالبارد وجان مايان');
+INSERT INTO "list" ("id", "value") VALUES (E'SJ', E'سفالبارد وجان ماين');
 INSERT INTO "list" ("id", "value") VALUES (E'SK', E'سلوفاكيا');
 INSERT INTO "list" ("id", "value") VALUES (E'SI', E'سلوفينيا');
 INSERT INTO "list" ("id", "value") VALUES (E'SG', E'سنغافورة');
-INSERT INTO "list" ("id", "value") VALUES (E'SZ', E'سوازيلاند');
 INSERT INTO "list" ("id", "value") VALUES (E'SY', E'سوريا');
 INSERT INTO "list" ("id", "value") VALUES (E'SR', E'سورينام');
 INSERT INTO "list" ("id", "value") VALUES (E'CH', E'سويسرا');
 INSERT INTO "list" ("id", "value") VALUES (E'SL', E'سيراليون');
 INSERT INTO "list" ("id", "value") VALUES (E'SC', E'سيشل');
-INSERT INTO "list" ("id", "value") VALUES (E'SX', E'سينت مارتن');
 INSERT INTO "list" ("id", "value") VALUES (E'RS', E'صربيا');
 INSERT INTO "list" ("id", "value") VALUES (E'TJ', E'طاجيكستان');
 INSERT INTO "list" ("id", "value") VALUES (E'OM', E'عُمان');
@@ -253,5 +252,6 @@ INSERT INTO "list" ("id", "value") VALUES (E'HN', E'هندوراس');
 INSERT INTO "list" ("id", "value") VALUES (E'HU', E'هنغاريا');
 INSERT INTO "list" ("id", "value") VALUES (E'NL', E'هولندا');
 INSERT INTO "list" ("id", "value") VALUES (E'BQ', E'هولندا الكاريبية');
-INSERT INTO "list" ("id", "value") VALUES (E'HK', E'هونغ كونغ الصينية');
-INSERT INTO "list" ("id", "value") VALUES (E'EZ', E'Eurozone');
+INSERT INTO "list" ("id", "value") VALUES (E'HK', E'هونغ كونغ الصينية (منطقة إدارية خاصة)');
+INSERT INTO "list" ("id", "value") VALUES (E'XB', E'Pseudo-Bidi');
+INSERT INTO "list" ("id", "value") VALUES (E'XA', E'XA');

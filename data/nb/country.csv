@@ -60,13 +60,12 @@ SV,"El Salvador"
 CI,Elfenbenskysten
 ER,Eritrea
 EE,Estland
+SZ,Eswatini
 ET,Etiopia
-EZ,Eurozone
 FK,Falklandsøyene
 FJ,Fiji
 PH,Filippinene
 FI,Finland
-UN,FN
 FR,Frankrike
 GF,"Fransk Guyana"
 PF,"Fransk Polynesia"
@@ -132,7 +131,6 @@ LT,Litauen
 LU,Luxemburg
 MO,"Macao S.A.R. Kina"
 MG,Madagaskar
-MK,Makedonia
 MW,Malawi
 MY,Malaysia
 MV,Maldivene
@@ -164,6 +162,7 @@ NE,Niger
 NG,Nigeria
 NU,Niue
 KP,Nord-Korea
+MK,Nord-Makedonia
 MP,Nord-Marianene
 NF,Norfolkøya
 NO,Norge
@@ -175,9 +174,11 @@ PA,Panama
 PG,"Papua Ny-Guinea"
 PY,Paraguay
 PE,Peru
-PN,Pitcairn
+PN,Pitcairnøyene
 PL,Polen
 PT,Portugal
+XA,Pseudo-Accents
+XB,Pseudo-Bidi
 PR,"Puerto Rico"
 QA,Qatar
 RE,Réunion
@@ -187,6 +188,7 @@ RW,Rwanda
 KN,"Saint Kitts og Nevis"
 BL,Saint-Barthélemy
 MF,Saint-Martin
+PM,Saint-Pierre-et-Miquelon
 SB,Salomonøyene
 WS,Samoa
 SM,"San Marino"
@@ -205,7 +207,6 @@ ES,Spania
 LK,"Sri Lanka"
 SH,"St. Helena"
 LC,"St. Lucia"
-PM,"St. Pierre og Miquelon"
 VC,"St. Vincent og Grenadinene"
 GB,Storbritannia
 SD,Sudan
@@ -213,7 +214,6 @@ SR,Surinam
 SJ,"Svalbard og Jan Mayen"
 CH,Sveits
 SE,Sverige
-SZ,Swaziland
 SY,Syria
 ZA,Sør-Afrika
 GS,"Sør-Georgia og Sør-Sandwichøyene"

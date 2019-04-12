@@ -51,7 +51,7 @@ DK: Danmark
 VI: 'De Amerikanske Jomfruøer'
 VG: 'De Britiske Jomfruøer'
 AE: 'De Forenede Arabiske Emirater'
-TF: 'De franske besiddelser i Det Sydlige Indiske Ocean'
+TF: 'De Franske Besiddelser i Det Sydlige Indiske Ocean'
 PS: 'De palæstinensiske områder'
 BQ: 'De tidligere Nederlandske Antiller'
 CF: 'Den Centralafrikanske Republik'
@@ -66,13 +66,12 @@ SV: 'El Salvador'
 CI: Elfenbenskysten
 ER: Eritrea
 EE: Estland
+SZ: Eswatini
 ET: Etiopien
-EZ: Eurozone
 FK: Falklandsøerne
 FJ: Fiji
 PH: Filippinerne
 FI: Finland
-UN: 'Forenede Nationer'
 FR: Frankrig
 GF: 'Fransk Guyana'
 PF: 'Fransk Polynesien'
@@ -143,7 +142,7 @@ MR: Mauretanien
 MU: Mauritius
 YT: Mayotte
 MX: Mexico
-FM: 'Mikronesiens Forenede Stater'
+FM: Mikronesien
 MD: Moldova
 MC: Monaco
 MN: Mongoliet
@@ -174,6 +173,8 @@ PE: Peru
 PN: Pitcairn
 PL: Polen
 PT: Portugal
+XA: Pseudo-Accents
+XB: Pseudo-Bidi
 PR: 'Puerto Rico'
 QA: Qatar
 RE: Réunion
@@ -212,7 +213,6 @@ SD: Sudan
 SR: Surinam
 SJ: 'Svalbard og Jan Mayen'
 SE: Sverige
-SZ: Swaziland
 ZA: Sydafrika
 KR: Sydkorea
 SS: Sydsudan

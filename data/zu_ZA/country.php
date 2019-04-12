@@ -1,5 +1,4 @@
 <?php return array (
-  'EZ' => 'Eurozone',
   'AF' => 'i-Afghanistan',
   'AX' => 'i-Åland Islands',
   'AL' => 'i-Albania',
@@ -201,7 +200,6 @@
   'SI' => 'i-Slovenia',
   'SB' => 'i-Solomon Islands',
   'SO' => 'i-Somalia',
-  'ZA' => 'i-South Africa',
   'GS' => 'i-South Georgia ne-South Sandwich Islands',
   'KR' => 'i-South Korea',
   'SS' => 'i-South Sudan',
@@ -236,7 +234,6 @@
   'UA' => 'i-Ukraine',
   'AE' => 'i-United Arab Emirates',
   'GB' => 'i-United Kingdom',
-  'UN' => 'I-United Nations',
   'US' => 'i-United States',
   'UY' => 'i-Uruguay',
   'UZ' => 'i-Uzbekistan',
@@ -252,6 +249,9 @@
   'LS' => 'iLesotho',
   'MW' => 'iMalawi',
   'ML' => 'iMali',
+  'ZA' => 'iNingizimu Afrika',
   'ZW' => 'iZimbabwe',
   'IL' => 'kwa-Israel',
+  'XA' => 'Pseudo-Accents',
+  'XB' => 'Pseudo-Bidi',
 );

@@ -68,7 +68,6 @@ ID,Enndonesii
 ER,Eriteree
 ES,Espaañ
 EE,Estoni
-EZ,Eurozone
 FR,Farayse
 FO,"Faroe Islands"
 FI,Fenland
@@ -136,7 +135,7 @@ LU,Liksembuur
 LI,Lincenstayn
 LT,Lituaanii
 ML,Maali
-MO,"Macau SAR China"
+MO,"Macao SAR China"
 MG,Madagaskaar
 MW,Malaawi
 MV,Maldiiwe
@@ -188,6 +187,8 @@ PN,Pitkern
 PF,"Polinesii Farayse"
 PL,Poloñ
 PR,"Porto Rikoo"
+XA,Pseudo-Accents
+XB,Pseudo-Bidi
 PT,Purtugaal
 RE,Rewiñoo
 RU,Riisii
@@ -245,7 +246,6 @@ TV,Tuwaluu
 UM,"U.S. Outlying Islands"
 UA,Ukereen
 UG,Unganndaa
-UN,"United Nations"
 UY,Uruguwaay
 UZ,Usbekistaan
 WF,"Walis e Futuna"

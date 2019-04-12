@@ -53,7 +53,6 @@ EC,Ekvádor
 ER,Eritrea
 EE,Estonsko
 ET,Etiopie
-EZ,Eurozone
 FO,"Faerské ostrovy"
 FK,"Falklandské ostrovy"
 FJ,Fidži
@@ -133,7 +132,6 @@ LU,Lucembursko
 MO,"Macao – ZAO Číny"
 MG,Madagaskar
 HU,Maďarsko
-MK,Makedonie
 MY,Malajsie
 MW,Malawi
 MV,Maledivy
@@ -168,7 +166,6 @@ NO,Norsko
 NC,"Nová Kaledonie"
 NZ,"Nový Zéland"
 OM,Omán
-UN,OSN
 IM,"Ostrov Man"
 PK,Pákistán
 PW,Palau
@@ -196,9 +193,12 @@ SM,"San Marino"
 SA,"Saúdská Arábie"
 SN,Senegal
 KP,"Severní Korea"
+MK,"Severní Makedonie"
 MP,"Severní Mariany"
 SC,Seychely
 SL,"Sierra Leone"
+XA,"simulovaná diakritika"
+XB,"simulovaný obousměrný zápis"
 SG,Singapur
 SK,Slovensko
 SI,Slovinsko

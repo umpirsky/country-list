@@ -55,7 +55,6 @@ GQ,Ekvatoriaal-Guinea
 SV,"El Salvador"
 ER,Eritrea
 ET,Etioopia
-EZ,Eurozone
 FK,"Falklandi saared"
 FJ,Fidži
 PH,Filipiinid
@@ -133,7 +132,6 @@ LV,Läti
 EH,Lääne-Sahara
 MO,"Macau erihalduspiirkond"
 MG,Madagaskar
-MK,Makedoonia
 MY,Malaisia
 MW,Malawi
 MV,Maldiivid
@@ -178,8 +176,11 @@ GF,"Prantsuse Guajaana"
 TF,"Prantsuse Lõunaalad"
 PF,"Prantsuse Polüneesia"
 FR,Prantsusmaa
+XA,pseudo-aktsent
+XB,pseudo-Bidi
 PR,"Puerto Rico"
 KP,Põhja-Korea
+MK,Põhja-Makedoonia
 MP,Põhja-Mariaanid
 RE,Réunion
 CV,Roheneemesaared
@@ -187,13 +188,13 @@ SE,Rootsi
 RO,Rumeenia
 RW,Rwanda
 SB,"Saalomoni Saared"
-BL,"Saint Barthélemy"
 SH,"Saint Helena"
 KN,"Saint Kitts ja Nevis"
 LC,"Saint Lucia"
-PM,"Saint Pierre ja Miquelon"
 VC,"Saint Vincent ja Grenadiinid"
+BL,Saint-Barthélemy
 MF,Saint-Martin
+PM,"Saint-Pierre ja Miquelon"
 DE,Saksamaa
 ZM,Sambia
 WS,Samoa
@@ -230,7 +231,7 @@ TO,Tonga
 TT,"Trinidad ja Tobago"
 TA,"Tristan da Cunha"
 TD,Tšaad
-CZ,Tšehhia
+CZ,Tšehhi
 CL,Tšiili
 TN,Tuneesia
 TC,"Turks ja Caicos"
@@ -252,5 +253,4 @@ RU,Venemaa
 VE,Venezuela
 VN,Vietnam
 WF,"Wallis ja Futuna"
-UN,"Ühendatud Rahvaste Organisatsioon"
 UM,"Ühendriikide hajasaared"

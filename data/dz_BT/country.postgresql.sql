@@ -1,8 +1,8 @@
-CREATE TABLE list (id VARCHAR(10) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+CREATE TABLE list (id VARCHAR(64) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
-INSERT INTO "list" ("id", "value") VALUES (E'EZ', E'Eurozone');
 INSERT INTO "list" ("id", "value") VALUES (E'XK', E'Kosovo');
-INSERT INTO "list" ("id", "value") VALUES (E'UN', E'United Nations');
+INSERT INTO "list" ("id", "value") VALUES (E'XA', E'Pseudo-Accents');
+INSERT INTO "list" ("id", "value") VALUES (E'XB', E'Pseudo-Bidi');
 INSERT INTO "list" ("id", "value") VALUES (E'QA', E'ཀ་ཊར');
 INSERT INTO "list" ("id", "value") VALUES (E'IC', E'ཀ་ནེ་རི་གླིང་ཚོམ');
 INSERT INTO "list" ("id", "value") VALUES (E'KZ', E'ཀ་ཛགས་སཏཱན');

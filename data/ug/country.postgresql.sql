@@ -1,4 +1,4 @@
-CREATE TABLE list (id VARCHAR(10) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+CREATE TABLE list (id VARCHAR(64) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
 INSERT INTO "list" ("id", "value") VALUES (E'UM', E'ئا ق ش تاشقى ئاراللىرى');
 INSERT INTO "list" ("id", "value") VALUES (E'VI', E'ئا ق ش ۋىرگىن ئاراللىرى');
@@ -253,5 +253,5 @@ INSERT INTO "list" ("id", "value") VALUES (E'YE', E'يەمەن');
 INSERT INTO "list" ("id", "value") VALUES (E'CV', E'يېشىل تۇمشۇق');
 INSERT INTO "list" ("id", "value") VALUES (E'NZ', E'يېڭى زېلاندىيە');
 INSERT INTO "list" ("id", "value") VALUES (E'NC', E'يېڭى كالېدونىيە');
-INSERT INTO "list" ("id", "value") VALUES (E'EZ', E'Eurozone');
-INSERT INTO "list" ("id", "value") VALUES (E'UN', E'United Nations');
+INSERT INTO "list" ("id", "value") VALUES (E'XA', E'Pseudo-Accents');
+INSERT INTO "list" ("id", "value") VALUES (E'XB', E'Pseudo-Bidi');

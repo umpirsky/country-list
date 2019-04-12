@@ -51,7 +51,6 @@ DG: 'Diego Garcia'
 DM: Dɔmeneka
 DO: 'Dɔmeneka Kurokɛse'
 KP: 'Etifi Koria'
-EZ: Eurozone
 SV: 'Ɛl Salvadɔ'
 ER: Ɛritrea
 EE: Ɛstonia
@@ -133,7 +132,7 @@ LB: Lɛbanɔn
 LS: Lɛsutu
 LY: Libya
 LT: Lituwenia
-MO: 'Macau SAR China'
+MO: 'Macao SAR China'
 MG: Madagaska
 FM: Maekronehyia
 MW: Malawi
@@ -183,6 +182,8 @@ PH: Philippines
 PN: Pitcairn
 PL: Poland
 PT: Pɔtugal
+XA: Pseudo-Accents
+XB: Pseudo-Bidi
 PR: 'Puɛto Riko'
 RE: Reyuniɔn
 RO: Romenia
@@ -240,7 +241,6 @@ UM: 'U.S. Outlying Islands'
 UG: Uganda
 UA: Ukren
 AE: 'United Arab Emirates'
-UN: 'United Nations'
 UZ: Uzbɛkistan
 VU: Vanuatu
 VA: 'Vatican Man'

@@ -6,7 +6,7 @@ IS,Aisalan
 AX,"Åland Islands"
 AL,Albaniya
 DZ,Aljeriya
-US,Amurka
+US,Amirka
 AD,Andora
 AI,Angila
 AO,Angola
@@ -32,7 +32,7 @@ BZ,Beliz
 VE,Benezuwela
 BJ,Binin
 BR,Birazil
-GB,Birtaniya
+GB,Biritaniya
 VN,Biyetinam
 BO,Bolibiya
 BA,"Bosniya Harzagobina"
@@ -58,7 +58,6 @@ EC,Ekwador
 SV,"El Salbador"
 ER,Eritireya
 EE,Estoniya
-EZ,Eurozone
 FR,Faransa
 FO,"Faroe Islands"
 FJ,Fiji
@@ -101,7 +100,7 @@ CZ,"Jamhuriyar Cak"
 CD,"Jamhuriyar Dimokuraɗiyyar Kongo"
 DO,"Jamhuriyar Dominika"
 DE,Jamus
-JP,Japan
+JP,Jàpân
 JE,Jersey
 GI,Jibaraltar
 DJ,Jibuti
@@ -136,7 +135,7 @@ LY,Libiya
 LI,Licansitan
 LT,Lituweniya
 LU,Lukusambur
-MO,"Macau SAR China"
+MO,"Macao SAR China"
 MG,Madagaskar
 MX,Makasiko
 MY,Malaisiya
@@ -149,10 +148,10 @@ MN,Mangoliya
 MS,Manserati
 MA,Maroko
 MQ,Martinik
-EG,"Masar, Misira"
 MK,Masedoniya
 YT,Mayoti
 FM,Mikuronesiya
+EG,Misira
 MC,Monako
 ME,Montenegro
 MR,Moritaniya
@@ -181,6 +180,8 @@ PN,Pitakarin
 PL,Polan
 PR,"Porto Riko"
 PT,Portugal
+XA,Pseudo-Accents
+XB,Pseudo-Bidi
 RU,Rasha
 RE,Rawuniyan
 RO,Romaniya
@@ -243,7 +244,6 @@ SB,"Tsibiran Salaman"
 VG,"Tsibirin Birjin Na Birtaniya"
 NF,"Tsibirin Narfalk"
 UM,"U.S. Outlying Islands"
-UN,"United Nations"
 UZ,Uzubekistan
 WF,"Walis Da Futuna"
 EH,"Western Sahara"

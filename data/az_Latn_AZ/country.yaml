@@ -27,7 +27,6 @@ BM: 'Bermud adaları'
 BH: Bəhreyn
 AE: 'Birləşmiş Ərəb Əmirlikləri'
 GB: 'Birləşmiş Krallıq'
-UN: 'Birləşmiş Millətlər Təşkilatı'
 BO: Boliviya
 BG: Bolqarıstan
 BA: 'Bosniya və Herseqovina'
@@ -60,7 +59,7 @@ GQ: 'Ekvatorial Qvineya'
 ER: Eritreya
 AM: Ermənistan
 EE: Estoniya
-EZ: Eurozone
+SZ: Esvatini
 AF: Əfqanıstan
 DZ: Əlcəzair
 FO: 'Farer adaları'
@@ -188,6 +187,8 @@ PE: Peru
 PN: 'Pitkern adaları'
 PL: Polşa
 PT: Portuqaliya
+XA: Psevdo-Aksent
+XB: Psevdo-Bidi
 PR: 'Puerto Riko'
 RE: Reyunyon
 RW: Ruanda
@@ -217,7 +218,6 @@ SD: Sudan
 SR: Surinam
 SY: Suriya
 SJ: 'Svalbard və Yan-Mayen'
-SZ: Svazilend
 SL: Syerra-Leone
 TL: 'Şərqi Timor'
 KP: 'Şimali Koreya'

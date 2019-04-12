@@ -18,7 +18,6 @@ AZ: Azerbaijan
 BS: Bahamas
 BH: Bahrain
 BD: Bangladesh
-UN: 'Bangsa-bangsa Bersatu'
 BB: Barbados
 NL: Belanda
 BQ: 'Belanda Caribbean'
@@ -63,7 +62,6 @@ AE: 'Emiriah Arab Bersatu'
 ER: Eritrea
 EE: Estonia
 ET: Ethiopia
-EZ: Eurozone
 FJ: Fiji
 PH: Filipina
 FI: Finland
@@ -139,7 +137,7 @@ LT: Lithuania
 LB: Lubnan
 LU: Luxembourg
 MO: 'Macau SAR China'
-MK: Macedonia
+MK: 'Macedonia Utara'
 MG: Madagaskar
 MA: Maghribi
 MW: Malawi
@@ -194,7 +192,6 @@ RO: Romania
 RU: Rusia
 RW: Rwanda
 EH: 'Sahara Barat'
-BL: 'Saint Barthélemy'
 SH: 'Saint Helena'
 KN: 'Saint Kitts dan Nevis'
 LC: 'Saint Lucia'
@@ -216,6 +213,7 @@ SK: Slovakia
 SI: Slovenia
 SO: Somalia
 LK: 'Sri Lanka'
+BL: 'St. Barthelemy'
 SD: Sudan
 SS: 'Sudan Selatan'
 SR: Surinam
@@ -250,6 +248,8 @@ WF: 'Wallis dan Futuna'
 IO: 'Wilayah Lautan Hindi British'
 PS: 'Wilayah Palestin'
 TF: 'Wilayah Selatan Perancis'
+XA: XA
+XB: XB
 YE: Yaman
 ZM: Zambia
 ZW: Zimbabwe

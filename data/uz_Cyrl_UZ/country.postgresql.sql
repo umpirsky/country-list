@@ -1,7 +1,7 @@
-CREATE TABLE list (id VARCHAR(10) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+CREATE TABLE list (id VARCHAR(64) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
-INSERT INTO "list" ("id", "value") VALUES (E'UN', E'Birlashgan Millatlar Tashkiloti');
-INSERT INTO "list" ("id", "value") VALUES (E'EZ', E'Eurozone');
+INSERT INTO "list" ("id", "value") VALUES (E'XA', E'Pseudo-Accents');
+INSERT INTO "list" ("id", "value") VALUES (E'XB', E'Pseudo-Bidi');
 INSERT INTO "list" ("id", "value") VALUES (E'AU', E'Австралия');
 INSERT INTO "list" ("id", "value") VALUES (E'AT', E'Австрия');
 INSERT INTO "list" ("id", "value") VALUES (E'VI', E'АҚШ Виргин ороллари');
@@ -10,7 +10,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'AX', E'Аланд ороллари'
 INSERT INTO "list" ("id", "value") VALUES (E'AL', E'Албания');
 INSERT INTO "list" ("id", "value") VALUES (E'US', E'Америка Қўшма Штатлари');
 INSERT INTO "list" ("id", "value") VALUES (E'AS', E'Америка Самоаси');
-INSERT INTO "list" ("id", "value") VALUES (E'AI', E'Ангиля');
+INSERT INTO "list" ("id", "value") VALUES (E'AI', E'Ангилья');
 INSERT INTO "list" ("id", "value") VALUES (E'AO', E'Ангола');
 INSERT INTO "list" ("id", "value") VALUES (E'AD', E'Андорра');
 INSERT INTO "list" ("id", "value") VALUES (E'AQ', E'Антарктида');
@@ -23,8 +23,8 @@ INSERT INTO "list" ("id", "value") VALUES (E'BS', E'Багама ороллар�
 INSERT INTO "list" ("id", "value") VALUES (E'BD', E'Бангладеш');
 INSERT INTO "list" ("id", "value") VALUES (E'BB', E'Барбадос');
 INSERT INTO "list" ("id", "value") VALUES (E'BH', E'Баҳрайн');
+INSERT INTO "list" ("id", "value") VALUES (E'BY', E'Беларус');
 INSERT INTO "list" ("id", "value") VALUES (E'BZ', E'Белиз');
-INSERT INTO "list" ("id", "value") VALUES (E'BY', E'Белорусия');
 INSERT INTO "list" ("id", "value") VALUES (E'BE', E'Бельгия');
 INSERT INTO "list" ("id", "value") VALUES (E'BJ', E'Бенин');
 INSERT INTO "list" ("id", "value") VALUES (E'BM', E'Бермуда');
@@ -35,8 +35,8 @@ INSERT INTO "list" ("id", "value") VALUES (E'BQ', E'Бонейр, Синт-Эс�
 INSERT INTO "list" ("id", "value") VALUES (E'BA', E'Босния ва Герцеговина');
 INSERT INTO "list" ("id", "value") VALUES (E'BW', E'Ботсванна');
 INSERT INTO "list" ("id", "value") VALUES (E'BR', E'Бразилия');
+INSERT INTO "list" ("id", "value") VALUES (E'VG', E'Британия Виргин ороллари');
 INSERT INTO "list" ("id", "value") VALUES (E'IO', E'Британиянинг Ҳинд океанидаги ҳудуди');
-INSERT INTO "list" ("id", "value") VALUES (E'VG', E'Бртания Виргин ороллари');
 INSERT INTO "list" ("id", "value") VALUES (E'BN', E'Бруней');
 INSERT INTO "list" ("id", "value") VALUES (E'BF', E'Буркина-Фасо');
 INSERT INTO "list" ("id", "value") VALUES (E'BI', E'Бурунди');
@@ -230,7 +230,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'FI', E'Финляндия');
 INSERT INTO "list" ("id", "value") VALUES (E'FK', E'Фолкленд ороллари');
 INSERT INTO "list" ("id", "value") VALUES (E'FR', E'Франция');
 INSERT INTO "list" ("id", "value") VALUES (E'GF', E'Француз Гвианаси');
-INSERT INTO "list" ("id", "value") VALUES (E'TF', E'Француз жанубий худудлари');
+INSERT INTO "list" ("id", "value") VALUES (E'TF', E'Француз жанубий ҳудудлари');
 INSERT INTO "list" ("id", "value") VALUES (E'PF', E'Француз Полинезияси');
 INSERT INTO "list" ("id", "value") VALUES (E'CN', E'Хитой');
 INSERT INTO "list" ("id", "value") VALUES (E'HR', E'Хорватия');

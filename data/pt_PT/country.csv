@@ -43,6 +43,7 @@ QA,Catar
 KZ,Cazaquistão
 EA,"Ceuta e Melilha"
 TD,Chade
+CZ,Chéquia
 CL,Chile
 CN,China
 CY,Chipre
@@ -53,8 +54,8 @@ CG,Congo-Brazzaville
 CD,Congo-Kinshasa
 KP,"Coreia do Norte"
 KR,"Coreia do Sul"
-CI,"Costa do Marfim"
 CR,"Costa Rica"
+CI,"Côte d’Ivoire (Costa do Marfim)"
 HR,Croácia
 CU,Cuba
 CW,Curaçau
@@ -68,10 +69,10 @@ ER,Eritreia
 SK,Eslováquia
 SI,Eslovénia
 ES,Espanha
+SZ,Essuatíni
 US,"Estados Unidos"
 EE,Estónia
 ET,Etiópia
-EZ,Eurozone
 FJ,Fiji
 PH,Filipinas
 FI,Finlândia
@@ -87,7 +88,7 @@ GL,Gronelândia
 GP,Guadalupe
 GU,Guame
 GT,Guatemala
-GG,Guernsey
+GG,Guernesey
 GY,Guiana
 GF,"Guiana Francesa"
 GN,Guiné
@@ -106,9 +107,9 @@ KY,"Ilhas Caimão"
 IC,"Ilhas Canárias"
 CK,"Ilhas Cook"
 CC,"Ilhas dos Cocos (Keeling)"
-FK,"Ilhas Falkland"
 FO,"Ilhas Faroé"
 GS,"Ilhas Geórgia do Sul e Sandwich do Sul"
+FK,"Ilhas Malvinas (Falkland)"
 MP,"Ilhas Marianas do Norte"
 MH,"Ilhas Marshall"
 UM,"Ilhas Menores Afastadas dos EUA"
@@ -131,7 +132,7 @@ JE,Jersey
 DJ,Jibuti
 JO,Jordânia
 XK,Kosovo
-KW,Kuwait
+KW,Koweit
 LA,Laos
 LS,Lesoto
 LV,Letónia
@@ -163,14 +164,13 @@ MC,Mónaco
 MN,Mongólia
 MS,Monserrate
 ME,Montenegro
-UN,"Nações Unidas"
 NA,Namíbia
 NR,Nauru
 NP,Nepal
 NI,Nicarágua
 NE,Níger
 NG,Nigéria
-NU,Niue
+NU,Niuê
 NO,Noruega
 NC,"Nova Caledónia"
 NZ,"Nova Zelândia"
@@ -187,18 +187,18 @@ PF,"Polinésia Francesa"
 PL,Polónia
 PR,"Porto Rico"
 PT,Portugal
+XB,Pseudobidi
+XA,Pseudossotaques
 KE,Quénia
 KG,Quirguistão
-KI,Quiribati
+KI,Quiribáti
 GB,"Reino Unido"
 CF,"República Centro-Africana"
-CZ,"República Checa"
 DO,"República Dominicana"
 RE,Reunião
 RO,Roménia
 RW,Ruanda
 RU,Rússia
-EH,"Saara Ocidental"
 SV,Salvador
 WS,Samoa
 AS,"Samoa Americana"
@@ -208,19 +208,19 @@ BL,"São Bartolomeu"
 KN,"São Cristóvão e Neves"
 SM,"São Marinho"
 MF,"São Martinho"
+SX,"São Martinho (Sint Maarten)"
 PM,"São Pedro e Miquelão"
 ST,"São Tomé e Príncipe"
 VC,"São Vicente e Granadinas"
+EH,"Sara Ocidental"
 SC,Seicheles
 SN,Senegal
 SL,"Serra Leoa"
 RS,Sérvia
 SG,Singapura
-SX,"Sint Maarten"
 SY,Síria
 SO,Somália
 LK,"Sri Lanca"
-SZ,Suazilândia
 SD,Sudão
 SS,"Sudão do Sul"
 SE,Suécia

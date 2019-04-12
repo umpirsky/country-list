@@ -29,7 +29,6 @@ BJ,Binin
 BO,Bolivia
 BA,"Bosnia & Herzegovina"
 BW,Botswana
-BR,Brazil
 IO,"British Indian Ocean Territory"
 VG,"British Virgin Islands"
 BN,Brunei
@@ -37,7 +36,6 @@ BG,Bulgaria
 BF,"Burkina Faso"
 BI,Burundi
 TD,Chad
-CN,Chaina
 CL,Chile
 CX,"Christmas Island"
 KH,Cambodia
@@ -73,20 +71,18 @@ SV,"El Salvador"
 GQ,"Equatorial Guinea"
 ER,Eritrea
 EE,Estonia
+SZ,Eswatini
 ET,Ethiopia
-EZ,Eurozone
 FK,"Falkland Islands"
 FO,"Faroe Islands"
 FJ,Fiji
 FI,Finland
-FR,France
 GF,"French Guiana"
 PF,"French Polynesia"
 TF,"French Southern Territories"
 GA,Gabon
 GM,Gambia
 GE,Georgia
-DE,Germany
 GI,Gibraltar
 GR,Greece
 GL,Greenland
@@ -104,16 +100,13 @@ HN,Honduras
 HK,"Hong Kong SAR China"
 HU,Hungary
 IS,Iceland
-IN,India
 ID,Indonesia
 IR,Iran
 IQ,Iraq
 IE,Ireland
 IM,"Isle of Man"
 IL,Israel
-IT,Italy
 JM,Jamaica
-JP,Japan
 JE,Jersey
 JO,Jordan
 KZ,Kazakhstan
@@ -131,8 +124,7 @@ LY,Libyia
 LI,Liechtenstein
 LT,Lithuania
 LU,Luxembourg
-MO,"Macau SAR China"
-MK,Macedonia
+MO,"Macao SAR China"
 MG,Madagascar
 MW,Malawi
 MY,Malaysia
@@ -144,6 +136,16 @@ MQ,Martinique
 MR,Mauritania
 MU,Mauritius
 YT,Mayotte
+BR,"Mba Brazil"
+CN,"Mba China"
+FR,"Mba France"
+DE,"Mba Germany"
+IN,"Mba India"
+IT,"Mba Italy"
+JP,"Mba Japan"
+RU,"Mba Russia"
+GB,"Mba United Kingdom"
+US,"Mba United States"
 MX,Mexico
 FM,Micronesia
 MD,Moldova
@@ -154,6 +156,7 @@ MS,Montserrat
 MA,Morocco
 MZ,Mozambique
 MM,"Myanmar (Burma)"
+NG,Naịjịrịa
 NA,Namibia
 NR,Nauru
 NP,Nepal
@@ -162,10 +165,10 @@ NC,"New Caledonia"
 NZ,"New Zealand"
 NI,Nicaragua
 NE,Niger
-NG,Nigeria
 NU,Niue
 NF,"Norfolk Island"
 KP,"North Korea"
+MK,"North Macedonia"
 MP,"Northern Mariana Islands"
 NO,Norway
 OM,Oman
@@ -180,11 +183,12 @@ PH,Philippines
 PN,"Pitcairn Islands"
 PL,Poland
 PT,Portugal
+XA,Pseudo-Accents
+XB,Pseudo-Bidi
 PR,"Puerto Rico"
 QA,Qatar
 RE,Réunion
 RO,Romania
-RU,Russia
 RW,Rwanda
 WS,Samoa
 SM,"San Marino"
@@ -216,7 +220,6 @@ VC,"St. Vincent & Grenadines"
 SD,Sudan
 SR,Suriname
 SJ,"Svalbard & Jan Mayen"
-SZ,Swaziland
 SE,Sweden
 CH,Switzerland
 SY,Syria
@@ -240,9 +243,6 @@ VI,"U.S. Virgin Islands"
 UG,Uganda
 UA,Ukraine
 AE,"United Arab Emirates"
-GB,"United Kingdom"
-UN,"United Nations"
-US,"United States"
 UY,Uruguay
 UZ,Uzbekistan
 VU,Vanuatu

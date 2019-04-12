@@ -9,13 +9,11 @@ BM,Bermuda
 CY,Ċipru
 CV,"Cape Verde"
 EA,"Ceuta u Melilla"
-CN,CN
 KM,Comoros
 CW,Curaçao
 DG,"Diego Garcia"
 DM,Dominica
 SV,"El Salvador"
-EZ,Eurozone
 FJ,Fiġi
 FR,Franza
 GI,Ġibiltà
@@ -31,6 +29,7 @@ MH,"Gżejjer Marshall"
 PN,"Gżejjer Pitcairn"
 NF,"Gżira Norfolk"
 CL,iċ-Ċili
+CN,iċ-Ċina
 TD,iċ-Chad
 DK,id-Danimarka
 BS,il-Bahamas
@@ -93,6 +92,7 @@ CO,il-Kolombja
 CG,"il-Kongo - Brazzaville"
 KR,"il-Korea t’Isfel"
 KP,"il-Korea ta’ Fuq"
+XK,il-Kosovo
 CI,"il-Kosta tal-Avorju"
 HR,il-Kroazja
 KW,il-Kuwajt
@@ -175,7 +175,6 @@ ZW,iż-Żimbabwe
 IL,Iżrael
 JE,Jersey
 KI,Kiribati
-XK,Kosovo
 CU,Kuba
 AF,l-Afganistan
 ZA,"l-Afrika t’Isfel"
@@ -206,6 +205,7 @@ US,"l-Istati Uniti"
 IT,l-Italja
 IS,l-iżlanda
 SE,l-Iżvezja
+CH,l-Iżvizzera
 OM,l-Oman
 UG,l-Uganda
 UA,l-Ukrajna
@@ -227,6 +227,8 @@ NU,Niue
 PW,Palau
 PG,"Papua New Guinea"
 PF,"Polineżja Franċiża"
+XA,Pseudo-Accents
+XB,Pseudo-Bidi
 PR,"Puerto Rico"
 RE,Réunion
 BL,"Saint Barthélemy"
@@ -250,7 +252,5 @@ TO,Tonga
 TT,"Trinidad u Tobago"
 TA,"Tristan da Cunha"
 TV,Tuvalu
-UN,"United Nations"
 VU,Vanuatu
 WF,"Wallis u Futuna"
-CH,Żvizzera

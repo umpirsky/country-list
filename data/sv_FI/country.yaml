@@ -55,8 +55,9 @@ CI: Elfenbenskusten
 ER: Eritrea
 EE: Estland
 ET: Etiopien
-EZ: Eurozone
 FK: Falklandsöarna
+XB: 'fejkad bidi (för test)'
+XA: 'fejkade accenter (för test)'
 FJ: Fiji
 PH: Filippinerna
 FI: Finland
@@ -66,7 +67,6 @@ PF: 'Franska Polynesien'
 TF: 'Franska sydterritorierna'
 FO: Färöarna
 AE: 'Förenade Arabemiraten'
-UN: 'Förenta Nationerna'
 GA: Gabon
 GM: Gambia
 GE: Georgien
@@ -84,7 +84,7 @@ GW: Guinea-Bissau
 GY: Guyana
 HT: Haiti
 HN: Honduras
-HK: 'Hongkong, S.A.R. Kina'
+HK: Hongkong
 IN: Indien
 ID: Indonesien
 IQ: Irak
@@ -128,9 +128,8 @@ LY: Libyen
 LI: Liechtenstein
 LT: Litauen
 LU: Luxemburg
-MO: 'Macao, S.A.R. Kina'
+MO: Macao
 MG: Madagaskar
-MK: Makedonien
 MW: Malawi
 MY: Malaysia
 MV: Maldiverna
@@ -160,6 +159,7 @@ NE: Niger
 NG: Nigeria
 NU: Niue
 KP: Nordkorea
+MK: Nordmakedonien
 MP: Nordmarianerna
 NF: Norfolkön
 'NO': Norge

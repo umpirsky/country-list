@@ -60,7 +60,6 @@ ER,Eritere
 EE,Esetoni
 ES,Esipaɲi
 ET,Etiopi
-EZ,Eurozone
 EG,Eziputi
 SH,"Ɛlɛni Senu"
 ID,Ɛndonezi
@@ -134,7 +133,7 @@ LU,Likisanburu
 LI,Lisɛnsitayini
 LT,Lituyani
 LC,Lusi-Senu
-MO,"Macau SAR China"
+MO,"Macao SAR China"
 MK,Macedɔni
 MG,Madagasikari
 MW,Malawi
@@ -184,6 +183,8 @@ PM,Piyɛri-Senu-ni-Mikelɔŋ
 PL,Poloɲi
 PT,Pɔritigali
 PR,Pɔrotoriko
+XA,Pseudo-Accents
+XB,Pseudo-Bidi
 RE,Reyuɲɔŋ
 RO,Rumani
 RW,Ruwanda
@@ -233,7 +234,6 @@ TV,Tuvalu
 UM,"U.S. Outlying Islands"
 UG,Uganda
 UA,Ukɛrɛni
-UN,"United Nations"
 UY,Urugwayi
 UZ,Uzebekisitani
 VU,Vanuwatu

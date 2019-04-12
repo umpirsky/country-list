@@ -67,7 +67,6 @@ GQ: 'Equatorial Guinea'
 ER: Eritrea
 EE: Estonia
 ET: Ethiopia
-EZ: Eurozone
 FK: 'Falkland Islands'
 FO: 'Faroe Islands'
 FJ: Fiji
@@ -131,7 +130,7 @@ LY: Libhiya
 LI: Liechtenstein
 LT: Lithuania
 LU: Luxembourg
-MO: 'Macau SAR China'
+MO: 'Macao SAR China'
 MK: Macedonia
 MG: Madagaska
 MW: Malawi
@@ -182,6 +181,8 @@ PL: Pholandi
 PF: 'Pholinesiya ye Fulansi'
 PN: Pitcairn
 PT: Portugal
+XA: Pseudo-Accents
+XB: Pseudo-Bidi
 PR: 'Puerto Rico'
 RU: Rashiya
 RE: Réunion
@@ -240,7 +241,6 @@ VI: 'U.S. Virgin Islands'
 UG: Uganda
 AE: 'United Arab Emirates'
 GB: 'United Kingdom'
-UN: 'United Nations'
 UZ: Uzbekistan
 VA: 'Vatican State'
 VE: Venezuela

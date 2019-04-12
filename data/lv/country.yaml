@@ -7,8 +7,8 @@ AI: Angilja
 AO: Angola
 AQ: Antarktika
 AG: 'Antigva un Barbuda'
+GB: 'Apvienotā Karaliste'
 AE: 'Apvienotie Arābu Emirāti'
-UN: 'Apvienoto Nāciju Organizācija'
 AR: Argentīna
 AM: Armēnija
 AW: Aruba
@@ -58,7 +58,6 @@ EC: Ekvadora
 GQ: 'Ekvatoriālā Gvineja'
 ER: Eritreja
 ET: Etiopija
-EZ: Eurozone
 FO: 'Fēru salas'
 FJ: Fidži
 PH: Filipīnas
@@ -135,13 +134,11 @@ LS: Lesoto
 LB: Libāna
 LR: Libērija
 LY: Lībija
-GB: Lielbritānija
 LT: Lietuva
 LI: Lihtenšteina
 LU: Luksemburga
 MG: Madagaskara
 YT: Majota
-MK: Maķedonija
 MY: Malaizija
 MW: Malāvija
 MV: Maldīvija
@@ -185,6 +182,8 @@ PE: Peru
 PN: 'Pitkērnas salas'
 PL: Polija
 PT: Portugāle
+XB: pseido-Bidi
+XA: pseidoakcenti
 PR: Puertoriko
 RE: Reinjona
 EH: Rietumsahāra
@@ -249,6 +248,7 @@ WF: 'Volisa un Futunas salas'
 SB: 'Zālamana salas'
 ZM: Zambija
 KP: Ziemeļkoreja
+MK: Ziemeļmaķedonija
 MP: 'Ziemeļu Marianas salas'
 CX: 'Ziemsvētku sala'
 ZW: Zimbabve

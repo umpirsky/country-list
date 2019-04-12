@@ -1,4 +1,4 @@
-CREATE TABLE list (id VARCHAR(10) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
+CREATE TABLE list (id VARCHAR(64) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
 
 INSERT INTO `list` (`id`, `value`) VALUES ('AO', 'अंगोला');
 INSERT INTO `list` (`id`, `value`) VALUES ('AI', 'अँग्विला');
@@ -31,6 +31,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('IR', 'इराण');
 INSERT INTO `list` (`id`, `value`) VALUES ('IL', 'इस्त्राइल');
 INSERT INTO `list` (`id`, `value`) VALUES ('UZ', 'उझबेकिस्तान');
 INSERT INTO `list` (`id`, `value`) VALUES ('KP', 'उत्तर कोरिया');
+INSERT INTO `list` (`id`, `value`) VALUES ('MK', 'उत्तर मॅसेडोनिया');
 INSERT INTO `list` (`id`, `value`) VALUES ('MP', 'उत्तरी मारियाना बेटे');
 INSERT INTO `list` (`id`, `value`) VALUES ('UY', 'उरुग्वे');
 INSERT INTO `list` (`id`, `value`) VALUES ('ER', 'एरिट्रिया');
@@ -148,7 +149,6 @@ INSERT INTO `list` (`id`, `value`) VALUES ('GF', 'फ्रेंच गया�
 INSERT INTO `list` (`id`, `value`) VALUES ('TF', 'फ्रेंच दाक्षिणात्य प्रदेश');
 INSERT INTO `list` (`id`, `value`) VALUES ('PF', 'फ्रेंच पॉलिनेशिया');
 INSERT INTO `list` (`id`, `value`) VALUES ('BM', 'बर्मुडा');
-INSERT INTO `list` (`id`, `value`) VALUES ('BZ', 'बलिझ');
 INSERT INTO `list` (`id`, `value`) VALUES ('BG', 'बल्गेरिया');
 INSERT INTO `list` (`id`, `value`) VALUES ('BS', 'बहामाज');
 INSERT INTO `list` (`id`, `value`) VALUES ('BH', 'बहारीन');
@@ -158,6 +158,7 @@ INSERT INTO `list` (`id`, `value`) VALUES ('BI', 'बुरुंडी');
 INSERT INTO `list` (`id`, `value`) VALUES ('BF', 'बुर्किना फासो');
 INSERT INTO `list` (`id`, `value`) VALUES ('BJ', 'बेनिन');
 INSERT INTO `list` (`id`, `value`) VALUES ('BY', 'बेलारूस');
+INSERT INTO `list` (`id`, `value`) VALUES ('BZ', 'बेलिझे');
 INSERT INTO `list` (`id`, `value`) VALUES ('BE', 'बेल्जियम');
 INSERT INTO `list` (`id`, `value`) VALUES ('BW', 'बोट्सवाना');
 INSERT INTO `list` (`id`, `value`) VALUES ('BO', 'बोलिव्हिया');
@@ -180,7 +181,6 @@ INSERT INTO `list` (`id`, `value`) VALUES ('MH', 'मार्शल बेट�
 INSERT INTO `list` (`id`, `value`) VALUES ('MV', 'मालदीव');
 INSERT INTO `list` (`id`, `value`) VALUES ('ML', 'माली');
 INSERT INTO `list` (`id`, `value`) VALUES ('MT', 'माल्टा');
-INSERT INTO `list` (`id`, `value`) VALUES ('MK', 'मॅसेडोनिया');
 INSERT INTO `list` (`id`, `value`) VALUES ('MX', 'मेक्सिको');
 INSERT INTO `list` (`id`, `value`) VALUES ('MS', 'मॉन्ट्सेराट');
 INSERT INTO `list` (`id`, `value`) VALUES ('MR', 'मॉरिटानिया');
@@ -218,7 +218,6 @@ INSERT INTO `list` (`id`, `value`) VALUES ('VA', 'व्हॅटिकन स�
 INSERT INTO `list` (`id`, `value`) VALUES ('VE', 'व्हेनेझुएला');
 INSERT INTO `list` (`id`, `value`) VALUES ('LK', 'श्रीलंका');
 INSERT INTO `list` (`id`, `value`) VALUES ('AE', 'संयुक्त अरब अमीरात');
-INSERT INTO `list` (`id`, `value`) VALUES ('UN', 'संयुक्त राष्ट्र');
 INSERT INTO `list` (`id`, `value`) VALUES ('RS', 'सर्बिया');
 INSERT INTO `list` (`id`, `value`) VALUES ('ST', 'साओ टोम आणि प्रिंसिपे');
 INSERT INTO `list` (`id`, `value`) VALUES ('WS', 'सामोआ');
@@ -254,4 +253,5 @@ INSERT INTO `list` (`id`, `value`) VALUES ('HU', 'हंगेरी');
 INSERT INTO `list` (`id`, `value`) VALUES ('HK', 'हाँगकाँग एसएआर चीन');
 INSERT INTO `list` (`id`, `value`) VALUES ('HT', 'हैती');
 INSERT INTO `list` (`id`, `value`) VALUES ('HN', 'होंडुरास');
-INSERT INTO `list` (`id`, `value`) VALUES ('EZ', 'Eurozone');
+INSERT INTO `list` (`id`, `value`) VALUES ('XA', 'Pseudo-Accents');
+INSERT INTO `list` (`id`, `value`) VALUES ('XB', 'Pseudo-Bidi');

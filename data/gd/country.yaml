@@ -71,7 +71,7 @@ BM: Bearmùda
 BJ: Beinin
 VN: Bhiet-Nam
 BO: Boilibhia
-BA: 'Bosna agus Hearsagobhana'
+BA: 'Bosna is Hearsagobhana'
 BW: Botsuana
 BR: Braisil
 BN: Brùnaigh
@@ -120,10 +120,9 @@ VG: 'Eileanan Breatannach na Maighdinn'
 CK: 'Eileanan Cook'
 MH: 'Eileanan Mharshall'
 VI: 'Eileanan na Maighdinn aig na SA'
-PN: 'Eileanan Peit a’ Chàirn'
+PN: 'Eileanan Pheit a’ Chàirn'
 SB: 'Eileanan Sholaimh'
 IE: Èirinn
-EZ: Eurozone
 FJ: Fìdi
 GA: Gabon
 GH: Gàna
@@ -186,7 +185,6 @@ ID: 'Na h-Innd-innse'
 IN: 'Na h-Innseachan'
 AE: 'Na h-Iomaratan Arabach Aonaichte'
 FM: 'Na Meanbh-eileanan'
-PS: 'Na Ranntairean Palastaineach'
 US: 'Na Stàitean Aonaichte'
 NL: 'Na Tìrean Ìsle'
 BQ: 'Na Tìrean Ìsle Caraibeach'
@@ -210,6 +208,8 @@ PE: Pearù
 CF: 'Poblachd Meadhan Afraga'
 PF: 'Poilinèis na Frainge'
 PR: 'Porto Rìceo'
+XA: Pseudo-Accents
+XB: Pseudo-Bidi
 IO: 'Ranntair Breatannach Cuan nan Innseachan'
 TF: 'Ranntairean a Deas na Frainge'
 RE: Réunion
@@ -249,7 +249,7 @@ TN: Tuinisea
 TM: Turcmanastàn
 WF: 'Uallas agus Futuna'
 UG: Uganda
-UN: 'United Nations'
+PS: 'Ùghdarras nam Palastaineach'
 UY: Uruguaidh
 UZ: Usbagastàn
 VU: Vanuatu

@@ -56,7 +56,6 @@ ER: Eritrëe
 ES: Espânye
 EE: Estonïi
 ET: Etiopïi
-EZ: Eurozone
 AF: 'Faganïta, Afganïstäan'
 FR: Farânzi
 FO: 'Faroe Islands'
@@ -129,7 +128,7 @@ LI: 'Liechtenstein,'
 LT: Lituanïi
 LA: Lùaôsi
 LU: Lugzambûru
-MO: 'Macau SAR China'
+MO: 'Macao SAR China'
 MG: Madagaskära
 MW: Malawïi
 MV: Maldîva
@@ -174,6 +173,8 @@ PF: 'Polinezïi tî farânzi'
 PL: Pölôni
 PR: 'Porto Rîko'
 PT: 'Pörtugäle, Ködörö Pûra'
+XA: Pseudo-Accents
+XB: Pseudo-Bidi
 RE: Reinïon
 RW: Ruandäa
 RO: Rumanïi
@@ -233,7 +234,6 @@ TD: Tyâde
 UM: 'U.S. Outlying Islands'
 UG: Ugandäa
 UA: Ukrêni
-UN: 'United Nations'
 UY: Uruguëe
 UZ: Uzbekistäan
 VU: Vanuatü

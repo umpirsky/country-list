@@ -25,16 +25,14 @@ BJ,Benin
 BM,Bermuda
 BT,Bhutan
 BO,Bolivia
-BA,"Bosnia og Hercegovina"
+BA,Bosnia-Hercegovina
 BW,Botswana
 BR,Brasil
-IO,"Britiske område i Det indiske hav"
 BN,Brunei
 BG,Bulgaria
 BF,"Burkina Faso"
 BI,Burundi
 CA,Canada
-BQ,"Caribbean Netherlands"
 KY,Caymanøyane
 EA,"Ceuta og Melilla"
 CL,Chile
@@ -45,11 +43,13 @@ CR,"Costa Rica"
 CU,Cuba
 CW,Curaçao
 DK,Danmark
-VI,"Dei amerikanske jomfruøyane"
-VG,"Dei britiske jomfruøyane"
+VI,"Dei amerikanske Jomfruøyane"
+VG,"Dei britiske Jomfruøyane"
+TF,"Dei franske sørterritoria"
 AE,"Dei sameinte arabiske emirata"
 DO,"Den dominikanske republikken"
 CF,"Den sentralafrikanske republikken"
+IO,"Det britiske territoriet I Indiahavet"
 DG,"Diego Garcia"
 DJ,Djibouti
 DM,Dominica
@@ -61,7 +61,6 @@ CI,Elfenbeinskysten
 ER,Eritrea
 EE,Estland
 ET,Etiopia
-EZ,Eurozone
 FK,Falklandsøyane
 FJ,Fiji
 PH,Filippinane
@@ -69,7 +68,6 @@ FI,Finland
 FR,Frankrike
 GF,"Fransk Guyana"
 PF,"Fransk Polynesia"
-TF,"Franske sørområde"
 FO,Færøyane
 GA,Gabon
 GM,Gambia
@@ -106,6 +104,7 @@ KH,Kambodsja
 CM,Kamerun
 IC,Kanariøyane
 CV,"Kapp Verde"
+BQ,"Karibisk Nederland"
 KZ,Kasakhstan
 KE,Kenya
 CN,Kina
@@ -165,7 +164,7 @@ NU,Niue
 KP,Nord-Korea
 MP,Nord-Marianane
 NO,Noreg
-NF,Norfolkøyane
+NF,Norfolkøya
 NC,Ny-Caledonia
 OM,Oman
 PK,Pakistan
@@ -178,6 +177,8 @@ PE,Peru
 PN,Pitcairn
 PL,Polen
 PT,Portugal
+XA,Pseudo-Accents
+XB,Pseudo-Bidi
 PR,"Puerto Rico"
 QA,Qatar
 RE,Réunion
@@ -186,7 +187,9 @@ RU,Russland
 RW,Rwanda
 BL,"Saint Barthélemy"
 SH,"Saint Helena"
+KN,"Saint Kitts og Nevis"
 MF,"Saint Martin"
+PM,Saint-Pierre-et-Miquelon
 SB,Salomonøyane
 WS,Samoa
 SM,"San Marino"
@@ -203,9 +206,7 @@ SI,Slovenia
 SO,Somalia
 ES,Spania
 LK,"Sri Lanka"
-KN,"St. Christopher og Nevis"
 LC,"St. Lucia"
-PM,"St. Pierre og Miquelon"
 VC,"St. Vincent og Grenadinane"
 GB,Storbritannia
 SD,Sudan
@@ -216,7 +217,7 @@ SE,Sverige
 SZ,Swaziland
 SY,Syria
 ZA,Sør-Afrika
-GS,"Sør-Georgia og Sør-Sandwich-øyane"
+GS,"Sør-Georgia og Sør-Sandwichøyene"
 KR,Sør-Korea
 SS,Sør-Sudan
 TJ,Tadsjikistan
@@ -240,7 +241,6 @@ DE,Tyskland
 UG,Uganda
 UA,Ukraina
 HU,Ungarn
-UN,"United Nations"
 UY,Uruguay
 US,USA
 UM,"USAs ytre småøyar"

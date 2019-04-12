@@ -1,6 +1,6 @@
-CREATE TABLE list (id VARCHAR(10) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
+CREATE TABLE list (id VARCHAR(64) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
-INSERT INTO "list" ("id", "value") VALUES (E'AI', E'அங்குய்லா');
+INSERT INTO "list" ("id", "value") VALUES (E'AI', E'அங்கியுலா');
 INSERT INTO "list" ("id", "value") VALUES (E'AO', E'அங்கோலா');
 INSERT INTO "list" ("id", "value") VALUES (E'AZ', E'அசர்பைஜான்');
 INSERT INTO "list" ("id", "value") VALUES (E'AQ', E'அண்டார்டிகா');
@@ -14,8 +14,8 @@ INSERT INTO "list" ("id", "value") VALUES (E'AL', E'அல்பேனியா'
 INSERT INTO "list" ("id", "value") VALUES (E'DZ', E'அல்ஜீரியா');
 INSERT INTO "list" ("id", "value") VALUES (E'AD', E'அன்டோரா');
 INSERT INTO "list" ("id", "value") VALUES (E'AC', E'அஷன்ஷியன் தீவு');
+INSERT INTO "list" ("id", "value") VALUES (E'AF', E'ஆஃப்கானிஸ்தான்');
 INSERT INTO "list" ("id", "value") VALUES (E'AG', E'ஆண்டிகுவா மற்றும் பார்புடா');
-INSERT INTO "list" ("id", "value") VALUES (E'AF', E'ஆப்கானிஸ்தான்');
 INSERT INTO "list" ("id", "value") VALUES (E'AX', E'ஆலந்து தீவுகள்');
 INSERT INTO "list" ("id", "value") VALUES (E'AT', E'ஆஸ்திரியா');
 INSERT INTO "list" ("id", "value") VALUES (E'AU', E'ஆஸ்திரேலியா');
@@ -39,7 +39,6 @@ INSERT INTO "list" ("id", "value") VALUES (E'SV', E'எல் சால்வட
 INSERT INTO "list" ("id", "value") VALUES (E'EE', E'எஸ்டோனியா');
 INSERT INTO "list" ("id", "value") VALUES (E'YE', E'ஏமன்');
 INSERT INTO "list" ("id", "value") VALUES (E'AE', E'ஐக்கிய அரபு எமிரேட்ஸ்');
-INSERT INTO "list" ("id", "value") VALUES (E'UN', E'ஐக்கிய நாடுகள்');
 INSERT INTO "list" ("id", "value") VALUES (E'IM', E'ஐல் ஆஃப் மேன்');
 INSERT INTO "list" ("id", "value") VALUES (E'IS', E'ஐஸ்லாந்து');
 INSERT INTO "list" ("id", "value") VALUES (E'OM', E'ஓமன்');
@@ -129,7 +128,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'TH', E'தாய்லாந்த�
 INSERT INTO "list" ("id", "value") VALUES (E'TZ', E'தான்சானியா');
 INSERT INTO "list" ("id", "value") VALUES (E'TM', E'துர்க்மெனிஸ்தான்');
 INSERT INTO "list" ("id", "value") VALUES (E'TR', E'துருக்கி');
-INSERT INTO "list" ("id", "value") VALUES (E'TV', E'துவாலூ');
+INSERT INTO "list" ("id", "value") VALUES (E'TV', E'துவாலு');
 INSERT INTO "list" ("id", "value") VALUES (E'SS', E'தெற்கு சூடான்');
 INSERT INTO "list" ("id", "value") VALUES (E'GS', E'தெற்கு ஜார்ஜியா மற்றும் தெற்கு சாண்ட்விச் தீவுகள்');
 INSERT INTO "list" ("id", "value") VALUES (E'ZA', E'தென் ஆப்பிரிக்கா');
@@ -137,10 +136,10 @@ INSERT INTO "list" ("id", "value") VALUES (E'KR', E'தென் கொரிய
 INSERT INTO "list" ("id", "value") VALUES (E'TL', E'தைமூர்-லெஸ்தே');
 INSERT INTO "list" ("id", "value") VALUES (E'TW', E'தைவான்');
 INSERT INTO "list" ("id", "value") VALUES (E'NA', E'நமீபியா');
-INSERT INTO "list" ("id", "value") VALUES (E'NF', E'நார்ஃபோக் தீவுகள்');
+INSERT INTO "list" ("id", "value") VALUES (E'NF', E'நார்ஃபோக் தீவு');
 INSERT INTO "list" ("id", "value") VALUES (E'NO', E'நார்வே');
 INSERT INTO "list" ("id", "value") VALUES (E'NI', E'நிகரகுவா');
-INSERT INTO "list" ("id", "value") VALUES (E'NU', E'நியூ');
+INSERT INTO "list" ("id", "value") VALUES (E'NU', E'நியுவே');
 INSERT INTO "list" ("id", "value") VALUES (E'NC', E'நியூ கேலிடோனியா');
 INSERT INTO "list" ("id", "value") VALUES (E'NZ', E'நியூசிலாந்து');
 INSERT INTO "list" ("id", "value") VALUES (E'NL', E'நெதர்லாந்து');
@@ -177,7 +176,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'BT', E'பூடான்');
 INSERT INTO "list" ("id", "value") VALUES (E'BM', E'பெர்முடா');
 INSERT INTO "list" ("id", "value") VALUES (E'PE', E'பெரு');
 INSERT INTO "list" ("id", "value") VALUES (E'BE', E'பெல்ஜியம்');
-INSERT INTO "list" ("id", "value") VALUES (E'BY', E'பெலாரூஸ்');
+INSERT INTO "list" ("id", "value") VALUES (E'BY', E'பெலாரஸ்');
 INSERT INTO "list" ("id", "value") VALUES (E'BZ', E'பெலிஸ்');
 INSERT INTO "list" ("id", "value") VALUES (E'BJ', E'பெனின்');
 INSERT INTO "list" ("id", "value") VALUES (E'BO', E'பொலிவியா');
@@ -254,4 +253,5 @@ INSERT INTO "list" ("id", "value") VALUES (E'HU', E'ஹங்கேரி');
 INSERT INTO "list" ("id", "value") VALUES (E'HK', E'ஹாங்காங் எஸ்ஏஆர் சீனா');
 INSERT INTO "list" ("id", "value") VALUES (E'HT', E'ஹைட்டி');
 INSERT INTO "list" ("id", "value") VALUES (E'HN', E'ஹோண்டூராஸ்');
-INSERT INTO "list" ("id", "value") VALUES (E'EZ', E'Eurozone');
+INSERT INTO "list" ("id", "value") VALUES (E'XA', E'Pseudo-Accents');
+INSERT INTO "list" ("id", "value") VALUES (E'XB', E'Pseudo-Bidi');

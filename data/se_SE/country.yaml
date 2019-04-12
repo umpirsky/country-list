@@ -62,7 +62,6 @@ CI: Elfenbenariddu
 ER: Eritrea
 EE: Estlánda
 ET: Etiopia
-EZ: Eurozone
 FK: Falklandsullot
 FO: Fearsullot
 FJ: Fijisullot
@@ -186,6 +185,8 @@ PE: Peru
 PN: Pitcairn
 PL: Polen
 PT: Portugála
+XA: Pseudo-Accents
+XB: Pseudo-Bidi
 PR: 'Puerto Rico'
 QA: Qatar
 RE: Réunion
@@ -239,7 +240,6 @@ UM: 'U.S. Outlying Islands'
 UG: Uganda
 UA: Ukraina
 HU: Ungár
-UN: 'United Nations'
 UY: Uruguay
 UZ: Usbekistan
 VU: Vanuatu

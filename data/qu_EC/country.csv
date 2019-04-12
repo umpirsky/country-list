@@ -79,7 +79,6 @@ ES,España
 US,"Estados Unidos"
 EE,Estonia
 ET,Etiopía
-EZ,Eurozone
 FK,"Falkland Islands"
 FO,"Faroe Islands"
 PH,Filipinas
@@ -185,6 +184,8 @@ PE,Perú
 PF,"Polinesia Francesa"
 PL,Polonia
 PT,Portugal
+XA,Pseudo-Accents
+XB,Pseudo-Bidi
 PR,"Puerto Rico"
 QA,Qatar
 GB,"Reino Unido"
@@ -242,7 +243,6 @@ TV,Tuvalu
 UG,Uganda
 UA,Ukraine
 AE,"United Arab Emirates"
-UN,"United Nations"
 UY,Uruguay
 UZ,Uzbekistán
 VU,Vanuatu

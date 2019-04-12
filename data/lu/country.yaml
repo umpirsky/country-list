@@ -50,7 +50,6 @@ EC: Ekwatele
 ER: Elitele
 EE: Esitoni
 ET: Etshiopi
-EZ: Eurozone
 FO: 'Faroe Islands'
 FI: Filande
 TF: 'French Southern Territories'
@@ -119,7 +118,7 @@ TC: 'Lutanda lua Tuluki ne Kaiko'
 VI: 'Lutanda lua Vierzi wa Ameriki'
 VG: 'Lutanda lua Vierzi wa Angeletele'
 IO: 'Lutanda lwa Angeletele ku mbu wa Indiya'
-MO: 'Macau SAR China'
+MO: 'Macao SAR China'
 MG: Madagasikari
 MV: Madive
 MW: Malawi
@@ -187,6 +186,8 @@ PG: 'Papwazi wa Nginɛ wa mumu'
 PE: Peru
 PN: Pikairni
 PF: 'Polinezi wa Nfalanse'
+XA: Pseudo-Accents
+XB: Pseudo-Bidi
 RU: Risi
 RO: Romani
 RW: Rwanda
@@ -242,7 +243,6 @@ TV: Tuvalu
 UM: 'U.S. Outlying Islands'
 UG: Uganda
 UA: Ukreni
-UN: 'United Nations'
 UZ: Uzibekisita
 VU: Vanuatu
 VE: Venezuela

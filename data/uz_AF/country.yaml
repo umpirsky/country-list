@@ -1,4 +1,3 @@
-AF: Afgʻoniston
 AX: 'Aland orollari'
 AL: Albaniya
 US: 'Amerika Qo‘shma Shtatlari'
@@ -25,7 +24,6 @@ BZ: Beliz
 BJ: Benin
 BM: 'Bermuda orollari'
 AE: 'Birlashgan Arab Amirliklari'
-UN: 'Birlashgan Millatlar Tashkiloti'
 BG: Bolgariya
 BO: Boliviya
 BQ: 'Boneyr, Sint-Estatius va Saba'
@@ -53,8 +51,7 @@ GQ: 'Ekvatorial Gvineya'
 ER: Eritreya
 IR: Eron
 EE: Estoniya
-EZ: Eurozone
-PS: 'Falastin hududi'
+PS: 'Falastin hududlari'
 FO: 'Farer orollari'
 FJ: Fiji
 PH: Filippin
@@ -177,6 +174,8 @@ PN: 'Pitkern orollari'
 PK: Pokiston
 PL: Polsha
 PT: Portugaliya
+XA: Pseudo-Accents
+XB: Pseudo-Bidi
 PR: Puerto-Riko
 QA: Qatar
 KG: Qirgʻiziston
@@ -204,6 +203,7 @@ EA: 'Seuta va Melilya'
 SC: 'Seyshel orollari'
 KP: 'Shimoliy Koreya'
 MP: 'Shimoliy Mariana orollari'
+SJ: 'Shpitsbergen va Yan-Mayen'
 LK: Shri-Lanka
 SE: Shvetsiya
 CH: Shveytsariya
@@ -216,7 +216,6 @@ SO: Somali
 SD: Sudan
 SR: Surinam
 SY: Suriya
-SJ: 'Svalbard va Yan-Mayen'
 SZ: Svazilend
 SL: Syerra-Leone
 TH: Tailand
@@ -253,3 +252,4 @@ NZ: 'Yangi Zelandiya'
 JP: Yaponiya
 ZM: Zambiya
 ZW: Zimbabve
+AF: افغانستان

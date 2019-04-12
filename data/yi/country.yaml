@@ -212,7 +212,6 @@ CC: 'Cocos (Keeling) Islands'
 CG: 'Congo - Brazzaville'
 CY: Cyprus
 DG: 'Diego Garcia'
-EZ: Eurozone
 TF: 'French Southern Territories'
 HK: 'Hong Kong SAR China'
 IQ: Iraq
@@ -221,7 +220,7 @@ JO: Jordan
 KZ: Kazakhstan
 KW: Kuwait
 KG: Kyrgyzstan
-MO: 'Macau SAR China'
+MO: 'Macao SAR China'
 NR: Nauru
 NU: Niue
 KP: 'North Korea'
@@ -229,6 +228,8 @@ MP: 'Northern Mariana Islands'
 OM: Oman
 PW: Palau
 PS: 'Palestinian Territories'
+XA: Pseudo-Accents
+XB: Pseudo-Bidi
 SA: 'Saudi Arabia'
 SX: 'Sint Maarten'
 GS: 'South Georgia & South Sandwich Islands'
@@ -249,7 +250,6 @@ TC: 'Turks & Caicos Islands'
 UM: 'U.S. Outlying Islands'
 VI: 'U.S. Virgin Islands'
 AE: 'United Arab Emirates'
-UN: 'United Nations'
 UZ: Uzbekistan
 WF: 'Wallis & Futuna'
 EH: 'Western Sahara'

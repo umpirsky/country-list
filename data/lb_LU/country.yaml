@@ -57,7 +57,6 @@ GQ: Equatorialguinea
 ER: Eritrea
 EE: Estland
 ET: Ethiopien
-EZ: Eurozone
 FK: Falklandinselen
 FO: Färöer
 FJ: Fidschi
@@ -177,6 +176,8 @@ PH: Philippinnen
 PN: Pitcairninselen
 PL: Polen
 PT: Portugal
+XA: Pseudo-Accents
+XB: Pseudo-Bidi
 PR: 'Puerto Rico'
 RE: Réunion
 RW: Ruanda
@@ -239,14 +240,13 @@ TV: Tuvalu
 UG: Uganda
 UA: Ukrain
 HU: Ungarn
-UN: 'United Nations'
 UY: Uruguay
 UZ: Usbekistan
 VU: Vanuatu
 VA: Vatikanstad
 VE: Venezuela
 AE: 'Vereenegt Arabesch Emirater'
-US: 'Vereenegt Staate vun Amerika'
+US: 'Vereenegt Staaten'
 VN: Vietnam
 BY: Wäissrussland
 WF: 'Wallis a Futuna'

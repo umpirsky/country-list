@@ -63,7 +63,6 @@ GQ,"Equatorial Guinea"
 ER,Eritrea
 EE,Estonia
 ET,Etiopia
-EZ,Eurozone
 FO,"Faroe Islands"
 FJ,Fiji
 FI,Finland
@@ -130,7 +129,7 @@ LY,Libya
 LI,Liechtenstein
 LT,Lithuania
 LU,Luxembourg
-MO,"Macau SAR China"
+MO,"Macao SAR China"
 MK,Macedonia
 MG,Madagascar
 MW,Malawi
@@ -175,6 +174,8 @@ PH,Philippines
 PN,Pitcairn
 PL,Poland
 PT,Portugal
+XA,Pseudo-Accents
+XB,Pseudo-Bidi
 PR,"Puerto Rico"
 QA,Qatar
 RE,Réunion
@@ -232,7 +233,6 @@ UG,Uganda
 UA,Ukraine
 AE,"United Arab Emirates"
 GB,"United Kingdom"
-UN,"United Nations"
 UY,Uruguay
 UZ,Uzbekistan
 VU,Vanuatu

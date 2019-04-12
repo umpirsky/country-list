@@ -14,7 +14,7 @@ AW: Aruba
 AC: Ascension-sziget
 AU: Ausztrália
 AT: Ausztria
-UM: 'Az Amerikai Egyesült Államok lakatlan külbirtokai'
+UM: 'Az USA lakatlan külbirtokai'
 AZ: Azerbajdzsán
 BS: Bahama-szigetek
 BH: Bahrein
@@ -62,15 +62,14 @@ AE: 'Egyesült Arab Emírségek'
 GB: 'Egyesült Királyság'
 EG: Egyiptom
 CI: Elefántcsontpart
-UN: ENSZ
 ER: Eritrea
 KP: Észak-Korea
+MK: Észak-Macedónia
 MP: 'Északi Mariana-szigetek'
 EE: Észtország
 ET: Etiópia
-EZ: Eurozone
 FK: Falkland-szigetek
-FO: Feröer-szigetek
+FO: 'Feröer szigetek'
 FJ: Fidzsi
 FI: Finnország
 TF: 'Francia Déli Területek'
@@ -141,7 +140,6 @@ LY: Líbia
 LI: Liechtenstein
 LT: Litvánia
 LU: Luxemburg
-MK: Macedónia
 MG: Madagaszkár
 HU: Magyarország
 MO: 'Makaó KKT'
@@ -190,6 +188,8 @@ PY: Paraguay
 PE: Peru
 PN: Pitcairn-szigetek
 PT: Portugália
+XB: Pszeudo-kétirányú
+XA: Pszeudo-nyelvjárások
 PR: 'Puerto Rico'
 RE: Réunion
 RO: Románia
@@ -203,7 +203,7 @@ PM: 'Saint-Pierre és Miquelon'
 SB: Salamon-szigetek
 SV: Salvador
 SM: 'San Marino'
-ST: 'Sao Tomé és Príncipe'
+ST: 'São Tomé és Príncipe'
 SC: Seychelle-szigetek
 SL: 'Sierra Leone'
 SX: 'Sint Maarten'
@@ -248,7 +248,7 @@ UZ: Üzbegisztán
 VU: Vanuatu
 VA: Vatikán
 VE: Venezuela
-VN: Vietnam
+VN: Vietnám
 WF: 'Wallis és Futuna'
 ZM: Zambia
 ZW: Zimbabwe
