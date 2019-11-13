@@ -45,7 +45,7 @@ All formats are also available in multiple languages, please find full language 
 Usage
 -----
 
-For PHP
+For PHP:
 
 ```
 require 'vendor/autoload.php';
