@@ -4,7 +4,6 @@ namespace Umpirsky;
 
 abstract class CountryList
 {
-
     static function get(string $language): array
     {
 	$path = __DIR__.'/../data/'.$language;
