@@ -42,6 +42,17 @@ Multilingual
 
 All formats are also available in multiple languages, please find full language list [here](https://github.com/umpirsky/country-list/tree/master/data).
 
+Usage
+-----
+
+For PHP
+
+```
+require 'vendor/autoload.php';
+
+$countries = \Umpirsky\CountryList::get('en');
+```
+
 Build
 -----
 

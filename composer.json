@@ -17,6 +17,11 @@
         "slowprog/composer-copy-file": "^0.2",
         "symfony/intl": "^4.2"
     },
+    "autoload": {
+        "psr-4": {
+            "Umpirsky\\": "src/"
+        }
+    },
     "scripts": {
         "post-install-cmd": [
             "SlowProg\\CopyFile\\ScriptHandler::copy"
