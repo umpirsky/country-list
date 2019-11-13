@@ -10,7 +10,7 @@ abstract class CountryList
 	$path = __DIR__.'/../data/'.$language;
 
 	if(!is_dir($path)) {
-	    throw new \Exception("Language $language not found.");
+	    throw new \OutOfBoundsException("Language $language not found.");
 	}
 
 	return require $path.'/country.php';
