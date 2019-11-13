@@ -15,5 +15,4 @@ abstract class CountryList
 
 	return require $path.'/country.php';
     }
-
 }
