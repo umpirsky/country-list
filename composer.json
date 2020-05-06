@@ -15,7 +15,7 @@
     "require-dev": {
         "umpirsky/list-generator": "^1.2",
         "slowprog/composer-copy-file": "^0.2",
-        "symfony/intl": "^4.2"
+        "symfony/intl": "^4.3"
     },
     "scripts": {
         "post-install-cmd": [
