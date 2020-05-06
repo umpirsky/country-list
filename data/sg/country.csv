@@ -12,7 +12,6 @@ AE,"Arâbo Emirâti Ôko"
 AM,Armenïi
 AW,Arûba
 AR,Arzantîna
-AC,"Ascension Island"
 VG,"Âzôâ Viîrîggo tî Anglëe"
 CK,"âzûâ Kûku"
 MP,"Âzûâ Märïâni tî Banga"
@@ -34,21 +33,19 @@ BM,Beremûda
 BO,Bolivïi
 BA,"Bosnïi na Herzegovînni"
 BW,Botswana
+BV,"Bouvet Island"
 BR,Brezîli
 BN,Brunêi
 BG,Bulugarïi
 BF,"Burkina Faso"
 BI,Burundïi
 BT,Butäan
-IC,"Canary Islands"
 BQ,"Caribbean Netherlands"
-EA,"Ceuta & Melilla"
 CX,"Christmas Island"
 CC,"Cocos (Keeling) Islands"
 CW,Curaçao
 DK,Danemêrke
 DJ,Dibutùii
-DG,"Diego Garcia"
 DM,Dömïnîka
 EC,Ekuatëre
 IN,Ênnde
@@ -82,6 +79,7 @@ GT,Guatêmälä
 GG,Guernsey
 GF,"Güyâni tî farânzi"
 HT,Haitïi
+HM,"Heard & McDonald Islands"
 NL,Holände
 HN,Honduräsi
 HK,"Hong Kong SAR China"
@@ -114,7 +112,6 @@ KM,Kömôro
 CG,Kongö
 KP,"Korëe tî Banga"
 KR,"Korëe tî Mbongo"
-XK,Kosovo
 CR,"Kôsta Rîka"
 KW,Köwêti
 HR,Kroasïi
@@ -138,7 +135,6 @@ ML,Malïi
 MT,Mâlta
 MA,Marôko
 MQ,Märtïnîki
-MK,Maseduäni
 YT,Mäyôte
 ZA,Mbongo-Afrîka
 MX,Mekisîki
@@ -159,6 +155,7 @@ NI,Nikaragua
 NU,Niue
 NE,Nizëre
 NG,Nizerïa
+MK,"North Macedonia"
 NO,Nörvêzi
 OM,Omâni
 AU,"Ostralïi, Sotralïi"
@@ -174,8 +171,6 @@ PF,"Polinezïi tî farânzi"
 PL,Pölôni
 PR,"Porto Rîko"
 PT,"Pörtugäle, Ködörö Pûra"
-XA,Pseudo-Accents
-XB,Pseudo-Bidi
 RE,Reinïon
 RW,Ruandäa
 RO,Rumanïi
@@ -226,7 +221,6 @@ TG,Togö
 TK,Tokelau
 TO,Tonga
 TT,"Trinitùee na Tobagö"
-TA,"Tristan da Cunha"
 TN,Tunizïi
 TM,Turkumenistäan
 TR,Turukïi

@@ -16,7 +16,7 @@ AT: Àustria
 AZ: Azerbaidjan
 BS: Bahames
 BH: Bahrain
-BD: 'Bangla Desh'
+BD: Bangladesh
 BB: Barbados
 BY: Belarús
 BE: Bèlgica
@@ -27,6 +27,7 @@ BT: Bhutan
 BO: Bolívia
 BA: 'Bòsnia i Hercegovina'
 BW: Botswana
+BV: Bouvet
 BR: Brasil
 BN: Brunei
 BG: Bulgària
@@ -37,7 +38,6 @@ CM: Camerun
 CA: Canadà
 CV: 'Cap Verd'
 BQ: 'Carib Neerlandès'
-EA: 'Ceuta i Melilla'
 VA: 'Ciutat del Vaticà'
 CO: Colòmbia
 KM: Comores
@@ -45,12 +45,11 @@ CG: 'Congo - Brazzaville'
 CD: 'Congo - Kinshasa'
 KP: 'Corea del Nord'
 KR: 'Corea del Sud'
-CI: 'Costa d’Ivori'
 CR: 'Costa Rica'
+CI: 'Côte d’Ivoire'
 HR: Croàcia
 CU: Cuba
 CW: Curaçao
-DG: 'Diego Garcia'
 DK: Dinamarca
 DJ: Djibouti
 DM: Dominica
@@ -77,7 +76,7 @@ GH: Ghana
 GI: Gibraltar
 GR: Grècia
 GD: Grenada
-GL: Grenlàndia
+GL: Groenlàndia
 GP: Guadeloupe
 GF: 'Guaiana Francesa'
 GU: Guam
@@ -93,12 +92,11 @@ HK: 'Hong Kong (RAE Xina)'
 HU: Hongria
 YE: Iemen
 CX: 'Illa Christmas'
-AC: 'Illa de l’Ascensió'
 RE: 'Illa de la Reunió'
 IM: 'Illa de Man'
+HM: 'Illa Heard i Illes McDonald'
 AX: 'Illes Åland'
 KY: 'Illes Caiman'
-IC: 'Illes Canàries'
 CC: 'Illes Cocos'
 CK: 'Illes Cook'
 FO: 'Illes Fèroe'
@@ -128,7 +126,6 @@ KZ: Kazakhstan
 KE: Kenya
 KG: Kirguizistan
 KI: Kiribati
-XK: Kosovo
 KW: Kuwait
 LA: Laos
 LS: Lesotho
@@ -183,8 +180,6 @@ PE: Perú
 PF: 'Polinèsia Francesa'
 PL: Polònia
 PT: Portugal
-XA: Pseudo-Accents
-XB: Pseudo-Bidi
 PR: 'Puerto Rico'
 QA: Qatar
 GB: 'Regne Unit'
@@ -227,13 +222,12 @@ TW: Taiwan
 TZ: Tanzània
 IO: 'Territori Britànic de l’Oceà Índic'
 TF: 'Territoris Australs Francesos'
-PS: 'territoris palestins'
+PS: 'Territoris palestins'
 TL: 'Timor Oriental'
 TG: Togo
 TK: Tokelau
 TO: Tonga
 TT: 'Trinitat i Tobago'
-TA: 'Tristão da Cunha'
 TN: Tunísia
 TM: Turkmenistan
 TR: Turquia

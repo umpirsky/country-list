@@ -36,7 +36,6 @@ BG: Bugarska
 BF: 'Burkina Faso'
 BI: Burundi
 BT: Butan
-EA: 'Ceuta i Melilla'
 CY: Cipar
 CK: 'Cookovi Otoci'
 ME: 'Crna Gora'
@@ -45,7 +44,6 @@ TD: Čad
 CZ: Češka
 CL: Čile
 DK: Danska
-DG: 'Diego Garcia'
 DM: Dominika
 DO: 'Dominikanska Republika'
 DJ: Džibuti
@@ -54,6 +52,7 @@ EC: Ekvador
 GQ: 'Ekvatorska Gvineja'
 ER: Eritreja
 EE: Estonija
+SZ: Esvatini
 ET: Etiopija
 FK: 'Falklandski otoci'
 FO: 'Farski otoci'
@@ -103,7 +102,6 @@ KY: 'Kajmanski otoci'
 KH: Kambodža
 CM: Kamerun
 CA: Kanada
-IC: 'Kanarski otoci'
 BQ: 'Karipski otoci Nizozemske'
 QA: Katar
 KZ: Kazahstan
@@ -116,7 +114,6 @@ CO: Kolumbija
 KM: Komori
 CG: 'Kongo - Brazzaville'
 CD: 'Kongo - Kinshasa'
-XK: Kosovo
 CR: Kostarika
 CU: Kuba
 KW: Kuvajt
@@ -165,9 +162,10 @@ NZ: 'Novi Zeland'
 DE: Njemačka
 CI: 'Obala Bjelokosti'
 OM: Oman
+HM: 'Otoci Heard i McDonald'
 PN: 'Otoci Pitcairn'
 TC: 'Otoci Turks i Caicos'
-AC: 'Otok Ascension'
+BV: 'Otok Bouvet'
 IM: 'Otok Man'
 NF: 'Otok Norfolk'
 PK: Pakistan
@@ -180,8 +178,6 @@ PE: Peru
 PL: Poljska
 PR: Portoriko
 PT: Portugal
-XB: 'pseudo bidi'
-XA: 'pseudo naglasci'
 HK: 'PUP Hong Kong Kina'
 MO: 'PUP Makao Kina'
 RE: Réunion
@@ -190,6 +186,7 @@ RO: Rumunjska
 RU: Rusija
 BL: 'Saint Barthélemy'
 MF: 'Saint Martin'
+PM: Saint-Pierre-et-Miquelon
 SB: 'Salomonski Otoci'
 SV: Salvador
 WS: Samoa
@@ -213,11 +210,9 @@ CF: 'Srednjoafrička Republika'
 SD: Sudan
 SR: Surinam
 SJ: 'Svalbard i Jan Mayen'
-SZ: Svazi
 SH: 'Sveta Helena'
 LC: 'Sveta Lucija'
 KN: 'Sveti Kristofor i Nevis'
-PM: 'Sveti Petar i Mikelon'
 ST: 'Sveti Toma i Princip'
 VC: 'Sveti Vincent i Grenadini'
 ES: Španjolska
@@ -233,7 +228,6 @@ TG: Togo
 TK: Tokelau
 TO: Tonga
 TT: 'Trinidad i Tobago'
-TA: 'Tristan da Cunha'
 TN: Tunis
 TM: Turkmenistan
 TR: Turska

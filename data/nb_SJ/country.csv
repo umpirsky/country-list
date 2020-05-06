@@ -11,7 +11,6 @@ AG,"Antigua og Barbuda"
 AR,Argentina
 AM,Armenia
 AW,Aruba
-AC,Ascension
 AZ,Aserbajdsjan
 AU,Australia
 BS,Bahamas
@@ -26,6 +25,7 @@ BT,Bhutan
 BO,Bolivia
 BA,Bosnia-Hercegovina
 BW,Botswana
+BV,Bouvetøya
 BR,Brasil
 BN,Brunei
 BG,Bulgaria
@@ -33,7 +33,6 @@ BF,"Burkina Faso"
 BI,Burundi
 CA,Canada
 KY,Caymanøyene
-EA,"Ceuta og Melilla"
 CL,Chile
 CX,Christmasøya
 CO,Colombia
@@ -50,7 +49,6 @@ DO,"Den dominikanske republikk"
 CF,"Den sentralafrikanske republikk"
 IO,"Det britiske territoriet i Indiahavet"
 PS,"Det palestinske området"
-DG,"Diego Garcia"
 DJ,Djibouti
 DM,Dominica
 EC,Ecuador
@@ -85,6 +83,7 @@ GN,Guinea
 GW,Guinea-Bissau
 GY,Guyana
 HT,Haiti
+HM,"Heard- og McDonaldøyene"
 GR,Hellas
 HN,Honduras
 HK,"Hongkong S.A.R. Kina"
@@ -104,7 +103,6 @@ JE,Jersey
 JO,Jordan
 KH,Kambodsja
 CM,Kamerun
-IC,Kanariøyene
 CV,"Kapp Verde"
 BQ,"Karibisk Nederland"
 KZ,Kasakhstan
@@ -116,7 +114,6 @@ CC,Kokosøyene
 KM,Komorene
 CG,Kongo-Brazzaville
 CD,Kongo-Kinshasa
-XK,Kosovo
 HR,Kroatia
 KW,Kuwait
 CY,Kypros
@@ -177,8 +174,6 @@ PE,Peru
 PN,Pitcairnøyene
 PL,Polen
 PT,Portugal
-XA,Pseudo-Accents
-XB,Pseudo-Bidi
 PR,"Puerto Rico"
 QA,Qatar
 RE,Réunion
@@ -227,7 +222,6 @@ TG,Togo
 TK,Tokelau
 TO,Tonga
 TT,"Trinidad og Tobago"
-TA,"Tristan da Cunha"
 TD,Tsjad
 CZ,Tsjekkia
 TN,Tunisia

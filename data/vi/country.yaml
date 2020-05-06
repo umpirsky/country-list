@@ -42,7 +42,6 @@ CM: Cameroon
 KH: Campuchia
 CA: Canada
 CV: 'Cape Verde'
-EA: 'Ceuta và Melilla'
 TD: Chad
 CL: Chile
 CO: Colombia
@@ -56,12 +55,11 @@ CI: 'Côte d’Ivoire'
 HR: Croatia
 CU: Cuba
 CW: Curaçao
-DG: 'Diego Garcia'
 DJ: Djibouti
 DM: Dominica
 TW: 'Đài Loan'
 DK: 'Đan Mạch'
-AC: 'Đảo Ascension'
+BV: 'Đảo Bouvet'
 CX: 'Đảo Giáng Sinh'
 IM: 'Đảo Man'
 NF: 'Đảo Norfolk'
@@ -74,11 +72,11 @@ ET: Ethiopia
 FJ: Fiji
 GA: Gabon
 GM: Gambia
+GE: Georgia
 GH: Ghana
 GI: Gibraltar
 GL: Greenland
 GD: Grenada
-GE: Gruzia
 GP: Guadeloupe
 GU: Guam
 GT: Guatemala
@@ -109,7 +107,6 @@ JO: Jordan
 KZ: Kazakhstan
 KE: Kenya
 KI: Kiribati
-XK: Kosovo
 KW: Kuwait
 KG: Kyrgyzstan
 IO: 'Lãnh thổ Ấn Độ Dương thuộc Anh'
@@ -176,12 +173,12 @@ PR: 'Puerto Rico'
 QA: Qatar
 AX: 'Quần đảo Åland'
 MP: 'Quần đảo Bắc Mariana'
-IC: 'Quần đảo Canary'
 KY: 'Quần đảo Cayman'
 CC: 'Quần đảo Cocos (Keeling)'
 CK: 'Quần đảo Cook'
 FK: 'Quần đảo Falkland'
 FO: 'Quần đảo Faroe'
+HM: 'Quần đảo Heard và McDonald'
 MH: 'Quần đảo Marshall'
 PN: 'Quần đảo Pitcairn'
 SB: 'Quần đảo Solomon'
@@ -234,7 +231,6 @@ TK: Tokelau
 TO: Tonga
 KP: 'Triều Tiên'
 TT: 'Trinidad và Tobago'
-TA: 'Tristan da Cunha'
 CN: 'Trung Quốc'
 TN: Tunisia
 TM: Turkmenistan
@@ -248,8 +244,6 @@ VE: Venezuela
 VN: 'Việt Nam'
 GB: 'Vương quốc Anh'
 WF: 'Wallis và Futuna'
-XA: XA
-XB: XB
 YE: Yemen
 ZM: Zambia
 ZW: Zimbabwe

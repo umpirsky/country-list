@@ -25,7 +25,6 @@ BE,Belgiýa
 BZ,Beliz
 BJ,Benin
 BM,Bermuda
-AC,"Beýgeliş adasy"
 AE,"Birleşen Arap Emirlikleri"
 GB,"Birleşen Patyşalyk"
 BG,Bolgariýa
@@ -39,13 +38,14 @@ BN,Bruneý
 BF,Burkina-Faso
 BI,Burundi
 BT,Butan
+BV,"Buwe adasy"
 TD,Çad
 CZ,Çehiýa
 CL,Çili
 DK,Daniýa
 KP,"Demirgazyk Koreýa"
+MK,"Demirgazyk Makedoniýa"
 MP,"Demirgazyk Mariana adalary"
-DG,Diýego-Garsiýa
 DM,Dominika
 DO,"Dominikan Respublikasy"
 ET,Efiopiýa
@@ -54,6 +54,7 @@ GQ,"Ekwatorial Gwineýa"
 ER,Eritreýa
 AM,Ermenistan
 EE,Estoniýa
+SZ,Eswatini
 IR,Eýran
 FO,"Farer adalary"
 FJ,Fiji
@@ -90,6 +91,7 @@ GT,Gwatemala
 GN,Gwineýa
 GW,Gwineýa-Bisau
 KG,Gyrgyzystan
+HM,"Herd we Makdonald adalary"
 IN,Hindistan
 HR,Horwatiýa
 CN,Hytaý
@@ -105,7 +107,6 @@ CV,Kabo-Werde
 KH,Kamboja
 CM,Kamerun
 CA,Kanada
-IC,"Kanar adalary"
 BQ,"Karib Niderlandlary"
 QA,Katar
 KY,"Kaýman adalary"
@@ -118,7 +119,6 @@ CO,Kolumbiýa
 KM,"Komor adalary"
 CG,"Kongo - Brazzawil"
 CD,"Kongo - Kinşasa"
-XK,Kosowo
 CR,Kosta-Rika
 CI,Kot-d’Iwuar
 CU,Kuba
@@ -136,7 +136,6 @@ LY,Liwiýa
 LU,Lýuksemburg
 MG,Madagaskar
 MO,"Makau AAS Hytaý"
-MK,Makedoniýa
 MW,Malawi
 MY,Malaýziýa
 MV,Maldiwler
@@ -183,8 +182,6 @@ PE,Peru
 PN,"Pitkern adalary"
 PL,Polşa
 PT,Portugaliýa
-XB,psewdo-bidi
-XA,psewdo-şiweler
 PR,Puerto-Riko
 RE,Reýunýon
 CX,"Roždestwo adasy"
@@ -204,7 +201,6 @@ KN,"Sent-Kits we Newis"
 LC,Sent-Lýusiýa
 VC,"Sent-Winsent we Grenadinler"
 RS,Serbiýa
-EA,"Seuta we Melilýa"
 SC,"Seýşel adalary"
 SG,Singapur
 SX,Sint-Marten
@@ -213,31 +209,29 @@ SK,Slowakiýa
 SI,Sloweniýa
 SB,"Solomon adalary"
 SO,Somali
-SJ,"Şpisbergen we Ýan-Maýen"
-LK,Şri-Lanka
 SD,Sudan
 SR,Surinam
-SZ,Swazilend
+SL,Sýerra-Leone
+SJ,"Şpisbergen we Ýan-Maýen"
+LK,Şri-Lanka
 SE,Şwesiýa
 CH,Şweýsariýa
-SL,Sýerra-Leone
-TJ,Täjigistan
 TZ,Tanzaniýa
 TH,Taýland
 TW,Taýwan
+TC,"Terks we Kaýkos adalary"
+TJ,Täjigistan
 NC,"Täze Kaledoniýa"
 NZ,"Täze Zelandiýa"
-TC,"Terks we Kaýkos adalary"
 TL,Timor-Leste
 TG,Togo
 TK,Tokelau
 TO,Tonga
 TT,"Trinidad we Tobago"
-TA,Tristan-da-Kunýa
 TN,Tunis
+TV,Tuwalu
 TR,Türkiýe
 TM,Türkmenistan
-TV,Tuwalu
 UG,Uganda
 UA,Ukraina
 WF,"Uollis we Futuna"
@@ -247,10 +241,10 @@ VA,Watikan
 VE,Wenesuela
 HU,Wengriýa
 VN,Wýetnam
+IQ,Yrak
+IL,Ysraýyl
 JM,Ýamaýka
 JP,Ýaponiýa
 YE,Ýemen
-IQ,Yrak
-IL,Ysraýyl
 ZM,Zambiýa
 ZW,Zimbabwe

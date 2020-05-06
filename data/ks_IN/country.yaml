@@ -1,17 +1,10 @@
-AC: 'Ascension Island'
-IC: 'Canary Islands'
-EA: 'Ceuta & Melilla'
 CW: Curaçao
-DG: 'Diego Garcia'
 FO: 'Faroe Islands'
 JO: Jordan
-XK: Kosovo
 FM: Micronesia
-XA: Pseudo-Accents
-XB: Pseudo-Bidi
+MK: 'North Macedonia'
 SX: 'Sint Maarten'
 SS: 'South Sudan'
-TA: 'Tristan da Cunha'
 AZ: آزَرباجان
 AU: آسٹریلِیا
 AT: آسٹِیا
@@ -63,6 +56,7 @@ BT: بوٗٹان
 BI: بورَنڈِ
 BA: 'بوسنِیا تہٕ ہَرزِگووِنا'
 BO: بولِوِیا
+BV: 'بووَٹ جٔزیٖرٕ'
 BY: بیلاروٗس
 BZ: بیلِج
 BE: بیلجِیَم
@@ -221,7 +215,6 @@ MC: مونیکو
 MG: میڑاگاسکار
 MM: 'مَیَنما بٔرما'
 YT: مَییٹ
-MK: مؠسوڑونِیا
 MX: مؠکسِکو
 NF: 'نارفاک جٔزیٖرٕ'
 NR: نارووٗ
@@ -238,6 +231,7 @@ NZ: نیوٗزِلینڑ
 HN: ہانڈوٗرِس
 HK: 'ہانگ کانگ ایس اے آر چیٖن'
 HT: ہایتی
+HM: 'ہَرٕڑ جٔزیٖرٕ تہٕ مؠکڈونالڑٕ جٔزیٖرٕ'
 IN: ہِندوستان
 HU: ہَنگری
 WF: 'والِس تہٕ فیوٗچوٗنا'

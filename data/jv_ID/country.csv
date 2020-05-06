@@ -36,15 +36,14 @@ CZ,Céko
 TD,Chad
 CL,Cilé
 DK,Dhènemarken
-DG,"Diego Garcia"
 DM,Dominika
 EC,Ékuadhor
 SV,"Èl Salvador"
-GQ,"Equatorial Guinea"
 ER,Éritréa
 IS,Èslan
 EE,Éstonia
 ET,Étiopia
+FM,"Féderasi Mikronésia"
 FJ,Fiji
 FI,Finlan
 GA,Gabon
@@ -53,14 +52,15 @@ GE,Géorgia
 GS,"Georgia Kidul lan Kapuloan Sandwich Kidul"
 GH,Ghana
 GI,Gibraltar
-GR,Greece
 GL,Greenland
 GD,Grénada
+GR,Grikenlan
 GP,Guadélup
 GU,Guam
 GT,Guatémala
 GG,Guernsei
 GN,Guinea
+GQ,"Guinéa Katulistiwa"
 GW,Guinea-Bissau
 GY,Guyana
 GF,"Guyana Prancis"
@@ -88,7 +88,7 @@ CC,"Kapuloan Cocos (Keeling)"
 CK,"Kapuloan Cook"
 FK,"Kapuloan Falkland"
 FO,"Kapuloan Faro"
-IC,"Kapuloan Kanari"
+HM,"Kapuloan Heard lan McDonald"
 KY,"Kapuloan Kéman"
 MP,"Kapuloan Mariana Lor"
 MH,"Kapuloan Marshall"
@@ -108,7 +108,6 @@ KM,Komoro
 CG,"Kongo - Brassaville"
 CD,"Kongo - Kinshasa"
 KR,"Koréa Kidul"
-XK,Kosovo
 CR,"Kosta Rika"
 HR,Kroasia
 CU,Kuba
@@ -139,7 +138,6 @@ MU,Mauritius
 YT,Mayotte
 MX,Mèksiko
 EG,Mesir
-FM,Micronesia
 MD,Moldova
 MC,Monako
 MN,Mongolia
@@ -174,10 +172,8 @@ PF,"Polinesia Prancis"
 CV,"Pongol Verdé"
 PT,Portugal
 FR,Prancis
-XA,Pseudo-Accents
-XB,Pseudo-Bidi
 PR,"Puèrto Riko"
-AC,"Pulo Ascension"
+BV,"Pulo Bovèt"
 IM,"Pulo Man"
 CX,"Pulo Natal"
 NF,"Pulo Norfolk"
@@ -189,6 +185,11 @@ RO,Ruméni
 RU,Rusia
 RW,Rwanda
 EH,"Sahara Kulon"
+BL,"Saint Barthélémi"
+SH,"Saint Héléna"
+KN,"Saint Kits lan Nèvis"
+PM,"Saint Pièr lan Mikuélon"
+VC,"Saint Vinsen lan Grénadin"
 ZM,Sambia
 WS,Samoa
 AS,"Samoa Amerika"
@@ -198,9 +199,8 @@ MF,"Santa Martin"
 ST,"Sao Tomé lan Principé"
 SN,Sénégal
 ES,Sepanyol
-RS,Serbia
+RS,Sèrbi
 SC,Sésèl
-EA,"Séuta lan Melila"
 SL,"Siéra Léoné"
 ZW,Simbabwe
 SG,Singapura
@@ -210,11 +210,6 @@ SI,Slovénia
 SK,Slowak
 SO,Somalia
 LK,"Sri Lanka"
-BL,"St. Barthélemy"
-SH,"St. Helena"
-KN,"St. Kitts & Nevis"
-PM,"St. Pierre & Miquelon"
-VC,"St. Vincent & Grenadines"
 SD,Sudan
 SS,"Sudan Kidul"
 SY,Suriah
@@ -233,7 +228,6 @@ TG,Togo
 TK,Tokelau
 TO,Tonga
 TT,"Trinidad lan Tobago"
-TA,"Tristan da Cunha"
 TN,Tunisia
 TR,Turki
 TM,Turkménistan

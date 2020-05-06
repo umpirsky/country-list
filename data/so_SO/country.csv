@@ -46,14 +46,15 @@ BG,Bulgaariya
 BF,"Burkiina Faaso"
 BI,Burundi
 BN,Buruneeya
+BV,"Buufet Island"
 BT,Buutan
 KY,"Cayman Islands"
 IQ,Ciraaq
+CO,Colombia
 OM,Cumaan
 DK,Denmark
 IO,"Dhul xadeedka Badweynta Hindiya ee Biritishka"
 TF,"Dhul xadeedka Koonfureed ee Faransiiska"
-DG,"Diyeego Karsiya"
 DM,Dominika
 GQ,"Ekuwatooriyal Gini"
 SV,"El Salfadoor"
@@ -110,11 +111,10 @@ DO,"Jamhuuriyaddda Dominika"
 DE,Jarmal
 UM,"Jasiiradaha ka baxsan Maraykanka"
 AX,"Jasiiradda Aland"
-AC,"Jasiiradda Asensiyoon"
 FO,"Jasiiradda Faroo"
+HM,"Jasiiradda Haad & MakDonald"
 IM,"Jasiiradda Isle of Man"
 GS,"Jasiiradda Joorjiyada Koonfureed & Sandwij"
-IC,"Jasiiradda Kanari"
 CV,"Jasiiradda Kayb Faarde"
 CX,"Jasiiradda Kirismas"
 CK,"Jasiiradda Kook"
@@ -137,12 +137,10 @@ KZ,Kasaakhistaan
 KE,Kenya
 KG,Kirgistaan
 KI,Kiribati
-CO,Kolombiya
 KM,Komooros
 CG,Kongo
 ZA,"Koonfur Afrika"
 SS,"Koonfur Suudaan"
-XK,Koosofo
 HR,Korweeshiya
 CR,"Kosta Riika"
 CW,Kurakaaw
@@ -169,7 +167,7 @@ MW,Malaawi
 MY,Malaysia
 US,Maraykanka
 EG,Masar
-MK,Masedooniya
+MK,"Masedooniya Waqooyi"
 MU,Mawrishiyaas
 YT,Mayotte
 MX,Meksiko
@@ -209,7 +207,6 @@ SM,"San Marino"
 ST,"Sao Tome & Birincibal"
 EH,"Saxaraha Galbeed"
 RS,Seerbiya
-EA,"Seyuta & Meliila"
 CN,Shiinaha
 SX,"Siint Maarteen"
 ZW,Simbaabwe
@@ -235,7 +232,6 @@ TH,Taylaand
 TW,Taywaan
 TL,Timoor
 TT,"Tirinidaad & Tobago"
-TA,"Tiristan da Kunha"
 TK,Tokelaaw
 TO,Tonga
 TG,Toogo
@@ -250,7 +246,5 @@ JO,Urdun
 UY,Uruguwaay
 UZ,Uusbakistaan
 WF,"Walis & Futuna"
-XA,XA
-XB,XB
 YE,Yaman
 UA,Yukrayn

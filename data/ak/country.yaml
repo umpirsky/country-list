@@ -18,7 +18,6 @@ AI: Anguila
 AQ: Antarctica
 AG: 'Antigua ne Baabuda'
 AW: Aruba
-AC: 'Ascension Island'
 AZ: Azebaegyan
 BB: Baabados
 BS: Bahama
@@ -31,6 +30,7 @@ BM: Bɛmuda
 BJ: Bɛnin
 BO: Bolivia
 BA: 'Bosnia ne Hɛzegovina'
+BV: 'Bouvet Island'
 BF: 'Bɔkina Faso'
 BG: Bɔlgeria
 BW: Bɔtswana
@@ -40,14 +40,11 @@ IO: 'Britenfo Hɔn Man Wɔ India Po No Mu'
 BN: Brunae
 BI: Burundi
 BT: Butan
-IC: 'Canary Islands'
 BQ: 'Caribbean Netherlands'
-EA: 'Ceuta & Melilla'
 CX: 'Christmas Island'
 CC: 'Cocos (Keeling) Islands'
 CW: Curaçao
 DK: Dɛnmak
-DG: 'Diego Garcia'
 DM: Dɔmeneka
 DO: 'Dɔmeneka Kurokɛse'
 KP: 'Etifi Koria'
@@ -84,6 +81,7 @@ DJ: Gyibuti
 JO: Gyɔdan
 GE: Gyɔgyea
 HU: Hangari
+HM: 'Heard & McDonald Islands'
 HT: Heiti
 HK: 'Hong Kong SAR China'
 HN: Hɔnduras
@@ -112,7 +110,6 @@ CO: Kolombia
 CG: Kongo
 CD: 'Kongo (Zair)'
 CK: 'Kook Nsupɔw'
-XK: Kosovo
 KM: Kɔmɔrɔs
 CR: 'Kɔsta Rika'
 HR: Krowehyia
@@ -141,7 +138,6 @@ MY: Malehyia
 ML: Mali
 MS: Mantserat
 MH: 'Marshall Islands'
-MK: Masedonia
 MQ: Matinik
 YT: Mayɔte
 MX: Mɛksiko
@@ -164,6 +160,7 @@ NP: Nɛpɔl
 NE: Nigyɛ
 EG: Nisrim
 NU: Niyu
+MK: 'North Macedonia'
 MP: 'Northern Mariana Islands'
 NF: 'Nɔfolk Aeland'
 'NO': Nɔɔwe
@@ -182,8 +179,6 @@ PH: Philippines
 PN: Pitcairn
 PL: Poland
 PT: Pɔtugal
-XA: Pseudo-Accents
-XB: Pseudo-Bidi
 PR: 'Puɛto Riko'
 RE: Reyuniɔn
 RO: Romenia
@@ -233,7 +228,6 @@ TG: Togo
 TK: Tokelau
 TO: Tonga
 TT: 'Trinidad ne Tobago'
-TA: 'Tristan da Cunha'
 TN: Tunihyia
 TC: 'Turks ne Caicos Islands'
 TV: Tuvalu

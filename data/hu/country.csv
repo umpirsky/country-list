@@ -12,7 +12,6 @@ AQ,Antarktisz
 AG,"Antigua és Barbuda"
 AR,Argentína
 AW,Aruba
-AC,Ascension-sziget
 AU,Ausztrália
 AT,Ausztria
 UM,"Az USA lakatlan külbirtokai"
@@ -31,6 +30,7 @@ GW,Bissau-Guinea
 BO,Bolívia
 BA,Bosznia-Hercegovina
 BW,Botswana
+BV,Bouvet-sziget
 BR,Brazília
 IO,"Brit Indiai-óceáni Terület"
 VG,"Brit Virgin-szigetek"
@@ -38,7 +38,6 @@ BN,Brunei
 BG,Bulgária
 BF,"Burkina Faso"
 BI,Burundi
-EA,"Ceuta és Melilla"
 CL,Chile
 CY,Ciprus
 KM,Comore-szigetek
@@ -52,7 +51,6 @@ ZA,"Dél-afrikai Köztársaság"
 KR,Dél-Korea
 SS,Dél-Szudán
 GS,"Déli-Georgia és Déli-Sandwich-szigetek"
-DG,"Diego Garcia"
 DM,Dominika
 DO,"Dominikai Köztársaság"
 DJ,Dzsibuti
@@ -93,6 +91,7 @@ GG,Guernsey
 GN,Guinea
 GY,Guyana
 HT,Haiti
+HM,"Heard-sziget és McDonald-szigetek"
 BQ,"Holland Karib-térség"
 NL,Hollandia
 HN,Honduras
@@ -114,7 +113,6 @@ KY,Kajmán-szigetek
 KH,Kambodzsa
 CM,Kamerun
 CA,Kanada
-IC,Kanári-szigetek
 CX,Karácsony-sziget
 QA,Katar
 KZ,Kazahsztán
@@ -127,7 +125,6 @@ CC,"Kókusz (Keeling)-szigetek"
 CO,Kolumbia
 CG,"Kongó - Brazzaville"
 CD,"Kongó - Kinshasa"
-XK,Koszovó
 CF,"Közép-afrikai Köztársaság"
 CU,Kuba
 KW,Kuvait
@@ -157,7 +154,7 @@ MR,Mauritánia
 MU,Mauritius
 YT,Mayotte
 MX,Mexikó
-MM,"Mianmar (Burma)"
+MM,Mianmar
 FM,Mikronézia
 MD,Moldova
 MC,Monaco
@@ -189,8 +186,6 @@ PY,Paraguay
 PE,Peru
 PN,Pitcairn-szigetek
 PT,Portugália
-XB,Pszeudo-kétirányú
-XA,Pszeudo-nyelvjárások
 PR,"Puerto Rico"
 RE,Réunion
 RO,Románia
@@ -235,7 +230,6 @@ TK,Tokelau
 TO,Tonga
 TR,Törökország
 TT,"Trinidad és Tobago"
-TA,"Tristan da Cunha"
 TN,Tunézia
 TC,"Turks- és Caicos-szigetek"
 TV,Tuvalu

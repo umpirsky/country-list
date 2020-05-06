@@ -12,7 +12,6 @@ AG,Antigvo-Barbudo
 AR,Argentino
 AM,Armenujo
 AW,Arubo
-AC,"Ascension Island"
 AU,Aŭstralio
 AT,Aŭstrujo
 AZ,Azerbajĝano
@@ -29,6 +28,7 @@ BM,Bermudoj
 BW,Bocvano
 BO,Bolivio
 BA,Bosnio-Hercegovino
+BV,"Bouvet Island"
 BR,Brazilo
 IO,"Brita Hindoceana Teritorio"
 VG,"Britaj Virgulininsuloj"
@@ -37,10 +37,8 @@ BG,Bulgarujo
 BF,Burkino
 BI,Burundo
 BT,Butano
-IC,"Canary Islands"
 BQ,"Caribbean Netherlands"
 CF,"Centr-Afrika Respubliko"
-EA,"Ceuta & Melilla"
 CX,"Christmas Island"
 CC,"Cocos (Keeling) Islands"
 CD,"Congo - Kinshasa"
@@ -50,7 +48,6 @@ CZ,Ĉeĥujo
 CL,Ĉilio
 CN,Ĉinujo
 DK,Danujo
-DG,"Diego Garcia"
 DO,Domingo
 DM,Dominiko
 CI,Ebur-Bordo
@@ -86,6 +83,7 @@ GW,Gvineo-Bisaŭo
 GI,Ĝibraltaro
 DJ,Ĝibutio
 HT,Haitio
+HM,"Herda kaj Makdonaldaj Insuloj"
 IN,Hindujo
 ES,Hispanujo
 HN,Honduro
@@ -119,7 +117,6 @@ KI,Kiribato
 CO,Kolombio
 KM,Komoroj
 CG,Kongolo
-XK,Kosovo
 CR,Kostariko
 HR,Kroatujo
 CU,Kubo
@@ -137,7 +134,6 @@ LU,Luksemburgo
 MO,"Macao SAR China"
 MG,Madagaskaro
 YT,Majoto
-MK,Makedonujo
 MY,Malajzio
 MW,Malavio
 MV,Maldivoj
@@ -168,6 +164,7 @@ NU,Niuo
 KP,Nord-Koreo
 MP,Nord-Marianoj
 NF,Norfolkinsulo
+MK,"North Macedonia"
 NO,Norvegujo
 NC,Nov-Kaledonio
 NZ,Nov-Zelando
@@ -182,8 +179,6 @@ PE,Peruo
 PN,"Pitkarna Insulo"
 PL,Pollando
 PT,Portugalujo
-XA,Pseudo-Accents
-XB,Pseudo-Bidi
 PR,Puerto-Riko
 RE,Reunio
 RW,Ruando
@@ -232,7 +227,6 @@ TG,Togolo
 TK,Tokelau
 TO,Tongo
 TT,"Trinidado kaj Tobago"
-TA,"Tristan da Cunha"
 TN,Tunizio
 TM,Turkmenujo
 TC,"Turks & Caicos Islands"

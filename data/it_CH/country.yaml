@@ -38,7 +38,6 @@ CA: Canada
 CV: 'Capo Verde'
 BQ: 'Caraibi olandesi'
 CZ: Cechia
-EA: 'Ceuta e Melilla'
 TD: Ciad
 CL: Cile
 CN: Cina
@@ -56,7 +55,6 @@ HR: Croazia
 CU: Cuba
 CW: Curaçao
 DK: Danimarca
-DG: 'Diego Garcia'
 DM: Dominica
 EC: Ecuador
 EG: Egitto
@@ -100,17 +98,17 @@ IR: Iran
 IQ: Iraq
 IE: Irlanda
 IS: Islanda
-AC: 'Isola Ascensione'
+BV: 'Isola Bouvet'
 CX: 'Isola Christmas'
 IM: 'Isola di Man'
 NF: 'Isola Norfolk'
 AX: 'Isole Åland'
-IC: 'Isole Canarie'
 KY: 'Isole Cayman'
 CC: 'Isole Cocos (Keeling)'
 CK: 'Isole Cook'
 FO: 'Isole Fær Øer'
 FK: 'Isole Falkland'
+HM: 'Isole Heard e McDonald'
 MP: 'Isole Marianne settentrionali'
 MH: 'Isole Marshall'
 PN: 'Isole Pitcairn'
@@ -125,7 +123,6 @@ KZ: Kazakistan
 KE: Kenya
 KG: Kirghizistan
 KI: Kiribati
-XK: Kosovo
 KW: Kuwait
 LA: Laos
 LS: Lesotho
@@ -179,8 +176,6 @@ PF: 'Polinesia francese'
 PL: Polonia
 PT: Portogallo
 PR: Portorico
-XA: pseudo-accenti
-XB: pseudo-bidi
 QA: Qatar
 HK: 'RAS di Hong Kong'
 MO: 'RAS di Macao'
@@ -236,7 +231,6 @@ TG: Togo
 TK: Tokelau
 TO: Tonga
 TT: 'Trinidad e Tobago'
-TA: 'Tristan da Cunha'
 TN: Tunisia
 TR: Turchia
 TM: Turkmenistan

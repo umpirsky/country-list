@@ -12,7 +12,6 @@ AG: 'Antigua a Barbuda'
 AR: Argentina
 AM: Arménie
 AW: Aruba
-AC: Ascension
 AU: Austrálie
 AZ: Ázerbájdžán
 BS: Bahamy
@@ -28,6 +27,7 @@ BT: Bhútán
 BO: Bolívie
 BA: 'Bosna a Hercegovina'
 BW: Botswana
+BV: 'Bouvetův ostrov'
 BR: Brazílie
 IO: 'Britské indickooceánské území'
 VG: 'Britské Panenské ostrovy'
@@ -35,7 +35,6 @@ BN: Brunej
 BG: Bulharsko
 BF: 'Burkina Faso'
 BI: Burundi
-EA: 'Ceuta a Melilla'
 CK: 'Cookovy ostrovy'
 CW: Curaçao
 TD: Čad
@@ -43,7 +42,6 @@ ME: 'Černá Hora'
 CZ: Česko
 CN: Čína
 DK: Dánsko
-DG: 'Diego García'
 DM: Dominika
 DO: 'Dominikánská republika'
 DJ: Džibutsko
@@ -76,6 +74,7 @@ GN: Guinea
 GW: Guinea-Bissau
 GY: Guyana
 HT: Haiti
+HM: 'Heardův ostrov a McDonaldovy ostrovy'
 HN: Honduras
 HK: 'Hongkong – ZAO Číny'
 CL: Chile
@@ -101,7 +100,6 @@ KY: 'Kajmanské ostrovy'
 KH: Kambodža
 CM: Kamerun
 CA: Kanada
-IC: 'Kanárské ostrovy'
 CV: Kapverdy
 BQ: 'Karibské Nizozemsko'
 QA: Katar
@@ -113,7 +111,6 @@ CO: Kolumbie
 KM: Komory
 CG: 'Kongo – Brazzaville'
 CD: 'Kongo – Kinshasa'
-XK: Kosovo
 CR: Kostarika
 CU: Kuba
 KW: Kuvajt
@@ -196,8 +193,6 @@ MK: 'Severní Makedonie'
 MP: 'Severní Mariany'
 SC: Seychely
 SL: 'Sierra Leone'
-XA: 'simulovaná diakritika'
-XB: 'simulovaný obousměrný zápis'
 SG: Singapur
 SK: Slovensko
 SI: Slovinsko
@@ -233,7 +228,6 @@ TG: Togo
 TK: Tokelau
 TO: Tonga
 TT: 'Trinidad a Tobago'
-TA: 'Tristan da Cunha'
 TN: Tunisko
 TR: Turecko
 TM: Turkmenistán

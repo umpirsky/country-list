@@ -11,7 +11,6 @@ AQ: Antarctica
 AG: 'Antigua le Barbuda'
 AM: Armenia
 AW: Arubha
-AC: 'Ascension Island'
 AU: Australia
 AT: Austria
 AZ: Azerbaijan
@@ -31,17 +30,16 @@ BG: Bhulgariya
 BI: Bhurundi
 BT: Bhutani
 BW: Botswana
+BV: 'Bouvet Island'
 BR: Brazili
 IO: 'British Indian Ocean Territory'
 VG: 'British Virgin Islands'
 BN: Brunei
 KH: Cambodia
-IC: 'Canary Islands'
 CV: 'Cape Verde Islands'
 BQ: 'Caribbean Netherlands'
 KY: 'Cayman Islands'
 CF: 'Central African Republic'
-EA: 'Ceuta & Melilla'
 TD: Chadi
 CL: Chile
 CN: China
@@ -55,7 +53,6 @@ CY: Cyprus
 CZ: 'Czech Republic'
 CD: 'Democratic Republic of the Congo'
 DK: Denmakhi
-DG: 'Diego Garcia'
 DJ: Djibouti
 DO: 'Dominican Republic'
 DM: Dominikha
@@ -91,6 +88,7 @@ GW: Guinea-Bissau
 GY: Guyana
 GF: 'Gwiyana ye Furansi'
 HT: Hayiti
+HM: 'Heard & McDonald Islands'
 HN: Honduras
 HK: 'Hong Kong SAR China'
 HU: Hungary
@@ -119,7 +117,6 @@ KM: Khomoro
 CG: Khongo
 CR: 'Khosta Rikha'
 KW: Khuweiti
-XK: Kosovo
 KG: Kyrgyzstan
 LA: Laos
 LV: Latvia
@@ -131,7 +128,6 @@ LI: Liechtenstein
 LT: Lithuania
 LU: Luxembourg
 MO: 'Macao SAR China'
-MK: Macedonia
 MG: Madagaska
 MW: Malawi
 MV: Maldives
@@ -166,6 +162,7 @@ NG: Nigeriya
 NU: Niue
 NF: 'Norfolk Island'
 KP: 'North Korea'
+MK: 'North Macedonia'
 MP: 'Northern Mariana Islands'
 'NO': Noweyi
 OM: Omani
@@ -181,8 +178,6 @@ PL: Pholandi
 PF: 'Pholinesiya ye Fulansi'
 PN: Pitcairn
 PT: Portugal
-XA: Pseudo-Accents
-XB: Pseudo-Bidi
 PR: 'Puerto Rico'
 RU: Rashiya
 RE: Réunion
@@ -232,7 +227,6 @@ TK: Thokelawu
 TO: Thonga
 TV: Thuvalu
 TT: 'Trinidad le Tobago'
-TA: 'Tristan da Cunha'
 TN: Tunisiya
 TM: Turkmenistan
 TC: 'Turks and Caicos Islands'

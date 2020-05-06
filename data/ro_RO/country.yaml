@@ -37,7 +37,6 @@ CM: Camerun
 CA: Canada
 CV: 'Capul Verde'
 CZ: Cehia
-EA: 'Ceuta și Melilla'
 CL: Chile
 CN: China
 TD: Ciad
@@ -54,7 +53,6 @@ HR: Croația
 CU: Cuba
 CW: Curaçao
 DK: Danemarca
-DG: 'Diego Garcia'
 DJ: Djibouti
 DM: Dominica
 EC: Ecuador
@@ -93,12 +91,12 @@ HT: Haiti
 HN: Honduras
 IN: India
 ID: Indonezia
-AC: 'Insula Ascension'
+BV: 'Insula Bouvet'
 CX: 'Insula Christmas'
+HM: 'Insula Heard și Insulele McDonald'
 IM: 'Insula Man'
 NF: 'Insula Norfolk'
 AX: 'Insulele Åland'
-IC: 'Insulele Canare'
 BQ: 'Insulele Caraibe Olandeze'
 KY: 'Insulele Cayman'
 CC: 'Insulele Cocos (Keeling)'
@@ -127,7 +125,6 @@ KZ: Kazahstan
 KG: Kârgâzstan
 KE: Kenya
 KI: Kiribati
-XK: Kosovo
 KW: Kuweit
 LA: Laos
 LS: Lesotho
@@ -138,6 +135,7 @@ LY: Libia
 LI: Liechtenstein
 LT: Lituania
 LU: Luxemburg
+MK: 'Macedonia de Nord'
 MG: Madagascar
 MW: Malawi
 MY: Malaysia
@@ -177,8 +175,6 @@ PE: Peru
 PF: 'Polinezia Franceză'
 PL: Polonia
 PT: Portugalia
-XA: Pseudo-accente
-XB: Pseudo-Bidi
 PR: 'Puerto Rico'
 QA: Qatar
 HK: 'R.A.S. Hong Kong a Chinei'
@@ -186,7 +182,6 @@ MO: 'R.A.S. Macao, China'
 GB: 'Regatul Unit'
 CF: 'Republica Centrafricană'
 DO: 'Republica Dominicană'
-MK: 'Republica Macedonia'
 MD: 'Republica Moldova'
 RE: Réunion
 RO: România
@@ -200,7 +195,7 @@ PM: 'Saint-Pierre și Miquelon'
 WS: Samoa
 AS: 'Samoa Americană'
 SM: 'San Marino'
-ST: 'Sao Tome și Principe'
+ST: 'São Tomé și Príncipe'
 SN: Senegal
 RS: Serbia
 SC: Seychelles
@@ -235,7 +230,6 @@ TG: Togo
 TK: Tokelau
 TO: Tonga
 TT: 'Trinidad și Tobago'
-TA: 'Tristan da Cunha'
 TN: Tunisia
 TR: Turcia
 TM: Turkmenistan

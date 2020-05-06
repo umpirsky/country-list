@@ -10,7 +10,6 @@ SA: 'Arabia Saudita'
 AR: Argentina
 AM: Armenia
 AW: Aruba
-AC: 'Ascension Island'
 AU: Australia
 AT: Austria
 AZ: Azerbaidzhan
@@ -36,10 +35,8 @@ BI: Burundi
 KH: Cambodgia
 CM: Camerun
 CA: Canada
-IC: 'Canary Islands'
 CV: 'Cape Verde'
 BQ: 'Caribbean Netherlands'
-EA: 'Ceuta & Melilla'
 TD: Chad
 CZ: Chechia
 CL: Chile
@@ -59,7 +56,6 @@ CU: Cuba
 CW: Curaçao
 CY: Cypro
 DK: Danmark
-DG: 'Diego Garcia'
 DJ: Djibouti
 DM: Dominica
 EC: Ecuador
@@ -93,11 +89,13 @@ GW: Guinea-Bissau
 GY: Guyana
 GF: 'Guyana francese'
 HT: Haiti
+HM: 'Heard & McDonald Islands'
 HN: Honduras
 HK: 'Hong Kong SAR China'
 HU: Hungaria
 IN: India
 ID: Indonesia
+BV: 'Insula de Bouvet'
 IM: 'Insula de Man'
 CX: 'Insula de Natal'
 NF: 'Insula Norfolk'
@@ -123,7 +121,6 @@ KZ: Kazakhstan
 KE: Kenya
 KG: Kirghizistan
 KI: Kiribati
-XK: Kosovo
 KW: Kuwait
 LA: Laos
 LS: Lesotho
@@ -180,8 +177,6 @@ PN: 'Pitcairn Islands'
 PL: Polonia
 PF: 'Polynesia francese'
 PT: Portugal
-XA: Pseudo-Accents
-XB: Pseudo-Bidi
 PR: 'Puerto Rico'
 QA: Qatar
 GB: 'Regno Unite'
@@ -235,7 +230,6 @@ TG: Togo
 TK: Tokelau
 TO: Tonga
 TT: 'Trinidad e Tobago'
-TA: 'Tristan da Cunha'
 TN: Tunisia
 TR: Turchia
 TM: Turkmenistan

@@ -1,10 +1,7 @@
 CREATE TABLE list (id VARCHAR(64) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
-INSERT INTO "list" ("id", "value") VALUES (E'XK', E'Kosovo');
-INSERT INTO "list" ("id", "value") VALUES (E'XA', E'Pseudo-Accents');
-INSERT INTO "list" ("id", "value") VALUES (E'XB', E'Pseudo-Bidi');
+INSERT INTO "list" ("id", "value") VALUES (E'MK', E'North Macedonia');
 INSERT INTO "list" ("id", "value") VALUES (E'QA', E'ཀ་ཊར');
-INSERT INTO "list" ("id", "value") VALUES (E'IC', E'ཀ་ནེ་རི་གླིང་ཚོམ');
 INSERT INTO "list" ("id", "value") VALUES (E'KZ', E'ཀ་ཛགས་སཏཱན');
 INSERT INTO "list" ("id", "value") VALUES (E'KH', E'ཀམ་བྷོ་ཌི་ཡ');
 INSERT INTO "list" ("id", "value") VALUES (E'CW', E'ཀྱཱུར་ར་ཀོ');
@@ -61,12 +58,10 @@ INSERT INTO "list" ("id", "value") VALUES (E'TT', E'ཊི་ནི་ཌཱཌ�
 INSERT INTO "list" ("id", "value") VALUES (E'TN', E'ཊུ་ནི་ཤི་ཡ');
 INSERT INTO "list" ("id", "value") VALUES (E'TG', E'ཊོ་གྷོ');
 INSERT INTO "list" ("id", "value") VALUES (E'TO', E'ཊོང་གྷ');
-INSERT INTO "list" ("id", "value") VALUES (E'DG', E'ཌི་ཡེ་གོ་གར་སིའོ');
 INSERT INTO "list" ("id", "value") VALUES (E'DK', E'ཌེན་མཱཀ');
 INSERT INTO "list" ("id", "value") VALUES (E'DM', E'ཌོ་མི་ནི་ཀ');
 INSERT INTO "list" ("id", "value") VALUES (E'DO', E'ཌོ་མི་ནི་ཀཱན་ རི་པབ་ལིཀ');
 INSERT INTO "list" ("id", "value") VALUES (E'TJ', E'ཏ་ཇིག་གི་སཏཱན');
-INSERT INTO "list" ("id", "value") VALUES (E'TA', E'ཏྲིས་ཏན་ད་ཀུན་ཧ');
 INSERT INTO "list" ("id", "value") VALUES (E'TL', E'ཏི་་མོར་ལེ་ཨེསཊ');
 INSERT INTO "list" ("id", "value") VALUES (E'TV', E'ཏུ་ཝ་ལུ');
 INSERT INTO "list" ("id", "value") VALUES (E'TC', E'ཏུརྐས྄་ ཨེནཌ་ ཀ་ཀོས་གླིང་ཚོམ');
@@ -127,10 +122,10 @@ INSERT INTO "list" ("id", "value") VALUES (E'BG', E'བུལ་ག་རི་�
 INSERT INTO "list" ("id", "value") VALUES (E'VE', E'བེ་ནི་ཛུ་ཝེ་ལ');
 INSERT INTO "list" ("id", "value") VALUES (E'VN', E'བེཊ་ནཱམ');
 INSERT INTO "list" ("id", "value") VALUES (E'BY', E'བེལ་ཨ་རུ་སུ');
+INSERT INTO "list" ("id", "value") VALUES (E'BV', E'བོའུ་ཝེཊ་མཚོ་གླིང');
 INSERT INTO "list" ("id", "value") VALUES (E'MG', E'མ་དཱ་གེས་ཀར');
 INSERT INTO "list" ("id", "value") VALUES (E'MW', E'མ་ལ་ཝི');
 INSERT INTO "list" ("id", "value") VALUES (E'MY', E'མ་ལེ་ཤི་ཡ');
-INSERT INTO "list" ("id", "value") VALUES (E'MK', E'མ་སེ་ཌོ་ནི་ཡ');
 INSERT INTO "list" ("id", "value") VALUES (E'MO', E'མཀ་ཨའུ་ཅཱའི་ན');
 INSERT INTO "list" ("id", "value") VALUES (E'FM', E'མའི་ཀྲོ་ནི་ཤི་ཡ');
 INSERT INTO "list" ("id", "value") VALUES (E'MH', E'མར་ཤེལ་གླིང་ཚོམ');
@@ -206,7 +201,6 @@ INSERT INTO "list" ("id", "value") VALUES (E'SI', E'སུ་ལོ་བི་�
 INSERT INTO "list" ("id", "value") VALUES (E'SE', E'སུའི་ཌེན');
 INSERT INTO "list" ("id", "value") VALUES (E'SN', E'སེ་ནི་གྷལ');
 INSERT INTO "list" ("id", "value") VALUES (E'SC', E'སེ་ཤཱལས');
-INSERT INTO "list" ("id", "value") VALUES (E'EA', E'སེ་ཨུ་ཏ་ ཨེནཌ་ མེལ་ལི་ལ');
 INSERT INTO "list" ("id", "value") VALUES (E'CF', E'སེན་ཊལ་ ཨཕ་རི་ཀཱན་ རི་པབ་ལིཀ');
 INSERT INTO "list" ("id", "value") VALUES (E'KN', E'སེནཊ་ ཀིཊས་ དང་ ནེ་བིས');
 INSERT INTO "list" ("id", "value") VALUES (E'BL', E'སེནཊ་ བར་ཐོ་ལོམ་མིའུ');
@@ -219,6 +213,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'SB', E'སོ་ལོ་མོན�
 INSERT INTO "list" ("id", "value") VALUES (E'MN', E'སོག་པོ་ཡུལ');
 INSERT INTO "list" ("id", "value") VALUES (E'HU', E'ཧཱང་གྷ་རི');
 INSERT INTO "list" ("id", "value") VALUES (E'HN', E'ཧཱན་ཌུ་རཱས྄');
+INSERT INTO "list" ("id", "value") VALUES (E'HM', E'ཧཱརཌ་མཚོ་གླིང་ དང་ མེཀ་ཌོ་ནལཌ྄་གླིང་ཚོམ');
 INSERT INTO "list" ("id", "value") VALUES (E'HT', E'ཧེ་ཊི');
 INSERT INTO "list" ("id", "value") VALUES (E'HK', E'ཧོང་ཀོང་ཅཱའི་ན');
 INSERT INTO "list" ("id", "value") VALUES (E'AZ', E'ཨ་ཛར་བྷའི་ཇཱན');
@@ -251,7 +246,6 @@ INSERT INTO "list" ("id", "value") VALUES (E'UZ', E'ཨུས་བེག་ག�
 INSERT INTO "list" ("id", "value") VALUES (E'GQ', E'ཨེ་ཀུ་ཊོ་རེལ་ གི་ནི');
 INSERT INTO "list" ("id", "value") VALUES (E'EC', E'ཨེ་ཁྭ་ཌོར');
 INSERT INTO "list" ("id", "value") VALUES (E'ER', E'ཨེ་རི་ཊྲེ་ཡ');
-INSERT INTO "list" ("id", "value") VALUES (E'AC', E'ཨེ་སེན་ཤུན་ཚོ་གླིང༌');
 INSERT INTO "list" ("id", "value") VALUES (E'SV', E'ཨེལ་སལ་བ་ཌོར');
 INSERT INTO "list" ("id", "value") VALUES (E'EE', E'ཨེས་ཊོ་ནི་ཡ');
 INSERT INTO "list" ("id", "value") VALUES (E'OM', E'ཨོ་མཱན');

@@ -37,13 +37,9 @@ BN,Bruney
 BF,Burkina-Faso
 BI,Burundi
 BT,Butan
+BV,"Buve oroli"
 GB,"Buyuk Britaniya"
-TD,Chad
-ME,Chernogoriya
-CZ,Chexiya
-CL,Chili
 DK,Daniya
-DG,Diyego-Garsiya
 DM,Dominika
 DO,"Dominikan Respublikasi"
 ET,Efiopiya
@@ -62,7 +58,6 @@ FR,Fransiya
 GF,"Fransuz Gvianasi"
 TF,"Fransuz Janubiy hududlari"
 PF,"Fransuz Polineziyasi"
-EH,"G‘arbiy Sahroi Kabir"
 GA,Gabon
 HT,Gaiti
 GM,Gambiya
@@ -102,7 +97,6 @@ CV,Kabo-Verde
 KH,Kambodja
 CM,Kamerun
 CA,Kanada
-IC,"Kanar orollari"
 KY,"Kayman orollari"
 KE,Keniya
 CY,Kipr
@@ -112,7 +106,6 @@ CO,Kolumbiya
 KM,"Komor orollari"
 CG,"Kongo – Brazzavil"
 CD,"Kongo – Kinshasa"
-XK,Kosovo
 CR,Kosta-Rika
 CI,Kot-d’Ivuar
 CU,Kuba
@@ -129,7 +122,6 @@ LI,Lixtenshteyn
 LU,Lyuksemburg
 MG,Madagaskar
 MO,"Makao (Xitoy MMH)"
-MK,Makedoniya
 MW,Malavi
 MY,Malayziya
 MV,"Maldiv orollari"
@@ -137,12 +129,11 @@ ML,Mali
 MT,Malta
 CF,"Markaziy Afrika Respublikasi"
 MA,Marokash
-MH,"Marshall orollari"
 MQ,Martinika
+MH,"Marshall orollari"
 MU,Mavrikiy
 MR,Mavritaniya
 YT,Mayotta
-AC,"Me’roj oroli"
 MX,Meksika
 IM,"Men oroli"
 FM,Mikroneziya
@@ -164,7 +155,6 @@ NI,Nikaragua
 NU,Niue
 NF,"Norfolk oroli"
 NO,Norvegiya
-UZ,Oʻzbekiston
 AZ,Ozarbayjon
 PW,Palau
 PA,Panama
@@ -175,8 +165,6 @@ PN,"Pitkern orollari"
 PK,Pokiston
 PL,Polsha
 PT,Portugaliya
-XA,Pseudo-Accents
-XB,Pseudo-Bidi
 PR,Puerto-Riko
 QA,Qatar
 KG,Qirgʻiziston
@@ -200,14 +188,7 @@ LC,Sent-Lyusiya
 MF,Sent-Martin
 VC,"Sent-Vinsent va Grenadin"
 RS,Serbiya
-EA,"Seuta va Melilya"
 SC,"Seyshel orollari"
-KP,"Shimoliy Koreya"
-MP,"Shimoliy Mariana orollari"
-SJ,"Shpitsbergen va Yan-Mayen"
-LK,Shri-Lanka
-SE,Shvetsiya
-CH,Shveytsariya
 SG,Singapur
 SX,Sint-Marten
 SK,Slovakiya
@@ -228,7 +209,6 @@ TJ,Tojikiston
 TK,Tokelau
 TO,Tonga
 TT,"Trinidad va Tobago"
-TA,Tristan-da-Kunya
 TN,Tunis
 TR,Turkiya
 TM,Turkmaniston
@@ -244,6 +224,7 @@ VA,Vatikan
 VE,Venesuela
 HU,Vengriya
 VN,Vyetnam
+HM,"Xerd va Makdonald orollari"
 CN,Xitoy
 HR,Xorvatiya
 YE,Yaman
@@ -253,4 +234,17 @@ NZ,"Yangi Zelandiya"
 JP,Yaponiya
 ZM,Zambiya
 ZW,Zimbabve
+UZ,Oʻzbekiston
+EH,"G‘arbiy Sahroi Kabir"
+KP,"Shimoliy Koreya"
+MK,"Shimoliy Makedoniya"
+MP,"Shimoliy Mariana orollari"
+SJ,"Shpitsbergen va Yan-Mayen"
+LK,Shri-Lanka
+SE,Shvetsiya
+CH,Shveytsariya
+TD,Chad
+ME,Chernogoriya
+CZ,Chexiya
+CL,Chili
 AF,افغانستان

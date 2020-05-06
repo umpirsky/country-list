@@ -5,13 +5,12 @@ VE: 'A’ Bheiniseala'
 BG: 'A’ Bhulgair'
 GE: 'A’ Chairtbheil'
 CG: 'A’ Chongo - Brazzaville'
-XK: 'A’ Chosobho'
 HR: 'A’ Chròthais'
 GM: 'A’ Ghaimbia'
 DE: 'A’ Ghearmailt'
 GL: 'A’ Ghraonlann'
 GR: 'A’ Ghreug'
-MK: 'A’ Mhasadon'
+MK: 'A’ Mhasadon a Tuath'
 MD: 'A’ Mholdobha'
 DO: 'A’ Phoblachd Dhoiminiceach'
 PL: 'A’ Phòlainn'
@@ -86,7 +85,6 @@ KZ: Casachstàn
 QA: Catar
 VA: 'Cathair na Bhatacain'
 KE: Ceinia
-EA: 'Ceuta agus Melilla'
 CY: Cìopras
 KG: Cìorgastan
 KI: Ciribeas
@@ -102,17 +100,16 @@ KW: Cuibhèit
 CW: Curaçao
 JE: Deàrsaidh
 JM: Diameuga
-DG: 'Diego Garcia'
 GI: Diobraltar
 DJ: Diobùtaidh
 DM: Doiminicea
 MN: 'Dùthaich nam Mongol'
-SZ: 'Dùthaich nan Suasaidh'
 TH: 'Dùthaich nan Tàidh'
 EC: Eacuador
 ER: Eartra
+BV: 'Eilean Bouvet'
+HM: 'Eilean Heard is MhicDhòmhnaill'
 IM: 'Eilean Mhanainn'
-AC: 'Eilean na Deasgabhalach'
 CX: 'Eilean na Nollaig'
 SH: 'Eilean Naomh Eilidh'
 NF: 'Eilean Norfolk'
@@ -123,6 +120,7 @@ VI: 'Eileanan na Maighdinn aig na SA'
 PN: 'Eileanan Pheit a’ Chàirn'
 SB: 'Eileanan Sholaimh'
 IE: Èirinn
+SZ: eSwatini
 FJ: Fìdi
 GA: Gabon
 GH: Gàna
@@ -171,7 +169,6 @@ MZ: Mòsaimbic
 AX: 'Na h-Eileanan Åland'
 BS: 'Na h-Eileanan Bhathama'
 KY: 'Na h-Eileanan Caimean'
-IC: 'Na h-Eileanan Canàrach'
 CC: 'Na h-Eileanan Chocos (Keeling)'
 FK: 'Na h-Eileanan Fàclannach'
 FO: 'Na h-Eileanan Fàro'
@@ -208,8 +205,6 @@ PE: Pearù
 CF: 'Poblachd Meadhan Afraga'
 PF: 'Poilinèis na Frainge'
 PR: 'Porto Rìceo'
-XA: Pseudo-Accents
-XB: Pseudo-Bidi
 IO: 'Ranntair Breatannach Cuan nan Innseachan'
 TF: 'Ranntairean a Deas na Frainge'
 RE: Réunion
@@ -243,7 +238,6 @@ TG: Togo
 TK: Tokelau
 TO: Tonga
 TT: 'Trianaid agus Tobago'
-TA: 'Tristan da Cunha'
 TV: Tubhalu
 TN: Tuinisea
 TM: Turcmanastàn

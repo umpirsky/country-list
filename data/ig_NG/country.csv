@@ -1,6 +1,22 @@
 id,value
 AF,Afghanistan
-AX,"Åland Islands"
+AX,"Agwaetiti Aland"
+BV,"Agwaetiti Bouvet"
+VG,"Agwaetiti British Virgin"
+CX,"Agwaetiti Christmas"
+KY,"Agwaetiti Cayman"
+CC,"Agwaetiti Cocos (Keeling)"
+CK,"Agwaetiti Cook"
+FK,"Agwaetiti Falkland"
+FO,"Agwaetiti Faroe"
+HM,"Agwaetiti Heard na Agwaetiti McDonald"
+MH,"Agwaetiti Marshall"
+NF,"Agwaetiti Norfolk"
+MP,"Agwaetiti Northern Mariana"
+PN,"Agwaetiti Pitcairn"
+SB,"Agwaetiti Solomon"
+TC,"Agwaetiti Turks na Caicos"
+VI,"Agwaetiti Virgin nke US"
 AL,Albania
 DZ,Algeria
 AS,"American Samoa"
@@ -12,7 +28,6 @@ AG,"Antigua & Barbuda"
 AR,Argentina
 AM,Armenia
 AW,Aruba
-AC,"Ascension Island"
 AU,Australia
 AT,Austria
 AZ,Azerbaijan
@@ -30,41 +45,30 @@ BO,Bolivia
 BA,"Bosnia & Herzegovina"
 BW,Botswana
 IO,"British Indian Ocean Territory"
-VG,"British Virgin Islands"
 BN,Brunei
 BG,Bulgaria
 BF,"Burkina Faso"
 BI,Burundi
 TD,Chad
 CL,Chile
-CX,"Christmas Island"
 KH,Cambodia
 CM,Cameroon
-CA,Canada
-IC,"Canary Islands"
 CV,"Cape Verde"
 BQ,"Caribbean Netherlands"
-KY,"Cayman Islands"
-CF,"Central African Republic"
-EA,"Ceuta & Melilla"
-CC,"Cocos (Keeling) Islands"
+CF,"Central African Republik"
 CO,Colombia
 KM,Comorosu
-CG,"Congo - Brazzaville"
+CG,Congo
 CD,"Congo - Kinshasa"
-CK,"Cook Islands"
-CR,"Costa Rica"
 CI,"Côte d’Ivoire"
 HR,Croatia
 CU,Cuba
-CW,Curaçao
 CY,Cyprus
 CZ,Czechia
 DK,Denmark
-DG,"Diego Garcia"
 DJ,Djibouti
-DM,Dominica
-DO,"Dominican Republic"
+DO,"Dominican Republik"
+DM,Dominika
 EC,Ecuador
 EG,Egypt
 SV,"El Salvador"
@@ -73,13 +77,10 @@ ER,Eritrea
 EE,Estonia
 SZ,Eswatini
 ET,Ethiopia
-FK,"Falkland Islands"
-FO,"Faroe Islands"
 FJ,Fiji
 FI,Finland
-GF,"French Guiana"
-PF,"French Polynesia"
-TF,"French Southern Territories"
+GF,"Frenchi Guiana"
+PF,"Frenchi Polynesia"
 GA,Gabon
 GM,Gambia
 GE,Georgia
@@ -106,13 +107,15 @@ IQ,Iraq
 IE,Ireland
 IM,"Isle of Man"
 IL,Israel
-JM,Jamaica
+JM,Jamaika
 JE,Jersey
 JO,Jordan
+CA,Kanada
 KZ,Kazakhstan
 KE,Kenya
 KI,Kiribati
-XK,Kosovo
+CR,"Kosta Rika"
+CW,Kurakao
 KW,Kuwait
 KG,Kyrgyzstan
 LA,Laos
@@ -125,13 +128,12 @@ LI,Liechtenstein
 LT,Lithuania
 LU,Luxembourg
 MO,"Macao SAR China"
-MG,Madagascar
+MG,Madagaskar
 MW,Malawi
 MY,Malaysia
 MV,Maldivesa
 ML,Mali
 MT,Malta
-MH,"Marshall Islands"
 MQ,Martinique
 MR,Mauritania
 MU,Mauritius
@@ -154,7 +156,7 @@ MN,Mongolia
 ME,Montenegro
 MS,Montserrat
 MA,Morocco
-MZ,Mozambique
+MZ,Mozambik
 MM,"Myanmar (Burma)"
 NG,Naịjịrịa
 NA,Namibia
@@ -166,12 +168,12 @@ NZ,"New Zealand"
 NI,Nicaragua
 NE,Niger
 NU,Niue
-NF,"Norfolk Island"
 KP,"North Korea"
 MK,"North Macedonia"
-MP,"Northern Mariana Islands"
 NO,Norway
+UM,"Obere Agwaetiti Dị Na Mpụga U.S"
 OM,Oman
+EH,"Ọdịda Anyanwụ Sahara"
 PK,Pakistan
 PW,Palau
 PS,"Palestinian Territories"
@@ -180,11 +182,8 @@ PG,"Papua New Guinea"
 PY,Paraguay
 PE,Peru
 PH,Philippines
-PN,"Pitcairn Islands"
 PL,Poland
 PT,Portugal
-XA,Pseudo-Accents
-XB,Pseudo-Bidi
 PR,"Puerto Rico"
 QA,Qatar
 RE,Réunion
@@ -202,10 +201,9 @@ SG,Singapore
 SX,"Sint Maarten"
 SK,Slovakia
 SI,Slovenia
-SB,"Solomon Islands"
 SO,Somalia
 ZA,"South Africa"
-GS,"South Georgia & South Sandwich Islands"
+GS,"South Georgia na Agwaetiti South Sandwich"
 KR,"South Korea"
 SS,"South Sudan"
 ES,Spain
@@ -232,25 +230,21 @@ TG,Togo
 TK,Tokelau
 TO,Tonga
 TT,"Trinidad & Tobago"
-TA,"Tristan da Cunha"
 TN,Tunisia
 TR,Turkey
 TM,Turkmenistan
-TC,"Turks & Caicos Islands"
 TV,Tuvalu
-UM,"U.S. Outlying Islands"
-VI,"U.S. Virgin Islands"
 UG,Uganda
 UA,Ukraine
 AE,"United Arab Emirates"
 UY,Uruguay
 UZ,Uzbekistan
+TF,"Ụmụ ngalaba Frenchi Southern"
 VU,Vanuatu
 VA,"Vatican City"
 VE,Venezuela
 VN,Vietnam
 WF,"Wallis & Futuna"
-EH,"Western Sahara"
 YE,Yemen
 ZM,Zambia
 ZW,Zimbabwe

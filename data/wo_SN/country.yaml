@@ -5,16 +5,15 @@ DE: Almaañ
 DZ: Alseri
 AD: Andoor
 AI: Angiiy
-AO: Àngolaa
 AQ: Antarktik
 AG: 'Antiguwa ak Barbuda'
 SA: 'Arabi Sawudi'
 AM: Armeni
 AR: Arsàntin
 AW: Aruba
-AC: 'Ascension Island'
 AZ: Aserbayjaŋ
 HT: Ayti
+AO: Àngolaa
 BS: Bahamas
 BH: Bahreyin
 BB: Barbad
@@ -33,19 +32,17 @@ BF: 'Burkina Faaso'
 BN: Burney
 BI: Burundi
 BT: Butaŋ
-TD: Càdd
-IC: 'Canary Islands'
 BQ: 'Caribbean Netherlands'
-EA: 'Ceuta & Melilla'
+TD: Càdd
 CG: 'Congo - Brazzaville'
 CD: 'Congo - Kinshasa'
 DK: Danmàrk
-DG: 'Diego Garcia'
 DM: Dominik
 AX: 'Duni Aalànd'
 UM: 'Duni Amerig Utar meer'
 FK: 'Duni Falkland'
 FO: 'Duni Faro'
+HM: 'Duni Hërd ak Duni MakDonald'
 KY: 'Duni Kaymaŋ'
 CC: 'Duni Koko (Kilin)'
 CK: 'Duni Kuuk'
@@ -56,6 +53,7 @@ SB: 'Duni Salmoon'
 TC: 'Duni Tirk ak Kaykos'
 VG: 'Duni Wirsin yu Brëtaañ'
 VI: 'Duni Wirsin yu Etaa-sini'
+BV: 'Dunu Buwet'
 CX: 'Dunu Kirismas'
 IM: 'Dunu Maan'
 NF: 'Dunu Norfolk'
@@ -76,9 +74,9 @@ FJ: Fijji
 PH: Filipin
 FI: Finlànd
 GA: Gaboŋ
-GM: Gàmbi
 GH: Gana
 GD: Garanad
+GM: Gàmbi
 GR: Gerees
 GG: Gernase
 GN: Gine
@@ -101,20 +99,19 @@ IL: Israyel
 IT: Itali
 DJ: Jibuti
 CV: 'Kabo Werde'
-KH: Kàmboj
 CM: Kamerun
 CA: Kanadaa
 KZ: Kasaxstaŋ
 QA: Kataar
+KH: Kàmboj
 KE: Keeña
 KG: Kirgistaŋ
 KI: Kiribati
-CI: 'Kodiwaar (Côte d’Ivoire)'
+CI: Kodiwaar
 CO: Kolombi
 KM: Komoor
 KP: 'Kore Noor'
 HR: Korowasi
-XK: Kosowo
 CR: 'Kosta Rika'
 KW: Kowet
 CU: Kuba
@@ -137,7 +134,7 @@ ML: Mali
 MT: Malt
 MA: Marog
 MQ: Martinik
-MK: Maseduwaan
+MK: 'Maseduwaan bëj Gànnaar'
 YT: Mayot
 MX: Meksiko
 FM: Mikoronesi
@@ -177,18 +174,15 @@ PF: 'Polinesi Farañse'
 PL: Poloñ
 PT: Portigaal
 PR: 'Porto Riko'
-XA: Pseudo-Accents
-XB: Pseudo-Bidi
 RE: Reeñoo
-CZ: 'Réewum Cek'
 DO: 'Repiblik Dominiken'
 CF: 'Repiblik Sàntar Afrik'
+CZ: 'Réewum Cek'
 RU: Risi
 RO: Rumani
 GB: 'Ruwaayom Ini'
 RW: Ruwànda
 JM: Samayig
-ZM: Sàmbi
 WS: Samowa
 AS: 'Samowa bu Amerig'
 SM: 'San Marino'
@@ -199,8 +193,9 @@ LC: 'Saŋ Lusi'
 MF: 'Saŋ Marteŋ'
 PM: 'Saŋ Peer ak Mikeloŋ'
 VC: 'Saŋ Weesaa ak Garanadin'
-JP: Sàppoŋ
 ST: 'Sawo Tome ak Pirinsipe'
+ZM: Sàmbi
+JP: Sàppoŋ
 SN: Senegaal
 RS: Serbi
 JE: Serse
@@ -242,7 +237,6 @@ TM: Tirkmenistaŋ
 TG: Togo
 TK: Tokoloo
 TO: Tonga
-TA: 'Tristan da Cunha'
 TV: Tuwalo
 UG: Ugànda
 UY: Uruge

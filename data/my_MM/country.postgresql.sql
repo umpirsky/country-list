@@ -1,7 +1,6 @@
 CREATE TABLE list (id VARCHAR(64) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
 INSERT INTO "list" ("id", "value") VALUES (E'CA', E'ကနေဒါ');
-INSERT INTO "list" ("id", "value") VALUES (E'IC', E'ကနေရီ ကျွန်းစု');
 INSERT INTO "list" ("id", "value") VALUES (E'KG', E'ကာဂျစ္စတန်');
 INSERT INTO "list" ("id", "value") VALUES (E'KZ', E'ကာဇက်စတန်');
 INSERT INTO "list" ("id", "value") VALUES (E'QA', E'ကာတာ');
@@ -9,7 +8,6 @@ INSERT INTO "list" ("id", "value") VALUES (E'BQ', E'ကာရစ်ဘီယံ 
 INSERT INTO "list" ("id", "value") VALUES (E'KW', E'ကူဝိတ်');
 INSERT INTO "list" ("id", "value") VALUES (E'KY', E'ကေမန် ကျွန်းစု');
 INSERT INTO "list" ("id", "value") VALUES (E'CC', E'ကိုကိုးကျွန်း');
-INSERT INTO "list" ("id", "value") VALUES (E'XK', E'ကိုဆိုဗို');
 INSERT INTO "list" ("id", "value") VALUES (E'KM', E'ကိုမိုရိုစ်');
 INSERT INTO "list" ("id", "value") VALUES (E'CO', E'ကိုလံဘီယာ');
 INSERT INTO "list" ("id", "value") VALUES (E'CR', E'ကို့စ်တာရီကာ');
@@ -77,7 +75,6 @@ INSERT INTO "list" ("id", "value") VALUES (E'SO', E'ဆိုမာလီယာ'
 INSERT INTO "list" ("id", "value") VALUES (E'CY', E'ဆိုက်ပရပ်စ်');
 INSERT INTO "list" ("id", "value") VALUES (E'ST', E'ဆောင်တူမေးနှင့် ပရင်စီပီ');
 INSERT INTO "list" ("id", "value") VALUES (E'SM', E'ဆန်မာရီနို');
-INSERT INTO "list" ("id", "value") VALUES (E'EA', E'ဆယ်ဥတာနှင့်မယ်လီလ်လာ');
 INSERT INTO "list" ("id", "value") VALUES (E'SZ', E'ဆွာဇီလန်');
 INSERT INTO "list" ("id", "value") VALUES (E'SE', E'ဆွီဒင်');
 INSERT INTO "list" ("id", "value") VALUES (E'CH', E'ဆွစ်ဇာလန်');
@@ -99,10 +96,8 @@ INSERT INTO "list" ("id", "value") VALUES (E'ZA', E'တောင်အာဖရ�
 INSERT INTO "list" ("id", "value") VALUES (E'TZ', E'တန်ဇန်းနီးယား');
 INSERT INTO "list" ("id", "value") VALUES (E'TO', E'တွန်ဂါ');
 INSERT INTO "list" ("id", "value") VALUES (E'TT', E'ထရီနီဒတ်နှင့် တိုဘက်ဂို');
-INSERT INTO "list" ("id", "value") VALUES (E'TA', E'ထရစ္စတန် ဒါ ကွန်ဟာ');
 INSERT INTO "list" ("id", "value") VALUES (E'TW', E'ထိုင်ဝမ်');
 INSERT INTO "list" ("id", "value") VALUES (E'TH', E'ထိုင်း');
-INSERT INTO "list" ("id", "value") VALUES (E'DG', E'ဒီအဲဂိုဂါစီရာ');
 INSERT INTO "list" ("id", "value") VALUES (E'DM', E'ဒိုမီနီကာ');
 INSERT INTO "list" ("id", "value") VALUES (E'DO', E'ဒိုမီနီကန်');
 INSERT INTO "list" ("id", "value") VALUES (E'DK', E'ဒိန်းမတ်');
@@ -156,6 +151,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'BH', E'ဘာရိန်း');
 INSERT INTO "list" ("id", "value") VALUES (E'BJ', E'ဘီနင်');
 INSERT INTO "list" ("id", "value") VALUES (E'BY', E'ဘီလာရုစ်');
 INSERT INTO "list" ("id", "value") VALUES (E'BT', E'ဘူတန်');
+INSERT INTO "list" ("id", "value") VALUES (E'BV', E'ဘူဗက်ကျွန်း');
 INSERT INTO "list" ("id", "value") VALUES (E'BI', E'ဘူရွန်ဒီ');
 INSERT INTO "list" ("id", "value") VALUES (E'BG', E'ဘူလ်ဂေးရီးယား');
 INSERT INTO "list" ("id", "value") VALUES (E'BA', E'ဘော့စနီးယားနှင့် ဟာဇီဂိုဗီနား');
@@ -179,11 +175,11 @@ INSERT INTO "list" ("id", "value") VALUES (E'MV', E'မော်လ်ဒို�
 INSERT INTO "list" ("id", "value") VALUES (E'MZ', E'မိုဇမ်ဘစ်');
 INSERT INTO "list" ("id", "value") VALUES (E'MC', E'မိုနာကို');
 INSERT INTO "list" ("id", "value") VALUES (E'MX', E'မက်ကဆီကို');
-INSERT INTO "list" ("id", "value") VALUES (E'MK', E'မက်ဆီဒိုးနီးယား');
 INSERT INTO "list" ("id", "value") VALUES (E'FM', E'မိုင်ခရိုနီရှား');
 INSERT INTO "list" ("id", "value") VALUES (E'IM', E'မန်ကျွန်း');
 INSERT INTO "list" ("id", "value") VALUES (E'MT', E'မောလ်တာ');
 INSERT INTO "list" ("id", "value") VALUES (E'MD', E'မောလ်ဒိုဗာ');
+INSERT INTO "list" ("id", "value") VALUES (E'MK', E'မြောက် မက်ဆီဒိုးနီးယား');
 INSERT INTO "list" ("id", "value") VALUES (E'KP', E'မြောက်ကိုရီးယား');
 INSERT INTO "list" ("id", "value") VALUES (E'MP', E'မြောက်ပိုင်းမာရီအာနာကျွန်းစု');
 INSERT INTO "list" ("id", "value") VALUES (E'MM', E'မြန်မာ');
@@ -213,9 +209,9 @@ INSERT INTO "list" ("id", "value") VALUES (E'WF', E'ဝေါလစ်နှင�
 INSERT INTO "list" ("id", "value") VALUES (E'LK', E'သီရိလင်္ကာ');
 INSERT INTO "list" ("id", "value") VALUES (E'HT', E'ဟေတီ');
 INSERT INTO "list" ("id", "value") VALUES (E'HK', E'ဟောင်ကောင် (တရုတ်ပြည်)');
+INSERT INTO "list" ("id", "value") VALUES (E'HM', E'ဟတ်ကျွန်းနှင့်မက်ဒေါနယ်ကျွန်းစု');
 INSERT INTO "list" ("id", "value") VALUES (E'HU', E'ဟန်ဂေရီ');
 INSERT INTO "list" ("id", "value") VALUES (E'HN', E'ဟွန်ဒူးရပ်စ်');
-INSERT INTO "list" ("id", "value") VALUES (E'AC', E'အဆန်းရှင်းကျွန်း');
 INSERT INTO "list" ("id", "value") VALUES (E'AZ', E'အဇာဘိုင်ဂျန်');
 INSERT INTO "list" ("id", "value") VALUES (E'EH', E'အနောက် ဆာဟာရ');
 INSERT INTO "list" ("id", "value") VALUES (E'AS', E'အမေရိကန် ဆမိုးအား');
@@ -253,5 +249,3 @@ INSERT INTO "list" ("id", "value") VALUES (E'IN', E'အိန္ဒိယ');
 INSERT INTO "list" ("id", "value") VALUES (E'DZ', E'အယ်လ်ဂျီးရီးယား');
 INSERT INTO "list" ("id", "value") VALUES (E'SV', E'အယ်လ်ဆာဗေးဒိုး');
 INSERT INTO "list" ("id", "value") VALUES (E'AL', E'အယ်လ်ဘေးနီးယား');
-INSERT INTO "list" ("id", "value") VALUES (E'XA', E'Pseudo-Accents');
-INSERT INTO "list" ("id", "value") VALUES (E'XB', E'Pseudo-Bidi');

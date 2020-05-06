@@ -14,7 +14,6 @@ AE,"Araabia Ühendemiraadid"
 AR,Argentina
 AM,Armeenia
 AW,Aruba
-AC,"Ascensioni saar"
 AZ,Aserbaidžaan
 AU,Austraalia
 AT,Austria
@@ -31,6 +30,7 @@ BT,Bhutan
 BO,Boliivia
 BA,"Bosnia ja Hertsegoviina"
 BW,Botswana
+BV,"Bouvet’ saar"
 BR,Brasiilia
 IO,"Briti India ookeani ala"
 VG,"Briti Neitsisaared"
@@ -38,13 +38,11 @@ BN,Brunei
 BG,Bulgaaria
 BF,"Burkina Faso"
 BI,Burundi
-EA,"Ceuta ja Melilla"
 CO,Colombia
 CK,"Cooki saared"
 CR,"Costa Rica"
 CI,"Côte d’Ivoire"
 CW,Curaçao
-DG,"Diego Garcia"
 DJ,Djibouti
 DM,Dominica
 DO,"Dominikaani Vabariik"
@@ -74,6 +72,7 @@ GN,Guinea
 GW,Guinea-Bissau
 GY,Guyana
 HT,Haiti
+HM,"Heardi ja McDonaldi saared"
 CN,Hiina
 ES,Hispaania
 NL,Holland
@@ -99,7 +98,6 @@ CX,Jõulusaar
 KY,Kaimanisaared
 KH,Kambodža
 CM,Kamerun
-IC,"Kanaari saared"
 CA,Kanada
 KZ,Kasahstan
 QA,Katar
@@ -110,7 +108,6 @@ KM,Komoorid
 CD,"Kongo DV"
 CG,"Kongo Vabariik"
 CC,Kookossaared
-XK,Kosovo
 GR,Kreeka
 CU,Kuuba
 KW,Kuveit
@@ -176,8 +173,6 @@ GF,"Prantsuse Guajaana"
 TF,"Prantsuse Lõunaalad"
 PF,"Prantsuse Polüneesia"
 FR,Prantsusmaa
-XA,pseudo-aktsent
-XB,pseudo-Bidi
 PR,"Puerto Rico"
 KP,Põhja-Korea
 MK,Põhja-Makedoonia
@@ -229,7 +224,6 @@ TG,Togo
 TK,Tokelau
 TO,Tonga
 TT,"Trinidad ja Tobago"
-TA,"Tristan da Cunha"
 TD,Tšaad
 CZ,Tšehhi
 CL,Tšiili

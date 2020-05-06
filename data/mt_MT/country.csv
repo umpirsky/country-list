@@ -3,15 +3,12 @@ AD,Andorra
 AI,Anguilla
 AG,"Antigua u Barbuda"
 AW,Aruba
-AC,"Ascension Island"
 BB,Barbados
 BM,Bermuda
 CY,Ċipru
 CV,"Cape Verde"
-EA,"Ceuta u Melilla"
 KM,Comoros
 CW,Curaçao
-DG,"Diego Garcia"
 DM,Dominica
 SV,"El Salvador"
 FJ,Fiġi
@@ -27,6 +24,7 @@ CC,"Gżejjer Cocos (Keeling)"
 CK,"Gżejjer Cook"
 MH,"Gżejjer Marshall"
 PN,"Gżejjer Pitcairn"
+BV,"Gżira Bouvet"
 NF,"Gżira Norfolk"
 CL,iċ-Ċili
 CN,iċ-Ċina
@@ -69,10 +67,10 @@ GY,il-Guyana
 GF,"il-Guyana Franċiża"
 GT,il-Gwatemala
 AX,"il-Gżejjer Aland"
-IC,"il-Gżejjer Canary"
 KY,"il-Gżejjer Cayman"
 FO,"il-Gżejjer Faeroe"
 FK,"il-Gżejjer Falkland"
+HM,"il-Gżejjer Heard u l-Gżejjer McDonald"
 UM,"Il-Gżejjer Minuri Mbiegħda tal-Istati Uniti"
 SB,"il-Gżejjer Solomon"
 TC,"il-Gżejjer Turks u Caicos"
@@ -92,7 +90,6 @@ CO,il-Kolombja
 CG,"il-Kongo - Brazzaville"
 KR,"il-Korea t’Isfel"
 KP,"il-Korea ta’ Fuq"
-XK,il-Kosovo
 CI,"il-Kosta tal-Avorju"
 HR,il-Kroazja
 KW,il-Kuwajt
@@ -105,6 +102,7 @@ LY,il-Libja
 LI,il-Liechtenstein
 LT,il-Litwanja
 LU,il-Lussemburgu
+MK,"il-Maċedonja ta’ Fuq"
 MY,il-Malasja
 MW,il-Malawi
 MV,il-Maldivi
@@ -189,7 +187,6 @@ AU,l-Awstralja
 AT,l-Awstrija
 AZ,l-Ażerbajġan
 EG,l-Eġittu
-MK,"l-Eks-Repubblika Jugoslava tal-Maċedonia"
 EC,l-Ekwador
 AE,"l-Emirati Għarab Magħquda"
 ER,l-Eritrea
@@ -227,8 +224,6 @@ NU,Niue
 PW,Palau
 PG,"Papua New Guinea"
 PF,"Polineżja Franċiża"
-XA,Pseudo-Accents
-XB,Pseudo-Bidi
 PR,"Puerto Rico"
 RE,Réunion
 BL,"Saint Barthélemy"
@@ -250,7 +245,6 @@ IO,"Territorju Brittaniku tal-Oċean Indjan"
 TL,"Timor Leste"
 TO,Tonga
 TT,"Trinidad u Tobago"
-TA,"Tristan da Cunha"
 TV,Tuvalu
 VU,Vanuatu
 WF,"Wallis u Futuna"

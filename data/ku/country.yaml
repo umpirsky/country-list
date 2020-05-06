@@ -9,7 +9,6 @@ AQ: Antarktîka
 AG: 'Antîgua û Berbûda'
 AR: Arjentîn
 AW: Arûba
-AC: 'Ascension Island'
 AT: Awistirya
 AU: Awistralya
 AZ: Azerbaycan
@@ -20,11 +19,12 @@ BH: Behreyn
 BY: Belarûs
 BE: Belçîka
 BZ: Belîze
-BJ: Bênîn
 BM: Bermûda
+BJ: Bênîn
 BO: Bolîvya
 BA: 'Bosniya û Herzegovîna'
 BW: Botswana
+BV: 'Bouvet Island'
 BR: Brazîl
 IO: 'British Indian Ocean Territory'
 VG: 'British Virgin Islands'
@@ -33,20 +33,18 @@ BG: Bulgaristan
 BF: 'Burkîna Faso'
 BI: Burundî
 BT: Bûtan
-TD: Çad
 BQ: 'Caribbean Netherlands'
-CZ: Çekya
-EA: 'Ceuta & Melilla'
 DZ: Cezayir
 CX: 'Christmas Island'
 GI: Cîbraltar
 DJ: Cîbûtî
-CN: Çîn
 CC: 'Cocos (Keeling) Islands'
 CW: Curaçao
+TD: Çad
+CZ: Çekya
+CN: Çîn
 DK: Danîmarka
 US: 'Dewletên Yekbûyî yên Amerîkayê'
-DG: 'Diego Garcia'
 DM: Domînîka
 AF: Efxanistan
 EC: Ekuador
@@ -57,17 +55,14 @@ ER: Erîtrea
 AM: Ermenistan
 EE: Estonya
 ET: Etiyopya
-FJ: Fîjî
 PH: Filîpîn
+FJ: Fîjî
 FI: Fînlenda
 FR: Fransa
 TF: 'French Southern Territories'
 GA: Gabon
 GM: Gambiya
 GH: Gana
-GN: Gîne
-GW: Gîne-Bissau
-GQ: 'Gîneya Rojbendî'
 IM: 'Girava Man'
 NF: 'Girava Norfolk'
 MP: 'Giravên Bakurê Marianan'
@@ -77,9 +72,11 @@ KY: 'Giravên Kaymanê'
 FK: 'Giravên Malvîn'
 MH: 'Giravên Marşal'
 PN: 'Giravên Pitcairn'
-IC: 'Giravên Qenariyê'
 SB: 'Giravên Salomon'
 TC: 'Giravên Turk û Kaîkos'
+GN: Gîne
+GW: Gîne-Bissau
+GQ: 'Gîneya Rojbendî'
 GD: Grenada
 GL: Grînlenda
 GP: Guadeloupe
@@ -90,13 +87,14 @@ GE: Gurcistan
 GY: Guyana
 GF: 'Guyanaya Fransî'
 HT: Haîtî
+HM: 'Heard & McDonald Islands'
 IN: Hindistan
 NL: Holenda
 HN: Hondûras
 HK: 'Hong Kong SAR China'
+IQ: Iraq
 ID: Îndonezya
 IR: Îran
-IQ: Iraq
 IE: Îrlenda
 IS: Îslenda
 IL: Îsraêl
@@ -111,8 +109,8 @@ CA: Kanada
 CV: 'Kap Verde'
 KE: Kenya
 GB: 'Keyaniya Yekbûyî'
-CY: Kîpros
 KI: Kirîbatî
+CY: Kîpros
 CO: Kolombiya
 CF: 'Komara Afrîkaya Navend'
 DO: 'Komara Domînîk'
@@ -121,18 +119,17 @@ CG: 'Kongo - Brazzaville'
 CD: 'Kongo - Kînşasa'
 KP: 'Korêya Bakur'
 KR: 'Korêya Başûr'
-XK: Kosovo
 CR: 'Kosta Rîka'
 HR: Kroatya
-CU: Kûba
 KW: Kuweyt
+CU: Kûba
 LA: Laos
 LS: Lesoto
 LV: Letonya
-LR: Lîberya
 LB: Libnan
-LY: Lîbya
 LI: Liechtenstein
+LR: Lîberya
+LY: Lîbya
 LT: Lîtvanya
 LU: Lûksembûrg
 MO: 'Macao SAR China'
@@ -150,8 +147,8 @@ MU: Maurîtius
 YT: Mayotte
 MX: Meksîk
 MF: MF
-FM: Mîkronezya
 EG: Misir
+FM: Mîkronezya
 MD: Moldova
 MC: Monako
 MN: Mongolya
@@ -163,10 +160,10 @@ MM: 'Myanmar (Birmanya)'
 NA: Namîbya
 NR: Naûrû
 NP: Nepal
+NU: Niûe
 NE: Nîjer
 NG: Nîjerya
 NI: Nîkaragua
-NU: Niûe
 'NO': Norwêc
 NZ: 'Nû Zelenda'
 OM: Oman
@@ -181,8 +178,6 @@ PF: 'Polînezyaya Fransî'
 PL: Polonya
 PR: 'Porto Rîko'
 PT: Portûgal
-XA: Pseudo-Accents
-XB: Pseudo-Bidi
 KZ: Qazaxistan
 QA: Qeter
 KG: Qirgizistan
@@ -204,7 +199,6 @@ SN: Senegal
 RS: Serbistan
 SC: Seyşel
 SL: 'Sierra Leone'
-CL: Şîle
 SG: Singapûr
 SX: 'Sint Maarten'
 SK: Slovakya
@@ -222,25 +216,25 @@ SJ: 'Svalbard & Jan Mayen'
 SZ: Swazîlenda
 SE: Swêd
 CH: Swîsre
+CL: Şîle
 TJ: Tacîkistan
 TZ: Tanzanya
 TH: Taylenda
 TW: Taywan
-TL: Tîmora-Leste
 TR: Tirkiye
 TM: Tirkmenistan
+TL: Tîmora-Leste
 TG: Togo
 TK: Tokelau
 TO: Tonga
 TT: 'Trînîdad û Tobago'
-TA: 'Tristan da Cunha'
 TN: Tûnis
 TV: Tûvalû
 UM: 'U.S. Outlying Islands'
 VI: 'U.S. Virgin Islands'
+JO: Urdun
 UG: Ûganda
 UA: Ûkrayna
-JO: Urdun
 UY: Ûrûguay
 UZ: Ûzbêkistan
 VU: Vanûatû

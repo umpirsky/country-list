@@ -11,7 +11,6 @@ AG: 'Antigua en Barbuda'
 AR: Argentinië
 AM: Armenië
 AW: Aruba
-AC: Ascensioneiland
 AU: Australië
 AZ: Azerbeidjan
 BS: Bahamas
@@ -27,6 +26,7 @@ BT: Bhoetan
 BO: Bolivië
 BA: 'Bosnië en Herzegowina'
 BW: Botswana
+BV: Bouvet-eiland
 BR: Brasilië
 IO: 'Brits-Indiese Oseaangebied'
 VG: 'Britse Maagde-eilande'
@@ -34,7 +34,6 @@ BN: Broenei
 BG: Bulgarye
 BF: 'Burkina Faso'
 BI: Burundi
-EA: 'Ceuta en Melilla'
 CL: Chili
 CO: Colombië
 KM: Comore
@@ -43,7 +42,6 @@ CR: 'Costa Rica'
 CW: Curaçao
 CD: 'Demokratiese Republiek van die Kongo'
 DK: Denemarke
-DG: 'Diego Garcia'
 DJ: Djiboeti
 DM: Dominica
 DO: 'Dominikaanse Republiek'
@@ -55,6 +53,7 @@ GQ: Ekwatoriaal-Guinee
 SV: 'El Salvador'
 ER: Eritrea
 EE: Estland
+SZ: Eswatini
 ET: Ethiopië
 FK: Falklandeilande
 FO: Faroëreilande
@@ -81,6 +80,7 @@ GN: Guinee
 GW: Guinee-Bissau
 GY: Guyana
 HT: Haïti
+HM: 'Heardeiland en McDonaldeilande'
 HN: Honduras
 HU: Hongarye
 HK: 'Hongkong SAS Sjina'
@@ -102,7 +102,6 @@ CV: 'Kaap Verde'
 KH: Kambodja
 CM: Kameroen
 CA: Kanada
-IC: 'Kanariese Eilande'
 BQ: 'Karibiese Nederland'
 QA: Katar
 KZ: Kazakstan
@@ -114,7 +113,6 @@ UM: 'Klein afgeleë eilande van die VSA'
 KW: Koeweit
 CC: Kokoseilande
 CG: 'Kongo - Brazzaville'
-XK: Kosovo
 HR: Kroasië
 CU: Kuba
 LA: Laos
@@ -127,7 +125,6 @@ LI: Liechtenstein
 LT: Litaue
 LU: Luxemburg
 MO: 'Macau SAS Sjina'
-MK: Macedonië
 MG: Madagaskar
 MW: Malawi
 MV: Maledive
@@ -160,6 +157,7 @@ NE: Niger
 NG: Nigerië
 NU: Niue
 KP: Noord-Korea
+MK: Noord-Macedonië
 MP: Noord-Mariane-eilande
 'NO': Noorweë
 NF: Norfolkeiland
@@ -178,8 +176,6 @@ PE: Peru
 PN: Pitcairneilande
 PL: Pole
 PT: Portugal
-XA: Pseudo-Accents
-XB: Pseudo-Bidi
 PR: 'Puerto Rico'
 RE: Réunion
 RO: Roemenië
@@ -219,7 +215,6 @@ KR: Suid-Korea
 SS: Suid-Soedan
 SR: Suriname
 SJ: 'Svalbard en Jan Mayen'
-SZ: Swaziland
 SE: Swede
 CH: Switserland
 TJ: Tadjikistan
@@ -230,7 +225,6 @@ TG: Togo
 TK: Tokelau
 TO: Tonga
 TT: 'Trinidad en Tobago'
-TA: 'Tristan da Cunha'
 TD: Tsjad
 CZ: Tsjeggië
 TN: Tunisië

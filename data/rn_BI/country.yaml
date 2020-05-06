@@ -19,7 +19,6 @@ SA: 'Arabiya Sawudite'
 AR: Arijantine
 AW: Aruba
 AM: Arumeniya
-AC: 'Ascension Island'
 IS: Ayisilandi
 AZ: Azerubayijani
 BS: Bahamasi
@@ -34,20 +33,18 @@ MM: Birimaniya
 BO: Boliviya
 BA: 'Bosiniya na Herigozevine'
 BW: Botswana
+BV: 'Bouvet Island'
 BG: Buligariya
 BR: Burezili
 BF: 'Burukina Faso'
 BN: Buruneyi
 BT: Butani
 TD: Cadi
-IC: 'Canary Islands'
 BQ: 'Caribbean Netherlands'
-EA: 'Ceuta & Melilla'
 CX: 'Christmas Island'
 CC: 'Cocos (Keeling) Islands'
 CW: Curaçao
 DK: Danimariki
-DG: 'Diego Garcia'
 DM: Dominika
 EC: Ekwateri
 SV: 'Eli Saluvatori'
@@ -73,6 +70,7 @@ GU: Gwamu
 GT: Gwatemala
 GF: 'Gwayana y’Abafaransa'
 HT: Hayiti
+HM: 'Heard & McDonald Islands'
 ES: Hisipaniya
 HN: Hondurasi
 HK: 'Hong Kong SAR China'
@@ -116,7 +114,6 @@ KP: 'Koreya y’amajaruguru'
 KR: 'Koreya y’amajepfo'
 HR: Korowasiya
 CR: Kositarika
-XK: Kosovo
 CI: Kotedivuware
 KW: Koweti
 LV: Lativa
@@ -138,7 +135,6 @@ ML: Mali
 MT: Malita
 MQ: Maritiniki
 MA: Maroke
-MK: Masedoniya
 YT: Mayote
 MX: Migizike
 FM: Mikoroniziya
@@ -159,6 +155,7 @@ NG: Nijeriya
 NI: Nikaragwa
 NC: Niyukaledoniya
 NU: Niyuwe
+MK: 'North Macedonia'
 'NO': Noruveji
 NZ: Nuvelizelandi
 OM: Omani
@@ -175,8 +172,6 @@ PN: Pitikeyirini
 PF: 'Polineziya y’Abafaransa'
 PL: Polonye
 PT: Porutugali
-XA: Pseudo-Accents
-XB: Pseudo-Bidi
 PR: Puwetoriko
 CD: 'Repubulika Iharanira Demokarasi ya Kongo'
 CZ: 'Repubulika ya Ceke'
@@ -221,7 +216,6 @@ TT: 'Tirinidadi na Tobago'
 TG: Togo
 TK: Tokelawu
 TO: Tonga
-TA: 'Tristan da Cunha'
 TN: Tuniziya
 TR: Turukiya
 TM: Turukumenisitani

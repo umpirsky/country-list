@@ -16,7 +16,6 @@ AE,"Arabiar Emirerri Batuak"
 AR,Argentina
 AM,Armenia
 AW,Aruba
-AC,"Ascension uhartea"
 AU,Australia
 AT,Austria
 AZ,Azerbaijan
@@ -36,20 +35,19 @@ CI,"Boli Kosta"
 BO,Bolivia
 BA,Bosnia-Herzegovina
 BW,Botswana
+BV,"Bouvet uhartea"
 BR,Brasil
 BN,Brunei
 BG,Bulgaria
 BF,"Burkina Faso"
 BI,Burundi
 CV,"Cabo Verde"
-EA,"Ceuta eta Melilla"
 CX,"Christmas uhartea"
 CC,"Cocos (Keeling) uharteak"
 CK,"Cook uharteak"
 CR,"Costa Rica"
 CW,Curaçao
 DK,Danimarka
-DG,"Diego García"
 DJ,Djibuti
 DM,Dominika
 DO,"Dominikar Errepublika"
@@ -90,6 +88,7 @@ GG,Guernesey
 GY,Guyana
 GF,"Guyana Frantsesa"
 HT,Haiti
+HM,"Heard eta McDonald uharteak"
 KR,"Hego Korea"
 SS,"Hego Sudan"
 ZA,Hegoafrika
@@ -104,6 +103,7 @@ IO,"Indiako Ozeanoko lurralde britainiarra"
 ID,Indonesia
 KP,"Ipar Korea"
 MP,"Ipar Mariana uharteak"
+MK,"Ipar Mazedonia"
 IQ,Irak
 IR,Iran
 IE,Irlanda
@@ -118,7 +118,6 @@ KY,"Kaiman uharteak"
 NC,"Kaledonia Berria"
 CM,Kamerun
 CA,Kanada
-IC,Kanariak
 KH,Kanbodia
 BQ,"Karibeko Herbehereak"
 KZ,Kazakhstan
@@ -129,7 +128,6 @@ CO,Kolonbia
 KM,Komoreak
 CG,Kongo
 CD,"Kongoko Errepublika Demokratikoa"
-XK,Kosovo
 HR,Kroazia
 CU,Kuba
 KW,Kuwait
@@ -156,7 +154,6 @@ MQ,Martinika
 MR,Mauritania
 MU,Maurizio
 YT,Mayotte
-MK,Mazedonia
 EH,"Mendebaldeko Sahara"
 MX,Mexiko
 FM,Mikronesia
@@ -188,8 +185,6 @@ PN,"Pitcairn uharteak"
 PF,"Polinesia Frantsesa"
 PL,Polonia
 PT,Portugal
-XA,Pseudo-Accents
-XB,Pseudo-Bidi
 PR,"Puerto Rico"
 QA,Qatar
 RE,Reunion
@@ -230,7 +225,6 @@ TG,Togo
 TK,Tokelau
 TO,Tonga
 TT,"Trinidad eta Tobago"
-TA,"Tristan da Cunha"
 TN,Tunisia
 TC,"Turk eta Caico uharteak"
 TR,Turkia

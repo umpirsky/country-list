@@ -12,7 +12,6 @@ SA,"Arabia Saudita"
 AR,Argentinia
 AM,Armenia
 AW,Aruba
-AC,"Ascension Island"
 AZ,Aserbaidschan
 AU,Australia
 AT,Austria
@@ -37,10 +36,8 @@ BI,Burundi
 KH,Cambodscha
 CM,Camerun
 CA,Canada
-IC,"Canary Islands"
 CV,"Cap Verd"
 BQ,"Caribbean Netherlands"
-EA,"Ceuta & Melilla"
 CL,Chile
 CN,China
 CY,Cipra
@@ -56,7 +53,6 @@ HR,Croazia
 CU,Cuba
 CW,Curaçao
 DK,Danemarc
-DG,"Diego Garcia"
 DM,Dominica
 DJ,Dschibuti
 EC,Ecuador
@@ -95,6 +91,7 @@ HT,Haiti
 HN,Honduras
 IN,India
 ID,Indonesia
+BV,"Insla Bouvet"
 CX,"Insla da Christmas"
 IM,"Insla da Man"
 NF,"Insla Norfolk"
@@ -102,6 +99,7 @@ AX,"Inslas Aland"
 KY,"Inslas Cayman"
 CC,"Inslas Cocos"
 CK,"Inslas Cook"
+HM,"Inslas da Heard e da McDonald"
 MH,"Inslas da Marshall"
 FK,"Inslas dal Falkland"
 FO,"Inslas Feroe"
@@ -124,7 +122,6 @@ QA,Katar
 KE,Kenia
 KG,Kirghisistan
 KI,Kiribati
-XK,Kosovo
 KW,Kuwait
 LA,Laos
 LS,Lesotho
@@ -135,7 +132,6 @@ LY,Libia
 LI,Liechtenstein
 LT,Lituania
 LU,Luxemburg
-MK,Macedonia
 MG,Madagascar
 MY,Malaisia
 MW,Malawi
@@ -163,6 +159,7 @@ NI,Nicaragua
 NE,Niger
 NG,Nigeria
 NU,Niue
+MK,"North Macedonia"
 NO,Norvegia
 NC,"Nova Caledonia"
 NZ,"Nova Zelanda"
@@ -178,8 +175,6 @@ PN,Pitcairn
 PF,"Polinesia Franzosa"
 PL,Pologna
 PT,Portugal
-XA,Pseudo-Accents
-XB,Pseudo-Bidi
 PR,"Puerto Rico"
 GB,"Reginavel Unì"
 HK,"Regiun d’administraziun speziala da Hongkong, China"
@@ -240,7 +235,6 @@ TG,Togo
 TK,Tokelau
 TO,Tonga
 TT,"Trinidad e Tobago"
-TA,"Tristan da Cunha"
 TD,Tschad
 TN,Tunesia
 TM,Turkmenistan

@@ -16,7 +16,6 @@ SA: 'Arabia saodita'
 AM: Armenia
 AW: Arobà
 AR: Arzantina
-AC: 'Ascension Island'
 AZ: Azerbaidjan
 BS: Bahamas
 BH: Bahrain
@@ -34,17 +33,15 @@ BF: 'Borkina Faso'
 BI: Borondi
 BA: 'Bosnia sy Herzegovina'
 BW: Botsoana
+BV: 'Bouvet Island'
 BR: Brezila
 BN: Brunei
-IC: 'Canary Islands'
 BQ: 'Caribbean Netherlands'
-EA: 'Ceuta & Melilla'
 CX: 'Christmas Island'
 CC: 'Cocos (Keeling) Islands'
 CI: 'Côte d’Ivoire'
 CW: Curaçao
 DK: Danmarka
-DG: 'Diego Garcia'
 DJ: Djiboti
 DM: Dominika
 EG: Ejypta
@@ -80,6 +77,7 @@ GQ: 'Guinea Ekoatera'
 GY: Guyana
 GF: 'Guyana frantsay'
 HT: Haiti
+HM: 'Heard & McDonald Islands'
 NL: Holanda
 HN: Hondiorasy
 HK: 'Hong Kong SAR China'
@@ -112,7 +110,6 @@ KM: Kômaoro
 CG: Kôngô
 KR: 'Korea Atsimo'
 KP: 'Korea Avaratra'
-XK: Kosovo
 CR: 'Kosta Rikà'
 HR: Kroasia
 LA: Laôs
@@ -127,7 +124,6 @@ LI: Listenstein
 LT: Litoania
 MO: 'Macao SAR China'
 MG: Madagasikara
-MK: Makedonia
 MY: Malaizia
 MW: Malaoì
 MV: Maldiva
@@ -154,6 +150,7 @@ NE: Niger
 NI: Nikaragoà
 NU: Nioé
 NG: Nizeria
+MK: 'North Macedonia'
 'NO': Nôrvezy
 VG: 'Nosy britanika virijiny'
 CV: 'Nosy Cap-Vert'
@@ -185,8 +182,6 @@ PL: Pôlôna
 PF: 'Polynezia frantsay'
 PT: Pôrtiogala
 PR: 'Pôrtô Rikô'
-XA: Pseudo-Accents
-XB: Pseudo-Bidi
 DO: 'Repoblika Dominikanina'
 CF: 'Repoblika Ivon’Afrika'
 CD: 'Repoblikan’i Kongo'
@@ -240,7 +235,6 @@ TR: Torkia
 TM: Torkmenistan
 TV: Tovalò
 TT: 'Trinidad sy Tobagô'
-TA: 'Tristan da Cunha'
 TD: Tsady
 UM: 'U.S. Outlying Islands'
 VU: Vanoatò
