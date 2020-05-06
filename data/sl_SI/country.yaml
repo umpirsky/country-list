@@ -28,6 +28,7 @@ BW: Bocvana
 BG: Bolgarija
 BO: Bolivija
 BA: 'Bosna in Hercegovina'
+BV: 'Bouvetov otok'
 CX: 'Božični otok'
 BR: Brazilija
 VG: 'Britanski Deviški otoki'
@@ -37,7 +38,6 @@ BF: 'Burkina Faso'
 BI: Burundi
 BT: Butan
 CF: 'Centralnoafriška republika'
-EA: 'Ceuta in Melilla'
 CY: Ciper
 CK: 'Cookovi otoki'
 CW: Curaçao
@@ -47,7 +47,6 @@ CL: Čile
 ME: 'Črna gora'
 DK: Danska
 CD: 'Demokratična republika Kongo'
-DG: 'Diego Garcia'
 DM: Dominika
 DO: 'Dominikanska republika'
 DJ: Džibuti
@@ -56,6 +55,7 @@ EC: Ekvador
 GQ: 'Ekvatorialna Gvineja'
 ER: Eritreja
 EE: Estonija
+SZ: Esvatini
 ET: Etiopija
 FK: 'Falklandski otoki'
 FO: 'Ferski otoki'
@@ -82,6 +82,7 @@ GT: Gvatemala
 GN: Gvineja
 GW: 'Gvineja Bissau'
 HT: Haiti
+HM: 'Heardov otok in McDonaldovi otoki'
 HN: Honduras
 HR: Hrvaška
 IN: Indija
@@ -105,7 +106,6 @@ KY: 'Kajmanski otoki'
 KH: Kambodža
 CM: Kamerun
 CA: Kanada
-IC: 'Kanarski otoki'
 QA: Katar
 KZ: Kazahstan
 KE: Kenija
@@ -116,7 +116,6 @@ CC: 'Kokosovi otoki'
 CO: Kolumbija
 KM: Komori
 CG: 'Kongo - Brazzaville'
-XK: Kosovo
 CR: Kostarika
 CU: Kuba
 KW: Kuvajt
@@ -165,7 +164,6 @@ NF: 'Norfolški otok'
 NC: 'Nova Kaledonija'
 NZ: 'Nova Zelandija'
 OM: Oman
-AC: 'Otok Ascension'
 IM: 'Otok Man'
 TC: 'Otoki Turks in Caicos'
 PK: Pakistan
@@ -181,8 +179,6 @@ PR: Portoriko
 PT: Portugalska
 HK: 'Posebno administrativno območje LR Kitajske Hongkong'
 MO: 'Posebno administrativno območje LR Kitajske Macao'
-XB: psevdobidi
-XA: psevdonaglasi
 RE: Reunion
 RO: Romunija
 RW: Ruanda
@@ -217,7 +213,6 @@ UM: 'Stranski zunanji otoki Združenih držav'
 SD: Sudan
 SR: Surinam
 SJ: 'Svalbard in Jan Mayen'
-SZ: Svazi
 SH: 'Sveta Helena'
 ES: Španija
 LK: Šrilanka
@@ -232,7 +227,6 @@ TG: Togo
 TK: Tokelau
 TO: Tonga
 TT: 'Trinidad in Tobago'
-TA: 'Tristan da Cunha'
 TN: Tunizija
 TR: Turčija
 TM: Turkmenistan

@@ -5,7 +5,6 @@ INSERT INTO "list" ("id", "value") VALUES (E'AU', E'অস্ট্রেলি�
 INSERT INTO "list" ("id", "value") VALUES (E'AO', E'অ্যাঙ্গোলা');
 INSERT INTO "list" ("id", "value") VALUES (E'AQ', E'অ্যান্টার্কটিকা');
 INSERT INTO "list" ("id", "value") VALUES (E'AG', E'অ্যান্টিগুয়া ও বারবুডা');
-INSERT INTO "list" ("id", "value") VALUES (E'AC', E'অ্যাসসেনশন আইল্যান্ড');
 INSERT INTO "list" ("id", "value") VALUES (E'IM', E'আইল অফ ম্যান');
 INSERT INTO "list" ("id", "value") VALUES (E'IS', E'আইসল্যান্ড');
 INSERT INTO "list" ("id", "value") VALUES (E'AZ', E'আজারবাইজান');
@@ -33,6 +32,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'SZ', E'ইসওয়াতিন�
 INSERT INTO "list" ("id", "value") VALUES (E'UG', E'উগান্ডা');
 INSERT INTO "list" ("id", "value") VALUES (E'UZ', E'উজবেকিস্তান');
 INSERT INTO "list" ("id", "value") VALUES (E'KP', E'উত্তর কোরিয়া');
+INSERT INTO "list" ("id", "value") VALUES (E'MK', E'উত্তর ম্যাসেডোনিয়া');
 INSERT INTO "list" ("id", "value") VALUES (E'MP', E'উত্তরাঞ্চলীয় মারিয়ানা দ্বীপপুঞ্জ');
 INSERT INTO "list" ("id", "value") VALUES (E'UY', E'উরুগুয়ে');
 INSERT INTO "list" ("id", "value") VALUES (E'SV', E'এল সালভেদর');
@@ -45,14 +45,12 @@ INSERT INTO "list" ("id", "value") VALUES (E'CD', E'কঙ্গো-কিনশ
 INSERT INTO "list" ("id", "value") VALUES (E'KM', E'কমোরোস');
 INSERT INTO "list" ("id", "value") VALUES (E'KH', E'কম্বোডিয়া');
 INSERT INTO "list" ("id", "value") VALUES (E'CO', E'কলম্বিয়া');
-INSERT INTO "list" ("id", "value") VALUES (E'XK', E'কসোভো');
 INSERT INTO "list" ("id", "value") VALUES (E'KZ', E'কাজাখস্তান');
 INSERT INTO "list" ("id", "value") VALUES (E'QA', E'কাতার');
 INSERT INTO "list" ("id", "value") VALUES (E'CA', E'কানাডা');
 INSERT INTO "list" ("id", "value") VALUES (E'CU', E'কিউবা');
 INSERT INTO "list" ("id", "value") VALUES (E'KG', E'কিরগিজিস্তান');
 INSERT INTO "list" ("id", "value") VALUES (E'KI', E'কিরিবাতি');
-INSERT INTO "list" ("id", "value") VALUES (E'EA', E'কুউটা এবং মেলিলা');
 INSERT INTO "list" ("id", "value") VALUES (E'CK', E'কুক দ্বীপপুঞ্জ');
 INSERT INTO "list" ("id", "value") VALUES (E'KW', E'কুয়েত');
 INSERT INTO "list" ("id", "value") VALUES (E'CW', E'কুরাসাও');
@@ -62,7 +60,6 @@ INSERT INTO "list" ("id", "value") VALUES (E'KY', E'কেম্যান দ্
 INSERT INTO "list" ("id", "value") VALUES (E'CC', E'কোকোস (কিলিং) দ্বীপপুঞ্জ');
 INSERT INTO "list" ("id", "value") VALUES (E'CI', E'কোত দিভোয়ার');
 INSERT INTO "list" ("id", "value") VALUES (E'CR', E'কোস্টারিকা');
-INSERT INTO "list" ("id", "value") VALUES (E'IC', E'ক্যানারি দ্বীপপুঞ্জ');
 INSERT INTO "list" ("id", "value") VALUES (E'CM', E'ক্যামেরুন');
 INSERT INTO "list" ("id", "value") VALUES (E'BQ', E'ক্যারিবিয়ান নেদারল্যান্ডস');
 INSERT INTO "list" ("id", "value") VALUES (E'CX', E'ক্রিসমাস দ্বীপ');
@@ -98,7 +95,6 @@ INSERT INTO "list" ("id", "value") VALUES (E'TV', E'টুভালু');
 INSERT INTO "list" ("id", "value") VALUES (E'TK', E'টোকেলাউ');
 INSERT INTO "list" ("id", "value") VALUES (E'TG', E'টোগো');
 INSERT INTO "list" ("id", "value") VALUES (E'TO', E'টোঙ্গা');
-INSERT INTO "list" ("id", "value") VALUES (E'TA', E'ট্রিস্টান ডা কুনহা');
 INSERT INTO "list" ("id", "value") VALUES (E'DK', E'ডেনমার্ক');
 INSERT INTO "list" ("id", "value") VALUES (E'DM', E'ডোমিনিকা');
 INSERT INTO "list" ("id", "value") VALUES (E'DO', E'ডোমেনিকান প্রজাতন্ত্র');
@@ -116,7 +112,6 @@ INSERT INTO "list" ("id", "value") VALUES (E'ZA', E'দক্ষিণ আফ্
 INSERT INTO "list" ("id", "value") VALUES (E'KR', E'দক্ষিণ কোরিয়া');
 INSERT INTO "list" ("id", "value") VALUES (E'GS', E'দক্ষিণ জর্জিয়া ও দক্ষিণ স্যান্ডউইচ দ্বীপপুঞ্জ');
 INSERT INTO "list" ("id", "value") VALUES (E'SS', E'দক্ষিণ সুদান');
-INSERT INTO "list" ("id", "value") VALUES (E'DG', E'দিয়েগো গার্সিয়া');
 INSERT INTO "list" ("id", "value") VALUES (E'NO', E'নরওয়ে');
 INSERT INTO "list" ("id", "value") VALUES (E'NF', E'নরফোক দ্বীপ');
 INSERT INTO "list" ("id", "value") VALUES (E'NE', E'নাইজার');
@@ -166,6 +161,7 @@ INSERT INTO "list" ("id", "value") VALUES (E'BJ', E'বেনিন');
 INSERT INTO "list" ("id", "value") VALUES (E'BE', E'বেলজিয়াম');
 INSERT INTO "list" ("id", "value") VALUES (E'BY', E'বেলারুশ');
 INSERT INTO "list" ("id", "value") VALUES (E'BZ', E'বেলিজ');
+INSERT INTO "list" ("id", "value") VALUES (E'BV', E'বোভেট দ্বীপ');
 INSERT INTO "list" ("id", "value") VALUES (E'BR', E'ব্রাজিল');
 INSERT INTO "list" ("id", "value") VALUES (E'IO', E'ব্রিটিশ ভারত মহাসাগরীয় অঞ্চল');
 INSERT INTO "list" ("id", "value") VALUES (E'VG', E'ব্রিটিশ ভার্জিন দ্বীপপুঞ্জ');
@@ -202,7 +198,6 @@ INSERT INTO "list" ("id", "value") VALUES (E'MZ', E'মোজাম্বিক'
 INSERT INTO "list" ("id", "value") VALUES (E'MC', E'মোনাকো');
 INSERT INTO "list" ("id", "value") VALUES (E'MA', E'মোরক্কো');
 INSERT INTO "list" ("id", "value") VALUES (E'MO', E'ম্যাকাও এসএআর চীনা');
-INSERT INTO "list" ("id", "value") VALUES (E'MK', E'ম্যাসাডোনিয়া');
 INSERT INTO "list" ("id", "value") VALUES (E'GB', E'যুক্তরাজ্য');
 INSERT INTO "list" ("id", "value") VALUES (E'UM', E'যুক্তরাষ্ট্রের পার্শ্ববর্তী দ্বীপপুঞ্জ');
 INSERT INTO "list" ("id", "value") VALUES (E'RU', E'রাশিয়া');
@@ -253,5 +248,4 @@ INSERT INTO "list" ("id", "value") VALUES (E'HK', E'হংকং এসএআর
 INSERT INTO "list" ("id", "value") VALUES (E'HN', E'হন্ডুরাস');
 INSERT INTO "list" ("id", "value") VALUES (E'HT', E'হাইতি');
 INSERT INTO "list" ("id", "value") VALUES (E'HU', E'হাঙ্গেরি');
-INSERT INTO "list" ("id", "value") VALUES (E'XA', E'Pseudo-Accents');
-INSERT INTO "list" ("id", "value") VALUES (E'XB', E'Pseudo-Bidi');
+INSERT INTO "list" ("id", "value") VALUES (E'HM', E'হার্ড এবং ম্যাকডোনাল্ড দ্বীপপুঞ্জ');

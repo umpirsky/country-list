@@ -12,7 +12,6 @@ VI: 'AOS Virgin-sullot'
 AR: Argentina
 AM: Armenia
 AW: Aruba
-AC: Ascension
 AZ: Aserbaižan
 AU: Austrália
 BS: Bahamas
@@ -27,6 +26,7 @@ BT: Bhutan
 BO: Bolivia
 BA: Bosnia-Hercegovina
 BW: Botswana
+BV: Bouvet-sullot
 BR: Brasil
 IO: 'British Indian Ocean Territory'
 VG: 'Brittania Virgin-sullot'
@@ -37,7 +37,6 @@ MM: Burma
 BI: Burundi
 BQ: 'Caribbean Netherlands'
 KY: Cayman-sullot
-EA: 'Ceuta ja Melilla'
 CC: Cocos-sullot
 CK: Cook-sullot
 CR: 'Costa Rica'
@@ -48,7 +47,6 @@ KP: Davvi-Korea
 MP: Davvi-Mariánat
 SD: Davvisudan
 DK: Dánmárku
-DG: 'Diego Garcia'
 DJ: Djibouti
 DM: Dominica
 DO: 'Dominikána dásseváldi'
@@ -87,6 +85,7 @@ GN: Guinea
 GW: Guinea-Bissau
 GY: Guyana
 HT: Haiti
+HM: 'Heard- ja McDonald-sullot'
 HN: Honduras
 HK: Hongkong
 IN: India
@@ -107,7 +106,6 @@ GL: 'Kalaallit Nunaat'
 KH: Kambodža
 CM: Kamerun
 CA: Kanáda
-IC: Kanáriasullot
 CV: 'Kap Verde'
 KZ: Kasakstan
 KE: Kenia
@@ -118,7 +116,6 @@ CO: Kolombia
 KM: Komoros
 CG: Kongo-Brazzaville
 CD: Kongo-Kinshasa
-XK: Kosovo
 HR: Kroátia
 CU: Kuba
 KW: Kuwait
@@ -135,7 +132,6 @@ GS: 'Lulli Georgia ja Lulli Sandwich-sullot'
 LU: Luxembourg
 MG: Madagaskar
 MO: Makáo
-MK: Makedonia
 MW: Malawi
 MV: Malediivvat
 MY: Malesia
@@ -168,6 +164,7 @@ NG: Nigeria
 NU: Niue
 NF: Norfolksullot
 'NO': Norga
+MK: 'North Macedonia'
 TL: Nuorta-Timor
 AT: Nuortariika
 EH: Oarje-Sahára
@@ -185,8 +182,6 @@ PE: Peru
 PN: Pitcairn
 PL: Polen
 PT: Portugála
-XA: Pseudo-Accents
-XB: Pseudo-Bidi
 PR: 'Puerto Rico'
 QA: Qatar
 RE: Réunion
@@ -231,7 +226,6 @@ TG: Togo
 TK: Tokelau
 TO: Tonga
 TT: 'Trinidad ja Tobago'
-TA: 'Tristan da Cunha'
 TN: Tunisia
 TM: Turkmenistan
 TC: 'Turks ja Caicos-sullot'

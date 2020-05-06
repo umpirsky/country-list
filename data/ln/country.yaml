@@ -15,7 +15,6 @@ AQ: Antarctique
 AG: 'Antiga mpé Barbuda'
 AR: Arizantinɛ
 AW: Aruba
-AC: 'Ascension Island'
 HT: Ayiti
 AZ: Azɛlɛbaizá
 BS: Bahamasɛ
@@ -41,20 +40,18 @@ SB: 'Bisanga Solomɔ'
 BO: Bolivi
 BA: 'Bosini mpé Hezegovine'
 BW: Botswana
+BV: 'Bouvet Island'
 BR: Brezílɛ
 BN: Brineyi
 BF: 'Bukina Faso'
 BI: Burundi
 BT: Butáni
 BY: Byelorisi
-IC: 'Canary Islands'
 BQ: 'Caribbean Netherlands'
-EA: 'Ceuta & Melilla'
 CX: 'Christmas Island'
 CC: 'Cocos (Keeling) Islands'
 CW: Curaçao
 DK: Danɛmarike
-DG: 'Diego Garcia'
 DM: Domínike
 DJ: Dzibuti
 EC: Ekwatɛ́lɛ
@@ -86,6 +83,7 @@ GU: Gwamɛ
 GT: Gwatémala
 HK: 'Hong Kong SAR China'
 UA: Ikrɛni
+HM: 'Ile Heard et Iles McDonald'
 GS: 'Îles de Géorgie du Sud et Sandwich du Sud'
 IN: Índɛ
 ID: Indonezi
@@ -114,7 +112,6 @@ CG: Kongo
 KP: 'Korɛ ya nɔ́rdi'
 KR: 'Korɛ ya súdi'
 CR: Kositarika
-XK: Kosovo
 CI: Kotídivualɛ
 KW: Koweti
 HR: Krowasi
@@ -139,7 +136,6 @@ ML: Malí
 MT: Malitɛ
 MA: Marokɛ
 MQ: Martiniki
-MK: Masedwanɛ
 YT: Mayotɛ
 MX: Meksike
 FM: Mikronezi
@@ -158,6 +154,7 @@ NI: Nikaragwa
 NG: Nizerya
 NE: Nizɛrɛ
 'NO': Norivezɛ
+MK: 'North Macedonia'
 NU: Nyué
 NL: Olandɛ
 OM: Ománɛ
@@ -176,8 +173,6 @@ PN: Pikairni
 PF: 'Polinezi ya Falánsɛ'
 PL: Poloni
 PR: Pɔtoriko
-XA: Pseudo-Accents
-XB: Pseudo-Bidi
 PT: Putúlugɛsi
 CF: 'Repibiki ya Afríka ya Káti'
 DO: 'Repibiki ya Domínikɛ'
@@ -232,7 +227,6 @@ TN: Tinizi
 TG: Togo
 TK: Tokelau
 TO: Tonga
-TA: 'Tristan da Cunha'
 TD: Tsádi
 TV: Tuvalu
 UM: 'U.S. Outlying Islands'

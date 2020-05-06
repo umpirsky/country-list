@@ -18,8 +18,9 @@ INSERT INTO "list" ("id", "value") VALUES (E'KP', E'เกาหลีเหน�
 INSERT INTO "list" ("id", "value") VALUES (E'CX', E'เกาะคริสต์มาส');
 INSERT INTO "list" ("id", "value") VALUES (E'GS', E'เกาะเซาท์จอร์เจียและหมู่เกาะเซาท์แซนด์วิช');
 INSERT INTO "list" ("id", "value") VALUES (E'NF', E'เกาะนอร์ฟอล์ก');
+INSERT INTO "list" ("id", "value") VALUES (E'BV', E'เกาะบูเว');
 INSERT INTO "list" ("id", "value") VALUES (E'IM', E'เกาะแมน');
-INSERT INTO "list" ("id", "value") VALUES (E'AC', E'เกาะแอสเซนชัน');
+INSERT INTO "list" ("id", "value") VALUES (E'HM', E'เกาะเฮิร์ดและหมู่เกาะแมกดอนัลด์');
 INSERT INTO "list" ("id", "value") VALUES (E'GG', E'เกิร์นซีย์');
 INSERT INTO "list" ("id", "value") VALUES (E'GM', E'แกมเบีย');
 INSERT INTO "list" ("id", "value") VALUES (E'CI', E'โกตดิวัวร์');
@@ -39,7 +40,6 @@ INSERT INTO "list" ("id", "value") VALUES (E'KE', E'เคนยา');
 INSERT INTO "list" ("id", "value") VALUES (E'CV', E'เคปเวิร์ด');
 INSERT INTO "list" ("id", "value") VALUES (E'CA', E'แคนาดา');
 INSERT INTO "list" ("id", "value") VALUES (E'CM', E'แคเมอรูน');
-INSERT INTO "list" ("id", "value") VALUES (E'XK', E'โคโซโว');
 INSERT INTO "list" ("id", "value") VALUES (E'HR', E'โครเอเชีย');
 INSERT INTO "list" ("id", "value") VALUES (E'CO', E'โคลอมเบีย');
 INSERT INTO "list" ("id", "value") VALUES (E'GE', E'จอร์เจีย');
@@ -69,7 +69,6 @@ INSERT INTO "list" ("id", "value") VALUES (E'LC', E'เซนต์ลูเซ�
 INSERT INTO "list" ("id", "value") VALUES (E'VC', E'เซนต์วินเซนต์และเกรนาดีนส์');
 INSERT INTO "list" ("id", "value") VALUES (E'SH', E'เซนต์เฮเลนา');
 INSERT INTO "list" ("id", "value") VALUES (E'SN', E'เซเนกัล');
-INSERT INTO "list" ("id", "value") VALUES (E'EA', E'เซวตาและเมลียา');
 INSERT INTO "list" ("id", "value") VALUES (E'RS', E'เซอร์เบีย');
 INSERT INTO "list" ("id", "value") VALUES (E'ST', E'เซาตูเมและปรินซิปี');
 INSERT INTO "list" ("id", "value") VALUES (E'SL', E'เซียร์ราลีโอน');
@@ -79,7 +78,6 @@ INSERT INTO "list" ("id", "value") VALUES (E'SO', E'โซมาเลีย');
 INSERT INTO "list" ("id", "value") VALUES (E'CY', E'ไซปรัส');
 INSERT INTO "list" ("id", "value") VALUES (E'JP', E'ญี่ปุ่น');
 INSERT INTO "list" ("id", "value") VALUES (E'PS', E'ดินแดนปาเลสไตน์');
-INSERT INTO "list" ("id", "value") VALUES (E'DG', E'ดิเอโกการ์เซีย');
 INSERT INTO "list" ("id", "value") VALUES (E'DK', E'เดนมาร์ก');
 INSERT INTO "list" ("id", "value") VALUES (E'DM', E'โดมินิกา');
 INSERT INTO "list" ("id", "value") VALUES (E'TT', E'ตรินิแดดและโตเบโก');
@@ -92,7 +90,6 @@ INSERT INTO "list" ("id", "value") VALUES (E'TM', E'เติร์กเมน�
 INSERT INTO "list" ("id", "value") VALUES (E'TK', E'โตเกเลา');
 INSERT INTO "list" ("id", "value") VALUES (E'TG', E'โตโก');
 INSERT INTO "list" ("id", "value") VALUES (E'TW', E'ไต้หวัน');
-INSERT INTO "list" ("id", "value") VALUES (E'TA', E'ทริสตันดาคูนา');
 INSERT INTO "list" ("id", "value") VALUES (E'TJ', E'ทาจิกิสถาน');
 INSERT INTO "list" ("id", "value") VALUES (E'TZ', E'แทนซาเนีย');
 INSERT INTO "list" ("id", "value") VALUES (E'TH', E'ไทย');
@@ -200,7 +197,6 @@ INSERT INTO "list" ("id", "value") VALUES (E'GB', E'สหราชอาณา�
 INSERT INTO "list" ("id", "value") VALUES (E'DO', E'สาธารณรัฐโดมินิกัน');
 INSERT INTO "list" ("id", "value") VALUES (E'CF', E'สาธารณรัฐแอฟริกากลาง');
 INSERT INTO "list" ("id", "value") VALUES (E'SG', E'สิงคโปร์');
-INSERT INTO "list" ("id", "value") VALUES (E'IC', E'หมู่เกาะคานารี');
 INSERT INTO "list" ("id", "value") VALUES (E'CK', E'หมู่เกาะคุก');
 INSERT INTO "list" ("id", "value") VALUES (E'KY', E'หมู่เกาะเคย์แมน');
 INSERT INTO "list" ("id", "value") VALUES (E'CC', E'หมู่เกาะโคโคส (คีลิง)');
@@ -253,5 +249,3 @@ INSERT INTO "list" ("id", "value") VALUES (E'IE', E'ไอร์แลนด์'
 INSERT INTO "list" ("id", "value") VALUES (E'HN', E'ฮอนดูรัส');
 INSERT INTO "list" ("id", "value") VALUES (E'HU', E'ฮังการี');
 INSERT INTO "list" ("id", "value") VALUES (E'HT', E'เฮติ');
-INSERT INTO "list" ("id", "value") VALUES (E'XA', E'Pseudo-Accents');
-INSERT INTO "list" ("id", "value") VALUES (E'XB', E'Pseudo-Bidi');

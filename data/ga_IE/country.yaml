@@ -28,7 +28,6 @@ KG: 'an Chirgeastáin'
 KR: 'an Chóiré Theas'
 KP: 'an Chóiré Thuaidh'
 CO: 'an Cholóim'
-XK: 'an Chosaiv'
 HR: 'an Chróit'
 CG: 'an Congó'
 CI: 'an Cósta Eabhair'
@@ -62,7 +61,7 @@ LR: 'an Libéir'
 LY: 'an Libia'
 LB: 'an Liobáin'
 LT: 'an Liotuáin'
-MK: 'an Mhacadóin'
+MK: 'an Mhacadóin Thuaidh'
 MY: 'an Mhalaeisia'
 MW: 'an Mhaláiv'
 MR: 'an Mháratáin'
@@ -104,7 +103,6 @@ SI: 'an tSlóivéin'
 SK: 'an tSlóvaic'
 SO: 'an tSomáil'
 SE: 'an tSualainn'
-SZ: 'an tSuasalainn'
 SD: 'an tSúdáin'
 SS: 'an tSúdáin Theas'
 TN: 'an Túinéis'
@@ -129,7 +127,6 @@ CM: Camarún
 QA: Catar
 VA: 'Cathair na Vatacáine'
 CA: Ceanada
-EA: 'Ceuta agus Melilla'
 KI: Cireabaití
 CR: 'Cósta Ríce'
 IO: 'Críoch Aigéan Indiach na Breataine'
@@ -137,12 +134,12 @@ TF: 'Críocha Francacha Dheisceart an Domhain'
 KW: Cuáit
 CU: Cúba
 CW: Curaçao
-DG: 'Diego Garcia'
 DJ: Djibouti
 DM: Doiminice
 EC: Eacuadór
 YE: Éimin
 IE: Éire
+SZ: eSuaitíní
 FJ: Fidsí
 GH: Gána
 GG: Geansaí
@@ -176,7 +173,6 @@ MS: Montsarat
 MZ: Mósaimbíc
 BS: 'na Bahámaí'
 PS: 'na Críocha Palaistíneacha'
-IC: 'na hOileáin Chanáracha'
 PH: 'na hOileáin Fhilipíneacha'
 MP: 'na hOileáin Mháirianacha Thuaidh'
 SC: 'na Séiséil'
@@ -201,9 +197,10 @@ TC: 'Oileáin na dTurcach agus Caicos'
 PW: 'Oileáin Palau'
 PN: 'Oileáin Pitcairn'
 SB: 'Oileáin Sholomón'
+BV: 'Oileán Bouvet'
+HM: 'Oileán Heard agus Oileáin McDonald'
 IM: 'Oileán Mhanann'
 MU: 'Oileán Mhuirís'
-AC: 'Oileán na Deascabhála'
 CX: 'Oileán na Nollag'
 TT: 'Oileán na Tríonóide agus Tobága'
 NF: 'Oileán Norfolk'
@@ -243,7 +240,6 @@ TL: 'Tíomór Thoir'
 TK: Tócalá
 TG: Tóga
 TO: Tonga
-TA: 'Tristan da Cunha'
 TV: Tuvalu
 UG: Uganda
 UY: Uragua
@@ -251,5 +247,3 @@ WF: 'Vailís agus Futúna'
 VU: Vanuatú
 VE: Veiniséala
 VN: Vítneam
-XA: XA
-XB: XB

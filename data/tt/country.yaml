@@ -1,18 +1,10 @@
-AC: 'Ascension Island'
-IC: 'Canary Islands'
 BQ: 'Caribbean Netherlands'
-EA: 'Ceuta & Melilla'
 CG: 'Congo - Brazzaville'
 CD: 'Congo - Kinshasa'
-DG: 'Diego Garcia'
 MM: 'Myanmar (Burma)'
-MK: 'North Macedonia'
 PS: 'Palestinian Territories'
-XA: Pseudo-Accents
-XB: Pseudo-Bidi
 KR: 'South Korea'
 SH: 'St. Helena'
-TA: 'Tristan da Cunha'
 VA: 'Vatican City'
 EH: 'Western Sahara'
 AU: Австралия
@@ -43,16 +35,17 @@ BZ: Белиз
 BE: Бельгия
 BJ: Бенин
 AE: 'Берләшкән Гарәп Әмирлекләре'
+GB: 'Берләшкән Корольлек'
 BM: 'Бермуд утраулары'
 BG: Болгария
 BO: Боливия
 BA: 'Босния һәм Герцеговина'
 BW: Ботсвана
-GB: Бөекбритания
 BR: Бразилия
 VG: 'Британия Виргин утраулары'
 IO: 'Британиянең Һинд Океанындагы Территориясе'
 BN: Бруней
+BV: 'Буве утравы'
 BF: Буркина-Фасо
 BI: Бурунди
 BT: Бутан
@@ -110,7 +103,6 @@ KI: Кирибати
 CC: 'Кокос (Килинг) утраулары'
 CO: Колумбия
 KM: 'Комор утраулары'
-XK: Косово
 CR: Коста-Рика
 CI: Кот-д’Ивуар
 ZA: 'Көньяк Африка'
@@ -214,6 +206,7 @@ TG: Того
 TK: Токелау
 TO: Тонга
 KP: 'Төньяк Корея'
+MK: 'Төньяк Македония'
 MP: 'Төньяк Мариана утраулары'
 TR: Төркия
 TM: Төркмәнстан
@@ -235,6 +228,7 @@ FR: Франция
 TF: 'Франциянең Көньяк Территорияләре'
 GF: 'Француз Гвианасы'
 PF: 'Француз Полинезиясе'
+HM: 'Херд утравы һәм Макдональд утраулары'
 HR: Хорватия
 TD: Чад
 ME: Черногория

@@ -41,7 +41,6 @@ CZ,"Češka Republika"
 CL,Čile
 ME,"Crna Gora"
 DK,Danska
-DG,"Dijego Garsija"
 DM,Dominika
 DO,"Dominikanska Republika"
 JE,Džerzi
@@ -101,7 +100,6 @@ KY,"Kajmanska Ostrva"
 KH,Kambodža
 CM,Kamerun
 CA,Kanada
-IC,"Kanarska Ostrva"
 BQ,"Karipska Holandija"
 QA,Katar
 KZ,Kazahstan
@@ -115,7 +113,6 @@ CO,Kolumbija
 KM,"Komorska Ostrva"
 CG,Kongo
 CD,"Kongo - Kinšasa"
-XK,Kosovo
 CR,Kostarika
 CU,Kuba
 CK,"Kukova Ostrva"
@@ -167,7 +164,8 @@ CI,"Obala Slonovače (Kot d’Ivoar)"
 AX,"Olandska Ostrva"
 OM,Oman
 TC,"Ostrva Turks i Kaikos"
-AC,"Ostrvo Asension"
+BV,"Ostrvo Buve"
+HM,"Ostrvo Herd i Mekdonaldova ostrva"
 IM,"Ostrvo Man"
 NF,"Ostrvo Norfok"
 PK,Pakistan
@@ -194,7 +192,6 @@ MO,"SAR Makao (Kina)"
 SA,"Saudijska Arabija"
 SC,Sejšeli
 SN,Senegal
-EA,"Seuta i Melilja"
 KP,"Severna Koreja"
 MK,"Severna Makedonija"
 MP,"Severna Marijanska Ostrva"
@@ -232,7 +229,6 @@ TG,Togo
 TK,Tokelau
 TO,Tonga
 TT,"Trinidad i Tobago"
-TA,"Tristan da Kunja"
 TN,Tunis
 TM,Turkmenistan
 TR,Turska
@@ -248,8 +244,6 @@ VU,Vanuatu
 VA,Vatikan
 VE,Venecuela
 VN,Vijetnam
-XA,XA
-XB,XB
 ZM,Zambija
 EH,"Zapadna Sahara"
 CV,"Zelenortska Ostrva"

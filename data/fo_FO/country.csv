@@ -12,7 +12,6 @@ AG,"Antigua & Barbuda"
 AR,Argentina
 AM,Armenia
 AW,Aruba
-AC,Ascension
 AZ,Aserbadjan
 AU,Avstralia
 BS,Bahamaoyggjar
@@ -26,6 +25,7 @@ BM,Bermuda
 BO,Bolivia
 BA,Bosnia-Hersegovina
 BW,Botsvana
+BV,Bouvetoyggj
 BR,Brasil
 BN,Brunei
 BG,Bulgaria
@@ -33,11 +33,9 @@ BF,"Burkina Faso"
 BI,Burundi
 BT,Butan
 KY,Caymanoyggjar
-EA,"Ceuta & Melilla"
 CK,Cooksoyggjar
 CW,Curaçao
 DK,Danmark
-DG,"Diego Garcia"
 DJ,Djibuti
 DM,Dominika
 DO,Dominikalýðveldið
@@ -47,6 +45,7 @@ GQ,Ekvatorguinea
 SV,"El Salvador"
 ER,Eritrea
 EE,Estland
+SZ,Esvatini
 ET,Etiopia
 AT,Eysturríki
 TL,Eysturtimor
@@ -77,6 +76,7 @@ GN,Guinea
 GW,Guinea-Bissau
 GY,Gujana
 HT,Haiti
+HM,"Heard og McDonaldoyggjar"
 HN,Honduras
 HK,"Hong Kong SAR Kina"
 BY,Hvítarussland
@@ -98,7 +98,6 @@ JO,Jordan
 KH,Kambodja
 CM,Kamerun
 CA,Kanada
-IC,Kanariuoyggjar
 KZ,Kasakstan
 QA,Katar
 CZ,Kekkia
@@ -113,7 +112,6 @@ CO,Kolombia
 KM,Komoroyggjar
 CG,Kongo
 CD,"Kongo, Dem. Lýðveldið"
-XK,Kosovo
 CR,"Kosta Rika"
 HR,Kroatia
 CU,Kuba
@@ -130,7 +128,6 @@ LT,Litava
 LU,Luksemborg
 MG,Madagaskar
 MO,"Makao SAR Kina"
-MK,Makedónia
 MY,Malaisia
 MW,Malavi
 MV,Maldivoyggjar
@@ -165,6 +162,7 @@ MP,"Norðaru Mariuoyggjar"
 KP,Norðurkorea
 NO,Noreg
 NF,Norfolksoyggj
+MK,"North Macedonia"
 NC,Nýkaledónia
 NZ,Nýsæland
 OM,Oman
@@ -178,8 +176,6 @@ PE,Peru
 PN,Pitcairnoyggjar
 PL,Pólland
 PT,Portugal
-XA,Pseudo-Accents
-XB,Pseudo-Bidi
 PR,"Puerto Riko"
 RE,Réunion
 RW,Ruanda
@@ -224,7 +220,6 @@ KR,Suðurkorea
 SS,Suðursudan
 SR,Surinam
 SJ,"Svalbard & Jan Mayen"
-SZ,Svasiland
 CH,Sveis
 SE,Svøríki
 SY,Sýria
@@ -236,7 +231,6 @@ TG,Togo
 TK,Tokelau
 TO,Tonga
 TT,"Trinidad & Tobago"
-TA,"Tristan da Cunha"
 TN,Tunesia
 TR,Turkaland
 TM,Turkmenistan

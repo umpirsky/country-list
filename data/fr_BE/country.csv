@@ -38,7 +38,6 @@ KH,Cambodge
 CM,Cameroun
 CA,Canada
 CV,Cap-Vert
-EA,"Ceuta et Melilla"
 CL,Chili
 CN,Chine
 CY,Chypre
@@ -54,7 +53,6 @@ HR,Croatie
 CU,Cuba
 CW,Curaçao
 DK,Danemark
-DG,"Diego Garcia"
 DJ,Djibouti
 DM,Dominique
 EG,Égypte
@@ -91,17 +89,17 @@ GF,"Guyane française"
 HT,Haïti
 HN,Honduras
 HU,Hongrie
+BV,"Île Bouvet"
 CX,"Île Christmas"
-AC,"Île de l’Ascension"
 IM,"Île de Man"
 NF,"Île Norfolk"
 AX,"Îles Åland"
 KY,"Îles Caïmans"
-IC,"Îles Canaries"
 CC,"Îles Cocos"
 CK,"Îles Cook"
 FO,"Îles Féroé"
 GS,"Îles Géorgie du Sud et Sandwich du Sud"
+HM,"Îles Heard et McDonald"
 FK,"Îles Malouines"
 MP,"Îles Mariannes du Nord"
 MH,"Îles Marshall"
@@ -127,7 +125,6 @@ KZ,Kazakhstan
 KE,Kenya
 KG,Kirghizistan
 KI,Kiribati
-XK,Kosovo
 KW,Koweït
 RE,"La Réunion"
 LA,Laos
@@ -139,7 +136,7 @@ LY,Libye
 LI,Liechtenstein
 LT,Lituanie
 LU,Luxembourg
-MK,Macédoine
+MK,"Macédoine du Nord"
 MG,Madagascar
 MY,Malaisie
 MW,Malawi
@@ -185,8 +182,6 @@ PL,Pologne
 PF,"Polynésie française"
 PR,"Porto Rico"
 PT,Portugal
-XA,pseudo-accents
-XB,pseudo-bidi
 QA,Qatar
 HK,"R.A.S. chinoise de Hong Kong"
 MO,"R.A.S. chinoise de Macao"
@@ -240,7 +235,6 @@ TG,Togo
 TK,Tokelau
 TO,Tonga
 TT,Trinité-et-Tobago
-TA,"Tristan da Cunha"
 TN,Tunisie
 TM,Turkménistan
 TR,Turquie

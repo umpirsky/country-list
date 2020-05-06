@@ -38,8 +38,6 @@ CV: 'Cabo Verde'
 KH: Camboxa
 CM: Camerún
 BQ: 'Caribe Neerlandés'
-KZ: Casaquistán
-EA: 'Ceuta e Melilla'
 TD: Chad
 CZ: Chequia
 CL: Chile
@@ -49,12 +47,11 @@ CO: Colombia
 KM: Comores
 KP: 'Corea do Norte'
 KR: 'Corea do Sur'
-CI: 'Costa do Marfil'
 CR: 'Costa Rica'
+CI: 'Côte d’Ivoire'
 HR: Croacia
 CU: Cuba
 CW: Curaçao
-DG: 'Diego García'
 DK: Dinamarca
 DJ: Djibuti
 DM: Dominica
@@ -64,6 +61,7 @@ SK: Eslovaquia
 SI: Eslovenia
 ES: España
 EE: Estonia
+SZ: Eswatini
 ET: Etiopía
 EG: Exipto
 PH: Filipinas
@@ -88,14 +86,14 @@ HT: Haití
 HN: Honduras
 HK: 'Hong Kong RAE da China'
 HU: Hungría
+BV: 'Illa Bouvet'
 CX: 'Illa Christmas'
-AC: 'Illa de Ascensión'
 IM: 'Illa de Man'
+HM: 'Illa Heard e Illas McDonald'
 NF: 'Illa Norfolk'
 AX: 'Illas Åland'
 BM: 'Illas Bermudas'
 KY: 'Illas Caimán'
-IC: 'Illas Canarias'
 CC: 'Illas Cocos (Keeling)'
 CK: 'Illas Cook'
 FO: 'Illas Feroe'
@@ -117,10 +115,10 @@ IS: Islandia
 IL: Israel
 IT: Italia
 JE: Jersey
+KZ: Kazakistán
 KE: Kenya
 KG: Kirguizistán
 KI: Kiribati
-XK: Kosovo
 KW: Kuwait
 LA: Laos
 LS: Lesotho
@@ -131,7 +129,7 @@ LI: Liechtenstein
 LT: Lituania
 LU: Luxemburgo
 MO: 'Macau RAE da China'
-MK: Macedonia
+MK: 'Macedonia do Norte'
 MG: Madagascar
 MY: Malaisia
 MW: Malawi
@@ -186,8 +184,6 @@ PK: Paquistán
 PL: Polonia
 PR: 'Porto Rico'
 PT: Portugal
-XA: Pseudo-Accents
-XB: Pseudo-Bidi
 QA: Qatar
 CF: 'República Centroafricana'
 CD: 'República Democrática do Congo'
@@ -217,7 +213,6 @@ SX: 'Sint Maarten'
 SY: Siria
 SO: Somalia
 LK: 'Sri Lanka'
-SZ: Suazilandia
 SE: Suecia
 CH: Suíza
 ZA: Suráfrica
@@ -235,14 +230,13 @@ TG: Togo
 TK: Tokelau
 TO: Tonga
 TT: 'Trinidad e Tobago'
-TA: 'Tristán da Cunha'
 TN: Tunisia
 TM: Turkmenistán
 TR: Turquía
 TV: Tuvalu
 UA: Ucraína
 UG: Uganda
-UZ: Uzbequistán
+UZ: Uzbekistán
 VU: Vanuatu
 VE: Venezuela
 VN: Vietnam

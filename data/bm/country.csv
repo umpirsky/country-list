@@ -19,7 +19,6 @@ AE,"Arabu mara kafoli"
 AM,Arimeni
 AR,Arizantin
 AW,Aruba
-AC,"Ascension Island"
 HT,Ayiti
 AZ,Azɛrbayjaŋ
 BS,Bahamasi
@@ -34,6 +33,7 @@ BM,Bermudi
 BE,Bɛliziki
 BD,Bɛngiladɛsi
 BO,Bolivi
+BV,"Bouvet Island"
 BA,Bozni-Ɛrizigovini
 BW,Bɔtisiwana
 BG,Buligari
@@ -42,17 +42,14 @@ BF,"Burukina Faso"
 BI,Burundi
 BT,Butaŋ
 TD,Cadi
-IC,"Canary Islands"
 CV,Capivɛrdi
 BQ,"Caribbean Netherlands"
 CZ,"Ceki republiki"
-EA,"Ceuta & Melilla"
 CX,"Christmas Island"
 CY,Cipri
 CC,"Cocos (Keeling) Islands"
 CW,Curaçao
 DK,Danemarki
-DG,"Diego Garcia"
 DO,"Dɔmimiki republiki"
 DM,Dɔminiki
 EC,Ekwatɔr
@@ -86,6 +83,7 @@ GP,Gwadelup
 GU,Gwam
 GT,Gwatemala
 GY,Gwiyana
+HM,"Heard & McDonald Islands"
 HK,"Hong Kong SAR China"
 HN,Hɔndirasi
 HU,Hɔngri
@@ -115,7 +113,6 @@ CO,Kolombi
 KM,Komɔri
 CG,Kongo
 CD,"Kongo ka republiki demɔkratiki"
-XK,Kosovo
 KW,Kowɛti
 TL,"Kɔrɔn Timɔr"
 CR,Kɔsitarika
@@ -134,7 +131,6 @@ LI,Lisɛnsitayini
 LT,Lituyani
 LC,Lusi-Senu
 MO,"Macao SAR China"
-MK,Macedɔni
 MG,Madagasikari
 MW,Malawi
 MV,Maldivi
@@ -164,6 +160,7 @@ NP,Nepali
 NI,Nikaragwa
 NG,Nizeriya
 NE,Nizɛri
+MK,"North Macedonia"
 NO,Nɔriwɛzi
 NF,"Nɔrofoliki Gun"
 NU,Nyuwe
@@ -183,8 +180,6 @@ PM,Piyɛri-Senu-ni-Mikelɔŋ
 PL,Poloɲi
 PT,Pɔritigali
 PR,Pɔrotoriko
-XA,Pseudo-Accents
-XB,Pseudo-Bidi
 RE,Reyuɲɔŋ
 RO,Rumani
 RW,Ruwanda
@@ -225,7 +220,6 @@ TG,Togo
 TK,Tokelo
 TO,Tonga
 TT,Trinite-ni-Tobago
-TA,"Tristan da Cunha"
 TN,Tunizi
 TR,Turiki
 TC,"Turiki Gun ni Kayiki"

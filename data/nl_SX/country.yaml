@@ -12,7 +12,6 @@ AG: 'Antigua en Barbuda'
 AR: Argentinië
 AM: Armenië
 AW: Aruba
-AC: Ascension
 AU: Australië
 AZ: Azerbeidzjan
 BS: Bahama’s
@@ -28,6 +27,7 @@ BT: Bhutan
 BO: Bolivia
 BA: 'Bosnië en Herzegovina'
 BW: Botswana
+BV: Bouveteiland
 BR: Brazilië
 IO: 'Brits Indische Oceaanterritorium'
 VG: 'Britse Maagdeneilanden'
@@ -37,10 +37,8 @@ BF: 'Burkina Faso'
 BI: Burundi
 KH: Cambodja
 CA: Canada
-IC: 'Canarische Eilanden'
 BQ: 'Caribisch Nederland'
 CF: 'Centraal-Afrikaanse Republiek'
-EA: 'Ceuta en Melilla'
 CL: Chili
 CN: China
 CX: Christmaseiland
@@ -55,7 +53,6 @@ CU: Cuba
 CW: Curaçao
 CY: Cyprus
 DK: Denemarken
-DG: 'Diego Garcia'
 DJ: Djibouti
 DM: Dominica
 DO: 'Dominicaanse Republiek'
@@ -93,6 +90,7 @@ GN: Guinee
 GW: Guinee-Bissau
 GY: Guyana
 HT: Haïti
+HM: 'Heard en McDonaldeilanden'
 HN: Honduras
 HU: Hongarije
 HK: 'Hongkong SAR van China'
@@ -120,7 +118,6 @@ KG: Kirgizië
 KI: Kiribati
 UM: 'Kleine afgelegen eilanden van de Verenigde Staten'
 KW: Koeweit
-XK: Kosovo
 HR: Kroatië
 LA: Laos
 LS: Lesotho
@@ -184,8 +181,6 @@ PE: Peru
 PN: Pitcairneilanden
 PL: Polen
 PT: Portugal
-XA: Pseudo-Accenten
-XB: Pseudo-Bidi
 PR: 'Puerto Rico'
 QA: Qatar
 RE: Réunion
@@ -227,7 +222,6 @@ TG: Togo
 TK: Tokelau
 TO: Tonga
 TT: 'Trinidad en Tobago'
-TA: 'Tristan da Cunha'
 TD: Tsjaad
 CZ: Tsjechië
 TN: Tunesië

@@ -12,7 +12,6 @@ AG,"Antigua och Barbuda"
 AR,Argentina
 AM,Armenien
 AW,Aruba
-AC,Ascension
 AU,Australien
 AZ,Azerbajdzjan
 BS,Bahamas
@@ -27,6 +26,7 @@ BT,Bhutan
 BO,Bolivia
 BA,"Bosnien och Hercegovina"
 BW,Botswana
+BV,Bouvetön
 BR,Brasilien
 VG,"Brittiska Jungfruöarna"
 IO,"Brittiska territoriet i Indiska oceanen"
@@ -36,15 +36,14 @@ BF,"Burkina Faso"
 BI,Burundi
 KY,Caymanöarna
 CF,"Centralafrikanska republiken"
-EA,"Ceuta och Melilla"
 CL,Chile
 CO,Colombia
 CK,Cooköarna
 CR,"Costa Rica"
 CW,Curaçao
 CY,Cypern
+CI,"Côte d’Ivoire"
 DK,Danmark
-DG,"Diego Garcia"
 DJ,Djibouti
 DM,Dominica
 DO,"Dominikanska republiken"
@@ -52,13 +51,10 @@ EC,Ecuador
 EG,Egypten
 GQ,Ekvatorialguinea
 SV,"El Salvador"
-CI,Elfenbenskusten
 ER,Eritrea
 EE,Estland
 ET,Etiopien
 FK,Falklandsöarna
-XB,"fejkad bidi (för test)"
-XA,"fejkade accenter (för test)"
 FJ,Fiji
 PH,Filippinerna
 FI,Finland
@@ -84,6 +80,7 @@ GN,Guinea
 GW,Guinea-Bissau
 GY,Guyana
 HT,Haiti
+HM,"Heardön och McDonaldöarna"
 HN,Honduras
 HK,Hongkong
 IN,Indien
@@ -104,7 +101,6 @@ CX,Julön
 KH,Kambodja
 CM,Kamerun
 CA,Kanada
-IC,Kanarieöarna
 CV,"Kap Verde"
 BQ,"Karibiska Nederländerna"
 KZ,Kazakstan
@@ -116,7 +112,6 @@ CC,Kokosöarna
 KM,Komorerna
 CG,Kongo-Brazzaville
 CD,Kongo-Kinshasa
-XK,Kosovo
 HR,Kroatien
 CU,Kuba
 KW,Kuwait
@@ -228,7 +223,6 @@ TG,Togo
 TK,Tokelau
 TO,Tonga
 TT,"Trinidad och Tobago"
-TA,"Tristan da Cunha"
 TN,Tunisien
 TR,Turkiet
 TM,Turkmenistan

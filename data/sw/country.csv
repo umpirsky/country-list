@@ -34,7 +34,6 @@ BF,Bukinafaso
 BG,Bulgaria
 BI,Burundi
 CV,"Cape Verde"
-EA,"Ceuta na Melilla"
 TD,Chad
 CZ,Chechia
 CL,Chile
@@ -44,7 +43,6 @@ CU,Cuba
 CW,Curacao
 CY,Cyprus
 DK,Denmark
-DG,"Diego Garcia"
 DM,Dominika
 EC,Ecuador
 SV,"El Salvador"
@@ -96,7 +94,8 @@ KZ,Kazakistani
 KE,Kenya
 KI,Kiribati
 KG,Kirigizistani
-AC,"Kisiwa cha Ascension"
+BV,"Kisiwa cha Bouvet"
+HM,"Kisiwa cha Heard na Visiwa vya McDonald"
 CX,"Kisiwa cha Krismasi"
 IM,"Kisiwa cha Man"
 NF,"Kisiwa cha Norfolk"
@@ -105,7 +104,6 @@ KM,Komoro
 CG,"Kongo - Brazzaville"
 KP,"Korea Kaskazini"
 KR,"Korea Kusini"
-XK,Kosovo
 CR,Kostarika
 KW,Kuwait
 LA,Laos
@@ -117,10 +115,9 @@ LY,Libya
 LI,Liechtenstein
 LT,Lithuania
 LU,Luxembourg
-MO,"Macau SAR China"
-MK,Macedonia
 MG,Madagaska
 PS,"Maeneo ya Palestina"
+MO,"Makau SAR China"
 MW,Malawi
 MV,Maldives
 MY,Malesia
@@ -128,6 +125,7 @@ ML,Mali
 MT,Malta
 US,Marekani
 MQ,Martinique
+MK,"Masedonia ya Kaskazini"
 YT,Mayotte
 MX,Meksiko
 FM,Micronesia
@@ -162,8 +160,6 @@ PY,Paraguay
 PE,Peru
 PL,Poland
 PF,"Polynesia ya Ufaransa"
-XA,Pseudo-Accents
-XB,Pseudo-Bidi
 PR,"Puerto Rico"
 QA,Qatar
 RE,Reunion
@@ -205,7 +201,6 @@ TG,Togo
 TK,Tokelau
 TO,Tonga
 TT,"Trinidad na Tobago"
-TA,"Tristan da Cunha"
 TN,Tunisia
 TM,Turkmenistan
 TV,Tuvalu
@@ -242,7 +237,6 @@ CK,"Visiwa vya Cook"
 FK,"Visiwa vya Falkland"
 FO,"Visiwa vya Faroe"
 GS,"Visiwa vya Georgia Kusini na Sandwich Kusini"
-IC,"Visiwa vya Kanari"
 MP,"Visiwa vya Mariana vya Kaskazini"
 MH,"Visiwa vya Marshall"
 PN,"Visiwa vya Pitcairn"

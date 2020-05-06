@@ -36,10 +36,8 @@ CV: 'Cabo Verde'
 KH: Camboya
 CM: Camerún
 CA: Canadá
-IC: Canarias
 BQ: 'Caribe neerlandés'
 QA: Catar
-EA: 'Ceuta y Melilla'
 TD: Chad
 CZ: Chequia
 CL: Chile
@@ -56,7 +54,6 @@ CI: 'Côte d’Ivoire'
 HR: Croacia
 CU: Cuba
 CW: Curazao
-DG: 'Diego García'
 DK: Dinamarca
 DM: Dominica
 EC: Ecuador
@@ -100,7 +97,7 @@ ID: Indonesia
 IQ: Irak
 IR: Irán
 IE: Irlanda
-AC: 'Isla de la Ascensión'
+BV: 'Isla Bouvet'
 IM: 'Isla de Man'
 CX: 'Isla de Navidad'
 NF: 'Isla Norfolk'
@@ -111,6 +108,7 @@ CC: 'Islas Cocos'
 CK: 'Islas Cook'
 FO: 'Islas Feroe'
 GS: 'Islas Georgia del Sur y Sandwich del Sur'
+HM: 'Islas Heard y McDonald'
 FK: 'Islas Malvinas'
 MP: 'Islas Marianas del Norte'
 MH: 'Islas Marshall'
@@ -130,7 +128,6 @@ KZ: Kazajistán
 KE: Kenia
 KG: Kirguistán
 KI: Kiribati
-XK: Kosovo
 KW: Kuwait
 LA: Laos
 LS: Lesoto
@@ -141,7 +138,7 @@ LY: Libia
 LI: Liechtenstein
 LT: Lituania
 LU: Luxemburgo
-MK: Macedonia
+MK: 'Macedonia del Norte'
 MG: Madagascar
 MY: Malasia
 MW: Malaui
@@ -183,8 +180,6 @@ PE: Perú
 PF: 'Polinesia Francesa'
 PL: Polonia
 PT: Portugal
-XA: Pseudo-Accents
-XB: Pseudo-Bidi
 PR: 'Puerto Rico'
 HK: 'RAE de Hong Kong (China)'
 MO: 'RAE de Macao (China)'
@@ -236,7 +231,6 @@ TG: Togo
 TK: Tokelau
 TO: Tonga
 TT: 'Trinidad y Tobago'
-TA: 'Tristán de Acuña'
 TN: Túnez
 TM: Turkmenistán
 TR: Turquía

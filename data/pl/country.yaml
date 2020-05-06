@@ -33,7 +33,6 @@ VG: 'Brytyjskie Wyspy Dziewicze'
 BG: Bułgaria
 BF: 'Burkina Faso'
 BI: Burundi
-EA: 'Ceuta i Melilla'
 CL: Chile
 CN: Chiny
 HR: Chorwacja
@@ -46,7 +45,6 @@ CZ: Czechy
 UM: 'Dalekie Wyspy Mniejsze Stanów Zjednoczonych'
 DK: Dania
 CD: 'Demokratyczna Republika Konga'
-DG: 'Diego Garcia'
 DM: Dominika
 DO: Dominikana
 DJ: Dżibuti
@@ -110,7 +108,6 @@ KM: Komory
 CG: Kongo
 KR: 'Korea Południowa'
 KP: 'Korea Północna'
-XK: Kosowo
 CR: Kostaryka
 CU: Kuba
 KW: Kuwejt
@@ -169,8 +166,6 @@ PF: 'Polinezja Francuska'
 PL: Polska
 PR: Portoryko
 PT: Portugalia
-XA: Pseudoakcenty
-XB: Pseudodwukierunkowe
 ZA: 'Republika Południowej Afryki'
 CF: 'Republika Środkowoafrykańska'
 CV: 'Republika Zielonego Przylądka'
@@ -218,7 +213,6 @@ TL: 'Timor Wschodni'
 TG: Togo
 TK: Tokelau
 TO: Tonga
-TA: 'Tristan da Cunha'
 TT: 'Trynidad i Tobago'
 TN: Tunezja
 TR: Turcja
@@ -237,14 +231,14 @@ HU: Węgry
 GB: 'Wielka Brytania'
 VN: Wietnam
 IT: Włochy
+BV: 'Wyspa Bouveta'
 CX: 'Wyspa Bożego Narodzenia'
 IM: 'Wyspa Man'
 SH: 'Wyspa Świętej Heleny'
-AC: 'Wyspa Wniebowstąpienia'
 AX: 'Wyspy Alandzkie'
 CK: 'Wyspy Cooka'
 VI: 'Wyspy Dziewicze Stanów Zjednoczonych'
-IC: 'Wyspy Kanaryjskie'
+HM: 'Wyspy Heard i McDonalda'
 CC: 'Wyspy Kokosowe'
 MH: 'Wyspy Marshalla'
 FO: 'Wyspy Owcze'

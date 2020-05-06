@@ -43,7 +43,6 @@ CZ: Češka
 CL: Čile
 DK: Danska
 CD: 'Demokratska Republika Kongo'
-DG: 'Dijego Garsija'
 DM: Dominika
 DO: 'Dominikanska Republika'
 DJ: Džibuti
@@ -52,6 +51,7 @@ EC: Ekvador
 GQ: 'Ekvatorijalna Gvineja'
 ER: Eritreja
 EE: Estonija
+SZ: Esvatini
 ET: Etiopija
 FO: 'Farska ostrva'
 FJ: Fidži
@@ -78,6 +78,7 @@ GT: Gvatemala
 GN: Gvineja
 GW: Gvineja-Bisao
 HT: Haiti
+HM: 'Herd i arhipelag MekDonald'
 NL: Holandija
 HN: Honduras
 HK: 'Hong Kong (SAR Kina)'
@@ -104,7 +105,6 @@ KY: 'Kajmanska ostrva'
 KH: Kambodža
 CM: Kamerun
 CA: Kanada
-IC: 'Kanarska ostrva'
 CV: 'Kape Verde'
 BQ: 'Karipska Holandija'
 QA: Katar
@@ -118,7 +118,6 @@ CC: 'Kokosova (Keelingova) ostrva'
 CO: Kolumbija
 KM: Komori
 CG: Kongo
-XK: Kosovo
 CR: Kostarika
 CU: Kuba
 CK: 'Kukova ostrva'
@@ -137,7 +136,6 @@ MG: Madagaskar
 HU: Mađarska
 YT: Majote
 MO: 'Makao (SAR Kina)'
-MK: Makedonija
 MW: Malavi
 MV: Maldivi
 MY: Malezija
@@ -172,7 +170,7 @@ AX: 'Olandska ostrva'
 OM: Oman
 TC: 'Ostrva Turks i Kaikos'
 WF: 'Ostrva Valis i Futuna'
-AC: 'Ostrvo Ascension'
+BV: 'Ostrvo Buve'
 IM: 'Ostrvo Man'
 NF: 'Ostrvo Norfolk'
 PK: Pakistan
@@ -186,8 +184,6 @@ PN: 'Pitkernska Ostrva'
 PL: Poljska
 PR: 'Porto Riko'
 PT: Portugal
-XA: Pseudo-Accents
-XB: Pseudo-Bidi
 RE: Reunion
 RW: Ruanda
 RO: Rumunija
@@ -199,13 +195,13 @@ ST: 'Sao Tome i Principe'
 SA: 'Saudijska Arabija'
 SC: Sejšeli
 SN: Senegal
-EA: 'Seuta i Melilja'
 SL: 'Sijera Leone'
 SG: Singapur
 SX: 'Sint Marten'
 SY: Sirija
-US: 'Sjedinjene Američke Države'
+US: 'Sjedinjene Države'
 KP: 'Sjeverna Koreja'
+MK: 'Sjeverna Makedonija'
 MP: 'Sjeverna Marijanska ostrva'
 SK: Slovačka
 SI: Slovenija
@@ -215,7 +211,6 @@ RS: Srbija
 SD: Sudan
 SR: Surinam
 SJ: 'Svalbard i Jan Majen'
-SZ: Svazilend
 SH: 'Sveta Helena'
 LC: 'Sveta Lucija'
 BL: 'Sveti Bartolomej'
@@ -235,19 +230,18 @@ TG: Togo
 TK: Tokelau
 TO: Tonga
 TT: 'Trinidad i Tobago'
-TA: 'Tristan da Cunha'
 TN: Tunis
 TM: Turkmenistan
 TR: Turska
 TV: Tuvalu
 UG: Uganda
 AE: 'Ujedinjeni Arapski Emirati'
+GB: 'Ujedinjeno Kraljevstvo'
 UA: Ukrajina
 UY: Urugvaj
 UZ: Uzbekistan
 VU: Vanuatu
 VA: Vatikan
-GB: 'Velika Britanija'
 VE: Venecuela
 VN: Vijetnam
 ZM: Zambija

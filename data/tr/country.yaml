@@ -13,7 +13,6 @@ AG: 'Antigua ve Barbuda'
 AR: Arjantin
 AL: Arnavutluk
 AW: Aruba
-AC: 'Ascension Adası'
 AU: Avustralya
 AT: Avusturya
 AZ: Azerbaycan
@@ -32,6 +31,7 @@ GB: 'Birleşik Krallık'
 BO: Bolivya
 BA: Bosna-Hersek
 BW: Botsvana
+BV: 'Bouvet Adası'
 BR: Brezilya
 IO: 'Britanya Hint Okyanusu Toprakları'
 VG: 'Britanya Virjin Adaları'
@@ -43,12 +43,12 @@ BT: Butan
 CV: 'Cape Verde'
 KY: 'Cayman Adaları'
 GI: Cebelitarık
-EA: 'Ceuta ve Melilla'
 DZ: Cezayir
 CX: 'Christmas Adası'
 DJ: Cibuti
 CC: 'Cocos (Keeling) Adaları'
 CK: 'Cook Adaları'
+CI: 'Côte d’Ivoire'
 CW: Curaçao
 TD: Çad
 CZ: Çekya
@@ -56,7 +56,6 @@ CN: Çin
 HK: 'Çin Hong Kong ÖİB'
 MO: 'Çin Makao ÖİB'
 DK: Danimarka
-DG: 'Diego Garcia'
 DO: 'Dominik Cumhuriyeti'
 DM: Dominika
 EC: Ekvador
@@ -72,7 +71,6 @@ FK: 'Falkland Adaları'
 FO: 'Faroe Adaları'
 MA: Fas
 FJ: Fiji
-CI: 'Fildişi Sahili'
 PH: Filipinler
 PS: 'Filistin Bölgeleri'
 FI: Finlandiya
@@ -98,6 +96,7 @@ KR: 'Güney Kore'
 SS: 'Güney Sudan'
 GE: Gürcistan
 HT: Haiti
+HM: 'Heard Adası ve McDonald Adaları'
 HR: Hırvatistan
 IN: Hindistan
 NL: Hollanda
@@ -117,7 +116,6 @@ JE: Jersey
 KH: Kamboçya
 CM: Kamerun
 CA: Kanada
-IC: 'Kanarya Adaları'
 ME: Karadağ
 BQ: 'Karayip Hollandası'
 QA: Katar
@@ -130,7 +128,6 @@ CO: Kolombiya
 KM: Komorlar
 CG: 'Kongo - Brazavil'
 CD: 'Kongo - Kinşasa'
-XK: Kosova
 CR: 'Kosta Rika'
 KW: Kuveyt
 KP: 'Kuzey Kore'
@@ -189,9 +186,7 @@ PN: 'Pitcairn Adaları'
 PL: Polonya
 PT: Portekiz
 PR: 'Porto Riko'
-XA: Pseudo-Accents
-XB: Pseudo-Bidi
-RE: Réunion
+RE: Reunion
 RO: Romanya
 RW: Ruanda
 RU: Rusya
@@ -204,7 +199,7 @@ PM: 'Saint Pierre ve Miquelon'
 VC: 'Saint Vincent ve Grenadinler'
 WS: Samoa
 SM: 'San Marino'
-ST: 'São Tomé ve Príncipe'
+ST: 'Sao Tome ve Principe'
 SN: Senegal
 SC: Seyşeller
 RS: Sırbistan
@@ -231,7 +226,6 @@ TG: Togo
 TK: Tokelau
 TO: Tonga
 TT: 'Trinidad ve Tobago'
-TA: 'Tristan da Cunha'
 TN: Tunus
 TC: 'Turks ve Caicos Adaları'
 TV: Tuvalu

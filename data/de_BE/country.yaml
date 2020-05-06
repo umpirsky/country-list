@@ -15,7 +15,6 @@ GQ: Äquatorialguinea
 AR: Argentinien
 AM: Armenien
 AW: Aruba
-AC: Ascension
 AZ: Aserbaidschan
 ET: Äthiopien
 AU: Australien
@@ -33,6 +32,7 @@ BO: Bolivien
 BQ: 'Bonaire, Sint Eustatius und Saba'
 BA: 'Bosnien und Herzegowina'
 BW: Botsuana
+BV: Bouvetinsel
 BR: Brasilien
 VG: 'Britische Jungferninseln'
 IO: 'Britisches Territorium im Indischen Ozean'
@@ -41,7 +41,6 @@ BG: Bulgarien
 BF: 'Burkina Faso'
 BI: Burundi
 CV: 'Cabo Verde'
-EA: 'Ceuta und Melilla'
 CL: Chile
 CN: China
 CK: Cookinseln
@@ -50,7 +49,6 @@ CI: 'Côte d’Ivoire'
 CW: Curaçao
 DK: Dänemark
 DE: Deutschland
-DG: 'Diego Garcia'
 DM: Dominica
 DO: 'Dominikanische Republik'
 DJ: Dschibuti
@@ -58,6 +56,7 @@ EC: Ecuador
 SV: 'El Salvador'
 ER: Eritrea
 EE: Estland
+SZ: Eswatini
 FK: Falklandinseln
 FO: Färöer
 FJ: Fidschi
@@ -82,6 +81,7 @@ GN: Guinea
 GW: Guinea-Bissau
 GY: Guyana
 HT: Haiti
+HM: 'Heard und McDonaldinseln'
 HN: Honduras
 IN: Indien
 ID: Indonesien
@@ -101,7 +101,6 @@ KY: Kaimaninseln
 KH: Kambodscha
 CM: Kamerun
 CA: Kanada
-IC: 'Kanarische Inseln'
 KZ: Kasachstan
 QA: Katar
 KE: Kenia
@@ -112,7 +111,6 @@ CO: Kolumbien
 KM: Komoren
 CG: Kongo-Brazzaville
 CD: Kongo-Kinshasa
-XK: Kosovo
 HR: Kroatien
 CU: Kuba
 KW: Kuwait
@@ -173,8 +171,6 @@ PH: Philippinen
 PN: Pitcairninseln
 PL: Polen
 PT: Portugal
-XA: Pseudo-Accents
-XB: Pseudo-Bidi
 PR: 'Puerto Rico'
 MD: 'Republik Moldau'
 RE: Réunion
@@ -217,7 +213,6 @@ GS: 'Südgeorgien und die Südlichen Sandwichinseln'
 KR: Südkorea
 SS: Südsudan
 SR: Suriname
-SZ: Swasiland
 SY: Syrien
 TJ: Tadschikistan
 TW: Taiwan
@@ -228,7 +223,6 @@ TG: Togo
 TK: Tokelau
 TO: Tonga
 TT: 'Trinidad und Tobago'
-TA: 'Tristan da Cunha'
 TD: Tschad
 CZ: Tschechien
 TN: Tunesien

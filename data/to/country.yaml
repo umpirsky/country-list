@@ -37,7 +37,6 @@ KM: Komolosi
 CD: 'Kongo - Kinisasa'
 CG: 'Kongo - Palasavila'
 CR: 'Kosita Lika'
-XK: Kōsovo
 GU: Kuamu
 GP: Kuatalupe
 GT: Kuatamala
@@ -70,7 +69,7 @@ MW: Malaui
 MY: Malēsia
 ML: Māli
 MT: Malita
-MK: Masetōnia
+MK: 'Masetōnia fakatokelau'
 CI: 'Matafonua ʻAivolī'
 MG: Matakasika
 MQ: Mātiniki
@@ -88,7 +87,7 @@ MZ: Mosēmipiki
 CX: 'Motu Kilisimasi'
 IM: 'Motu Mani'
 NF: 'Motu Nōfoliki'
-AC: 'Motu ʻAsenisini'
+BV: 'Motu Puveti'
 MS: Moʻungaselati
 CV: 'Muiʻi Vēte'
 NG: Naisilia
@@ -128,8 +127,6 @@ IO: 'Potu fonua moana ʻInitia fakapilitānia'
 TF: 'Potu fonua tonga fakafalanisē'
 PS: 'Potu Palesitaine'
 PT: Potukali
-XA: Pseudo-Accents
-XB: Pseudo-Bidi
 PR: 'Puēto Liko'
 US: 'Puleʻanga fakatahataha ʻAmelika'
 BG: Pulukalia
@@ -171,11 +168,9 @@ SG: Singapoa
 GI: Sipalālitā
 ES: Sipeini
 DJ: Siputi
-EA: 'Siuta mo Melila'
 SJ: 'Sivolopāti mo Sani Maieni'
 JO: Soatane
 SO: Sōmalia
-SZ: Suasilani
 SE: Suēteni
 CH: Suisilani
 SR: Suliname
@@ -186,16 +181,14 @@ TW: Taiuani
 TJ: Tasikitani
 DK: Tenimaʻake
 TZ: Tenisānia
-DG: 'Tieko Kāsia'
 TT: 'Tilinitati mo Topako'
-TL: 'Timoa hahake'
+TL: 'Timoa fakahahake'
 TR: Toake
 TK: Tokelau
 TG: Toko
 DM: Tominika
 TO: Tonga
 TM: Tūkimenisitani
-TA: 'Tulisitani ta Kunuha'
 TN: Tunīsia
 TV: Tūvalu
 VU: Vanuatu
@@ -222,6 +215,7 @@ EC: ʻEkuetoa
 SV: 'ʻEle Salavatoa'
 ER: ʻElitulia
 EE: ʻEsitōnia
+SZ: ʻEsuatini
 IQ: ʻIlaaki
 IR: ʻIlaani
 IN: ʻInitia
@@ -234,7 +228,7 @@ UG: ʻIukanitā
 OM: ʻOmani
 FO: 'ʻOtumotu Faloe'
 FK: 'ʻOtumotu Fokulani'
-IC: 'ʻOtumotu Kaneli'
+HM: 'ʻOtumotu Heati mo Makitonali'
 KY: 'ʻOtumotu Keimeni'
 CC: 'ʻOtumotu Koko'
 CK: 'ʻOtumotu Kuki'

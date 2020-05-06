@@ -11,7 +11,6 @@ AG: 'Antigua og Barbuda'
 AR: Argentina
 AM: Armenien
 AW: Aruba
-AC: Ascensionøen
 AZ: Aserbajdsjan
 AU: Australien
 BS: Bahamas
@@ -26,6 +25,7 @@ BT: Bhutan
 BO: Bolivia
 BA: Bosnien-Hercegovina
 BW: Botswana
+BV: Bouvetøen
 BR: Brasilien
 BN: Brunei
 BG: Bulgarien
@@ -35,7 +35,6 @@ KH: Cambodja
 CM: Cameroun
 CA: Canada
 KY: Caymanøerne
-EA: 'Ceuta og Melilla'
 CL: Chile
 CC: Cocosøerne
 CO: Colombia
@@ -51,13 +50,12 @@ DK: Danmark
 VI: 'De Amerikanske Jomfruøer'
 VG: 'De Britiske Jomfruøer'
 AE: 'De Forenede Arabiske Emirater'
-TF: 'De Franske Besiddelser i Det Sydlige Indiske Ocean'
+TF: 'De Franske Besiddelser i Det Sydlige Indiske Ocean og Antarktis'
 PS: 'De palæstinensiske områder'
 BQ: 'De tidligere Nederlandske Antiller'
 CF: 'Den Centralafrikanske Republik'
 DO: 'Den Dominikanske Republik'
-IO: 'Det britiske territorium i Det Indiske Ocean'
-DG: 'Diego Garcia'
+IO: 'Det Britiske Territorium i Det Indiske Ocean'
 DJ: Djibouti
 DM: Dominica
 EC: Ecuador
@@ -92,6 +90,7 @@ GN: Guinea
 GW: Guinea-Bissau
 GY: Guyana
 HT: Haiti
+HM: 'Heard Island og McDonald Islands'
 NL: Holland
 HN: Honduras
 BY: Hviderusland
@@ -109,14 +108,12 @@ JP: Japan
 JE: Jersey
 JO: Jordan
 CX: Juleøen
-IC: 'Kanariske øer'
 CV: 'Kap Verde'
 KZ: Kasakhstan
 KE: Kenya
 CN: Kina
 KG: Kirgisistan
 KI: Kiribati
-XK: Kosovo
 HR: Kroatien
 KW: Kuwait
 LA: Laos
@@ -129,7 +126,6 @@ LI: Liechtenstein
 LT: Litauen
 LU: Luxembourg
 MG: Madagaskar
-MK: Makedonien
 MW: Malawi
 MY: Malaysia
 MV: Maldiverne
@@ -159,6 +155,7 @@ NE: Niger
 NG: Nigeria
 NU: Niue
 KP: Nordkorea
+MK: Nordmakedonien
 MP: Nordmarianerne
 NF: 'Norfolk Island'
 'NO': Norge
@@ -173,8 +170,6 @@ PE: Peru
 PN: Pitcairn
 PL: Polen
 PT: Portugal
-XA: Pseudo-Accents
-XB: Pseudo-Bidi
 PR: 'Puerto Rico'
 QA: Qatar
 RE: Réunion
@@ -228,7 +223,6 @@ TG: Togo
 TK: Tokelau
 TO: Tonga
 TT: 'Trinidad og Tobago'
-TA: 'Tristan da Cunha'
 TN: Tunesien
 TM: Turkmenistan
 TC: 'Turks- og Caicosøerne'

@@ -14,7 +14,6 @@ SA: 'Arabii Sawdit'
 AR: Arjantiin
 AM: Armenii
 AW: Aruuba
-AC: 'Ascension Island'
 BS: Bahamaas
 BH: Bahreyn
 BD: Banglaadees
@@ -28,21 +27,19 @@ BM: Bermudaa
 BO: Boliwii
 BA: 'Bosnii Hersegowiin'
 BW: Botswaana
+BV: 'Bouvet Island'
 BG: Bulgarii
 BF: 'Burkibaa Faaso'
 BN: Burnaay
 BI: Burunndi
 BT: Butaan
 TD: Caad
-IC: 'Canary Islands'
 BQ: 'Caribbean Netherlands'
-EA: 'Ceuta & Melilla'
 CX: 'Christmas Island'
 CL: Cilii
 CC: 'Cocos (Keeling) Islands'
 CW: Curaçao
 DK: Danmark
-DG: 'Diego Garcia'
 DM: Dominika
 VA: 'Dowla Waticaan'
 US: 'Dowlaaji Dentuɗi Amerik'
@@ -89,6 +86,7 @@ GU: Guwam
 GP: Gwaadalup
 GT: Gwaatemalaa
 HT: Haytii
+HM: 'Heard & McDonald Islands'
 HK: 'Hong Kong SAR China'
 IQ: Iraak
 IR: Iraan
@@ -119,7 +117,6 @@ CG: Konngo
 KP: 'Koree Rewo'
 KR: 'Koree Worgo'
 HR: Korwasii
-XK: Kosovo
 CR: 'Kosta Rikaa'
 CU: Kubaa
 KW: Kuweyti
@@ -143,7 +140,6 @@ MT: Malte
 MQ: Martinik
 MA: Maruk
 YT: Mayoot
-MK: Meceduwaan
 MX: Meksik
 FM: Mikoronesii
 MM: Miyamaar
@@ -167,6 +163,7 @@ NE: Nijeer
 NG: Nijeriyaa
 NI: Nikaraguwaa
 NU: Niuwe
+MK: 'North Macedonia'
 'NO': Norwees
 NC: 'Nuwel Kaledonii'
 NZ: 'Nuwel Selannda'
@@ -186,8 +183,6 @@ PN: Pitkern
 PF: 'Polinesii Farayse'
 PL: Poloñ
 PR: 'Porto Rikoo'
-XA: Pseudo-Accents
-XB: Pseudo-Bidi
 PT: Purtugaal
 RE: Rewiñoo
 RU: Riisii
@@ -237,7 +232,6 @@ TT: 'Tirnidaad e Tobaago'
 TG: Togoo
 TK: Tokelaaw
 TO: Tonngaa
-TA: 'Tristan da Cunha'
 TN: Tunisii
 TR: Turkii
 TM: Turkmenistaan

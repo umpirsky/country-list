@@ -1,10 +1,7 @@
 CREATE TABLE list (id VARCHAR(64) NOT NULL, value VARCHAR(64) NOT NULL, PRIMARY KEY(id));
 
-INSERT INTO "list" ("id", "value") VALUES ('XK', 'Kosovo');
-INSERT INTO "list" ("id", "value") VALUES ('XA', 'Pseudo-Accents');
-INSERT INTO "list" ("id", "value") VALUES ('XB', 'Pseudo-Bidi');
+INSERT INTO "list" ("id", "value") VALUES ('MK', 'North Macedonia');
 INSERT INTO "list" ("id", "value") VALUES ('QA', 'ཀ་ཊར');
-INSERT INTO "list" ("id", "value") VALUES ('IC', 'ཀ་ནེ་རི་གླིང་ཚོམ');
 INSERT INTO "list" ("id", "value") VALUES ('KZ', 'ཀ་ཛགས་སཏཱན');
 INSERT INTO "list" ("id", "value") VALUES ('KH', 'ཀམ་བྷོ་ཌི་ཡ');
 INSERT INTO "list" ("id", "value") VALUES ('CW', 'ཀྱཱུར་ར་ཀོ');
@@ -61,12 +58,10 @@ INSERT INTO "list" ("id", "value") VALUES ('TT', 'ཊི་ནི་ཌཱཌ་
 INSERT INTO "list" ("id", "value") VALUES ('TN', 'ཊུ་ནི་ཤི་ཡ');
 INSERT INTO "list" ("id", "value") VALUES ('TG', 'ཊོ་གྷོ');
 INSERT INTO "list" ("id", "value") VALUES ('TO', 'ཊོང་གྷ');
-INSERT INTO "list" ("id", "value") VALUES ('DG', 'ཌི་ཡེ་གོ་གར་སིའོ');
 INSERT INTO "list" ("id", "value") VALUES ('DK', 'ཌེན་མཱཀ');
 INSERT INTO "list" ("id", "value") VALUES ('DM', 'ཌོ་མི་ནི་ཀ');
 INSERT INTO "list" ("id", "value") VALUES ('DO', 'ཌོ་མི་ནི་ཀཱན་ རི་པབ་ལིཀ');
 INSERT INTO "list" ("id", "value") VALUES ('TJ', 'ཏ་ཇིག་གི་སཏཱན');
-INSERT INTO "list" ("id", "value") VALUES ('TA', 'ཏྲིས་ཏན་ད་ཀུན་ཧ');
 INSERT INTO "list" ("id", "value") VALUES ('TL', 'ཏི་་མོར་ལེ་ཨེསཊ');
 INSERT INTO "list" ("id", "value") VALUES ('TV', 'ཏུ་ཝ་ལུ');
 INSERT INTO "list" ("id", "value") VALUES ('TC', 'ཏུརྐས྄་ ཨེནཌ་ ཀ་ཀོས་གླིང་ཚོམ');
@@ -127,10 +122,10 @@ INSERT INTO "list" ("id", "value") VALUES ('BG', 'བུལ་ག་རི་ཡ
 INSERT INTO "list" ("id", "value") VALUES ('VE', 'བེ་ནི་ཛུ་ཝེ་ལ');
 INSERT INTO "list" ("id", "value") VALUES ('VN', 'བེཊ་ནཱམ');
 INSERT INTO "list" ("id", "value") VALUES ('BY', 'བེལ་ཨ་རུ་སུ');
+INSERT INTO "list" ("id", "value") VALUES ('BV', 'བོའུ་ཝེཊ་མཚོ་གླིང');
 INSERT INTO "list" ("id", "value") VALUES ('MG', 'མ་དཱ་གེས་ཀར');
 INSERT INTO "list" ("id", "value") VALUES ('MW', 'མ་ལ་ཝི');
 INSERT INTO "list" ("id", "value") VALUES ('MY', 'མ་ལེ་ཤི་ཡ');
-INSERT INTO "list" ("id", "value") VALUES ('MK', 'མ་སེ་ཌོ་ནི་ཡ');
 INSERT INTO "list" ("id", "value") VALUES ('MO', 'མཀ་ཨའུ་ཅཱའི་ན');
 INSERT INTO "list" ("id", "value") VALUES ('FM', 'མའི་ཀྲོ་ནི་ཤི་ཡ');
 INSERT INTO "list" ("id", "value") VALUES ('MH', 'མར་ཤེལ་གླིང་ཚོམ');
@@ -206,7 +201,6 @@ INSERT INTO "list" ("id", "value") VALUES ('SI', 'སུ་ལོ་བི་ན
 INSERT INTO "list" ("id", "value") VALUES ('SE', 'སུའི་ཌེན');
 INSERT INTO "list" ("id", "value") VALUES ('SN', 'སེ་ནི་གྷལ');
 INSERT INTO "list" ("id", "value") VALUES ('SC', 'སེ་ཤཱལས');
-INSERT INTO "list" ("id", "value") VALUES ('EA', 'སེ་ཨུ་ཏ་ ཨེནཌ་ མེལ་ལི་ལ');
 INSERT INTO "list" ("id", "value") VALUES ('CF', 'སེན་ཊལ་ ཨཕ་རི་ཀཱན་ རི་པབ་ལིཀ');
 INSERT INTO "list" ("id", "value") VALUES ('KN', 'སེནཊ་ ཀིཊས་ དང་ ནེ་བིས');
 INSERT INTO "list" ("id", "value") VALUES ('BL', 'སེནཊ་ བར་ཐོ་ལོམ་མིའུ');
@@ -219,6 +213,7 @@ INSERT INTO "list" ("id", "value") VALUES ('SB', 'སོ་ལོ་མོན་
 INSERT INTO "list" ("id", "value") VALUES ('MN', 'སོག་པོ་ཡུལ');
 INSERT INTO "list" ("id", "value") VALUES ('HU', 'ཧཱང་གྷ་རི');
 INSERT INTO "list" ("id", "value") VALUES ('HN', 'ཧཱན་ཌུ་རཱས྄');
+INSERT INTO "list" ("id", "value") VALUES ('HM', 'ཧཱརཌ་མཚོ་གླིང་ དང་ མེཀ་ཌོ་ནལཌ྄་གླིང་ཚོམ');
 INSERT INTO "list" ("id", "value") VALUES ('HT', 'ཧེ་ཊི');
 INSERT INTO "list" ("id", "value") VALUES ('HK', 'ཧོང་ཀོང་ཅཱའི་ན');
 INSERT INTO "list" ("id", "value") VALUES ('AZ', 'ཨ་ཛར་བྷའི་ཇཱན');
@@ -251,7 +246,6 @@ INSERT INTO "list" ("id", "value") VALUES ('UZ', 'ཨུས་བེག་གི
 INSERT INTO "list" ("id", "value") VALUES ('GQ', 'ཨེ་ཀུ་ཊོ་རེལ་ གི་ནི');
 INSERT INTO "list" ("id", "value") VALUES ('EC', 'ཨེ་ཁྭ་ཌོར');
 INSERT INTO "list" ("id", "value") VALUES ('ER', 'ཨེ་རི་ཊྲེ་ཡ');
-INSERT INTO "list" ("id", "value") VALUES ('AC', 'ཨེ་སེན་ཤུན་ཚོ་གླིང༌');
 INSERT INTO "list" ("id", "value") VALUES ('SV', 'ཨེལ་སལ་བ་ཌོར');
 INSERT INTO "list" ("id", "value") VALUES ('EE', 'ཨེས་ཊོ་ནི་ཡ');
 INSERT INTO "list" ("id", "value") VALUES ('OM', 'ཨོ་མཱན');

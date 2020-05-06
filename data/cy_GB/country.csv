@@ -1,5 +1,4 @@
 id,value
-XA,"Acenion Ffug"
 AF,Afghanistan
 AO,Angola
 AI,Anguilla
@@ -22,9 +21,8 @@ BZ,Belize
 BJ,Benin
 BM,Bermuda
 BT,Bhutan
-XB,"Bidi Ffug"
 BO,Bolifia
-BA,"Bosnia & Herzegovina"
+BA,"Bosnia a Herzegovina"
 BW,Botswana
 BR,Brasil
 BN,Brunei
@@ -36,7 +34,6 @@ NC,"Caledonia Newydd"
 KH,Cambodia
 CM,Camerŵn
 CA,Canada
-EA,"Ceuta a Melilla"
 CU,Ciwba
 CO,Colombia
 KM,Comoros
@@ -51,7 +48,6 @@ GS,"De Georgia ac Ynysoedd Sandwich y De"
 KR,"De Korea"
 SS,"De Swdan"
 DK,Denmarc
-DG,"Diego Garcia"
 DJ,Djibouti
 DM,Dominica
 EC,Ecuador
@@ -70,6 +66,7 @@ GE,Georgia
 GH,Ghana
 GI,Gibraltar
 KP,"Gogledd Korea"
+MK,"Gogledd Macedonia"
 EH,"Gorllewin Sahara"
 GD,Grenada
 GP,Guadeloupe
@@ -104,7 +101,6 @@ JE,Jersey
 KZ,Kazakstan
 KE,Kenya
 KI,Kiribati
-XK,Kosovo
 KW,Kuwait
 KG,Kyrgyzstan
 LA,Laos
@@ -117,7 +113,6 @@ LI,Liechtenstein
 LT,Lithuania
 LU,Lwcsembwrg
 MO,"Macau RhGA Tsieina"
-MK,Macedonia
 MG,Madagascar
 MW,Malawi
 MY,Malaysia
@@ -201,7 +196,6 @@ TG,Togo
 TO,Tonga
 TK,Tokelau
 TT,"Trinidad a Tobago"
-TA,"Tristan da Cunha"
 CZ,Tsiecia
 CN,Tsieina
 TN,Tunisia
@@ -225,7 +219,8 @@ MV,"Y Maldives"
 PH,"Y Philipinau"
 CH,"Y Swistir"
 YE,Yemen
-AC,"Ynys Ascension"
+BV,"Ynys Bouvet"
+HM,"Ynys Heard ac Ynysoedd McDonald"
 IM,"Ynys Manaw"
 NF,"Ynys Norfolk"
 GG,"Ynys y Garn"
@@ -251,6 +246,5 @@ IT,"Yr Eidal"
 NL,"Yr Iseldiroedd"
 US,"Yr Unol Daleithiau"
 GL,"Yr Ynys Las"
-IC,"Yr Ynysoedd Dedwydd"
 ZM,Zambia
 ZW,Zimbabwe

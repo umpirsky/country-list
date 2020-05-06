@@ -13,7 +13,6 @@ AE: Arabiemiirikunnat
 AR: Argentiina
 AM: Armenia
 AW: Aruba
-AC: Ascension-saari
 AU: Australia
 AZ: Azerbaidžan
 BS: Bahama
@@ -28,6 +27,7 @@ BT: Bhutan
 BO: Bolivia
 BA: 'Bosnia ja Hertsegovina'
 BW: Botswana
+BV: Bouvet’nsaari
 BR: Brasilia
 IO: 'Brittiläinen Intian valtameren alue'
 VG: 'Brittiläiset Neitsytsaaret'
@@ -36,12 +36,10 @@ BG: Bulgaria
 BF: 'Burkina Faso'
 BI: Burundi
 KY: Caymansaaret
-EA: 'Ceuta ja Melilla'
 CL: Chile
 CK: Cookinsaaret
 CR: 'Costa Rica'
 CW: Curaçao
-DG: 'Diego Garcia'
 DJ: Djibouti
 DM: Dominica
 DO: 'Dominikaaninen tasavalta'
@@ -74,6 +72,7 @@ GN: Guinea
 GW: Guinea-Bissau
 GY: Guyana
 HT: Haiti
+HM: 'Heard ja McDonaldinsaaret'
 HN: Honduras
 HK: 'Hongkong – Kiinan e.h.a.'
 SJ: 'Huippuvuoret ja Jan Mayen'
@@ -97,7 +96,6 @@ CX: Joulusaari
 KH: Kambodža
 CM: Kamerun
 CA: Kanada
-IC: Kanariansaaret
 CV: 'Kap Verde'
 BQ: 'Karibian Alankomaat'
 KZ: Kazakstan
@@ -111,7 +109,6 @@ KM: Komorit
 CD: 'Kongon demokraattinen tasavalta'
 CG: 'Kongon tasavalta'
 CC: 'Kookossaaret (Keelingsaaret)'
-XK: Kosovo
 GR: Kreikka
 HR: Kroatia
 CU: Kuuba
@@ -173,8 +170,6 @@ KP: Pohjois-Korea
 MK: Pohjois-Makedonia
 MP: Pohjois-Mariaanit
 PT: Portugali
-XA: Pseudo-Accents
-XB: Pseudo-Bidi
 PR: 'Puerto Rico'
 PL: Puola
 GQ: 'Päiväntasaajan Guinea'
@@ -226,7 +221,6 @@ TG: Togo
 TK: Tokelau
 TO: Tonga
 TT: 'Trinidad ja Tobago'
-TA: 'Tristan da Cunha'
 TD: Tšad
 CZ: Tšekki
 TN: Tunisia

@@ -16,7 +16,6 @@ AO: Angola
 AQ: Antarctica
 AG: 'Antiga ne Barbuda'
 AW: Aruba
-AC: 'Ascension Island'
 HT: Ayiti
 BS: Bahamase
 BH: Bahrene
@@ -27,19 +26,17 @@ BJ: Bene
 BD: Benguladeshi
 BM: Bermuda
 BG: Biligari
+BV: 'Bouvet Island'
 BN: Brineyi
 BF: Bukinafaso
 BI: Burundi
 BT: Butani
 BY: Byelorisi
-IC: 'Canary Islands'
 BQ: 'Caribbean Netherlands'
-EA: 'Ceuta & Melilla'
 CX: 'Christmas Island'
 CC: 'Cocos (Keeling) Islands'
 CW: Curaçao
 DK: Danemalaku
-DG: 'Diego Garcia'
 CF: 'Ditunga dya Afrika wa munkatshi'
 CZ: 'Ditunga dya Tsheka'
 DO: 'Ditunga wa Duminiku'
@@ -58,6 +55,7 @@ GM: Gambi
 GQ: 'Gine Ekwatele'
 GF: 'Giyane wa Nfalanse'
 GG: Guernsey
+HM: 'Heard & McDonald Islands'
 HK: 'Hong Kong SAR China'
 IN: Inde
 ID: Indonezi
@@ -90,7 +88,6 @@ CG: Kongu
 KP: 'Kore wa muulu'
 KR: 'Kore wa mwinshi'
 CR: Kositarika
-XK: Kosovo
 CI: Kotedivuale
 KW: Koweti
 HR: Krowasi
@@ -127,7 +124,6 @@ ML: Mali
 MT: Malite
 MA: Maroke
 MQ: Martiniki
-MK: Masedwane
 YT: Mayote
 BO: Mbolivi
 BA: 'Mbosini ne Hezegovine'
@@ -168,6 +164,7 @@ NE: Nijere
 NG: Nijerya
 NI: Nikaragwa
 'NO': Noriveje
+MK: 'North Macedonia'
 ES: Nsipani
 VA: Nvatika
 NU: Nyue
@@ -186,8 +183,6 @@ PG: 'Papwazi wa Nginɛ wa mumu'
 PE: Peru
 PN: Pikairni
 PF: 'Polinezi wa Nfalanse'
-XA: Pseudo-Accents
-XB: Pseudo-Bidi
 RU: Risi
 RO: Romani
 RW: Rwanda
@@ -235,7 +230,6 @@ TN: Tinizi
 TG: Togu
 TK: Tokelau
 TO: Tonga
-TA: 'Tristan da Cunha'
 TD: Tshadi
 TM: Tukemenisita
 TR: Tuluki

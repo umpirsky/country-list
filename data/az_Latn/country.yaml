@@ -12,7 +12,6 @@ AQ: Antarktika
 AG: 'Antiqua və Barbuda'
 AR: Argentina
 AW: Aruba
-AC: 'Askenson adası'
 AU: Avstraliya
 AT: Avstriya
 AZ: Azərbaycan
@@ -38,6 +37,7 @@ BN: Bruney
 BF: 'Burkina Faso'
 BI: Burundi
 BT: Butan
+BV: 'Buve adası'
 JE: Cersi
 GI: Cəbəllütariq
 ZA: 'Cənub Afrika'
@@ -50,7 +50,6 @@ CZ: Çexiya
 CL: Çili
 CN: Çin
 DK: Danimarka
-DG: 'Dieqo Qarsiya'
 DM: Dominika
 DO: 'Dominikan Respublikası'
 ET: Efiopiya
@@ -75,9 +74,10 @@ TF: 'Fransanın Cənub Əraziləri'
 GG: Gernsi
 GE: Gürcüstan
 HT: Haiti
+HM: 'Herd və Makdonald adaları'
 IN: Hindistan
 HN: Honduras
-HK: 'Honq Konq Xüsusi İnzibati Ərazi Çin'
+HK: 'Honq Konq Xüsusi İnzibati Rayonu Çin'
 HR: Xorvatiya
 ID: İndoneziya
 JO: İordaniya
@@ -94,7 +94,6 @@ CV: Kabo-Verde
 KH: Kamboca
 CM: Kamerun
 CA: Kanada
-IC: 'Kanar adaları'
 BQ: 'Karib Niderlandı'
 KY: 'Kayman adaları'
 KE: Keniya
@@ -105,7 +104,6 @@ CO: Kolumbiya
 KM: 'Komor adaları'
 CG: 'Konqo - Brazzavil'
 CD: 'Konqo - Kinşasa'
-XK: Kosovo
 CR: 'Kosta Rika'
 CI: Kotd’ivuar
 CU: Kuba
@@ -138,8 +136,7 @@ LY: Liviya
 LU: Lüksemburq
 HU: Macarıstan
 MG: Madaqaskar
-MO: 'Makao Xüsusi İnzibati Ərazi Çin'
-MK: Makedoniya
+MO: 'Makao XİR Çin'
 MW: Malavi
 MY: Malayziya
 MV: 'Maldiv adaları'
@@ -187,8 +184,6 @@ PE: Peru
 PN: 'Pitkern adaları'
 PL: Polşa
 PT: Portuqaliya
-XA: Psevdo-Aksent
-XB: Psevdo-Bidi
 PR: 'Puerto Riko'
 RE: Reyunyon
 RW: Ruanda
@@ -205,7 +200,6 @@ KN: 'Sent-Kits və Nevis'
 LC: Sent-Lusiya
 VC: 'Sent-Vinsent və Qrenadinlər'
 RS: Serbiya
-EA: 'Seuta və Melilya'
 SC: 'Seyşel adaları'
 SA: 'Səudiyyə Ərəbistanı'
 SG: Sinqapur
@@ -221,6 +215,7 @@ SJ: 'Svalbard və Yan-Mayen'
 SL: Syerra-Leone
 TL: 'Şərqi Timor'
 KP: 'Şimali Koreya'
+MK: 'Şimali Makedoniya'
 MP: 'Şimali Marian adaları'
 LK: Şri-Lanka
 TJ: Tacikistan
@@ -232,7 +227,6 @@ TG: Toqo
 TO: Tonqa
 TC: 'Törks və Kaykos adaları'
 TT: 'Trinidad və Tobaqo'
-TA: 'Tristan da Kunya'
 TN: Tunis
 TV: Tuvalu
 TR: Türkiyə

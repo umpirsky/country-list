@@ -13,7 +13,6 @@ AQ: Antarctica
 AG: 'Antigua na Barbuda'
 AM: Armenia
 AW: Aruba
-AC: 'Ascension Island'
 AU: Australia
 AT: Austria
 IE: Ayalandi
@@ -29,6 +28,7 @@ BM: Bermuda
 BO: Bolivia
 BA: 'Bosnia na Hezegovina'
 BW: Botswana
+BV: 'Bouvet Island'
 BR: Brazili
 BN: Brunei
 BF: Bukinafaso
@@ -36,16 +36,13 @@ MG: Bukini
 BG: Bulgaria
 BT: Butani
 CN: Caina
-IC: 'Canary Islands'
 BQ: 'Caribbean Netherlands'
-EA: 'Ceuta & Melilla'
 TD: Chadi
 CL: Chile
 CX: 'Christmas Island'
 CC: 'Cocos (Keeling) Islands'
 CW: Curaçao
 DK: Denmaki
-DG: 'Diego Garcia'
 DM: Dominika
 EC: Ekwado
 SV: Elsavado
@@ -71,6 +68,7 @@ GU: Gwam
 GT: Gwatemala
 GF: 'Gwiyana ya Ufaransa'
 HT: Haiti
+HM: 'Heard & McDonald Islands'
 ES: Hispania
 HN: Hondurasi
 HK: 'Hong Kong SAR China'
@@ -108,7 +106,6 @@ CG: Kongo
 HR: Korasia
 KP: 'Korea Kaskazini'
 KR: 'Korea Kusini'
-XK: Kosovo
 CR: Kostarika
 CY: Kuprosi
 KW: Kuwaiti
@@ -127,7 +124,6 @@ MY: Malesia
 ML: Mali
 MT: Malta
 MQ: Martiniki
-MK: Masedonia
 YT: Mayotte
 BI: Mburundi
 MX: Meksiko
@@ -156,6 +152,7 @@ NU: Niue
 JP: Njabani
 DE: Njeremani
 JO: Njorondani
+MK: 'North Macedonia'
 'NO': Norwe
 NC: Nyukaledonia
 NZ: Nyuzilandi
@@ -169,8 +166,6 @@ PE: Peru
 PN: Pitkairni
 PL: Polandi
 PF: 'Polinesia ya Ufaransa'
-XA: Pseudo-Accents
-XB: Pseudo-Bidi
 PR: Pwetoriko
 RE: Riyunioni
 RO: Romania
@@ -212,7 +207,6 @@ TG: Togo
 TK: Tokelau
 TO: Tonga
 TT: 'Trinidad na Tobago'
-TA: 'Tristan da Cunha'
 TN: Tunisia
 TM: Turukimenistani
 TV: Tuvalu

@@ -12,7 +12,6 @@ AG,"i-Antigua ne-Barbuda"
 AR,i-Argentina
 AM,i-Armenia
 AW,i-Aruba
-AC,"i-Ascension Island"
 AU,i-Australia
 AT,i-Austria
 AZ,i-Azerbaijan
@@ -28,6 +27,7 @@ BM,i-Bermuda
 BT,i-Bhutan
 BO,i-Bolivia
 BA,"i-Bosnia ne-Herzegovina"
+BV,"i-Bouvet Island"
 BR,i-Brazil
 IO,"i-British Indian Ocean Territory"
 VG,"i-British Virgin Islands"
@@ -38,7 +38,6 @@ BI,i-Burundi
 KH,i-Cambodia
 CM,i-Cameroon
 CA,i-Canada
-IC,"i-Canary Islands"
 CV,"i-Cape Verde"
 BQ,"i-Caribbean Netherlands"
 KY,"i-Cayman Islands"
@@ -57,12 +56,10 @@ CR,"i-Costa Rica"
 CI,"i-Côte d’Ivoire"
 HR,i-Croatia
 CU,i-Cuba
-EA,"i-Cueta ne-Melilla"
 CW,i-Curaçao
 CY,i-Cyprus
 CZ,i-Czechia
 DK,i-Denmark
-DG,"i-Diego Garcia"
 DJ,i-Djibouti
 DM,i-Dominica
 DO,"i-Dominican Republic"
@@ -98,6 +95,7 @@ GN,i-Guinea
 GW,i-Guinea-Bissau
 GY,i-Guyana
 HT,i-Haiti
+HM,"I-Heard & McDonald Island"
 HN,i-Honduras
 HK,"i-Hong Kong SAR China"
 HU,i-Hungary
@@ -116,7 +114,6 @@ JO,i-Jordan
 KZ,i-Kazakhstan
 KE,i-Kenya
 KI,i-Kiribati
-XK,i-Kosovo
 KW,i-Kuwait
 KG,i-Kyrgyzstan
 LA,i-Laos
@@ -128,7 +125,6 @@ LI,i-Liechtenstein
 LT,i-Lithuania
 LU,i-Luxembourg
 MO,"i-Macau SAR China"
-MK,i-Macedonia
 MG,i-Madagascar
 MY,i-Malaysia
 MV,i-Maldives
@@ -160,6 +156,7 @@ NG,i-Nigeria
 NU,i-Niue
 NF,"i-Norfolk Island"
 KP,"i-North Korea"
+MK,"i-North Macedonia"
 MP,"i-Northern Mariana Islands"
 NO,i-Norway
 OM,i-Oman
@@ -222,13 +219,12 @@ TG,i-Togo
 TK,i-Tokelau
 TO,i-Tonga
 TT,"i-Trinidad ne-Tobago"
-TA,"i-Tristan da Cunha"
 TN,i-Tunisia
 TR,i-Turkey
 TM,i-Turkmenistan
 TC,"i-Turks ne-Caicos Islands"
 TV,i-Tuvalu
-UM,"i-U.S. Minor Outlying Islands"
+UM,"I-U.S. Outlying Islands"
 VI,"i-U.S. Virgin Islands"
 UG,i-Uganda
 UA,i-Ukraine
@@ -252,5 +248,3 @@ ML,iMali
 ZA,"iNingizimu Afrika"
 ZW,iZimbabwe
 IL,kwa-Israel
-XA,Pseudo-Accents
-XB,Pseudo-Bidi
