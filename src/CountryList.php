@@ -2,16 +2,24 @@
 
 namespace Umpirsky;
 
-abstract class CountryList
+class CountryList
 {
     static function get(string $language): array
     {
-	$path = __DIR__.'/../data/'.$language;
+        // Define the folder.
+        $folder = __DIR__.'/../data/'.$language;
 
-	if(!is_dir($path)) {
-	    throw new \OutOfBoundsException("Language $language not found.");
-	}
+        // Test, if the folder for the locale exists.
+        if (!is_dir($folder)) {
+            throw new \OutOfBoundsException("Language $language not found.");
+        }
 
-	return require $path.'/country.php';
+        // Test, if the country entry as PHP file exists.
+        if (!file_exists($folder.'/country.php')) {
+            throw new \Exception("Country list file for $language not found.");
+        }
+
+        // Require and return the array
+        return require $folder.'/country.php';
     }
 }
