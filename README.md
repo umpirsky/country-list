@@ -37,6 +37,8 @@ Formats Available
 - PHP
 - XLIFF
 
+If you intend to use the package with PHP see [this](https://github.com/umpirsky/country-list/blob/master/bin/build#L11-L19).
+
 Multilingual
 ------------
 
